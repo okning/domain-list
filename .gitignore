@@ -215,3 +215,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 domain-list-community/
+.DS_Store

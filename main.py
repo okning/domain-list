@@ -359,7 +359,9 @@ def main() -> None:
 ======================
 
 URL: {urljoin(BASE_URL, 'quickstart.txt')}
+
 Updated: {UPDATED_TIME}
+
 Total: {len(names)}
 
 Usage
