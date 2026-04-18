@@ -160,8 +160,6 @@ class Processor:
                 raise ValueError(f"invalid domain: {parts[0]}")
             entry.value = parts[0]
         elif rule_type == RuleType.REGEXP:
-            if re.compile(parts[0]) is None:
-                raise ValueError(f"invalid regexp: {parts[0]}")
             entry.value = parts[0]
             return entry, []
         else:
@@ -618,5 +616,5 @@ Domain List
         )
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     main()
