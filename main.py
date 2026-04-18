@@ -380,7 +380,38 @@ For surge
 
 .. code-block:: ini
 
+  [General]
+  skip-proxy = 127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,100.64.0.0/10,17.0.0.0/8,localhost
+  exclude-simple-hostnames = true
+  internet-test-url = http://www.apple.com/library/test/success.html
+  proxy-test-url = http://www.gstatic.com/generate_204
+  doh-server = https://doh.pub/dns-query
+  dns-server = system, 223.5.5.5, 119.29.29.29
+  hijack-dns = 8.8.8.8:53, 8.8.4.4:53
+  ipv6 = true
+  loglevel = notify
+  allow-wifi-access = false
+  
+  [Proxy]
+  
+  [Proxy Group]
+  Proxy = select, Auto, Manual, HK, SG, US, TW, KR, JP, include-all-proxies=0
+  Auto = smart, include-other-group=Manual, hidden=1, include-all-proxies=0
+  # NOTE: Change https://your-subscription-url.com to your actual subscription URL
+  Manual = select, policy-path=https://your-subscription-url.com, update-interval=43200, include-all-proxies=0
+  Media = select, Auto, Manual, HK, SG, US, TW, KR, JP, include-all-proxies=0
+  AI = select, Auto, Manual, HK, SG, US, TW, KR, JP, include-all-proxies=0
+  
+  HK = smart, include-all-proxies=0, hidden=1, include-other-group=Manual, policy-regex-filter=香港
+  SG = smart, include-all-proxies=0, hidden=1, include-other-group=Manual, policy-regex-filter=新加坡
+  US = smart, include-all-proxies=0, hidden=1, include-other-group=Manual, policy-regex-filter=美国
+  TW = smart, include-all-proxies=0, hidden=1, include-other-group=Manual, policy-regex-filter=台湾
+  KR = smart, include-all-proxies=0, hidden=1, include-other-group=Manual, policy-regex-filter=韩国
+  JP = smart, include-all-proxies=0, hidden=1, include-other-group=Manual, policy-regex-filter=日本
+  
   [Rule]
+  # Custom rules
+  # External rules
   RULE-SET,https://domain-list.nosec.me/surge/google-gemini.txt,AI
   RULE-SET,https://domain-list.nosec.me/surge/openai.txt,AI
   RULE-SET,https://domain-list.nosec.me/surge/anthropic.txt,AI
@@ -396,101 +427,193 @@ For surge
   RULE-SET,https://domain-list.nosec.me/surge/github.txt,Proxy
   RULE-SET,https://domain-list.nosec.me/surge/docker.txt,Proxy
   RULE-SET,https://domain-list.nosec.me/surge/google.txt,Proxy
+  # Internal rules
+  RULE-SET,SYSTEM,Proxy
+  RULE-SET,LAN,DIRECT
+  GEOIP,CN,DIRECT
+  FINAL,Proxy,dns-failed
 
 For clash
 ^^^^^^^^^
 
 .. code-block:: yaml
 
+  bind-address: 127.0.0.1
+  mixed-port: 7890
+  unified-delay: true
+  allow-lan: false
+  mode: rule
+  ipv6: true
+  log-level: info
+  
+  dns:
+    enable: true
+    ipv6: true
+    enhanced-mode: fake-ip
+    default-nameserver:
+      - 8.8.8.8
+      - 1.1.1.1
+    nameserver:
+      - 223.5.5.5
+      - 119.29.29.29
+      - https://doh.pub/dns-query
+  
+  proxy-providers:
+    provider:
+      type: http
+      # NOTE: Change https://your-subscription-url.com to your actual subscription URL
+      url: https://your-subscription-url.com
+      interval: 43200
+  
+  proxies: []
+  
+  proxy-groups:
+    - name: Proxy
+      type: select
+      proxies: [Auto, Manual, HK, SG, US, TW, KR, JP]
+    - name: Auto
+      type: url-test
+      include-all-providers: true
+      url: https://www.gstatic.com/generate_204
+      hidden: true
+    - name: Manual
+      type: select
+      include-all-providers: true
+    - name: Media
+      type: select
+      proxies: [Auto, Manual, HK, SG, US, TW, KR, JP]
+    - name: AI
+      type: select
+      proxies: [Auto, Manual, HK, SG, US, TW, KR, JP]
+    - name: HK
+      type: url-test
+      include-all-providers: true
+      filter: "香港"
+      url: https://www.gstatic.com/generate_204
+      hidden: true
+    - name: SG
+      type: url-test
+      include-all-providers: true
+      filter: "新加坡"
+      url: https://www.gstatic.com/generate_204
+      hidden: true
+    - name: US
+      type: url-test
+      include-all-providers: true
+      filter: "美国"
+      url: https://www.gstatic.com/generate_204
+      hidden: true
+    - name: TW
+      type: url-test
+      include-all-providers: true
+      filter: "台湾"
+      url: https://www.gstatic.com/generate_204
+      hidden: true
+    - name: KR
+      type: url-test
+      include-all-providers: true
+      filter: "韩国"
+      url: https://www.gstatic.com/generate_204
+      hidden: true
+    - name: JP
+      type: url-test
+      include-all-providers: true
+      filter: "日本"
+      url: https://www.gstatic.com/generate_204
+      hidden: true
+  
   rule-providers:
-  google-gemini:
+    google-gemini:
       type: http
       url: https://domain-list.nosec.me/clash/google-gemini.txt
       interval: 43200
       behavior: classical
-  openai:
+    openai:
       type: http
       url: https://domain-list.nosec.me/clash/openai.txt
       interval: 43200
       behavior: classical
-  anthropic:
+    anthropic:
       type: http
       url: https://domain-list.nosec.me/clash/anthropic.txt
       interval: 43200
       behavior: classical
-  youtube:
+    youtube:
       type: http
       url: https://domain-list.nosec.me/clash/youtube.txt
       interval: 43200
       behavior: classical
-  spotify:
+    spotify:
       type: http
       url: https://domain-list.nosec.me/clash/spotify.txt
       interval: 43200
       behavior: classical
-  disney:
+    disney:
       type: http
       url: https://domain-list.nosec.me/clash/disney.txt
       interval: 43200
       behavior: classical
-  netflix:
+    netflix:
       type: http
       url: https://domain-list.nosec.me/clash/netflix.txt
       interval: 43200
       behavior: classical
-  hulu:
+    hulu:
       type: http
       url: https://domain-list.nosec.me/clash/hulu.txt
       interval: 43200
       behavior: classical
-  microsoft:
+    microsoft:
       type: http
       url: https://domain-list.nosec.me/clash/microsoft.txt
       interval: 43200
       behavior: classical
-  telegram:
+    telegram:
       type: http
       url: https://domain-list.nosec.me/clash/telegram.txt
       interval: 43200
       behavior: classical
-  cloudflare:
+    cloudflare:
       type: http
       url: https://domain-list.nosec.me/clash/cloudflare.txt
       interval: 43200
       behavior: classical
-  github:
+    github:
       type: http
       url: https://domain-list.nosec.me/clash/github.txt
       interval: 43200
       behavior: classical
-  docker:
+    docker:
       type: http
       url: https://domain-list.nosec.me/clash/docker.txt
       interval: 43200
       behavior: classical
-  google:
+    google:
       type: http
       url: https://domain-list.nosec.me/clash/google.txt
       interval: 43200
       behavior: classical
-
+  
   rules:
-  - RULE-SET,google-gemini,AI
-  - RULE-SET,openai,AI
-  - RULE-SET,anthropic,AI
-  - RULE-SET,youtube,Media
-  - RULE-SET,spotify,Media
-  - RULE-SET,disney,Media
-  - RULE-SET,netflix,Media
-  - RULE-SET,hulu,Media
-  - RULE-SET,microsoft,Proxy
-  - RULE-SET,telegram,Proxy
-  - RULE-SET,cloudflare,Proxy
-  - RULE-SET,github,Proxy
-  - RULE-SET,docker,Proxy
-  - RULE-SET,google,Proxy
-  - GEOIP,CN,DIRECT
-  - MATCH,Proxy
+    # Custom rules
+    # External rules
+    - RULE-SET,google-gemini,AI
+    - RULE-SET,openai,AI
+    - RULE-SET,anthropic,AI
+    - RULE-SET,youtube,Media
+    - RULE-SET,spotify,Media
+    - RULE-SET,disney,Media
+    - RULE-SET,netflix,Media
+    - RULE-SET,hulu,Media
+    - RULE-SET,microsoft,Proxy
+    - RULE-SET,telegram,Proxy
+    - RULE-SET,cloudflare,Proxy
+    - RULE-SET,github,Proxy
+    - RULE-SET,docker,Proxy
+    - RULE-SET,google,Proxy
+    # Internal rules
+    - GEOIP,CN,DIRECT
+    - MATCH,Proxy
 
 Domain List
 -----------
