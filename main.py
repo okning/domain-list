@@ -375,8 +375,7 @@ or
 Example
 -------
 
-For surge
-^^^^^^^^^
+**Recommended Configuration for Surge**
 
 .. code-block:: ini
 
@@ -433,8 +432,7 @@ For surge
   GEOIP,CN,DIRECT
   FINAL,Proxy,dns-failed
 
-For clash
-^^^^^^^^^
+**Recommended Configuration for Clash**
 
 .. code-block:: yaml
 
