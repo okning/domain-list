@@ -300,6 +300,7 @@ def write_surge(name: str, entries: list[Entry]) -> None:
                 f.write(f"# REGEXP,{entry.value}\n")
             elif entry.rule_type in SURGE_RULE_TYPE_MAP:
                 f.write(f"{SURGE_RULE_TYPE_MAP[entry.rule_type]},{entry.value}\n")
+            # INCLUDE entries are never stored in the entries list, so no else branch needed
 
 
 def write_clash(name: str, entries: list[Entry]) -> None:
@@ -309,6 +310,7 @@ def write_clash(name: str, entries: list[Entry]) -> None:
         for entry in filtered:
             if entry.rule_type in CLASH_RULE_TYPE_MAP:
                 f.write(f"{CLASH_RULE_TYPE_MAP[entry.rule_type]},{entry.value}\n")
+            # INCLUDE entries are never stored in the entries list, so no else branch needed
 
 
 def main() -> None:
