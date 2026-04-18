@@ -23,6 +23,20 @@ class RuleType(enum.Enum):
     INCLUDE = "include"
 
 
+SURGE_RULE_TYPE_MAP: dict[RuleType, str] = {
+    RuleType.FULL_DOMAIN: "DOMAIN",
+    RuleType.DOMAIN: "DOMAIN-SUFFIX",
+    RuleType.KEYWORD: "DOMAIN-KEYWORD",
+}
+
+CLASH_RULE_TYPE_MAP: dict[RuleType, str] = {
+    RuleType.FULL_DOMAIN: "DOMAIN",
+    RuleType.DOMAIN: "DOMAIN-SUFFIX",
+    RuleType.KEYWORD: "DOMAIN-KEYWORD",
+    RuleType.REGEXP: "DOMAIN-REGEXP",
+}
+
+
 @dataclass
 class Inclusion:
     source: str = field(default="")
@@ -62,18 +76,15 @@ def validate_site_name(name: str) -> bool:
 
 
 def is_match_attr_filters(entry: Entry, inc_filter: Inclusion) -> bool:
-    if len(entry.attrs) == 0:
+    attrs = set(entry.attrs)
+    if not attrs:
         return len(inc_filter.must_attrs) == 0
-    for m in inc_filter.must_attrs:
-        if m not in entry.attrs:
-            return False
-    for b in inc_filter.ban_attrs:
-        if b in entry.attrs:
-            return False
-    return True
+    return all(m in attrs for m in inc_filter.must_attrs) and not any(
+        b in attrs for b in inc_filter.ban_attrs
+    )
 
 
-class Processer:
+class Processor:
     parsed_list_map: dict[str, ParsedList]
     final_map: dict[str, list[Entry]]
     circular_inclusion_map: set[str]
@@ -178,27 +189,22 @@ class Processer:
         parsed_list = self.get_or_create_parsed_list(name.lower())
 
         with file_path.open("r") as f:
-            lines = f.readlines()
+            for line_num, line in enumerate(f, 1):
+                line = line.split("#", 1)[0].strip()
+                if line == "":
+                    continue
 
-        line_num = 0
-        for line in lines:
-            line_num += 1
-            line = line.split("#", 1)[0].strip()
-            if line == "":
-                continue
-
-            try:
-                rule_type, rule = self.parse_line(line)
-            except ValueError as e:
-                raise ValueError(f"{file_path}:{line_num}: {e}")
-
-            if rule_type == RuleType.INCLUDE:
-                parsed_list.inclusions.append(self.parse_inclusion(rule))
-            else:
-                entry, affs = self.parse_entry(rule_type, rule)
-                for aff in affs:
-                    self.get_or_create_parsed_list(aff.lower()).entries.append(entry)
-                parsed_list.entries.append(entry)
+                try:
+                    rule_type, rule = self.parse_line(line)
+                    if rule_type == RuleType.INCLUDE:
+                        parsed_list.inclusions.append(self.parse_inclusion(rule))
+                    else:
+                        entry, affs = self.parse_entry(rule_type, rule)
+                        for aff in affs:
+                            self.get_or_create_parsed_list(aff.lower()).entries.append(entry)
+                        parsed_list.entries.append(entry)
+                except ValueError as e:
+                    raise ValueError(f"{file_path}:{line_num}: {e}")
 
     def polish_list(self, rough_list: dict[str, Entry]) -> list[Entry]:
         queuing_list: list[Entry] = []
@@ -250,92 +256,78 @@ class Processer:
         parsed_list = self.parsed_list_map[name]
         rough_list: dict[str, Entry] = {}
 
-        for entry in parsed_list.entries:
-            rough_list[entry.plain] = entry
+        try:
+            for entry in parsed_list.entries:
+                rough_list[entry.plain] = entry
 
-        for inclusion in parsed_list.inclusions:
-            self.resolve(inclusion.source)
-            if inclusion.source not in self.final_map:
-                continue
+            for inclusion in parsed_list.inclusions:
+                self.resolve(inclusion.source)
+                if inclusion.source not in self.final_map:
+                    continue
 
-            done = len(inclusion.must_attrs) == 0 or len(inclusion.ban_attrs) == 0
-            for entry in self.final_map[inclusion.source]:
-                if done or is_match_attr_filters(entry, inclusion):
-                    rough_list[entry.plain] = entry
+                done = len(inclusion.must_attrs) == 0 and len(inclusion.ban_attrs) == 0
+                for entry in self.final_map[inclusion.source]:
+                    if done or is_match_attr_filters(entry, inclusion):
+                        rough_list[entry.plain] = entry
 
-        if len(rough_list) == 0:
-            raise ValueError(f"empty list: {name}")
+            if len(rough_list) == 0:
+                raise ValueError(f"empty list: {name}")
 
-        self.final_map[name] = self.polish_list(rough_list)
-        self.circular_inclusion_map.remove(name)
+            self.final_map[name] = self.polish_list(rough_list)
+        finally:
+            self.circular_inclusion_map.remove(name)
+
+
+def _write_header(f, format_name: str, name: str, total: int) -> None:
+    f.writelines(
+        [
+            f"# URL: {urljoin(BASE_URL, f'{format_name}/{name}')}\n",
+            f"# Name: {pathlib.Path(name).stem}\n",
+            f"# Updated: {UPDATED_TIME}\n",
+            f"# Total: {total}\n",
+            "\n",
+        ]
+    )
 
 
 def write_surge(name: str, entries: list[Entry]) -> None:
     with pathlib.Path(TARGET_BASE_PATH / "surge" / name).open("w") as f:
         filtered = [e for e in entries if e.value]
-        f.writelines(
-            [
-                f"# URL: {urljoin(BASE_URL, f'surge/{name}')}\n",
-                f"# Name: {pathlib.Path(name).stem}\n",
-                f"# Updated: {UPDATED_TIME}\n",
-                f"# Total: {len(entries)}\n",
-                "\n",
-            ]
-        )
+        _write_header(f, "surge", name, len(entries))
         for entry in filtered:
-            if entry.rule_type == RuleType.FULL_DOMAIN:
-                f.write(f"DOMAIN,{entry.value}\n")
-            elif entry.rule_type == RuleType.DOMAIN:
-                f.write(f"DOMAIN-SUFFIX,{entry.value}\n")
-            elif entry.rule_type == RuleType.KEYWORD:
-                f.write(f"DOMAIN-KEYWORD,{entry.value}\n")
-            elif entry.rule_type == RuleType.REGEXP:
+            if entry.rule_type == RuleType.REGEXP:
                 # surge does not support regexp, so we just write it as a comment
                 f.write(f"# REGEXP,{entry.value}\n")
-                pass
+            elif entry.rule_type in SURGE_RULE_TYPE_MAP:
+                f.write(f"{SURGE_RULE_TYPE_MAP[entry.rule_type]},{entry.value}\n")
 
 
 def write_clash(name: str, entries: list[Entry]) -> None:
     with pathlib.Path(TARGET_BASE_PATH / "clash" / name).open("w") as f:
         filtered = [e for e in entries if e.value]
-        f.writelines(
-            [
-                f"# URL: {urljoin(BASE_URL, f'clash/{name}')}\n",
-                f"# Name: {pathlib.Path(name).stem}\n",
-                f"# Updated: {UPDATED_TIME}\n",
-                f"# Total: {len(entries)}\n",
-                "\n",
-            ]
-        )
+        _write_header(f, "clash", name, len(entries))
         for entry in filtered:
-            if entry.rule_type == RuleType.FULL_DOMAIN:
-                f.write(f"DOMAIN,{entry.value}\n")
-            elif entry.rule_type == RuleType.DOMAIN:
-                f.write(f"DOMAIN-SUFFIX,{entry.value}\n")
-            elif entry.rule_type == RuleType.KEYWORD:
-                f.write(f"DOMAIN-KEYWORD,{entry.value}\n")
-            elif entry.rule_type == RuleType.REGEXP:
-                f.write(f"DOMAIN-REGEXP,{entry.value}\n")
-                pass
+            if entry.rule_type in CLASH_RULE_TYPE_MAP:
+                f.write(f"{CLASH_RULE_TYPE_MAP[entry.rule_type]},{entry.value}\n")
 
 
 def main() -> None:
-    processer = Processer()
+    processor = Processor()
 
     for file in SOURCE_BASE_PATH.iterdir():
         if not file.is_file() or not validate_site_name(file.name):
             continue
-        processer.load_data(file.name, file)
+        processor.load_data(file.name, file)
 
-    for name in processer.parsed_list_map.keys():
-        processer.resolve(name)
+    for name in processor.parsed_list_map.keys():
+        processor.resolve(name)
 
     pathlib.Path(TARGET_BASE_PATH / "surge").mkdir(parents=True, exist_ok=True)
     pathlib.Path(TARGET_BASE_PATH / "clash").mkdir(parents=True, exist_ok=True)
 
     names: list[str] = []
 
-    for name, entries in processer.final_map.items():
+    for name, entries in processor.final_map.items():
         name = name.replace("!", "non-")
         names.append(name)
         name += ".txt"
