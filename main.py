@@ -2,7 +2,6 @@
 
 from dataclasses import dataclass, field
 from urllib.parse import urljoin
-import argparse
 import pathlib
 import time
 import enum
