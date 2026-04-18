@@ -2,6 +2,7 @@
 
 from dataclasses import dataclass, field
 from urllib.parse import urljoin
+from tabulate import tabulate
 import pathlib
 import time
 import enum
@@ -331,10 +332,172 @@ def main() -> None:
     pathlib.Path(TARGET_BASE_PATH / "surge").mkdir(parents=True, exist_ok=True)
     pathlib.Path(TARGET_BASE_PATH / "clash").mkdir(parents=True, exist_ok=True)
 
+    names: list[str] = []
+
     for name, entries in processer.final_map.items():
-        name = name.replace("!", "non-") + ".txt"
+        name = name.replace("!", "non-")
+        names.append(name)
+        name += ".txt"
         write_surge(name, entries)
         write_clash(name, entries)
+
+    names.sort(key=lambda u: u)
+
+    rows = [
+        (
+            name,
+            urljoin(BASE_URL, f"surge/{name}.txt"),
+            urljoin(BASE_URL, f"clash/{name}.txt"),
+        )
+        for name in names
+    ]
+
+    with pathlib.Path(TARGET_BASE_PATH / "quickstart.txt").open("w") as f:
+        f.write(
+            f"""Domain List Quickstart
+======================
+
+URL: {urljoin(BASE_URL, 'quickstart.txt')}
+Updated: {UPDATED_TIME}
+Total: {len(names)}
+
+Usage
+-----
+
+Replace {{name}} with the actual name of the list, which can be found in the URL of each list.
+
+{urljoin(BASE_URL, 'surge/{name}.txt')}
+
+or
+
+{urljoin(BASE_URL, 'clash/{name}.txt')}
+
+Example
+-------
+
+For surge
+^^^^^^^^^
+
+.. code-block:: ini
+
+  [Rule]
+  RULE-SET,https://domain-list.nosec.me/surge/google-gemini.txt,AI
+  RULE-SET,https://domain-list.nosec.me/surge/openai.txt,AI
+  RULE-SET,https://domain-list.nosec.me/surge/anthropic.txt,AI
+  RULE-SET,https://domain-list.nosec.me/surge/youtube.txt,Media
+  RULE-SET,https://domain-list.nosec.me/surge/spotify.txt,Media
+  RULE-SET,https://domain-list.nosec.me/surge/disney.txt,Media
+  RULE-SET,https://domain-list.nosec.me/surge/netflix.txt,Media
+  RULE-SET,https://domain-list.nosec.me/surge/hulu.txt,Media
+  RULE-SET,https://domain-list.nosec.me/surge/microsoft.txt,Proxy
+  RULE-SET,https://domain-list.nosec.me/surge/telegram.txt,Proxy
+  RULE-SET,https://domain-list.nosec.me/surge/cloudflare.txt,Proxy
+  RULE-SET,https://domain-list.nosec.me/surge/homebrew.txt,Proxy
+  RULE-SET,https://domain-list.nosec.me/surge/github.txt,Proxy
+  RULE-SET,https://domain-list.nosec.me/surge/docker.txt,Proxy
+  RULE-SET,https://domain-list.nosec.me/surge/google.txt,Proxy
+
+For clash
+^^^^^^^^^
+
+.. code-block:: yaml
+
+  rule-providers:
+  google-gemini:
+      type: http
+      url: https://domain-list.nosec.me/clash/google-gemini.txt
+      interval: 43200
+      behavior: classical
+  openai:
+      type: http
+      url: https://domain-list.nosec.me/clash/openai.txt
+      interval: 43200
+      behavior: classical
+  anthropic:
+      type: http
+      url: https://domain-list.nosec.me/clash/anthropic.txt
+      interval: 43200
+      behavior: classical
+  youtube:
+      type: http
+      url: https://domain-list.nosec.me/clash/youtube.txt
+      interval: 43200
+      behavior: classical
+  spotify:
+      type: http
+      url: https://domain-list.nosec.me/clash/spotify.txt
+      interval: 43200
+      behavior: classical
+  disney:
+      type: http
+      url: https://domain-list.nosec.me/clash/disney.txt
+      interval: 43200
+      behavior: classical
+  netflix:
+      type: http
+      url: https://domain-list.nosec.me/clash/netflix.txt
+      interval: 43200
+      behavior: classical
+  hulu:
+      type: http
+      url: https://domain-list.nosec.me/clash/hulu.txt
+      interval: 43200
+      behavior: classical
+  microsoft:
+      type: http
+      url: https://domain-list.nosec.me/clash/microsoft.txt
+      interval: 43200
+      behavior: classical
+  telegram:
+      type: http
+      url: https://domain-list.nosec.me/clash/telegram.txt
+      interval: 43200
+      behavior: classical
+  cloudflare:
+      type: http
+      url: https://domain-list.nosec.me/clash/cloudflare.txt
+      interval: 43200
+      behavior: classical
+  github:
+      type: http
+      url: https://domain-list.nosec.me/clash/github.txt
+      interval: 43200
+      behavior: classical
+  docker:
+      type: http
+      url: https://domain-list.nosec.me/clash/docker.txt
+      interval: 43200
+      behavior: classical
+  google:
+      type: http
+      url: https://domain-list.nosec.me/clash/google.txt
+      interval: 43200
+      behavior: classical
+
+  rules:
+  - RULE-SET,google-gemini,AI
+  - RULE-SET,openai,AI
+  - RULE-SET,anthropic,AI
+  - RULE-SET,youtube,Media
+  - RULE-SET,spotify,Media
+  - RULE-SET,disney,Media
+  - RULE-SET,netflix,Media
+  - RULE-SET,hulu,Media
+  - RULE-SET,microsoft,Proxy
+  - RULE-SET,telegram,Proxy
+  - RULE-SET,cloudflare,Proxy
+  - RULE-SET,github,Proxy
+  - RULE-SET,docker,Proxy
+  - RULE-SET,google,Proxy
+  - GEOIP,CN,DIRECT
+  - MATCH,Proxy
+
+Domain List
+-----------
+
+{tabulate(rows, headers=['Name', 'Surge', 'Clash'], tablefmt='rst')}
+"""
+        )
 
 
 if __name__ == "__main__":

@@ -38,6 +38,7 @@ jobs:
         with:
           python-version: "3.13"
       - run: |
+          pip install -r requirements.txt
           python main.py
           cp index.html dist/
       - name: Configure GitHub Pages
