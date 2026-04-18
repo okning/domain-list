@@ -3,15 +3,16 @@
 from dataclasses import dataclass, field
 from urllib.parse import urljoin
 from tabulate import tabulate
+from datetime import datetime, timezone
 import pathlib
-import time
 import enum
 import re
+
 
 SOURCE_BASE_PATH = pathlib.Path("domain-list-community/data").absolute()
 TARGET_BASE_PATH = pathlib.Path("dist").absolute()
 BASE_URL = "https://domain-list.nosec.me"
-UPDATED_TIME = time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())
+UPDATED_TIME = datetime.now(timezone.utc).strftime("%a %b %d %H:%M:%S UTC %Y")
 
 
 class RuleType(enum.Enum):
