@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/deepin.txt
 # Name: deepin
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 15
 
 DOMAIN-SUFFIX,51changxie.com

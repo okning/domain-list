@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/zoho.txt
 # Name: zoho
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 13
 
 DOMAIN-SUFFIX,zoho.com

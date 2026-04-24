@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-travel-ru.txt
 # Name: category-travel-ru
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 17
 
 DOMAIN-SUFFIX,2gis.ru

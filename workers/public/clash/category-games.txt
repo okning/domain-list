@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-games.txt
 # Name: category-games
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 943
 
 DOMAIN-REGEXP,^images(-\d)?\.gog-statics\.com$

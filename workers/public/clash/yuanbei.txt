@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/yuanbei.txt
 # Name: yuanbei
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 5
 
 DOMAIN-SUFFIX,i2oo.cn

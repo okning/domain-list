@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/autodesk.txt
 # Name: autodesk
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 558
 
 DOMAIN-SUFFIX,123dapp.com

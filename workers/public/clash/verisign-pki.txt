@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/verisign-pki.txt
 # Name: verisign-pki
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 50
 
 DOMAIN-SUFFIX,adobe-crl.verisign.com

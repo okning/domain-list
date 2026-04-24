@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bluepoch-games.txt
 # Name: bluepoch-games
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 1
 
 DOMAIN-SUFFIX,sl916.com

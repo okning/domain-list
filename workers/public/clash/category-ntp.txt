@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-ntp.txt
 # Name: category-ntp
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 60
 
 DOMAIN-SUFFIX,ats1.e-timing.ne.jp

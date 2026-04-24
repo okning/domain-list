@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/douyin.txt
 # Name: douyin
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 66
 
 DOMAIN-SUFFIX,activity-wbsj.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/hulu.txt
 # Name: hulu
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 47
 
 DOMAIN-SUFFIX,112263.com

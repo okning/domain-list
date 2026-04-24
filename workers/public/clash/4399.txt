@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/4399.txt
 # Name: 4399
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 63
 
 DOMAIN-SUFFIX,3304399.com

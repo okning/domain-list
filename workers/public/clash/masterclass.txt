@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/masterclass.txt
 # Name: masterclass
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 1
 
 DOMAIN-SUFFIX,masterclass.com

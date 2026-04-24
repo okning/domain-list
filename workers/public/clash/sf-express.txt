@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/sf-express.txt
 # Name: sf-express
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 15
 
 DOMAIN-SUFFIX,feng1.com

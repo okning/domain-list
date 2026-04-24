@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-scholar-cn.txt
 # Name: category-scholar-cn
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 90
 
 DOMAIN-SUFFIX,16q.cn

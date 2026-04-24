@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 1675
 
 DOMAIN-REGEXP,^ewcdn[0-9]+\.nowe\.com$

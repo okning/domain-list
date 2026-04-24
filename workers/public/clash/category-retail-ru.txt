@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-retail-ru.txt
 # Name: category-retail-ru
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 77
 
 DOMAIN-SUFFIX,5ka.ru

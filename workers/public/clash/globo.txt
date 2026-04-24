@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/globo.txt
 # Name: globo
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 40
 
 DOMAIN-SUFFIX,autoesporte.com

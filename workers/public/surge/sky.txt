@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/sky.txt
 # Name: sky
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 13
 
 DOMAIN-SUFFIX,cn-cdn1.skymansion.net

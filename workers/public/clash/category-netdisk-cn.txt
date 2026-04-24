@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-netdisk-cn.txt
 # Name: category-netdisk-cn
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 88
 
 DOMAIN-SUFFIX,115.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/cmb.txt
 # Name: cmb
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 22
 
 DOMAIN-SUFFIX,8008205555.cn

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/internet-archive.txt
 # Name: internet-archive
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 3
 
 DOMAIN-SUFFIX,archive-it.org

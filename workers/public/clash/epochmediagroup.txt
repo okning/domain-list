@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/epochmediagroup.txt
 # Name: epochmediagroup
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 68
 
 DOMAIN-SUFFIX,dajiyuan.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/mortein.txt
 # Name: mortein
-# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Updated: Fri Apr 24 17:25:15 UTC 2026
 # Total: 11
 
 DOMAIN-SUFFIX,mortein.cn
