@@ -1,0 +1,59 @@
+name: Build rules
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-rules
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Checkout domain list
+        uses: actions/checkout@v6
+        with:
+          repository: v2fly/domain-list-community
+          path: domain-list-community
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Build rules
+        run: python main.py
+
+      - name: Push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin release
+          git checkout release
+
+          cp -r dist /tmp/build_artifacts
+
+          rm -rf public/surge public/clash
+          mkdir -p public
+
+          mv /tmp/build_artifacts/surge public/surge
+          mv /tmp/build_artifacts/clash public/clash
+
+          git add public
+          git commit -m "chore: update rules $(date -u)" || echo "chore: no changes to commit"
+          git push origin release
