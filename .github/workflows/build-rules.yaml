@@ -43,17 +43,14 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git fetch origin release
-          git checkout release
+          rm -rf workers/public/surge
+          rm -rf workers/public/clash
 
-          cp -r dist /tmp/build_artifacts
+          mkdir -p workers/public
 
-          rm -rf public/surge public/clash
-          mkdir -p public
+          mv dist/surge workers/public/surge
+          mv dist/clash workers/public/clash
 
-          mv /tmp/build_artifacts/surge public/surge
-          mv /tmp/build_artifacts/clash public/clash
-
-          git add public
-          git commit -m "chore: update rules $(date -u)" || echo "chore: no changes to commit"
-          git push origin release
+          git add workers/public
+          git commit -m "$(date -u)" || echo "chore: no changes to commit"
+          git push origin main

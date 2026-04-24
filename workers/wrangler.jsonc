@@ -1,0 +1,28 @@
+/**
+ * For more details on how to configure Wrangler, refer to:
+ * https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "domain-list",
+  "compatibility_date": "2026-04-24",
+  "assets": {
+    // The path to the directory containing the `index.html` file to be served at `/`
+    "directory": "./public",
+  },
+  "observability": {
+    "enabled": true,
+  },
+  "upload_source_maps": true,
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": false,
+  "limits": {
+    "cpu_ms": 10,
+  },
+  "routes": [
+    {
+      "pattern": "s.nosec.me",
+      "custom_domain": true,
+    },
+  ],
+}
