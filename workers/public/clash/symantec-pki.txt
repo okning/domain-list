@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/symantec-pki.txt
+# Name: symantec-pki
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,pki.symantec.com
+DOMAIN-SUFFIX,symauth.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,ws.symantec.com

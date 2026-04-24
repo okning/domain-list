@@ -1,0 +1,6 @@
+# URL: https://s.nosec.me/clash/gfycat.txt
+# Name: gfycat
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 1
+
+DOMAIN-SUFFIX,gfycat.com

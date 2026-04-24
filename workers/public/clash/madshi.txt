@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/madshi.txt
+# Name: madshi
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,madshi.net
+DOMAIN-SUFFIX,madvr.com
+DOMAIN-SUFFIX,madvr.net
+DOMAIN-SUFFIX,madvrlabs.llc

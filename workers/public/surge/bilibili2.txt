@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/bilibili2.txt
+# Name: bilibili2
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+# REGEXP,(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$
+DOMAIN-SUFFIX,bili2.cc
+DOMAIN-SUFFIX,bili888.com
+DOMAIN-SUFFIX,bili999.com

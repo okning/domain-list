@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/plex.txt
+# Name: plex
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,plex.com
+DOMAIN-SUFFIX,plex.services
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plexapp.com

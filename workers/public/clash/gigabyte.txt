@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/gigabyte.txt
+# Name: gigabyte
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,aorus.com
+DOMAIN-SUFFIX,aoruszone.cn
+DOMAIN-SUFFIX,gigabyte.cn
+DOMAIN-SUFFIX,gigabyte.com

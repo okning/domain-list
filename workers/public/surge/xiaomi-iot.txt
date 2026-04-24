@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/xiaomi-iot.txt
+# Name: xiaomi-iot
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,account.xiaomi.com
+DOMAIN-SUFFIX,cn-ha.mqtt.io.mi.com
+DOMAIN-SUFFIX,ha.api.io.mi.com
+DOMAIN-SUFFIX,miot-spec.org

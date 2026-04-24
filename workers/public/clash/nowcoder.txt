@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/nowcoder.txt
+# Name: nowcoder
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,newcoder.com
+DOMAIN-SUFFIX,nowcoder.com
+DOMAIN-SUFFIX,nowcoder.net
+DOMAIN-SUFFIX,nowcoder.org

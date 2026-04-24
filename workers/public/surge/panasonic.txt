@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/panasonic.txt
+# Name: panasonic
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,panasonic
+DOMAIN-SUFFIX,panasonic.cn
+DOMAIN-SUFFIX,panasonic.com
+DOMAIN-SUFFIX,panasonic.jp
+DOMAIN-SUFFIX,technics.com

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/kktv.txt
+# Name: kktv
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net

@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/cloudinary.txt
+# Name: cloudinary
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudinary.net

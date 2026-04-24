@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/clash/twitch.txt
+# Name: twitch
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 8
+
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,live-video.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,twitchcon.com
+DOMAIN-SUFFIX,twitchsvc.net

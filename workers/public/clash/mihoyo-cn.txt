@@ -1,0 +1,22 @@
+# URL: https://s.nosec.me/clash/mihoyo-cn.txt
+# Name: mihoyo-cn
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 17
+
+DOMAIN-REGEXP,^.+-mihayo\.akamaized\.net$
+DOMAIN-SUFFIX,benghuai.com
+DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,bhsr.com
+DOMAIN-SUFFIX,juequling.com
+DOMAIN-SUFFIX,log-upload.mihoyo.com
+DOMAIN-SUFFIX,mhystatic.com
+DOMAIN-SUFFIX,mhyurl.cn
+DOMAIN-SUFFIX,mihayo.com
+DOMAIN-SUFFIX,mihayou.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,mihoyocg.com
+DOMAIN-SUFFIX,mihoyogift.com
+DOMAIN-SUFFIX,mihoyomall.com
+DOMAIN-SUFFIX,miyoushe.com
+DOMAIN-SUFFIX,themisweeps.com
+DOMAIN-SUFFIX,yuanshen.com

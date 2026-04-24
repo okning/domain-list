@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/gimy.txt
+# Name: gimy
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,gimy.cc
+DOMAIN-SUFFIX,gimy.co
+DOMAIN-SUFFIX,gimy.to
+DOMAIN-SUFFIX,gimy.tv

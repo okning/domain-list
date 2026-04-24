@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/codeberg.txt
+# Name: codeberg
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,codeberg.org
+DOMAIN-SUFFIX,codeberg.page

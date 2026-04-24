@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/ctexcel.txt
+# Name: ctexcel
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,ctexcel.ca
+DOMAIN-SUFFIX,ctexcel.com.hk
+DOMAIN-SUFFIX,ctexcel.com
+DOMAIN-SUFFIX,ctexcel.fr
+DOMAIN-SUFFIX,ctexcel.us

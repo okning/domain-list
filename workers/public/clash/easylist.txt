@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/easylist.txt
+# Name: easylist
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,easylist.to
+DOMAIN-SUFFIX,lanik.us

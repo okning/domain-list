@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/oschina.txt
+# Name: oschina
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io
+DOMAIN-SUFFIX,oschina.net

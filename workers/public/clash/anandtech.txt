@@ -1,0 +1,6 @@
+# URL: https://s.nosec.me/clash/anandtech.txt
+# Name: anandtech
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 1
+
+DOMAIN-SUFFIX,anandtech.com

@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/cambridge.txt
+# Name: cambridge
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,cam.ac.uk
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,cambridgedigital.net
+DOMAIN-SUFFIX,cambridgemaths.org
+DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
+DOMAIN-SUFFIX,dlib.eastview.com

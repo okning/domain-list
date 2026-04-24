@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/wise.txt
+# Name: wise
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wise.com

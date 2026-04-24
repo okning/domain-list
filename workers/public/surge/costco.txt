@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/costco.txt
+# Name: costco
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,costco-static.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,costcobusinessdelivery.com

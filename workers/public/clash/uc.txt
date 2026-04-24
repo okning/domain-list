@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/clash/uc.txt
+# Name: uc
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,ads.uc.cn
+DOMAIN-SUFFIX,adslot.uc.cn
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,uc123.com
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,uczzd.cn

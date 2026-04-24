@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/category-travel-ir.txt
+# Name: category-travel-ir
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,alibaba.ir
+DOMAIN-SUFFIX,flightio.com
+DOMAIN-SUFFIX,mrbilit.com
+DOMAIN-SUFFIX,tap30.services
+DOMAIN-SUFFIX,tap33.me
+DOMAIN-SUFFIX,tapsi.cab
+DOMAIN-SUFFIX,tapsi.ir

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/mixi.txt
+# Name: mixi
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,mixi.co.jp
+DOMAIN-SUFFIX,mixi.jp
+DOMAIN-SUFFIX,mixi.net

@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/openspeedtest.txt
+# Name: openspeedtest
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,open.cachefly.net
+DOMAIN-SUFFIX,openspeedtest.com

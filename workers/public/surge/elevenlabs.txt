@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/elevenlabs.txt
+# Name: elevenlabs
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,elevenlabs.com
+DOMAIN-SUFFIX,elevenlabs.io

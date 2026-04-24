@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/tailscale.txt
+# Name: tailscale
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net

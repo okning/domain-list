@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/pptv.txt
+# Name: pptv
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,pplive.cn
+DOMAIN-SUFFIX,pplive.com
+DOMAIN-SUFFIX,pptv.com

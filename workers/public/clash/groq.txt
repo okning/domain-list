@@ -1,0 +1,6 @@
+# URL: https://s.nosec.me/clash/groq.txt
+# Name: groq
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 1
+
+DOMAIN-SUFFIX,groq.com

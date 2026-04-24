@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/koolearn.txt
+# Name: koolearn
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,koocdn.com
+DOMAIN-SUFFIX,koolearn.com
+DOMAIN-SUFFIX,koopass.com

@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/imdb.txt
+# Name: imdb
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,imdb
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,media-imdb.com

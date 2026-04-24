@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/chatwhores.txt
+# Name: chatwhores
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,chatwhores.com
+DOMAIN-SUFFIX,chatwhores.net
+DOMAIN-SUFFIX,chatwhores.org
+DOMAIN-SUFFIX,chatwhores.sex
+DOMAIN-SUFFIX,chatwhores.tv

@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/mydirtyhobby.txt
+# Name: mydirtyhobby
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,mdhcdn.com
+DOMAIN-SUFFIX,mydirtyhobby.com

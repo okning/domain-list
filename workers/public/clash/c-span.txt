@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/c-span.txt
+# Name: c-span
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,c-span.org
+DOMAIN-SUFFIX,c-spanvideo.org

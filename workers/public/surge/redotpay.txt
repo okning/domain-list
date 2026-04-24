@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/redotpay.txt
+# Name: redotpay
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,redotpay.zendesk.com
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com

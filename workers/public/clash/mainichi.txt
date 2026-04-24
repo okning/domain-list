@@ -1,0 +1,15 @@
+# URL: https://s.nosec.me/clash/mainichi.txt
+# Name: mainichi
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 10
+
+DOMAIN-SUFFIX,machigoto.jp
+DOMAIN-SUFFIX,mainichi-athletepartners.jp
+DOMAIN-SUFFIX,mainichi.jp
+DOMAIN-SUFFIX,mainichibooks.com
+DOMAIN-SUFFIX,meijinsen.jp
+DOMAIN-SUFFIX,mirailab.tech
+DOMAIN-SUFFIX,mottainai.info
+DOMAIN-SUFFIX,newsgawakaru.com
+DOMAIN-SUFFIX,sponichi.co.jp
+DOMAIN-SUFFIX,weekly-economist.com

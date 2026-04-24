@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/qingcloud.txt
+# Name: qingcloud
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,frontwize.com
+DOMAIN-SUFFIX,qingcache.com
+DOMAIN-SUFFIX,qingcloud.com
+DOMAIN-SUFFIX,qingstor.com
+DOMAIN-SUFFIX,routewize.com
+DOMAIN-SUFFIX,yunify.com

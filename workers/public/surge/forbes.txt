@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/forbes.txt
+# Name: forbes
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,forbes.com
+DOMAIN-SUFFIX,forbesimg.com

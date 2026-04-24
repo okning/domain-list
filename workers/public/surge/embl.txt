@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/embl.txt
+# Name: embl
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,ebi.ac.uk
+DOMAIN-SUFFIX,embl-hamburg.de
+DOMAIN-SUFFIX,embl.de
+DOMAIN-SUFFIX,embl.fr
+DOMAIN-SUFFIX,embl.it
+DOMAIN-SUFFIX,embl.org
+DOMAIN-SUFFIX,emblstatic.net

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/baishancloud.txt
+# Name: baishancloud
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,bsclink.cn
+DOMAIN-SUFFIX,qingcdn.com
+DOMAIN-SUFFIX,trpcdn.net

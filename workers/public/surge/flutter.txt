@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/flutter.txt
+# Name: flutter
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,pub.dev

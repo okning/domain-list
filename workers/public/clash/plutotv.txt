@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/plutotv.txt
+# Name: plutotv
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net

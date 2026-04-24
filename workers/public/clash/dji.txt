@@ -1,0 +1,15 @@
+# URL: https://s.nosec.me/clash/dji.txt
+# Name: dji
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 10
+
+DOMAIN-SUFFIX,dji.com
+DOMAIN-SUFFIX,dji.ink
+DOMAIN-SUFFIX,dji.net
+DOMAIN-SUFFIX,djicdn.com
+DOMAIN-SUFFIX,djigate.com
+DOMAIN-SUFFIX,djiits.com
+DOMAIN-SUFFIX,djiops.com
+DOMAIN-SUFFIX,djiservice.org
+DOMAIN-SUFFIX,robomaster.com
+DOMAIN-SUFFIX,skypixel.com

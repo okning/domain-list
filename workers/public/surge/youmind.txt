@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/youmind.txt
+# Name: youmind
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,youmind.site

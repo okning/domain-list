@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/clash/yostar.txt
+# Name: yostar
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,stargazer-games.com
+DOMAIN-SUFFIX,stellasora.global
+DOMAIN-SUFFIX,stellasora.jp
+DOMAIN-SUFFIX,yo-star.com
+DOMAIN-SUFFIX,yostar-pictures.co.jp
+DOMAIN-SUFFIX,yostar.cn
+DOMAIN-SUFFIX,yostar.co.jp
+DOMAIN-SUFFIX,yostar.net
+DOMAIN-SUFFIX,yostarplat.com

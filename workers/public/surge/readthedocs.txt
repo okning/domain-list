@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/readthedocs.txt
+# Name: readthedocs
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,readthedocs-hosted.com
+DOMAIN-SUFFIX,readthedocs.com
+DOMAIN-SUFFIX,readthedocs.io
+DOMAIN-SUFFIX,readthedocs.org

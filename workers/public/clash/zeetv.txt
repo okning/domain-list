@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/clash/zeetv.txt
+# Name: zeetv
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,z5.app
+DOMAIN-SUFFIX,z5.com
+DOMAIN-SUFFIX,zee5.com
+DOMAIN-SUFFIX,zee5.in
+DOMAIN-SUFFIX,zee5.tv
+DOMAIN-SUFFIX,zeebioskop.com
+DOMAIN-SUFFIX,zeetv.co.uk
+DOMAIN-SUFFIX,zeetv.com
+DOMAIN-SUFFIX,zeeuk.com

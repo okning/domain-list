@@ -1,0 +1,16 @@
+# URL: https://s.nosec.me/clash/onedrive.txt
+# Name: onedrive
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 11
+
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.co
+DOMAIN-SUFFIX,onedrive.co.uk
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.eu
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,onedrive.net
+DOMAIN-SUFFIX,onedrive.org
+DOMAIN-SUFFIX,storage.live.com

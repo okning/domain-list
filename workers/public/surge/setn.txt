@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/setn.txt
+# Name: setn
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,setn.com
+DOMAIN-SUFFIX,settv.com.tw

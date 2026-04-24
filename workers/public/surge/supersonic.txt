@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/supersonic.txt
+# Name: supersonic
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,ssacdn.com
+DOMAIN-SUFFIX,supersonic.com
+DOMAIN-SUFFIX,supersonicads-a.akamaihd.net
+DOMAIN-SUFFIX,supersonicads.com

@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/ligastavok.txt
+# Name: ligastavok
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,ligadobra.ru
+DOMAIN-SUFFIX,ligastavok-csr.ru
+DOMAIN-SUFFIX,ligastavok.ru
+DOMAIN-SUFFIX,sozvezdie-dobra.ru

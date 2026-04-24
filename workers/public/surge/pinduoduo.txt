@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/pinduoduo.txt
+# Name: pinduoduo
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,pddcdn.com
+DOMAIN-SUFFIX,pddim.com
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pddugc.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,yangkeduo.com

@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/herogame.txt
+# Name: herogame
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,hero.com
+DOMAIN-SUFFIX,heroesports.com
+DOMAIN-SUFFIX,herogame.com
+DOMAIN-SUFFIX,shyxhy.com
+DOMAIN-SUFFIX,yingxiong.com

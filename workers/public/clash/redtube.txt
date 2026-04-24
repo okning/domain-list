@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/redtube.txt
+# Name: redtube
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,livehdcams.com
+DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,redtube.com.br
+DOMAIN-SUFFIX,redtubepremium.com

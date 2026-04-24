@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/mikrotik.txt
+# Name: mikrotik
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,mikrotik.com
+DOMAIN-SUFFIX,mt.lv
+DOMAIN-SUFFIX,mynetname.net
+DOMAIN-SUFFIX,routerboard.com

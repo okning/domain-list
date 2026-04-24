@@ -1,0 +1,16 @@
+# URL: https://s.nosec.me/surge/hdrezka.txt
+# Name: hdrezka
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 11
+
+DOMAIN-SUFFIX,hdrezka-home.tv
+DOMAIN-SUFFIX,hdrezka.ac
+DOMAIN-SUFFIX,hdrezka.ag
+DOMAIN-SUFFIX,hdrezka.cm
+DOMAIN-SUFFIX,hdrezka.co
+DOMAIN-SUFFIX,hdrezka.me
+DOMAIN-SUFFIX,hdrezka.org
+DOMAIN-SUFFIX,hdrezka.site
+DOMAIN-SUFFIX,hdrzk.org
+DOMAIN-SUFFIX,rezka.ag
+DOMAIN-SUFFIX,stream.voidboost.cc

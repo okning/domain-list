@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/mongodb.txt
+# Name: mongodb
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,mongodb.com
+DOMAIN-SUFFIX,mongodb.org

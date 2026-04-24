@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/ubisoft.txt
+# Name: ubisoft
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,ubisoftconnect.com
+DOMAIN-SUFFIX,uplay.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com

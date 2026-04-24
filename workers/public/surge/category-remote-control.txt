@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/category-remote-control.txt
+# Name: category-remote-control
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,anydesk.com
+DOMAIN-SUFFIX,nomachine.com
+DOMAIN-SUFFIX,rustdesk.com
+DOMAIN-SUFFIX,teamviewer.cn
+DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,teamviewer.us

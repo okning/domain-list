@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/technogym.txt
+# Name: technogym
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 8
+
+DOMAIN-SUFFIX,letsmoveforabetterworld.com
+DOMAIN-SUFFIX,technogym.bg
+DOMAIN-SUFFIX,technogym.ch
+DOMAIN-SUFFIX,technogym.com
+DOMAIN-SUFFIX,technogym.com.br
+DOMAIN-SUFFIX,technogym.ru
+DOMAIN-SUFFIX,technogym.su
+DOMAIN-SUFFIX,wellnessinstitute.com

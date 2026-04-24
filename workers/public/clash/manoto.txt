@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/manoto.txt
+# Name: manoto
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,manoto1.tv
+DOMAIN-SUFFIX,manototv.com

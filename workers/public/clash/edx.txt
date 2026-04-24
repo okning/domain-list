@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/edx.txt
+# Name: edx
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,edx-cdn.org
+DOMAIN-SUFFIX,edx.org

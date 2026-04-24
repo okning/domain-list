@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/creativecommons.txt
+# Name: creativecommons
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,licensebuttons.net

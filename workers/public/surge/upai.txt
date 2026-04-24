@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/upai.txt
+# Name: upai
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,aicdn.com
+DOMAIN-SUFFIX,oncdp.com
+DOMAIN-SUFFIX,upai.com
+DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,upcdn.net
+DOMAIN-SUFFIX,upyun.com

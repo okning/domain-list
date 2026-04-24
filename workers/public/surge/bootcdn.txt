@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/bootcdn.txt
+# Name: bootcdn
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,bootcdn.cn
+DOMAIN-SUFFIX,bootcdn.net
+DOMAIN-SUFFIX,bootcss.com
+DOMAIN-SUFFIX,phpcomposer.com

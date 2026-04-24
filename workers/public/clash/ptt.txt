@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/ptt.txt
+# Name: ptt
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,ptt2.cc
+DOMAIN-SUFFIX,ptt3.cc

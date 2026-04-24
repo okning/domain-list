@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/tex.txt
+# Name: tex
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,ctan.org
+DOMAIN-SUFFIX,latex-project.org
+DOMAIN-SUFFIX,miktex.org
+DOMAIN-SUFFIX,tug.org

@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/clarivate.txt
+# Name: clarivate
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,isiknowledge.com
+DOMAIN-SUFFIX,newisiknowledge.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,webofscience.com

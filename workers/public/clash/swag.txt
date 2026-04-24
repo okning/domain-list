@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/swag.txt
+# Name: swag
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,5w.ag
+DOMAIN-SUFFIX,swag-live.co
+DOMAIN-SUFFIX,swag.live

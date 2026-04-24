@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/hitun.txt
+# Name: hitun
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,hitun.io
+DOMAIN-SUFFIX,xn--90wwvt03e.com

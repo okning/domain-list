@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/sci-hub.txt
+# Name: sci-hub
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,sci-hub.ee
+DOMAIN-SUFFIX,sci-hub.it.nf
+DOMAIN-SUFFIX,sci-hub.mksa.top
+DOMAIN-SUFFIX,sci-hub.se
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,sci.hubg.org

@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/awempire.txt
+# Name: awempire
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,awempire.com
+DOMAIN-SUFFIX,dditsadn.com
+DOMAIN-SUFFIX,dditscdn.com
+DOMAIN-SUFFIX,docleradn.com
+DOMAIN-SUFFIX,doclercdn.com

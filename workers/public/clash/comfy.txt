@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/comfy.txt
+# Name: comfy
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,comfy.org
+DOMAIN-SUFFIX,comfyci.org
+DOMAIN-SUFFIX,comfyregistry.org
+DOMAIN-SUFFIX,oystermercury.top

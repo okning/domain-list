@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/yunfanjiasu.txt
+# Name: yunfanjiasu
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 8
+
+DOMAIN-SUFFIX,yfcache.com
+DOMAIN-SUFFIX,yfcalc.com
+DOMAIN-SUFFIX,yfcdn.net
+DOMAIN-SUFFIX,yfcloud.com
+DOMAIN-SUFFIX,yfdts.net
+DOMAIN-SUFFIX,yfp2p.net
+DOMAIN-SUFFIX,yfscdn.net
+DOMAIN-SUFFIX,yunfancdn.com

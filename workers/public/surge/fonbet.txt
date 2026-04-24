@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/fonbet.txt
+# Name: fonbet
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,bk6bba-resources.com
+DOMAIN-SUFFIX,bk6bba-resources.ru
+DOMAIN-SUFFIX,fon.bet
+DOMAIN-SUFFIX,fon.promo

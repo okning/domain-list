@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/pingan.txt
+# Name: pingan
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,pingan.com
+DOMAIN-SUFFIX,pingan.com.cn
+DOMAIN-SUFFIX,pingan.com.hk
+DOMAIN-SUFFIX,yqb.com

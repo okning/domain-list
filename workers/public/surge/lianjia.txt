@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/lianjia.txt
+# Name: lianjia
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,beckyroom.com
+DOMAIN-SUFFIX,ke.com
+DOMAIN-SUFFIX,lianjia.com
+DOMAIN-SUFFIX,ljcdn.com

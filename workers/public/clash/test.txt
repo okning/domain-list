@@ -1,0 +1,5 @@
+# URL: https://s.nosec.me/clash/test.txt
+# Name: test
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 0
+

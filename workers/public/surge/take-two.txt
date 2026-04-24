@@ -1,0 +1,18 @@
+# URL: https://s.nosec.me/surge/take-two.txt
+# Name: take-two
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 13
+
+DOMAIN-SUFFIX,2k.com
+DOMAIN-SUFFIX,2kcoretech.online
+DOMAIN-SUFFIX,2kct.onl
+DOMAIN-SUFFIX,2kgames.com
+DOMAIN-SUFFIX,2ksports.com
+DOMAIN-SUFFIX,2kweb.online
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rockstarnorth.com
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,take2games.com
+DOMAIN-SUFFIX,zynga.com
+DOMAIN-SUFFIX,zyngaplayersupport.com
+DOMAIN-SUFFIX,zyngapoker.com

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/n3ro.txt
+# Name: n3ro
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,n3ro.lol
+DOMAIN-SUFFIX,n3ro.net
+DOMAIN-SUFFIX,n3ro.wtf

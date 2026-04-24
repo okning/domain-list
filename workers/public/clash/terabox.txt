@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/clash/terabox.txt
+# Name: terabox
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,1024terabox.com
+DOMAIN-SUFFIX,bestclouddrive.com
+DOMAIN-SUFFIX,freeterabox.com
+DOMAIN-SUFFIX,nephobox.com
+DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,terabox1024.com
+DOMAIN-SUFFIX,teraboxcdn.com

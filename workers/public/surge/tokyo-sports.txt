@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/tokyo-sports.txt
+# Name: tokyo-sports
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,tokyo-sports.co.jp
+DOMAIN-SUFFIX,tospo-keiba.jp

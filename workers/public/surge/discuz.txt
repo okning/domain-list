@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/discuz.txt
+# Name: discuz
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,comsenz.com
+DOMAIN-SUFFIX,discuz.net
+DOMAIN-SUFFIX,discuz.org

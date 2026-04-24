@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/yy.txt
+# Name: yy
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,dwstatic.com
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yystatic.com

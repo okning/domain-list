@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/homedepot.txt
+# Name: homedepot
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,homedepot-static.com
+DOMAIN-SUFFIX,homedepot.com

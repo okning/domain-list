@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/inshot.txt
+# Name: inshot
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,inshot.cc
+DOMAIN-SUFFIX,inshot.com
+DOMAIN-SUFFIX,inshotapp.com

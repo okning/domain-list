@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/surge/vilavpn.txt
+# Name: vilavpn
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,vilavpn.com
+DOMAIN-SUFFIX,vilavpn.xyz
+DOMAIN-SUFFIX,vilavpn1.xyz
+DOMAIN-SUFFIX,vilavpn2.xyz
+DOMAIN-SUFFIX,vilavpn3.xyz
+DOMAIN-SUFFIX,vilavpn4.xyz
+DOMAIN-SUFFIX,vilavpn5.xyz
+DOMAIN-SUFFIX,vilavpn6.xyz
+DOMAIN-SUFFIX,vilavpn7.xyz

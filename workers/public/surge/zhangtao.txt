@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/zhangtao.txt
+# Name: zhangtao
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,accuratead.cn
+DOMAIN-SUFFIX,dutils.com
+DOMAIN-SUFFIX,hiaiabc.com
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,mobsdks.com
+DOMAIN-SUFFIX,sharesdk.cn
+DOMAIN-SUFFIX,yksdks.com

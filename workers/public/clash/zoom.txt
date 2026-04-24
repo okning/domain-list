@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/zoom.txt
+# Name: zoom
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoom.com.cn
+DOMAIN-SUFFIX,zoom.us

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/ciweimao.txt
+# Name: ciweimao
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,ciweimao.com
+DOMAIN-SUFFIX,hbooker.com
+DOMAIN-SUFFIX,kuangxiangit.com

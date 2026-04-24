@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/surge/matrix.txt
+# Name: matrix
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,arewereadyyet.com
+DOMAIN-SUFFIX,cinny.in
+DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,fluffychat.im
+DOMAIN-SUFFIX,matrix.org
+DOMAIN-SUFFIX,matrix.to
+DOMAIN-SUFFIX,modular.im
+DOMAIN-SUFFIX,riot.im
+DOMAIN-SUFFIX,vector.im

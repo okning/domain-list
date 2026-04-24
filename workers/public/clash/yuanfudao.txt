@@ -1,0 +1,17 @@
+# URL: https://s.nosec.me/clash/yuanfudao.txt
+# Name: yuanfudao
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 12
+
+DOMAIN-SUFFIX,banmaaike.com
+DOMAIN-SUFFIX,fbstatic.cn
+DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,fenbike.cn
+DOMAIN-SUFFIX,fenbike.com
+DOMAIN-SUFFIX,fenbilantian.cn
+DOMAIN-SUFFIX,fenbilantian.com
+DOMAIN-SUFFIX,xiaoyuankousuan.com
+DOMAIN-SUFFIX,ybccode.com
+DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,yuansouti.com
+DOMAIN-SUFFIX,yuantiku.com

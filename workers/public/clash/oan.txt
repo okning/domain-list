@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/oan.txt
+# Name: oan
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,aweencore.com
+DOMAIN-SUFFIX,awetv.com
+DOMAIN-SUFFIX,herringnetwork.com
+DOMAIN-SUFFIX,oanencore.com
+DOMAIN-SUFFIX,oann.com

@@ -1,0 +1,19 @@
+# URL: https://s.nosec.me/surge/category-wiki-cn.txt
+# Name: category-wiki-cn
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 14
+
+DOMAIN-SUFFIX,allhistory.com
+DOMAIN-SUFFIX,chaz.fun
+DOMAIN-SUFFIX,fgo.wiki
+DOMAIN-SUFFIX,huijistatic.com
+DOMAIN-SUFFIX,huijiwiki.com
+DOMAIN-SUFFIX,jikipedia.com
+DOMAIN-SUFFIX,mbalib.com
+DOMAIN-SUFFIX,mcmod.cn
+DOMAIN-SUFFIX,moegirl.org
+DOMAIN-SUFFIX,moegirl.org.cn
+DOMAIN-SUFFIX,qiuwen.wiki
+DOMAIN-SUFFIX,qiuwenbaike.cn
+DOMAIN-SUFFIX,sec-wiki.com
+DOMAIN-SUFFIX,shidianbaike.com

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/addthis.txt
+# Name: addthis
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,addthisedge.com

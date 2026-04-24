@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/pgyer.txt
+# Name: pgyer
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,frontjs.com
+DOMAIN-SUFFIX,pgyer.com
+DOMAIN-SUFFIX,tracup.com

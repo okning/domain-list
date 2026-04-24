@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/hupun.txt
+# Name: hupun
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,hupun.com
+DOMAIN-SUFFIX,hupun.com.cn
+DOMAIN-SUFFIX,kata.com.cn
+DOMAIN-SUFFIX,newniu.com
+DOMAIN-SUFFIX,wanliniu.com

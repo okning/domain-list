@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/chinaz.txt
+# Name: chinaz
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,chinaz.com
+DOMAIN-SUFFIX,chinaz.net

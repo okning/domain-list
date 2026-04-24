@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/qnap.txt
+# Name: qnap
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,myqnapcloud.cn
+DOMAIN-SUFFIX,myqnapcloud.com
+DOMAIN-SUFFIX,qlink.to
+DOMAIN-SUFFIX,qlinkto.cn
+DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,qnap.com.cn

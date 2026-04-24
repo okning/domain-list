@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/opensourceinsights.txt
+# Name: opensourceinsights
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,deps.dev
+DOMAIN-SUFFIX,deps.info
+DOMAIN-SUFFIX,opensourceinsight.dev
+DOMAIN-SUFFIX,opensourceinsights.dev

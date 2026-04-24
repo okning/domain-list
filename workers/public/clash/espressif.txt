@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/espressif.txt
+# Name: espressif
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,esp32.com
+DOMAIN-SUFFIX,esp8266.com
+DOMAIN-SUFFIX,espressif.com

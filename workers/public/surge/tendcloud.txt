@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/tendcloud.txt
+# Name: tendcloud
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,cpatrk.net
+DOMAIN-SUFFIX,talkingdata.com
+DOMAIN-SUFFIX,talkinggame.com
+DOMAIN-SUFFIX,tdsdk.cpatrk.net
+DOMAIN-SUFFIX,tendcloud.com

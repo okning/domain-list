@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/purikonejp.txt
+# Name: purikonejp
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+DOMAIN-SUFFIX,omotenashi.cygames.jp
+DOMAIN-SUFFIX,priconne-redive.jp

@@ -1,0 +1,16 @@
+# URL: https://s.nosec.me/clash/connectivity-check.txt
+# Name: connectivity-check
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 11
+
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,cp.cloudflare.com
+DOMAIN-SUFFIX,detectportal.firefox.com
+DOMAIN-SUFFIX,ipv6check-http.steamserver.net
+DOMAIN-SUFFIX,ipv6check-udp.steamserver.net
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,network-test.debian.org
+DOMAIN-SUFFIX,networkcheck.kde.org
+DOMAIN-SUFFIX,test.steampowered.com

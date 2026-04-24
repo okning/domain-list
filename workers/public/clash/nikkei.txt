@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/clash/nikkei.txt
+# Name: nikkei
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,nikkei-cnbc.co.jp
+DOMAIN-SUFFIX,nikkei.co.jp
+DOMAIN-SUFFIX,nikkei.com
+DOMAIN-SUFFIX,nikkei.jp
+DOMAIN-SUFFIX,nikkei4946.com
+DOMAIN-SUFFIX,nikkeibp.co.jp

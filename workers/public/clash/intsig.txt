@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/intsig.txt
+# Name: intsig
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,camcard.com
+DOMAIN-SUFFIX,camscanner.com
+DOMAIN-SUFFIX,intsig.com
+DOMAIN-SUFFIX,intsig.net
+DOMAIN-SUFFIX,qixin.com

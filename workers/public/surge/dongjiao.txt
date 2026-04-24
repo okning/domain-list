@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/dongjiao.txt
+# Name: dongjiao
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,anmo.com
+DOMAIN-SUFFIX,djdjapp.com
+DOMAIN-SUFFIX,dongjiao.cc
+DOMAIN-SUFFIX,dongjiaoapp.com

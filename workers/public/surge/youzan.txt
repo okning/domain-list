@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/youzan.txt
+# Name: youzan
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,youzan.com
+DOMAIN-SUFFIX,youzanyun.com
+DOMAIN-SUFFIX,yzcdn.cn

@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/bttzyw.txt
+# Name: bttzyw
+# Updated: Fri Apr 24 17:22:08 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,btt804.com
+DOMAIN-SUFFIX,btt904.com
+DOMAIN-SUFFIX,bttzyw.com
+DOMAIN-SUFFIX,bttzyw.net
