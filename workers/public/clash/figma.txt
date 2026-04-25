@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/figma.txt
 # Name: figma
-# Updated: Fri Apr 24 17:25:15 UTC 2026
+# Updated: Sat Apr 25 00:37:37 UTC 2026
 # Total: 1
 
 DOMAIN-SUFFIX,figma.com

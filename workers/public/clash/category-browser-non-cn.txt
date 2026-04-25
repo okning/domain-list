@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-browser-non-cn.txt
 # Name: category-browser-non-cn
-# Updated: Fri Apr 24 17:25:15 UTC 2026
+# Updated: Sat Apr 25 00:37:37 UTC 2026
 # Total: 29
 
 DOMAIN-SUFFIX,basilisk-browser.org

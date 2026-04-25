@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-remote-control.txt
 # Name: category-remote-control
-# Updated: Fri Apr 24 17:25:15 UTC 2026
+# Updated: Sat Apr 25 00:37:37 UTC 2026
 # Total: 6
 
 DOMAIN-SUFFIX,anydesk.com

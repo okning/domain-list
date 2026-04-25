@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-ai-cn.txt
 # Name: category-ai-cn
-# Updated: Fri Apr 24 17:25:15 UTC 2026
+# Updated: Sat Apr 25 00:37:37 UTC 2026
 # Total: 76
 
 DOMAIN-SUFFIX,aispeech.com

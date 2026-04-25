@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-pt.txt
 # Name: category-pt
-# Updated: Fri Apr 24 17:25:15 UTC 2026
+# Updated: Sat Apr 25 00:37:37 UTC 2026
 # Total: 114
 
 DOMAIN-SUFFIX,1ptba.com

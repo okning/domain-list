@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/openai.txt
 # Name: openai
-# Updated: Fri Apr 24 17:25:15 UTC 2026
+# Updated: Sat Apr 25 00:37:37 UTC 2026
 # Total: 14
 
 # REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/google-trust-services.txt
 # Name: google-trust-services
-# Updated: Fri Apr 24 17:25:15 UTC 2026
+# Updated: Sat Apr 25 00:37:37 UTC 2026
 # Total: 8
 
 DOMAIN-SUFFIX,pki.goog

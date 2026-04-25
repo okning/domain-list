@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-game-accelerator-cn.txt
 # Name: category-game-accelerator-cn
-# Updated: Fri Apr 24 17:25:15 UTC 2026
+# Updated: Sat Apr 25 00:37:37 UTC 2026
 # Total: 44
 
 DOMAIN-SUFFIX,3dmjiasu.com
