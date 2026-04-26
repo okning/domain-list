@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/akamai.txt
 # Name: akamai
-# Updated: Sat Apr 25 00:37:37 UTC 2026
+# Updated: Sun Apr 26 00:41:39 UTC 2026
 # Total: 81
 
 DOMAIN-SUFFIX,accdn.com.cn

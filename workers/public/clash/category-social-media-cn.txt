@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-social-media-cn.txt
 # Name: category-social-media-cn
-# Updated: Sat Apr 25 00:37:37 UTC 2026
+# Updated: Sun Apr 26 00:41:39 UTC 2026
 # Total: 91
 
 DOMAIN-SUFFIX,97973.com

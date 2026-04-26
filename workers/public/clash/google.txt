@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/google.txt
 # Name: google
-# Updated: Sat Apr 25 00:37:37 UTC 2026
+# Updated: Sun Apr 26 00:41:39 UTC 2026
 # Total: 990
 
 DOMAIN-REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$

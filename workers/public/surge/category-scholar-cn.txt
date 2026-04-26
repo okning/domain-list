@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-scholar-cn.txt
 # Name: category-scholar-cn
-# Updated: Sat Apr 25 00:37:37 UTC 2026
+# Updated: Sun Apr 26 00:41:39 UTC 2026
 # Total: 90
 
 DOMAIN-SUFFIX,16q.cn

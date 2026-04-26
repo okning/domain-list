@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/amazon.txt
 # Name: amazon
-# Updated: Sat Apr 25 00:37:37 UTC 2026
+# Updated: Sun Apr 26 00:41:39 UTC 2026
 # Total: 235
 
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$

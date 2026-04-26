@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/starworld.txt
 # Name: starworld
-# Updated: Sat Apr 25 00:37:37 UTC 2026
+# Updated: Sun Apr 26 00:41:39 UTC 2026
 # Total: 25
 
 DOMAIN-SUFFIX,360-api.cn

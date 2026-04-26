@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/laracasts.txt
 # Name: laracasts
-# Updated: Sat Apr 25 00:37:37 UTC 2026
+# Updated: Sun Apr 26 00:41:39 UTC 2026
 # Total: 1
 
 DOMAIN-SUFFIX,laracasts.com

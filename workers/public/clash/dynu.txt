@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/dynu.txt
 # Name: dynu
-# Updated: Sat Apr 25 00:37:37 UTC 2026
+# Updated: Sun Apr 26 00:41:39 UTC 2026
 # Total: 21
 
 DOMAIN-SUFFIX,1cooldns.com

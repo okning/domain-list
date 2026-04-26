@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-gov-ru.txt
 # Name: category-gov-ru
-# Updated: Sat Apr 25 00:37:37 UTC 2026
+# Updated: Sun Apr 26 00:41:39 UTC 2026
 # Total: 127
 
 DOMAIN-SUFFIX,adygeya.ru
