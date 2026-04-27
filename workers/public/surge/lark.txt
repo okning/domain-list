@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/lark.txt
 # Name: lark
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 89
 
 DOMAIN-SUFFIX,anycross.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/kaspersky.txt
 # Name: kaspersky
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 132
 
 DOMAIN-SUFFIX,kaspersky-labs.com

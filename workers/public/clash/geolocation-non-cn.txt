@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 23863
 
 DOMAIN-REGEXP,^ewcdn[0-9]+\.nowe\.com$

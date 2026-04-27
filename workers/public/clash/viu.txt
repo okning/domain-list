@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/viu.txt
 # Name: viu
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 3
 
 DOMAIN-REGEXP,^ewcdn[0-9]+\.nowe\.com$

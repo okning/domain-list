@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/ft.txt
 # Name: ft
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 22
 
 DOMAIN-SUFFIX,agendaweek.com

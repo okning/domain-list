@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 6937
 
 DOMAIN-REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$

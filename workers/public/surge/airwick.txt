@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/airwick.txt
 # Name: airwick
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 40
 
 DOMAIN-SUFFIX,airwick.at

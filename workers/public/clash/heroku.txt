@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/heroku.txt
 # Name: heroku
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 12
 
 DOMAIN-SUFFIX,codei.sh

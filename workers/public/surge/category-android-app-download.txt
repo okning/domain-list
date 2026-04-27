@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-android-app-download.txt
 # Name: category-android-app-download
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 10
 
 DOMAIN-SUFFIX,apkcombo.com

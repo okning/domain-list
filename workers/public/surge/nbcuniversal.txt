@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/nbcuniversal.txt
 # Name: nbcuniversal
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 17
 
 DOMAIN-SUFFIX,cnbc.com

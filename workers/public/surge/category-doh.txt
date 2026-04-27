@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-doh.txt
 # Name: category-doh
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 3
 
 DOMAIN-SUFFIX,cloudflare-dns.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/volvo.txt
 # Name: volvo
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 211
 
 DOMAIN-SUFFIX,dynafleetonline.com

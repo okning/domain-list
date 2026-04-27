@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-tech-media.txt
 # Name: category-tech-media
-# Updated: Mon Apr 27 00:42:04 UTC 2026
+# Updated: Mon Apr 27 07:47:07 UTC 2026
 # Total: 25
 
 DOMAIN-SUFFIX,9to5google.com
