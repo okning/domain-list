@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/coursera.txt
 # Name: coursera
-# Updated: Sun Apr 26 00:41:39 UTC 2026
+# Updated: Mon Apr 27 00:42:04 UTC 2026
 # Total: 4
 
 DOMAIN-SUFFIX,coursera-for-business.org

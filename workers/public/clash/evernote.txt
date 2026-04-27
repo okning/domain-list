@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/evernote.txt
 # Name: evernote
-# Updated: Sun Apr 26 00:41:39 UTC 2026
+# Updated: Mon Apr 27 00:42:04 UTC 2026
 # Total: 1
 
 DOMAIN-SUFFIX,evernote.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/okaapps.txt
 # Name: okaapps
-# Updated: Sun Apr 26 00:41:39 UTC 2026
+# Updated: Mon Apr 27 00:42:04 UTC 2026
 # Total: 2
 
 DOMAIN-REGEXP,^(.+\.)*zh\.okaapps\.com$

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bilibili2.txt
 # Name: bilibili2
-# Updated: Sun Apr 26 00:41:39 UTC 2026
+# Updated: Mon Apr 27 00:42:04 UTC 2026
 # Total: 4
 
 # REGEXP,(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/vimeo.txt
 # Name: vimeo
-# Updated: Sun Apr 26 00:41:39 UTC 2026
+# Updated: Mon Apr 27 00:42:04 UTC 2026
 # Total: 17
 
 DOMAIN-REGEXP,^[0-9]+vod-adaptive\.akamaized\.net$

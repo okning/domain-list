@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/pixiv.txt
 # Name: pixiv
-# Updated: Sun Apr 26 00:41:39 UTC 2026
+# Updated: Mon Apr 27 00:42:04 UTC 2026
 # Total: 11
 
 DOMAIN-SUFFIX,ads-pixiv.net

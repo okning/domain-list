@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/google-trust-services.txt
 # Name: google-trust-services
-# Updated: Sun Apr 26 00:41:39 UTC 2026
+# Updated: Mon Apr 27 00:42:04 UTC 2026
 # Total: 8
 
 DOMAIN-SUFFIX,pki.goog

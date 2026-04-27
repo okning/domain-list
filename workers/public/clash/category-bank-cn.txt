@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-bank-cn.txt
 # Name: category-bank-cn
-# Updated: Sun Apr 26 00:41:39 UTC 2026
+# Updated: Mon Apr 27 00:42:04 UTC 2026
 # Total: 131
 
 DOMAIN-SUFFIX,8008205555.cn

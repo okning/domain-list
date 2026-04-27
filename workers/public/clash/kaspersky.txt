@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/kaspersky.txt
 # Name: kaspersky
-# Updated: Sun Apr 26 00:41:39 UTC 2026
+# Updated: Mon Apr 27 00:42:04 UTC 2026
 # Total: 132
 
 DOMAIN-SUFFIX,kaspersky-labs.com
