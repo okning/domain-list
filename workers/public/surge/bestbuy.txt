@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bestbuy.txt
 # Name: bestbuy
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 82
 
 DOMAIN-SUFFIX,bby.com

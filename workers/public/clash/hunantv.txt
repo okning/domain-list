@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/hunantv.txt
 # Name: hunantv
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 13
 
 DOMAIN-SUFFIX,click.hunantv.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/bestore.txt
 # Name: bestore
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 3
 
 DOMAIN-SUFFIX,517lppz.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/coinone.txt
 # Name: coinone
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 3
 
 DOMAIN-SUFFIX,coinone.co.kr

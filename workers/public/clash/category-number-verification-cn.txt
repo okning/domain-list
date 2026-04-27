@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-number-verification-cn.txt
 # Name: category-number-verification-cn
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 2
 
 DOMAIN-REGEXP,^nis.+\.10010\.com$

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/bilibili2.txt
 # Name: bilibili2
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 4
 
 DOMAIN-REGEXP,(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$

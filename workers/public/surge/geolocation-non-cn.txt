@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 23863
 
 # REGEXP,^ewcdn[0-9]+\.nowe\.com$

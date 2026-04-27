@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/vanish.txt
 # Name: vanish
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 47
 
 DOMAIN-SUFFIX,o2action.co.kr

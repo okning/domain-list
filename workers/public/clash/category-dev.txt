@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-dev.txt
 # Name: category-dev
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 504
 
 DOMAIN-REGEXP,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$

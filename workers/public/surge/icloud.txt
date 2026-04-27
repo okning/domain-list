@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/icloud.txt
 # Name: icloud
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 51
 
 DOMAIN-SUFFIX,apple-icloud.cn

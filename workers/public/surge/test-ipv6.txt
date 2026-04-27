@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/test-ipv6.txt
 # Name: test-ipv6
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 25
 
 DOMAIN-SUFFIX,sixte.st

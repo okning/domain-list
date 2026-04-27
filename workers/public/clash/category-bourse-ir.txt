@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-bourse-ir.txt
 # Name: category-bourse-ir
-# Updated: Mon Apr 27 07:47:07 UTC 2026
+# Updated: Mon Apr 27 07:49:20 UTC 2026
 # Total: 48
 
 DOMAIN-SUFFIX,abanbroker.com
