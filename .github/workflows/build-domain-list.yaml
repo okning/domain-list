@@ -40,9 +40,6 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          mkdir -p public
-
           git add public
           git commit -m "chore: update domain list" || echo "chore: no changes to commit"
           git push origin main
