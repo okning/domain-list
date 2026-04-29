@@ -45,9 +45,6 @@ jobs:
 
           mkdir -p public
 
-          mv dist/surge public/surge
-          mv dist/clash public/clash
-
           git add public
           git commit -m "$(date -u)" || echo "chore: no changes to commit"
           git push origin main
