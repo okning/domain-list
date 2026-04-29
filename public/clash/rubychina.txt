@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/rubychina.txt
+# Name: rubychina
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,ruby-china.org
+DOMAIN-SUFFIX,rubyconfchina.org

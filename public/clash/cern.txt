@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/clash/cern.txt
+# Name: cern
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,ams02.space
+DOMAIN-SUFFIX,cern
+DOMAIN-SUFFIX,cern.ch
+DOMAIN-SUFFIX,cixp.net
+DOMAIN-SUFFIX,dotcernpilot.info
+DOMAIN-SUFFIX,ippog.org
+DOMAIN-SUFFIX,linearcollider.org

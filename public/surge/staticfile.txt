@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/staticfile.txt
+# Name: staticfile
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,staticfile.net
+DOMAIN-SUFFIX,staticfile.org

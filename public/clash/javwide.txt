@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/javwide.txt
+# Name: javwide
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,javwide.com
+DOMAIN-SUFFIX,javwide.tv

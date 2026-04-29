@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/clubhouse.txt
+# Name: clubhouse
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com

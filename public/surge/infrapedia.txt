@@ -1,0 +1,6 @@
+# URL: https://s.nosec.me/surge/infrapedia.txt
+# Name: infrapedia
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 1
+
+DOMAIN-SUFFIX,infrapedia.com

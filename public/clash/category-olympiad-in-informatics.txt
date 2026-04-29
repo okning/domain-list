@@ -1,0 +1,21 @@
+# URL: https://s.nosec.me/clash/category-olympiad-in-informatics.txt
+# Name: category-olympiad-in-informatics
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 16
+
+DOMAIN-SUFFIX,51nod.com
+DOMAIN-SUFFIX,acwing.com
+DOMAIN-SUFFIX,hihocoder.com
+DOMAIN-SUFFIX,jisuanke.com
+DOMAIN-SUFFIX,kidsccshow.com
+DOMAIN-SUFFIX,leetcode-cn.com
+DOMAIN-SUFFIX,leetcode.cn
+DOMAIN-SUFFIX,lingkou.cn
+DOMAIN-SUFFIX,lingkou.com
+DOMAIN-SUFFIX,lingkou.xyz
+DOMAIN-SUFFIX,luogu.com.cn
+DOMAIN-SUFFIX,oi-wiki.com
+DOMAIN-SUFFIX,openjudge.cn
+DOMAIN-SUFFIX,rqnoj.cn
+DOMAIN-SUFFIX,uoj.ac
+DOMAIN-SUFFIX,vijos.org

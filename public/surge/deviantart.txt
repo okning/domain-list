@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/deviantart.txt
+# Name: deviantart
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,da-files.com
+DOMAIN-SUFFIX,deviantart.com
+DOMAIN-SUFFIX,deviantart.net

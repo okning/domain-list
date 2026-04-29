@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/51job.txt
+# Name: 51job
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,51job.com
+DOMAIN-SUFFIX,51jobcdn.com
+DOMAIN-SUFFIX,yingjiesheng.com
+DOMAIN-SUFFIX,yingjiesheng.net
+DOMAIN-SUFFIX,zhiding.com.cn

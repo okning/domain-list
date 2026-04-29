@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/miaomiaozhe.txt
+# Name: miaomiaozhe
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,miaomiaoz.com
+DOMAIN-SUFFIX,miaomiaozhe.com

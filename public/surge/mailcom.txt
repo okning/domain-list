@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/mailcom.txt
+# Name: mailcom
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,mail.com
+DOMAIN-SUFFIX,ui-portal.de
+DOMAIN-SUFFIX,uicdn.com
+DOMAIN-SUFFIX,uimserv.net

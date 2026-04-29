@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/cas.txt
+# Name: cas
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,csdl.ac.cn
+DOMAIN-SUFFIX,iscas.ac.cn
+DOMAIN-SUFFIX,las.ac.cn

@@ -1,0 +1,6 @@
+# URL: https://s.nosec.me/surge/pingpe.txt
+# Name: pingpe
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 1
+
+DOMAIN-SUFFIX,ping.pe

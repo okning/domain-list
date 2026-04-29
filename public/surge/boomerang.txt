@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/boomerang.txt
+# Name: boomerang
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,boomerang.com
+DOMAIN-SUFFIX,wbdnbo.net

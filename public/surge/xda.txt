@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/xda.txt
+# Name: xda
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,xda-cdn.com
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,xdaimages.com

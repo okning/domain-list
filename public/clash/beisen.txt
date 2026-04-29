@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/clash/beisen.txt
+# Name: beisen
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 8
+
+DOMAIN-SUFFIX,beisen.cn
+DOMAIN-SUFFIX,beisen.com
+DOMAIN-SUFFIX,beisenapp.com
+DOMAIN-SUFFIX,beisencloud.com
+DOMAIN-SUFFIX,beisenpaas.com
+DOMAIN-SUFFIX,bsurl.cc
+DOMAIN-SUFFIX,bsurl.cn
+DOMAIN-SUFFIX,zhiye.com

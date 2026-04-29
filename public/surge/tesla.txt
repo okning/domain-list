@@ -1,0 +1,17 @@
+# URL: https://s.nosec.me/surge/tesla.txt
+# Name: tesla
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 12
+
+DOMAIN-SUFFIX,solarcity.com
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,tesla.com.cn
+DOMAIN-SUFFIX,tesla.services
+DOMAIN-SUFFIX,teslaenergy.services
+DOMAIN-SUFFIX,teslamotors.cn
+DOMAIN-SUFFIX,teslamotors.com
+DOMAIN-SUFFIX,teslamotors.com.cn
+DOMAIN-SUFFIX,teslazta.net
+DOMAIN-SUFFIX,ts.la
+DOMAIN,tesla-cdn.thron.cn

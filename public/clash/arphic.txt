@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/arphic.txt
+# Name: arphic
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,arphic.com
+DOMAIN-SUFFIX,arphic.com.cn
+DOMAIN-SUFFIX,arphic.com.tw
+DOMAIN-SUFFIX,ifontcloud.com

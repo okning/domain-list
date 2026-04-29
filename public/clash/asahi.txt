@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/clash/asahi.txt
+# Name: asahi
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,aiasahi.jp
+DOMAIN-SUFFIX,asagaku.com
+DOMAIN-SUFFIX,asahi.com
+DOMAIN-SUFFIX,asahicom.jp
+DOMAIN-SUFFIX,asakonet.co.jp
+DOMAIN-SUFFIX,nikkansports.com

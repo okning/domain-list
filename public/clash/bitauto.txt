@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/bitauto.txt
+# Name: bitauto
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,bitauto.com
+DOMAIN-SUFFIX,bitautoimg.com
+DOMAIN-SUFFIX,cheyisou.com
+DOMAIN-SUFFIX,yccdn.com
+DOMAIN-SUFFIX,yiche.com

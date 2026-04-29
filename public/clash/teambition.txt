@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/teambition.txt
+# Name: teambition
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,teambition.com
+DOMAIN-SUFFIX,teambition.net
+DOMAIN-SUFFIX,teambitionapis.com

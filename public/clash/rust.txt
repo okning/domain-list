@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/rust.txt
+# Name: rust
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,rustup.rs

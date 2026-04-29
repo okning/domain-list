@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/economist.txt
+# Name: economist
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,economistgroup.com
+DOMAIN-SUFFIX,economistgroupcareers.com
+DOMAIN-SUFFIX,eiu.com

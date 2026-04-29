@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/hupu.txt
+# Name: hupu
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,hoopchina.com.cn
+DOMAIN-SUFFIX,hupu.com
+DOMAIN-SUFFIX,hupucdn.com
+DOMAIN-SUFFIX,shihuo.cn

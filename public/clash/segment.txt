@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/segment.txt
+# Name: segment
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,segmenthub.com
+DOMAIN-SUFFIX,segmentify.com

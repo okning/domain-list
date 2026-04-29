@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/lagou.txt
+# Name: lagou
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,lagou.com
+DOMAIN-SUFFIX,lgstatic.com

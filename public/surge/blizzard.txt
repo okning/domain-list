@@ -1,0 +1,19 @@
+# URL: https://s.nosec.me/surge/blizzard.txt
+# Name: blizzard
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 14
+
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diabloimmortal.com
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
+DOMAIN-SUFFIX,worldofwarcraft.com

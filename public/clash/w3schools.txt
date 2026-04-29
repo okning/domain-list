@@ -1,0 +1,6 @@
+# URL: https://s.nosec.me/clash/w3schools.txt
+# Name: w3schools
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 1
+
+DOMAIN-SUFFIX,w3schools.com

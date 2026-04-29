@@ -1,0 +1,35 @@
+# URL: https://s.nosec.me/surge/category-emby.txt
+# Name: category-emby
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 30
+
+DOMAIN-SUFFIX,123456.al
+DOMAIN-SUFFIX,404.sb
+DOMAIN-SUFFIX,4545.cf
+DOMAIN-SUFFIX,blueseacdn.com
+DOMAIN-SUFFIX,cn-music.mefun.vip
+DOMAIN-SUFFIX,emby.ml
+DOMAIN-SUFFIX,emby1.69yun69.com
+DOMAIN-SUFFIX,embyplus.club
+DOMAIN-SUFFIX,feverss.cloud
+DOMAIN-SUFFIX,gfwemby.org
+DOMAIN-SUFFIX,hongxingyunmovie.vip
+DOMAIN-SUFFIX,ju.dog
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,media-1.co.uk
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,nebula-emby.com
+DOMAIN-SUFFIX,nvidia.rip
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
+DOMAIN-SUFFIX,server2.cn2gias.uk
+DOMAIN-SUFFIX,sfcj.org
+DOMAIN-SUFFIX,sgtv.ii00.cc
+DOMAIN-SUFFIX,singularity.deja-vu.beauty
+DOMAIN-SUFFIX,sptv.ii00.cc
+DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX,stream.synn.cc
+DOMAIN-SUFFIX,texon.fans
+DOMAIN-SUFFIX,yunti.online

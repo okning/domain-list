@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/wise.txt
+# Name: wise
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wise.com

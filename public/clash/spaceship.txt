@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/spaceship.txt
+# Name: spaceship
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,spacemail.com
+DOMAIN-SUFFIX,spaceship.com

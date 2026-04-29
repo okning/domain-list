@@ -1,0 +1,6 @@
+# URL: https://s.nosec.me/surge/freecodecamp.txt
+# Name: freecodecamp
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 1
+
+DOMAIN-SUFFIX,freecodecamp.org

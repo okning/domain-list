@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/gismeteo-ru.txt
+# Name: gismeteo-ru
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,gismeteo.net
+DOMAIN-SUFFIX,gismeteo.ru
+DOMAIN-SUFFIX,gismeteo.st

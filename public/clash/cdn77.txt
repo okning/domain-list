@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/cdn77.txt
+# Name: cdn77
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,cdn77.com
+DOMAIN-SUFFIX,cdn77.org

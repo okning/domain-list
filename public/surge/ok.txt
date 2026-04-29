@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/surge/ok.txt
+# Name: ok
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,apiok.ru
+DOMAIN-SUFFIX,insideok.ru
+DOMAIN-SUFFIX,odkl.ru
+DOMAIN-SUFFIX,odnoklassniki.ru
+DOMAIN-SUFFIX,ok.me
+DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,okl.lt
+DOMAIN-SUFFIX,oktech.ru

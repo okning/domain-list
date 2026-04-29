@@ -1,0 +1,18 @@
+# URL: https://s.nosec.me/surge/logitech.txt
+# Name: logitech
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 13
+
+DOMAIN-SUFFIX,logi.com
+DOMAIN-SUFFIX,logicool.co.jp
+DOMAIN-SUFFIX,logicoolg.com
+DOMAIN-SUFFIX,logitech.biz
+DOMAIN-SUFFIX,logitech.com
+DOMAIN-SUFFIX,logitech.com.cn
+DOMAIN-SUFFIX,logitech.fr
+DOMAIN-SUFFIX,logitech.io
+DOMAIN-SUFFIX,logitechg.com
+DOMAIN-SUFFIX,logitechg.com.cn
+DOMAIN-SUFFIX,logitechg.fr
+DOMAIN-SUFFIX,logitechio.com.cn
+DOMAIN-SUFFIX,worldsfastestgamer.net

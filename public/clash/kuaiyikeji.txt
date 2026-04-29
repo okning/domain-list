@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/kuaiyikeji.txt
+# Name: kuaiyikeji
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,dengguobi.com
+DOMAIN-SUFFIX,houyicaiji.com
+DOMAIN-SUFFIX,jinglingbiaozhu.com

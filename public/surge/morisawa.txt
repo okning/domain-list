@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/morisawa.txt
+# Name: morisawa
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,morisawa.co.jp
+DOMAIN-SUFFIX,typesquare.com

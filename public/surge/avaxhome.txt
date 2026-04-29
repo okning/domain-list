@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/avaxhome.txt
+# Name: avaxhome
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,avh.world
+DOMAIN-SUFFIX,avxde.org
+DOMAIN-SUFFIX,avxhm.is
+DOMAIN-SUFFIX,avxhm.se
+DOMAIN-SUFFIX,avxlive.icu
+DOMAIN-SUFFIX,xsava.xyz
+DOMAIN-SUFFIX,zavat.pw

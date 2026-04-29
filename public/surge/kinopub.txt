@@ -1,0 +1,17 @@
+# URL: https://s.nosec.me/surge/kinopub.txt
+# Name: kinopub
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 12
+
+# REGEXP,(\w+)-static-[0-9]+\.cdntogo\.net$
+DOMAIN-SUFFIX,ahc.ovh
+DOMAIN-SUFFIX,cdn-service.space
+DOMAIN-SUFFIX,cdn2cdn.com
+DOMAIN-SUFFIX,cdn2site.com
+DOMAIN-SUFFIX,gfw.ovh
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,kinopub.online
+DOMAIN-SUFFIX,kpdl.link
+DOMAIN-SUFFIX,mos-gorsud.co
+DOMAIN-SUFFIX,pushbr.com
+DOMAIN-SUFFIX,smarttvcdn.online

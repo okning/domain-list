@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/imagecurl.txt
+# Name: imagecurl
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,imagecurl.com
+DOMAIN-SUFFIX,imagecurl.org
+DOMAIN-SUFFIX,imgcrl.org

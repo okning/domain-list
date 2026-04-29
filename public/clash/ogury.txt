@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/ogury.txt
+# Name: ogury
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,ogury.co
+DOMAIN-SUFFIX,ogury.com
+DOMAIN-SUFFIX,presage.io

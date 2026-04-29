@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/category-mooc-cn.txt
+# Name: category-mooc-cn
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 8
+
+DOMAIN-SUFFIX,chinesemooc.org
+DOMAIN-SUFFIX,cnmooc.org
+DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,icourses.cn
+DOMAIN-SUFFIX,icve.com.cn
+DOMAIN-SUFFIX,mooc.cn
+DOMAIN-SUFFIX,openlearning.com
+DOMAIN-SUFFIX,pmphmooc.com

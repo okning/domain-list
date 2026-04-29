@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/icable.txt
+# Name: icable
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,cabletv.com.hk
+DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,hkopentv.com
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,i-cablecomm.com

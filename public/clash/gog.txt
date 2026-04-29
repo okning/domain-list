@@ -1,0 +1,16 @@
+# URL: https://s.nosec.me/clash/gog.txt
+# Name: gog
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 11
+
+DOMAIN-REGEXP,^images(-\d)?\.gog-statics\.com$
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn.akamaized.net
+DOMAIN,gog.qtlglb.com
+DOMAIN,gogalaxy.gog-statics.com
+DOMAIN,menu-static.gog-statics.com
+DOMAIN,productcard.gog-statics.com
+DOMAIN,static-login.gog-statics.com
+DOMAIN,www4-static.gog-statics.com

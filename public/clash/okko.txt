@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/okko.txt
+# Name: okko
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,okkoapi.tv
+DOMAIN-SUFFIX,playfamily.ru

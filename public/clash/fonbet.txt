@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/fonbet.txt
+# Name: fonbet
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,bk6bba-resources.com
+DOMAIN-SUFFIX,bk6bba-resources.ru
+DOMAIN-SUFFIX,fon.bet
+DOMAIN-SUFFIX,fon.promo

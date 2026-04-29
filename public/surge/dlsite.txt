@@ -1,0 +1,15 @@
+# URL: https://s.nosec.me/surge/dlsite.txt
+# Name: dlsite
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 10
+
+DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,ci-en.jp
+DOMAIN-SUFFIX,ci-en.net
+DOMAIN-SUFFIX,dlaf.jp
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,dlsite.com.tw
+DOMAIN-SUFFIX,dlsite.jp
+DOMAIN-SUFFIX,dlsitestudio.com
+DOMAIN-SUFFIX,nijiyome.jp
+DOMAIN-SUFFIX,triokini.com

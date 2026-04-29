@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/category-ads-ir.txt
+# Name: category-ads-ir
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,adivery.com
+DOMAIN-SUFFIX,adivery.ir
+DOMAIN-SUFFIX,kaprila.com
+DOMAIN-SUFFIX,najva.com
+DOMAIN-SUFFIX,sabavision.com
+DOMAIN-SUFFIX,tapsell.ir
+DOMAIN-SUFFIX,yektanet.com

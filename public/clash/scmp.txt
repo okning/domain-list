@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/scmp.txt
+# Name: scmp
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,i-scmp.com
+DOMAIN-SUFFIX,scmp.com

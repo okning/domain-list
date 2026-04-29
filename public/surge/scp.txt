@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/scp.txt
+# Name: scp
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,scp-wiki.net
+DOMAIN-SUFFIX,scpdb.org
+DOMAIN-SUFFIX,scpwiki.com

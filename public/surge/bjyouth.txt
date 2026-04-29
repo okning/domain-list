@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/bjyouth.txt
+# Name: bjyouth
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,bjyouth.gov.cn
+DOMAIN-SUFFIX,bjyouth.net
+DOMAIN-SUFFIX,sqqnh.cn
+DOMAIN-SUFFIX,sqqnh.org

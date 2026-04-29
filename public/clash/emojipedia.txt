@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/emojipedia.txt
+# Name: emojipedia
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
+DOMAIN-SUFFIX,xn--yt8h.la

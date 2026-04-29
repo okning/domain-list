@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/chinaz.txt
+# Name: chinaz
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,chinaz.com
+DOMAIN-SUFFIX,chinaz.net

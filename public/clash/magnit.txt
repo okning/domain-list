@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/magnit.txt
+# Name: magnit
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,kazanexpress.ru
+DOMAIN-SUFFIX,magnit.com
+DOMAIN-SUFFIX,magnit.ru
+DOMAIN-SUFFIX,mm.ru

@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/clash/openstreetmap.txt
+# Name: openstreetmap
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,openmaps.org
+DOMAIN-SUFFIX,openstreetmap.com
+DOMAIN-SUFFIX,openstreetmap.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmfoundation.org
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org

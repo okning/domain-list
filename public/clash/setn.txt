@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/setn.txt
+# Name: setn
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,setn.com
+DOMAIN-SUFFIX,settv.com.tw

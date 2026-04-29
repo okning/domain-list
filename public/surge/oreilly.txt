@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/oreilly.txt
+# Name: oreilly
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,oreil.ly
+DOMAIN-SUFFIX,oreilly.com
+DOMAIN-SUFFIX,oreilly.com.cn
+DOMAIN-SUFFIX,oreilly.review
+DOMAIN-SUFFIX,oreillystatic.com
+DOMAIN-SUFFIX,orl.ly

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/swag.txt
+# Name: swag
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,5w.ag
+DOMAIN-SUFFIX,swag-live.co
+DOMAIN-SUFFIX,swag.live

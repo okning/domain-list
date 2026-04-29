@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/gannett.txt
+# Name: gannett
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,gannett-cdn.com
+DOMAIN-SUFFIX,gannett.com
+DOMAIN-SUFFIX,gannettdigital.com
+DOMAIN-SUFFIX,usatoday.com
+DOMAIN-SUFFIX,usatodaynetworkservice.com

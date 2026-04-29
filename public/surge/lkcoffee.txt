@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/lkcoffee.txt
+# Name: lkcoffee
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
+DOMAIN-SUFFIX,yyds.co

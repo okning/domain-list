@@ -1,0 +1,18 @@
+# URL: https://s.nosec.me/surge/category-betting-ru.txt
+# Name: category-betting-ru
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 13
+
+DOMAIN-SUFFIX,betboom.ru
+DOMAIN-SUFFIX,bk6bba-resources.com
+DOMAIN-SUFFIX,bk6bba-resources.ru
+DOMAIN-SUFFIX,fon.bet
+DOMAIN-SUFFIX,fon.promo
+DOMAIN-SUFFIX,ligadobra.ru
+DOMAIN-SUFFIX,ligastavok-csr.ru
+DOMAIN-SUFFIX,ligastavok.ru
+DOMAIN-SUFFIX,mobile-bb.com
+DOMAIN-SUFFIX,sozvezdie-dobra.ru
+DOMAIN-SUFFIX,win-line.ru
+DOMAIN-SUFFIX,winline.ru
+DOMAIN-SUFFIX,winlinebet.ru

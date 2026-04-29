@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/dongjiao.txt
+# Name: dongjiao
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,anmo.com
+DOMAIN-SUFFIX,djdjapp.com
+DOMAIN-SUFFIX,dongjiao.cc
+DOMAIN-SUFFIX,dongjiaoapp.com

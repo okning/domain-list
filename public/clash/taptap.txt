@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/clash/taptap.txt
+# Name: taptap
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,tapapks.com
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,tapimg.net
+DOMAIN-SUFFIX,taptap.cn
+DOMAIN-SUFFIX,taptap.com
+DOMAIN-SUFFIX,taptap.io
+DOMAIN-SUFFIX,taptapdada.com

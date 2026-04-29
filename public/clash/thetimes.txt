@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/clash/thetimes.txt
+# Name: thetimes
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,driving.co.uk
+DOMAIN-SUFFIX,mytimesplus.co.uk
+DOMAIN-SUFFIX,sportswomanoftheyear.co.uk
+DOMAIN-SUFFIX,sportswomenoftheyear.co.uk
+DOMAIN-SUFFIX,the-tls.co.uk
+DOMAIN-SUFFIX,thesundaytimes.co.uk
+DOMAIN-SUFFIX,thetimes.co.uk
+DOMAIN-SUFFIX,thetimes.ie
+DOMAIN-SUFFIX,timesmembership.com

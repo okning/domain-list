@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/signal.txt
+# Name: signal
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 8
+
+DOMAIN-SUFFIX,signal.art
+DOMAIN-SUFFIX,signal.group
+DOMAIN-SUFFIX,signal.link
+DOMAIN-SUFFIX,signal.me
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,signal.tube
+DOMAIN-SUFFIX,signalusers.org
+DOMAIN-SUFFIX,whispersystems.org

@@ -1,0 +1,16 @@
+# URL: https://s.nosec.me/clash/brightcove.txt
+# Name: brightcove
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 11
+
+DOMAIN-SUFFIX,bcove.video
+DOMAIN-SUFFIX,bcovlive.io
+DOMAIN-SUFFIX,bcvp0rtal.com
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,brightcove.net
+DOMAIN-SUFFIX,brightcove.services
+DOMAIN-SUFFIX,brightcovecdn.com
+DOMAIN-SUFFIX,videojs.com
+DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,zencoder.com

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/meitu.txt
+# Name: meitu
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,meitu.com
+DOMAIN-SUFFIX,meitudata.com
+DOMAIN-SUFFIX,meitustat.com

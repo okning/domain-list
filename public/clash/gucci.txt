@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/clash/gucci.txt
+# Name: gucci
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,chimeforchange.org
+DOMAIN-SUFFIX,gucci
+DOMAIN-SUFFIX,gucci.cn
+DOMAIN-SUFFIX,gucci.com
+DOMAIN-SUFFIX,guccimuseo.com
+DOMAIN-SUFFIX,guccitimeless.com
+DOMAIN-SUFFIX,regiongold.com

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/npmjs.txt
+# Name: npmjs
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org

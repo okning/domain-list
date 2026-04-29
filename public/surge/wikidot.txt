@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/wikidot.txt
+# Name: wikidot
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,wdfiles.com
+DOMAIN-SUFFIX,wikidot.com

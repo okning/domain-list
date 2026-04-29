@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/clash/lysol.txt
+# Name: lysol
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,lizol.co.in
+DOMAIN-SUFFIX,lysol.ca
+DOMAIN-SUFFIX,lysol.cl
+DOMAIN-SUFFIX,lysol.cn
+DOMAIN-SUFFIX,lysol.co.cr
+DOMAIN-SUFFIX,lysol.com
+DOMAIN-SUFFIX,lysol.com.cn
+DOMAIN-SUFFIX,lysol.com.mx
+DOMAIN-SUFFIX,lysol.net

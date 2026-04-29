@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/xvideos.txt
+# Name: xvideos
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,xv-ru.com
+DOMAIN-SUFFIX,xvideos-ar.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideos-india.com
+DOMAIN-SUFFIX,xvideos.com

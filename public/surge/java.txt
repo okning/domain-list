@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/java.txt
+# Name: java
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,java
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net

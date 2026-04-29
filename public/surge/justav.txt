@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/justav.txt
+# Name: justav
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,hkporn.net
+DOMAIN-SUFFIX,justav.net
+DOMAIN-SUFFIX,twporn.net

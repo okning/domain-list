@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/certum.txt
+# Name: certum
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,certum.pl
+DOMAIN-SUFFIX,ocsp-certum.com
+DOMAIN-SUFFIX,ocsp-responder.com

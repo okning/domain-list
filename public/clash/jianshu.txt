@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/jianshu.txt
+# Name: jianshu
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,jianshuapi.com

@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/lisiku.txt
+# Name: lisiku
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,lisiku.com
+DOMAIN-SUFFIX,lisiku1.com

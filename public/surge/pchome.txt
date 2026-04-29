@@ -1,0 +1,16 @@
+# URL: https://s.nosec.me/surge/pchome.txt
+# Name: pchome
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 11
+
+DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pchomeec.tw
+DOMAIN-SUFFIX,pchomeonline.com.tw
+DOMAIN-SUFFIX,pchomepay.com.tw
+DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,pcstore.com.tw
+DOMAIN-SUFFIX,piapp.com.tw
+DOMAIN-SUFFIX,rakuya.com.tw
+DOMAIN-SUFFIX,tagapie.com.tw
+DOMAIN-SUFFIX,toget.com.tw

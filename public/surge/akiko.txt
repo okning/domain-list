@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/akiko.txt
+# Name: akiko
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,akikocorp.cn
+DOMAIN-SUFFIX,emoriko.com
+DOMAIN-SUFFIX,sukasuka.cn

@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/surge/hoyoverse.txt
+# Name: hoyoverse
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,zenlesszonezero.com

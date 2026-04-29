@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/tailscale.txt
+# Name: tailscale
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net

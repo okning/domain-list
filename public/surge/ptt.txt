@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/ptt.txt
+# Name: ptt
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,ptt2.cc
+DOMAIN-SUFFIX,ptt3.cc

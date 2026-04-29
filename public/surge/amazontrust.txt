@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/amazontrust.txt
+# Name: amazontrust
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,awstrust.com
+DOMAIN-SUFFIX,ss2.us

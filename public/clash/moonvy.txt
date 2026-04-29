@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/moonvy.txt
+# Name: moonvy
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,moonvy.com
+DOMAIN-SUFFIX,moonvy.cool

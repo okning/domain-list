@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/hanyi.txt
+# Name: hanyi
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,fontstar.com.cn
+DOMAIN-SUFFIX,hanyi.com
+DOMAIN-SUFFIX,hanyi.com.cn
+DOMAIN-SUFFIX,hellofont.cn
+DOMAIN-SUFFIX,hellowebfont.com

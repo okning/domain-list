@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/baltamatica.txt
+# Name: baltamatica
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,baltamatica.cn
+DOMAIN-SUFFIX,baltamatica.com
+DOMAIN-SUFFIX,baltamatica.net
+DOMAIN-SUFFIX,baltamatica.org.cn

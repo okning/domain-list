@@ -1,0 +1,6 @@
+# URL: https://s.nosec.me/surge/github-copilot.txt
+# Name: github-copilot
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 1
+
+DOMAIN-SUFFIX,githubcopilot.com

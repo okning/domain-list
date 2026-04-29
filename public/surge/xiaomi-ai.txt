@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/xiaomi-ai.txt
+# Name: xiaomi-ai
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,xiaomimimo.com

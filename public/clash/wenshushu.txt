@@ -1,0 +1,17 @@
+# URL: https://s.nosec.me/clash/wenshushu.txt
+# Name: wenshushu
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 12
+
+DOMAIN-SUFFIX,wenshushu.cn
+DOMAIN-SUFFIX,wenshushu.com
+DOMAIN-SUFFIX,wenxiaozhan.cn
+DOMAIN-SUFFIX,wenxiaozhan.com
+DOMAIN-SUFFIX,wenxiaozhan.net
+DOMAIN-SUFFIX,wss.cc
+DOMAIN-SUFFIX,wss.email
+DOMAIN-SUFFIX,wss.ink
+DOMAIN-SUFFIX,wss.pet
+DOMAIN-SUFFIX,wss.show
+DOMAIN-SUFFIX,wss.zone
+DOMAIN-SUFFIX,wss1.cn

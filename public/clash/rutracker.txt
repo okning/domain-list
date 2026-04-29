@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/clash/rutracker.txt
+# Name: rutracker
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 8
+
+DOMAIN-SUFFIX,maintracker.org
+DOMAIN-SUFFIX,rutracker.cc
+DOMAIN-SUFFIX,rutracker.cr
+DOMAIN-SUFFIX,rutracker.me
+DOMAIN-SUFFIX,rutracker.net
+DOMAIN-SUFFIX,rutracker.nl
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutrk.org

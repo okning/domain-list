@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/stripe.txt
+# Name: stripe
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,link.com
+DOMAIN-SUFFIX,stripe-terminal-local-reader.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com

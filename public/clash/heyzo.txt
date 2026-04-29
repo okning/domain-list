@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/heyzo.txt
+# Name: heyzo
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,heydoga.com
+DOMAIN-SUFFIX,heyzo.com

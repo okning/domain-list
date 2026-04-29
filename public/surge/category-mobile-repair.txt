@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/surge/category-mobile-repair.txt
+# Name: category-mobile-repair
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,androidfilehost.com
+DOMAIN-SUFFIX,borneo.world
+DOMAIN-SUFFIX,borneoasia.com
+DOMAIN-SUFFIX,borneoschematic.com
+DOMAIN-SUFFIX,bosharso.net
+DOMAIN-SUFFIX,easy-jtag.com
+DOMAIN-SUFFIX,hostborneo.org
+DOMAIN-SUFFIX,unlocktool.net
+DOMAIN-SUFFIX,z3x-team.com

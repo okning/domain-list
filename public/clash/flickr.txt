@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/flickr.txt
+# Name: flickr
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 5
+
+DOMAIN-SUFFIX,flic.kr
+DOMAIN-SUFFIX,flickr
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,staticflickr.com

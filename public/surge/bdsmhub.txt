@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/bdsmhub.txt
+# Name: bdsmhub
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,bdsm123.xyz
+DOMAIN-SUFFIX,bondagesm.xyz

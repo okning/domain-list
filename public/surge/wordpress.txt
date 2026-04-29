@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/surge/wordpress.txt
+# Name: wordpress
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 9
+
+DOMAIN-SUFFIX,videopress.com
+DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.net
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wpvip.com

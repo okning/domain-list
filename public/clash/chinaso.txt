@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/chinaso.txt
+# Name: chinaso
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,chinaso.com
+DOMAIN-SUFFIX,pg0.cn

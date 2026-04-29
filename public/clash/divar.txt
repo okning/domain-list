@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/divar.txt
+# Name: divar
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,divar.cloud
+DOMAIN-SUFFIX,divar.ir
+DOMAIN-SUFFIX,divarcdn.com

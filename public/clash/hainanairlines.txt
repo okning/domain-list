@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/hainanairlines.txt
+# Name: hainanairlines
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,10044.cn
+DOMAIN-SUFFIX,hainanairlines.com
+DOMAIN-SUFFIX,hnacargo.com
+DOMAIN-SUFFIX,hnair.com

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/maocloud.txt
+# Name: maocloud
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,maoyun.com
+DOMAIN-SUFFIX,maoyuncloud.cn
+DOMAIN-SUFFIX,maoyuncloud.com

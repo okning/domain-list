@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/oneplus.txt
+# Name: oneplus
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 8
+
+DOMAIN-SUFFIX,h2os.com
+DOMAIN-SUFFIX,oneplus.cn
+DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,oneplus.net
+DOMAIN-SUFFIX,oneplusbbs.com
+DOMAIN-SUFFIX,oneplusmobile.com
+DOMAIN-SUFFIX,opstatics.com
+DOMAIN,community.oneplus.com

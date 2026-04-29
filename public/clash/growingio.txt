@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/clash/growingio.txt
+# Name: growingio
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,datayi.cn
+DOMAIN-SUFFIX,gio.ren
+DOMAIN-SUFFIX,giocdn.com
+DOMAIN-SUFFIX,growin.cn
+DOMAIN-SUFFIX,growingio.cn
+DOMAIN-SUFFIX,growingio.com

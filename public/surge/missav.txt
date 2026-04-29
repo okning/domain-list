@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/missav.txt
+# Name: missav
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 7
+
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,missav.live
+DOMAIN-SUFFIX,missav.uno
+DOMAIN-SUFFIX,missav.vip
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,missav123.com

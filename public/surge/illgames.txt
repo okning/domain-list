@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/illgames.txt
+# Name: illgames
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,illgames.jp
+DOMAIN-SUFFIX,japan-illgames.com

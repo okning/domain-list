@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/polyv.txt
+# Name: polyv
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,polyv.net
+DOMAIN-SUFFIX,videocc.net

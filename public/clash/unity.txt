@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/unity.txt
+# Name: unity
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,iads.unity3d.com
+DOMAIN-SUFFIX,unity.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,unityads.unity3d.com

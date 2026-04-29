@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/nordstrom.txt
+# Name: nordstrom
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,nordstrom.com
+DOMAIN-SUFFIX,nordstrommedia.com

@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/clash/entermediadb.txt
+# Name: entermediadb
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,entermediadb.net
+DOMAIN-SUFFIX,entermediadb.org

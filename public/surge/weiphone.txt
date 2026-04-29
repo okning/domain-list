@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/weiphone.txt
+# Name: weiphone
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 4
+
+DOMAIN-SUFFIX,feng.com
+DOMAIN-SUFFIX,fengimg.com
+DOMAIN-SUFFIX,weiphone.net
+DOMAIN-SUFFIX,wfdata.club

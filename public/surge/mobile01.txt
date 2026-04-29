@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/mobile01.txt
+# Name: mobile01
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 2
+
+DOMAIN-SUFFIX,5i01.com
+DOMAIN-SUFFIX,mobile01.com

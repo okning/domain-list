@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/ciweimao.txt
+# Name: ciweimao
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,ciweimao.com
+DOMAIN-SUFFIX,hbooker.com
+DOMAIN-SUFFIX,kuangxiangit.com

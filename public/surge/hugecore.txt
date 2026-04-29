@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/hugecore.txt
+# Name: hugecore
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 3
+
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,shareintelli.com

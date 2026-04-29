@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/qimao.txt
+# Name: qimao
+# Updated: Wed Apr 29 03:34:37 UTC 2026
+# Total: 6
+
+DOMAIN-SUFFIX,jiuyue919.com
+DOMAIN-SUFFIX,qimao.com
+DOMAIN-SUFFIX,qm989.com
+DOMAIN-SUFFIX,qmniu.com
+DOMAIN-SUFFIX,quehu.com
+DOMAIN-SUFFIX,wtzw.com
