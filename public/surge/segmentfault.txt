@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/segmentfault.txt
+# Name: segmentfault
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,segmentfault.com
+DOMAIN-SUFFIX,sifou.com

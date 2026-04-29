@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/nikke.txt
+# Name: nikke
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN-SUFFIX,nikke-de.com
+DOMAIN-SUFFIX,nikke-en.com
+DOMAIN-SUFFIX,nikke-fr.com
+DOMAIN-SUFFIX,nikke-jp.com
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,nikke-sea.com

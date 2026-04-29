@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/xiaoheihe.txt
+# Name: xiaoheihe
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 8
+
+DOMAIN-SUFFIX,1xhh.cn
+DOMAIN-SUFFIX,accxiaoheihe.com
+DOMAIN-SUFFIX,chat.top
+DOMAIN-SUFFIX,debugmode.cn
+DOMAIN-SUFFIX,max-c.com
+DOMAIN-SUFFIX,maxadmin.cn
+DOMAIN-SUFFIX,maxjia.com
+DOMAIN-SUFFIX,xiaoheihe.cn

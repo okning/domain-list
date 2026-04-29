@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/ganji.txt
+# Name: ganji
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,58ganji-corp.com
+DOMAIN-SUFFIX,58ganji.com
+DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,ganjistatic1.com

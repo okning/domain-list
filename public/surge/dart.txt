@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/dart.txt
+# Name: dart
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,dart.dev
+DOMAIN-SUFFIX,dartlang.org
+DOMAIN-SUFFIX,dartpad.dev

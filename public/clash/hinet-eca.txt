@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/hinet-eca.txt
+# Name: hinet-eca
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,eca.hinet.net
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw
+DOMAIN-SUFFIX,pki.hinet.net
+DOMAIN-SUFFIX,publicca.hinet.net
+DOMAIN-SUFFIX,tls.hinet.net

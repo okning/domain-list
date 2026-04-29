@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/kodik.txt
+# Name: kodik
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,kodik-storage.com
+DOMAIN-SUFFIX,kodik.biz
+DOMAIN-SUFFIX,kodik.cc
+DOMAIN-SUFFIX,kodik.info
+DOMAIN-SUFFIX,kodikplayer.com

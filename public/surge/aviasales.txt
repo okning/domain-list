@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/aviasales.txt
+# Name: aviasales
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,aviasales.com
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,avs.io

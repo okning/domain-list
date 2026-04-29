@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/fontshop.txt
+# Name: fontshop
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,fontbook.com
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
+DOMAIN-SUFFIX,fontshop.com
+DOMAIN-SUFFIX,fstopimages.com

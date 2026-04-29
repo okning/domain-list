@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/thetype.txt
+# Name: thetype
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,thetype.cloud
+DOMAIN-SUFFIX,thetype.com
+DOMAIN-SUFFIX,typeisbeautiful.com

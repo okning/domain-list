@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/sling.txt
+# Name: sling
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,dishworld.com
+DOMAIN-SUFFIX,movenetworks.com
+DOMAIN-SUFFIX,movetv.com
+DOMAIN-SUFFIX,sling.com
+DOMAIN-SUFFIX,slinginternational.com

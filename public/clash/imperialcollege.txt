@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/imperialcollege.txt
+# Name: imperialcollege
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,ic.ac.uk
+DOMAIN-SUFFIX,imperial.ac.uk
+DOMAIN,imperial.insendi.com
+DOMAIN-SUFFIX,imperialbusiness.school

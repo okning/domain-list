@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/ruten.txt
+# Name: ruten
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,rimg.com.tw
+DOMAIN-SUFFIX,ruten.com.tw

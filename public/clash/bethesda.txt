@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/bethesda.txt
+# Name: bethesda
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN-SUFFIX,beth.games
+DOMAIN-SUFFIX,bethesda.net
+DOMAIN-SUFFIX,bethesdagamestudios.com
+DOMAIN-SUFFIX,bethsoft.com
+DOMAIN-SUFFIX,doom.com
+DOMAIN-SUFFIX,elderscrolls.com

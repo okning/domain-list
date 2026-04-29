@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/piratebay.txt
+# Name: piratebay
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,apibay.org
+DOMAIN-SUFFIX,pirates-forum.org
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,torrindex.net

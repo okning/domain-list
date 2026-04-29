@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/aamgame.txt
+# Name: aamgame
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,aamgame.com
+DOMAIN-SUFFIX,aamgame.mobi
+DOMAIN-SUFFIX,aamgame.net
+DOMAIN-SUFFIX,aamsmart.com
+DOMAIN-SUFFIX,singworld.net

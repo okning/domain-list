@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/creativecommons.txt
+# Name: creativecommons
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,licensebuttons.net

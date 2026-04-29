@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/bitly.txt
+# Name: bitly
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bitly.is

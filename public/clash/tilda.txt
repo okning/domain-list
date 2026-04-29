@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/tilda.txt
+# Name: tilda
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,tilda.cc
+DOMAIN-SUFFIX,tilda.ru
+DOMAIN-SUFFIX,tilda.ws
+DOMAIN-SUFFIX,tildaapi.com
+DOMAIN-SUFFIX,tildacdn.com

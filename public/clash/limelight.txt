@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/limelight.txt
+# Name: limelight
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 8
+
+DOMAIN-SUFFIX,delvenetworks.com
+DOMAIN-SUFFIX,limelight.com
+DOMAIN-SUFFIX,lldns.net
+DOMAIN-SUFFIX,llnw-trials.com
+DOMAIN-SUFFIX,llnw.com
+DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,llnwi.net

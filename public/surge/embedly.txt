@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/embedly.txt
+# Name: embedly
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,embed.ly
+DOMAIN-SUFFIX,embedly.com
+DOMAIN-SUFFIX,playerjs.io

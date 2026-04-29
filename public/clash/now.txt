@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/now.txt
+# Name: now
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN-SUFFIX,now-ashare.com
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,now.com.hk
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowe.hk

@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/soundcloud.txt
+# Name: soundcloud
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.cloud
+DOMAIN-SUFFIX,soundcloud.com

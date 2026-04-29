@@ -1,0 +1,17 @@
+# URL: https://s.nosec.me/surge/anker.txt
+# Name: anker
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 12
+
+DOMAIN-SUFFIX,anker-in.com
+DOMAIN-SUFFIX,anker.com
+DOMAIN-SUFFIX,anker.com.cn
+DOMAIN-SUFFIX,ankersolix.com
+DOMAIN-SUFFIX,ankerwork.cn
+DOMAIN-SUFFIX,eufy.com
+DOMAIN-SUFFIX,eufycn.com
+DOMAIN-SUFFIX,eufylife.com
+DOMAIN-SUFFIX,eufymake.com
+DOMAIN-SUFFIX,eufymake.com.cn
+DOMAIN-SUFFIX,soundcore.com
+DOMAIN-SUFFIX,soundcore.com.cn

@@ -1,0 +1,15 @@
+# URL: https://s.nosec.me/surge/ishumei.txt
+# Name: ishumei
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 10
+
+DOMAIN-SUFFIX,fengkongbao.com
+DOMAIN-SUFFIX,fengkongcloud.cn
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,ishumei.com
+DOMAIN-SUFFIX,portal101.cn
+DOMAIN-SUFFIX,portal102.cn
+DOMAIN-SUFFIX,portal201.cn
+DOMAIN-SUFFIX,portal301.cn
+DOMAIN-SUFFIX,tebiefuza.cloud
+DOMAIN-SUFFIX,tebiefuza.cn

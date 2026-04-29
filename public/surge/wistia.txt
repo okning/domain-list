@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/wistia.txt
+# Name: wistia
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
+DOMAIN-SUFFIX,wistia.com
+DOMAIN-SUFFIX,wistia.net

@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/nexon.txt
+# Name: nexon
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,nexon.co.jp
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexoncdn.co.kr

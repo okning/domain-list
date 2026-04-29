@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/beisen.txt
+# Name: beisen
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 8
+
+DOMAIN-SUFFIX,beisen.cn
+DOMAIN-SUFFIX,beisen.com
+DOMAIN-SUFFIX,beisenapp.com
+DOMAIN-SUFFIX,beisencloud.com
+DOMAIN-SUFFIX,beisenpaas.com
+DOMAIN-SUFFIX,bsurl.cc
+DOMAIN-SUFFIX,bsurl.cn
+DOMAIN-SUFFIX,zhiye.com

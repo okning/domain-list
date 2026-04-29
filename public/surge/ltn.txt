@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/ltn.txt
+# Name: ltn
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,ltn.com.tw
+DOMAIN-SUFFIX,yes123.com.tw

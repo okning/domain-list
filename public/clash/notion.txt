@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/notion.txt
+# Name: notion
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com

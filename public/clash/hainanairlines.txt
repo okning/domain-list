@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/hainanairlines.txt
+# Name: hainanairlines
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,10044.cn
+DOMAIN-SUFFIX,hainanairlines.com
+DOMAIN-SUFFIX,hnacargo.com
+DOMAIN-SUFFIX,hnair.com

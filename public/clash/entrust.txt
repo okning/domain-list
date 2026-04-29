@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/surge/entrust.txt
+# Name: entrust
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 9
+
+DOMAIN-SUFFIX,affirmtrust.com
+DOMAIN-SUFFIX,atos.net
+DOMAIN-SUFFIX,certificat2.com
+DOMAIN-SUFFIX,entrust.cn
+DOMAIN-SUFFIX,entrust.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN-SUFFIX,myatos.net
+DOMAIN-SUFFIX,trendmicro.com

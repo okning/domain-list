@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/cavporn.txt
+# Name: cavporn
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-REGEXP,(^|\.)cav1(0[2-9]|1[0-9])\.com$
+DOMAIN-SUFFIX,cavporn.com
+DOMAIN-SUFFIX,cavporn.github.io

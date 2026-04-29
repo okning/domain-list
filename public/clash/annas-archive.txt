@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/annas-archive.txt
+# Name: annas-archive
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 8
+
+DOMAIN-SUFFIX,annas-archive.gd
+DOMAIN-SUFFIX,annas-archive.gl
+DOMAIN-SUFFIX,annas-archive.in
+DOMAIN-SUFFIX,annas-archive.li
+DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,annas-archive.pk
+DOMAIN-SUFFIX,annas-archive.pm
+DOMAIN-SUFFIX,annas-archive.se

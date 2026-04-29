@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/gog.txt
+# Name: gog
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 7
+
+DOMAIN-REGEXP,^cdn-akamai-.+\.gog-services\.com$
+DOMAIN-REGEXP,^gog-cdn-.+\.footprint\.net$
+DOMAIN-REGEXP,^images(-\d)?\.gog-statics\.com$
+DOMAIN,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+DOMAIN,gog.qtlglb.com

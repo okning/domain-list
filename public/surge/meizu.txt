@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/meizu.txt
+# Name: meizu
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN-SUFFIX,flyme.cn
+DOMAIN-SUFFIX,flyme.com
+DOMAIN-SUFFIX,flymeauto.com
+DOMAIN-SUFFIX,meizu.cn
+DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,mzres.com

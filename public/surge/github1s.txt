@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/github1s.txt
+# Name: github1s
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,github1s.com
+DOMAIN-SUFFIX,sourcegraph.com

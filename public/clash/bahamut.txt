@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/bahamut.txt
+# Name: bahamut
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN,gamer2-cds.cdn.hinet.net

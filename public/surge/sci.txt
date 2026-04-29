@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/sci.txt
+# Name: sci
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,isiknowledge.com
+DOMAIN-SUFFIX,newisiknowledge.com

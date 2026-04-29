@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/projectpoi.txt
+# Name: projectpoi
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,poi.icu
+DOMAIN-SUFFIX,poi6.net
+DOMAIN-SUFFIX,poihub.com
+DOMAIN-SUFFIX,project-poi.com

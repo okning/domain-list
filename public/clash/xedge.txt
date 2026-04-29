@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/xedge.txt
+# Name: xedge
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,ganjiangvpn.com
+DOMAIN-SUFFIX,glxcc.net
+DOMAIN-SUFFIX,xedge.cc
+DOMAIN-SUFFIX,xn0.cc

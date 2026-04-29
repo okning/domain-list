@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/wbgames.txt
+# Name: wbgames
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN,datarouter.apps.netherrealm.com
+DOMAIN-SUFFIX,warnerbrosgames.com
+DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+DOMAIN-SUFFIX,wbagora.com
+DOMAIN-SUFFIX,wbgames.com
+DOMAIN-SUFFIX,wbinsights.com

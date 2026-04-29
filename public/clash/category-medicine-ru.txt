@@ -1,0 +1,17 @@
+# URL: https://s.nosec.me/surge/category-medicine-ru.txt
+# Name: category-medicine-ru
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 12
+
+DOMAIN-SUFFIX,emias.info
+DOMAIN-SUFFIX,emias.ru
+DOMAIN-SUFFIX,klinikabudzdorov.ru
+DOMAIN-SUFFIX,lk.emias.mos.ru
+DOMAIN-SUFFIX,medsi-premium.ru
+DOMAIN-SUFFIX,medsi.com
+DOMAIN-SUFFIX,medsi.pro
+DOMAIN-SUFFIX,medsi.ru
+DOMAIN-SUFFIX,mosgorzdrav.ru
+DOMAIN-SUFFIX,polyclinika.ru
+DOMAIN-SUFFIX,smartmed.pro
+DOMAIN-SUFFIX,vipmed.ru

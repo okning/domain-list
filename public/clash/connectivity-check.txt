@@ -1,0 +1,22 @@
+# URL: https://s.nosec.me/surge/connectivity-check.txt
+# Name: connectivity-check
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 17
+
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN,connect.rom.miui.com
+DOMAIN,connectivity-check.ubuntu.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN,connectivitycheck.platform.hicloud.com
+DOMAIN,connectivitycheck.platform.hihonorcloud.com
+DOMAIN-SUFFIX,cp.cloudflare.com
+DOMAIN-SUFFIX,detectportal.firefox.com
+DOMAIN-SUFFIX,ipv6check-http.steamserver.net
+DOMAIN-SUFFIX,ipv6check-udp.steamserver.net
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,network-test.debian.org
+DOMAIN-SUFFIX,networkcheck.kde.org
+DOMAIN,ping.archlinux.org
+DOMAIN,redirect.archlinux.org
+DOMAIN-SUFFIX,test.steampowered.com

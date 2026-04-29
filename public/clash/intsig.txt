@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/intsig.txt
+# Name: intsig
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,camcard.com
+DOMAIN-SUFFIX,camscanner.com
+DOMAIN-SUFFIX,intsig.com
+DOMAIN-SUFFIX,intsig.net
+DOMAIN-SUFFIX,qixin.com

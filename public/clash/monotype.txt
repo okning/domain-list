@@ -1,0 +1,19 @@
+# URL: https://s.nosec.me/surge/monotype.txt
+# Name: monotype
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 14
+
+DOMAIN-SUFFIX,bitstream.com
+DOMAIN-SUFFIX,fontbook.com
+DOMAIN-SUFFIX,fontexplorerx.com
+DOMAIN-SUFFIX,fonts.com
+DOMAIN-SUFFIX,fonts.net
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
+DOMAIN-SUFFIX,fontshop.com
+DOMAIN-SUFFIX,fstopimages.com
+DOMAIN-SUFFIX,itcfonts.com
+DOMAIN-SUFFIX,linotype.com
+DOMAIN-SUFFIX,monotype.com
+DOMAIN-SUFFIX,monotypeimaging.com
+DOMAIN-SUFFIX,myfonts.com
+DOMAIN-SUFFIX,myfonts.net

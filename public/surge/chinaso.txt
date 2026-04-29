@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/chinaso.txt
+# Name: chinaso
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,chinaso.com
+DOMAIN-SUFFIX,pg0.cn

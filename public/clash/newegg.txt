@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/newegg.txt
+# Name: newegg
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,newegg.com
+DOMAIN-SUFFIX,neweggimages.com

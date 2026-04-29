@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/javdb.txt
+# Name: javdb
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,jav.app
+DOMAIN-SUFFIX,javdb.com
+# REGEXP,javdb\d+\.com$
+DOMAIN-SUFFIX,jdbimgs.com
+DOMAIN-SUFFIX,jdbstatic.com

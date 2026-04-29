@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/projectsekai.txt
+# Name: projectsekai
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,pjsekai.sega.jp
+DOMAIN-SUFFIX,sekai.colorfulpalette.org

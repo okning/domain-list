@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/duolingo.txt
+# Name: duolingo
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com

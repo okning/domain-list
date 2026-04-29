@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/ftv.txt
+# Name: ftv
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ftv.com.tw
+DOMAIN-SUFFIX,ftvnews.com.tw

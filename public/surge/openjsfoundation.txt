@@ -1,0 +1,17 @@
+# URL: https://s.nosec.me/surge/openjsfoundation.txt
+# Name: openjsfoundation
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 12
+
+DOMAIN,amp.akamaized.net
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,electronjs.org
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,jquerymobile.com
+DOMAIN-SUFFIX,jqueryui.com
+DOMAIN-SUFFIX,mochajs.org
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,openjsf.org

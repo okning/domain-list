@@ -1,0 +1,24 @@
+# URL: https://s.nosec.me/surge/msn.txt
+# Name: msn
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 19
+
+DOMAIN-SUFFIX,microsoftnews.cc
+DOMAIN-SUFFIX,microsoftnews.cn
+DOMAIN-SUFFIX,microsoftnews.com
+DOMAIN-SUFFIX,microsoftnews.net
+DOMAIN-SUFFIX,microsoftnews.org
+DOMAIN-SUFFIX,microsoftnewsforkids.com
+DOMAIN-SUFFIX,microsoftnewsforkids.net
+DOMAIN-SUFFIX,microsoftnewsforkids.org
+DOMAIN-SUFFIX,microsoftnewskids.com
+DOMAIN-SUFFIX,microsoftnewskids.net
+DOMAIN-SUFFIX,microsoftnewskids.org
+DOMAIN-SUFFIX,microsoftstart.com
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msnewskids.com
+DOMAIN-SUFFIX,msnewskids.net
+DOMAIN-SUFFIX,msnewskids.org
+DOMAIN-SUFFIX,msnkids.com
+DOMAIN-SUFFIX,start.com

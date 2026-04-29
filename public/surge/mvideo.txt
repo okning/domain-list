@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/mvideo.txt
+# Name: mvideo
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,acmvid.com
+DOMAIN,mvideo.edna.io
+DOMAIN-SUFFIX,mvideo.ru

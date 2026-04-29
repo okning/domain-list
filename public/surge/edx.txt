@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/edx.txt
+# Name: edx
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,edx-cdn.org
+DOMAIN-SUFFIX,edx.org

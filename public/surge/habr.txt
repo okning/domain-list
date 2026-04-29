@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/habr.txt
+# Name: habr
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org

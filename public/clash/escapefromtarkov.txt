@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/escapefromtarkov.txt
+# Name: escapefromtarkov
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,eft-store.com
+DOMAIN-SUFFIX,escapefromtarkov.com
+DOMAIN-SUFFIX,tarkov.com

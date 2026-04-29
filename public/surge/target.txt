@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/target.txt
+# Name: target
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,target
+DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,targetimg1.com

@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/asus.txt
+# Name: asus
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,asus.com
+DOMAIN-SUFFIX,asus.com.cn
+DOMAIN-SUFFIX,asuscloud.com
+DOMAIN-SUFFIX,asuswebstorage.com

@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/acplay.txt
+# Name: acplay
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,acplay.net
+DOMAIN-SUFFIX,dandanplay.com

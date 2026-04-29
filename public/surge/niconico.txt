@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/niconico.txt
+# Name: niconico
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 8
+
+DOMAIN-SUFFIX,nico
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp

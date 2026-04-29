@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/aparat.txt
+# Name: aparat
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,aparat.com
+DOMAIN-SUFFIX,aparatkids.com
+DOMAIN-SUFFIX,aparatsport.com

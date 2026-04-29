@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/anthropic.txt
+# Name: anthropic
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 7
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,servd-anthropic-website.b-cdn.net

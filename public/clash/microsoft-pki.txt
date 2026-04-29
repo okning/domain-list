@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/microsoft-pki.txt
+# Name: microsoft-pki
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN,crl.microsoft.com
+DOMAIN,mscrl.microsoft.com
+DOMAIN-SUFFIX,msocsp.com
+DOMAIN,ocsp.microsoft.com
+DOMAIN,oneocsp.microsoft.com
+DOMAIN,www.microsoft.com

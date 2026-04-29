@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/deppon.txt
+# Name: deppon
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,deppon.com
+DOMAIN-SUFFIX,deppon.com.cn
+DOMAIN-SUFFIX,dpma.cc

@@ -1,0 +1,17 @@
+# URL: https://s.nosec.me/surge/squareup.txt
+# Name: squareup
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 12
+
+DOMAIN-SUFFIX,cash.app
+DOMAIN-SUFFIX,cashbycashapp.com
+DOMAIN-SUFFIX,gosq.co
+DOMAIN-SUFFIX,gosq.com
+DOMAIN-SUFFIX,issquaredown.com
+DOMAIN-SUFFIX,issquareup.com
+DOMAIN-SUFFIX,mkt.com
+DOMAIN-SUFFIX,sellercommunity.com
+DOMAIN-SUFFIX,squarecapital.com
+DOMAIN-SUFFIX,squarecdn.com
+DOMAIN-SUFFIX,squarecloudservices.com
+DOMAIN-SUFFIX,squareup.com

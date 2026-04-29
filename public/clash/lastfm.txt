@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/lastfm.txt
+# Name: lastfm
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,last.fm
+DOMAIN,lastfm.freetls.fastly.net
+DOMAIN,ws.audioscrobbler.com

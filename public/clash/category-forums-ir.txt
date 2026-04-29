@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/category-forums-ir.txt
+# Name: category-forums-ir
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,quera.ir
+DOMAIN-SUFFIX,quera.org

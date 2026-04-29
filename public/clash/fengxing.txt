@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/fengxing.txt
+# Name: fengxing
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 7
+
+DOMAIN-SUFFIX,fspcdn.com
+DOMAIN-SUFFIX,fun.tv
+DOMAIN-SUFFIX,funshion.com
+DOMAIN-SUFFIX,funshion.net
+DOMAIN-SUFFIX,ibidian.com
+DOMAIN-SUFFIX,jvcsmart.cn
+DOMAIN-SUFFIX,jvcsmart.com.cn

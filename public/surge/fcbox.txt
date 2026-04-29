@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/fcbox.txt
+# Name: fcbox
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,fcbox.com
+DOMAIN-SUFFIX,fcboxmall.com

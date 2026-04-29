@@ -1,0 +1,6 @@
+# URL: https://s.nosec.me/surge/tsquare.txt
+# Name: tsquare
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 1
+
+DOMAIN-SUFFIX,tsquare.tv

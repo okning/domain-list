@@ -1,0 +1,15 @@
+# URL: https://s.nosec.me/surge/longbridge.txt
+# Name: longbridge
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 10
+
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,longbridge.cloud
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.sg
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,longportapp.com
+DOMAIN-SUFFIX,wbrks.com

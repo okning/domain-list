@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/nist.txt
+# Name: nist
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov

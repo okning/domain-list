@@ -1,0 +1,15 @@
+# URL: https://s.nosec.me/surge/amap.txt
+# Name: amap
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 10
+
+DOMAIN-SUFFIX,a-map.cn
+DOMAIN-SUFFIX,a-map.co
+DOMAIN-SUFFIX,a-map.link
+DOMAIN-SUFFIX,a-map.vip
+DOMAIN-SUFFIX,acloudrender.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,amapauto.com
+DOMAIN-SUFFIX,anav.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,gaode.com

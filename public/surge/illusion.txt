@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/illusion.txt
+# Name: illusion
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,illusion.co.jp
+DOMAIN-SUFFIX,illusion.jp

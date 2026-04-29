@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/translatewiki.txt
+# Name: translatewiki
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,translatewiki.net
+DOMAIN-SUFFIX,translatewiki.org

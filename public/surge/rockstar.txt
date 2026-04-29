@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/rockstar.txt
+# Name: rockstar
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,media-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rockstarnorth.com
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN,videos-rockstargames-com.akamaized.net

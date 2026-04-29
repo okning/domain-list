@@ -1,0 +1,19 @@
+# URL: https://s.nosec.me/surge/elsevier.txt
+# Name: elsevier
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 14
+
+DOMAIN-SUFFIX,cell.com
+DOMAIN-SUFFIX,clinicalkey.com
+DOMAIN-SUFFIX,els-cdn.com
+DOMAIN-SUFFIX,elsevier-ae.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,elsevier.io
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,evise.com
+DOMAIN-SUFFIX,fundinginstitutional.com
+DOMAIN-SUFFIX,knovel.com
+DOMAIN-SUFFIX,mendeley.com
+DOMAIN-SUFFIX,reaxys.com
+DOMAIN-SUFFIX,scival.com
+DOMAIN-SUFFIX,scopus.com

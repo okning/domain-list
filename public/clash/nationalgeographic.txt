@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/nationalgeographic.txt
+# Name: nationalgeographic
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,natgeomaps.com
+DOMAIN-SUFFIX,nationalgeographic.com
+DOMAIN-SUFFIX,nationalgeographicpartners.com
+DOMAIN-SUFFIX,ngeo.com

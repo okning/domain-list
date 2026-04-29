@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/esri.txt
+# Name: esri
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,arcgis.com
+DOMAIN-SUFFIX,arcgisonline.com
+DOMAIN-SUFFIX,esri.com

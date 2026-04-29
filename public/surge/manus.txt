@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/manus.txt
+# Name: manus
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com

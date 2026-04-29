@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/mixi.txt
+# Name: mixi
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,mixi.co.jp
+DOMAIN-SUFFIX,mixi.jp
+DOMAIN-SUFFIX,mixi.net

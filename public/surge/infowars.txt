@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/infowars.txt
+# Name: infowars
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,banned.video
+DOMAIN-SUFFIX,infowars.com
+DOMAIN-SUFFIX,infowarsmedia.com

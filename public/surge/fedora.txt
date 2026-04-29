@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/fedora.txt
+# Name: fedora
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN-SUFFIX,fedoraforum.org
+DOMAIN-SUFFIX,fedorainfracloud.org
+DOMAIN-SUFFIX,fedoramagazine.org
+DOMAIN-SUFFIX,fedorapeople.org
+DOMAIN-SUFFIX,fedoraproject.org
+DOMAIN-SUFFIX,getfedora.org

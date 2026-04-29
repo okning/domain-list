@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/z3x-team.txt
+# Name: z3x-team
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,easy-jtag.com
+DOMAIN-SUFFIX,z3x-team.com

@@ -1,0 +1,16 @@
+# URL: https://s.nosec.me/surge/category-social-media-ir.txt
+# Name: category-social-media-ir
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 11
+
+DOMAIN-SUFFIX,bale.ai
+DOMAIN-SUFFIX,eitaa.com
+DOMAIN-SUFFIX,eitaa.ir
+DOMAIN-SUFFIX,gap.im
+DOMAIN-SUFFIX,gaplication.com
+DOMAIN-SUFFIX,mizito.ir
+DOMAIN-SUFFIX,niniban.com
+DOMAIN-SUFFIX,ninisite.com
+DOMAIN-SUFFIX,rubika.ir
+DOMAIN-SUFFIX,splus.ir
+DOMAIN-SUFFIX,virasty.com

@@ -1,0 +1,15 @@
+# URL: https://s.nosec.me/surge/walmart.txt
+# Name: walmart
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 10
+
+DOMAIN-SUFFIX,w-mt.co
+DOMAIN-SUFFIX,wal-mart.com
+DOMAIN-SUFFIX,wal.co
+DOMAIN-SUFFIX,walmart
+DOMAIN-SUFFIX,walmart-content.com
+DOMAIN-SUFFIX,walmart.cn
+DOMAIN-SUFFIX,walmart.com
+DOMAIN-SUFFIX,walmart.pharmacy
+DOMAIN-SUFFIX,walmartimages.com
+DOMAIN-SUFFIX,wmt.co

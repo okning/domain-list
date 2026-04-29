@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/category-novel.txt
+# Name: category-novel
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,ptzwx.com
+DOMAIN-SUFFIX,quanben-xiaoshuo.com
+DOMAIN-SUFFIX,quanben.io

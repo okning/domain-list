@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/surge/thesun.txt
+# Name: thesun
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 7
+
+DOMAIN-SUFFIX,dreamteamfc.com
+DOMAIN-SUFFIX,page3.com
+DOMAIN-SUFFIX,sunbingo.co.uk
+DOMAIN-SUFFIX,talksport.com
+DOMAIN-SUFFIX,thescottishsun.co.uk
+DOMAIN-SUFFIX,thesun.co.uk
+DOMAIN-SUFFIX,thesun.ie

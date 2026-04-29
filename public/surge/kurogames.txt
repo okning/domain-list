@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/kurogames.txt
+# Name: kurogames
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,kurogames.com

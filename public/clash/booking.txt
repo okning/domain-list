@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/booking.txt
+# Name: booking
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,booking.cn
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,bstatic.com

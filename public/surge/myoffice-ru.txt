@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/myoffice-ru.txt
+# Name: myoffice-ru
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,myoffice.ru
+DOMAIN-SUFFIX,myoffice.team

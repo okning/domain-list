@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/bestore.txt
+# Name: bestore
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,517lppz.com
+DOMAIN-SUFFIX,lppz.com
+DOMAIN-SUFFIX,lppzimg.com

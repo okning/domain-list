@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/hsbc-cn.txt
+# Name: hsbc-cn
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,hsbc.com.cn
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
+DOMAIN-SUFFIX,hsbcqh.com.cn

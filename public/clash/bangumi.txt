@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/bangumi.txt
+# Name: bangumi
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,chii.in

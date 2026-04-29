@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/internet-archive.txt
+# Name: internet-archive
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,openlibrary.org

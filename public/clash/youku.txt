@@ -1,0 +1,11 @@
+# URL: https://s.nosec.me/surge/youku.txt
+# Name: youku
+# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Total: 6
+
+DOMAIN-SUFFIX,cibntv.net
+DOMAIN-SUFFIX,kumiao.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
