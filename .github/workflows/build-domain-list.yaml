@@ -32,6 +32,7 @@ jobs:
         with:
           node-version: 24
 
+      - run: rm -rf public/surge public/clash
       - run: npm ci
       - run: npm run build
 
@@ -39,9 +40,6 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          rm -rf public/surge
-          rm -rf public/clash
 
           mkdir -p public
 
