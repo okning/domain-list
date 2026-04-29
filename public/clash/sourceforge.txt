@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/clash/sourceforge.txt
-# Name: sourceforge
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,fsdn.com
-DOMAIN-SUFFIX,sf.net
-DOMAIN-SUFFIX,sourceforge.com
-DOMAIN-SUFFIX,sourceforge.net

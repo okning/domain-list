@@ -1,6 +1,0 @@
-# URL: https://s.nosec.me/surge/addtoany.txt
-# Name: addtoany
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 1
-
-DOMAIN-SUFFIX,addtoany.com

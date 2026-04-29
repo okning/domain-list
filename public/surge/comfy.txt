@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/surge/comfy.txt
-# Name: comfy
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,comfy.org
-DOMAIN-SUFFIX,comfyci.org
-DOMAIN-SUFFIX,comfyregistry.org
-DOMAIN-SUFFIX,oystermercury.top

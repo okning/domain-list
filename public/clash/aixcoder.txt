@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/clash/aixcoder.txt
-# Name: aixcoder
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,aixcoder.com
-DOMAIN-SUFFIX,nnthink.com

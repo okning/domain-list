@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/clash/homedepot.txt
-# Name: homedepot
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,homedepot-static.com
-DOMAIN-SUFFIX,homedepot.com

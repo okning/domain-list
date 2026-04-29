@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/clash/boslife.txt
-# Name: boslife
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,boslife.biz
-DOMAIN-SUFFIX,boslife.net

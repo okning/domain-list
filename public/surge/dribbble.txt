@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/surge/dribbble.txt
-# Name: dribbble
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,drbl.in
-DOMAIN-SUFFIX,dribbble.com

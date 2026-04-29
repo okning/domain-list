@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/clash/cursor.txt
-# Name: cursor
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,cursor-cdn.com
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursorapi.com

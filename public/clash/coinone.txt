@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/coinone.txt
-# Name: coinone
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,coinone.co.kr
-DOMAIN-SUFFIX,coinonecore.com
-DOMAIN-SUFFIX,coinonecorp.com

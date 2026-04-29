@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/clash/zuoyebang.txt
-# Name: zuoyebang
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,syh.zybang.com
-DOMAIN-SUFFIX,zuoyebang.cc
-DOMAIN-SUFFIX,zuoyebang.com
-DOMAIN-SUFFIX,zybang.com

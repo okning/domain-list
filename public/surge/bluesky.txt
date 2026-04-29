@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/surge/bluesky.txt
-# Name: bluesky
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,bsky.app
-DOMAIN-SUFFIX,bsky.network
-DOMAIN-SUFFIX,bsky.social

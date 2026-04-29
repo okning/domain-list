@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/bluearchive.txt
-# Name: bluearchive
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN-SUFFIX,bluearchive.jp
-DOMAIN-SUFFIX,bluearchive.nexon.com

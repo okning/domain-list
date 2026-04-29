@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/clash/polocloud.txt
-# Name: polocloud
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,polocloud.net
-DOMAIN-SUFFIX,polocloud.xyz

@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/addthis.txt
-# Name: addthis
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,addthis.com
-DOMAIN-SUFFIX,addthiscdn.com
-DOMAIN-SUFFIX,addthisedge.com

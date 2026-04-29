@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/aiqicha.txt
-# Name: aiqicha
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,aiqicha.baidu.com
-DOMAIN-SUFFIX,aiqicha.cn
-DOMAIN-SUFFIX,aiqicha.com

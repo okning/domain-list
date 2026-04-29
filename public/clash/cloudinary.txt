@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/clash/cloudinary.txt
-# Name: cloudinary
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,cloudinary.com
-DOMAIN-SUFFIX,cloudinary.net

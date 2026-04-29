@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/surge/sourcehut.txt
-# Name: sourcehut
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,sourcehut.org
-DOMAIN-SUFFIX,sr.ht

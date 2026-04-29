@@ -1,6 +1,0 @@
-# URL: https://s.nosec.me/clash/jiyukobo.txt
-# Name: jiyukobo
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 1
-
-DOMAIN-SUFFIX,jiyu-kobo.co.jp

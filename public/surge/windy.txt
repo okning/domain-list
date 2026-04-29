@@ -1,6 +1,0 @@
-# URL: https://s.nosec.me/surge/windy.txt
-# Name: windy
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 1
-
-DOMAIN-SUFFIX,windy.com

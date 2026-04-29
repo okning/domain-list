@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/surge/oskelly.txt
-# Name: oskelly
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,oskelly.co
-DOMAIN-SUFFIX,oskelly.ru

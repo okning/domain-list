@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/surge/truyen-hentai.txt
-# Name: truyen-hentai
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,truyen-hentai.com
-DOMAIN-SUFFIX,truyen-hentai.fr
-DOMAIN-SUFFIX,truyen-hentai.ru

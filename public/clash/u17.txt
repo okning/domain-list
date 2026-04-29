@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/u17.txt
-# Name: u17
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,u17.com
-DOMAIN-SUFFIX,u17i.com
-DOMAIN-SUFFIX,u17t.com

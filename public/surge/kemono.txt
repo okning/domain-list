@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/surge/kemono.txt
-# Name: kemono
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,kemono.cr
-DOMAIN-SUFFIX,kemono.party
-DOMAIN-SUFFIX,kemono.su

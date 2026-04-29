@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/cnbeta.txt
-# Name: cnbeta
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,cnbeta.com
-DOMAIN-SUFFIX,cnbeta.com.tw
-DOMAIN-SUFFIX,cnbetacdn.com

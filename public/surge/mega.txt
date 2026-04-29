@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/surge/mega.txt
-# Name: mega
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,mega.co.nz
-DOMAIN-SUFFIX,mega.io
-DOMAIN-SUFFIX,mega.nz

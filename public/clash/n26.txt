@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/n26.txt
-# Name: n26
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,n26.com
-DOMAIN-SUFFIX,number26.de
-DOMAIN-SUFFIX,tech26.de

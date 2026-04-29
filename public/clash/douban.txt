@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/douban.txt
-# Name: douban
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,douban.fm
-DOMAIN-SUFFIX,doubanio.com

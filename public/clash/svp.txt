@@ -1,6 +1,0 @@
-# URL: https://s.nosec.me/clash/svp.txt
-# Name: svp
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 1
-
-DOMAIN-SUFFIX,svp-team.com

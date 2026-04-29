@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/clash/digitalocean.txt
-# Name: digitalocean
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,digitalocean.com
-DOMAIN-SUFFIX,digitaloceanspaces.com
-DOMAIN-SUFFIX,do.co
-DOMAIN-SUFFIX,nginxconfig.io

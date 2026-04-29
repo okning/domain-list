@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/surge/justmysocks.txt
-# Name: justmysocks
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,justmysocks.net
-DOMAIN-SUFFIX,justmysocks1.net
-DOMAIN-SUFFIX,justmysocks2.net
-DOMAIN-SUFFIX,justmysocks4.net

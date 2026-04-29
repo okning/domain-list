@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/juejin.txt
-# Name: juejin
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,juejin.cn
-DOMAIN-SUFFIX,juejin.im
-DOMAIN-SUFFIX,xitu.io

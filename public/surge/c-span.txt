@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/surge/c-span.txt
-# Name: c-span
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,c-span.org
-DOMAIN-SUFFIX,c-spanvideo.org

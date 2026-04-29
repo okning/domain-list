@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/clash/bootcdn.txt
-# Name: bootcdn
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,bootcdn.cn
-DOMAIN-SUFFIX,bootcdn.net
-DOMAIN-SUFFIX,bootcss.com
-DOMAIN-SUFFIX,phpcomposer.com

@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/clash/7tv.txt
-# Name: 7tv
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,7tv.app
-DOMAIN-SUFFIX,7tv.io

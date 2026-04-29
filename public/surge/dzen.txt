@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/surge/dzen.txt
-# Name: dzen
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,dzen.ru
-DOMAIN-SUFFIX,dzeninfra.ru
-DOMAIN-SUFFIX,log.dzen.ru
-DOMAIN-SUFFIX,ms.dzen.ru

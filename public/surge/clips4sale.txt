@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/surge/clips4sale.txt
-# Name: clips4sale
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,c4slive.com
-DOMAIN-SUFFIX,clips4sale.com
-DOMAIN-SUFFIX,videos4sale.com

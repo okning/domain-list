@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/perplexity.txt
-# Name: perplexity
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,perplexity.com
-DOMAIN-SUFFIX,pplx.ai

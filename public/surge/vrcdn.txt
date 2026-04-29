@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/surge/vrcdn.txt
-# Name: vrcdn
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,vrcdn.cloud
-DOMAIN-SUFFIX,vrcdn.live
-DOMAIN-SUFFIX,vrcdn.video

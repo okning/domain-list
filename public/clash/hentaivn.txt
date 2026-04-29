@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/clash/hentaivn.txt
-# Name: hentaivn
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,hentaivn.de
-DOMAIN-SUFFIX,hentaivn.la
-DOMAIN-SUFFIX,hentaivn.net
-DOMAIN-SUFFIX,htvncdn.net

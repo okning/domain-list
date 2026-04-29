@@ -28,13 +28,12 @@ jobs:
           repository: v2fly/domain-list-community
           path: domain-list-community
 
-      - name: Setup Python
-        uses: actions/setup-python@v6
+      - uses: actions/setup-node@v6
         with:
-          python-version: "3.13"
+          node-version: 24
 
-      - name: Build domain list
-        run: python scripts/build_domain_list.py
+      - run: npm ci
+      - run: npm run build
 
       - name: Push changes
         run: |

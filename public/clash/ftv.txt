@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/ftv.txt
-# Name: ftv
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,ftv.com.tw
-DOMAIN-SUFFIX,ftvnews.com.tw

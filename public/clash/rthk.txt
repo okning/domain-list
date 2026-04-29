@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/clash/rthk.txt
-# Name: rthk
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,etvonline.hk
-DOMAIN-SUFFIX,rthk.hk

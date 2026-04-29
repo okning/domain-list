@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/jetbrains-ai.txt
-# Name: jetbrains-ai
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,grazie.ai
-DOMAIN-SUFFIX,grazie.aws.intellij.net
-DOMAIN-SUFFIX,jetbrains.ai

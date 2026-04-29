@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/onekey.txt
-# Name: onekey
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,onekey-asset.com
-DOMAIN-SUFFIX,onekey.so
-DOMAIN-SUFFIX,onekeycn.com

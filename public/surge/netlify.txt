@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/surge/netlify.txt
-# Name: netlify
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,bitballoon.com
-DOMAIN-SUFFIX,netlify.app
-DOMAIN-SUFFIX,netlify.com
-DOMAIN-SUFFIX,netlifystatus.com

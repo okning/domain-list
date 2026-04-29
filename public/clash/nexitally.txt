@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/clash/nexitally.txt
-# Name: nexitally
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,nexitally.com
-DOMAIN-SUFFIX,nexitallysafe.com
-DOMAIN-SUFFIX,nexitcore.com

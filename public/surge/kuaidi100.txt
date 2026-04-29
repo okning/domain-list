@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/surge/kuaidi100.txt
-# Name: kuaidi100
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,ckd.im
-DOMAIN-SUFFIX,kd100.com
-DOMAIN-SUFFIX,kuaidi100.com
-DOMAIN-SUFFIX,kuaidilab.com

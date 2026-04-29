@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/surge/envato.txt
-# Name: envato
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,envato-static.com
-DOMAIN-SUFFIX,envato.com
-DOMAIN-SUFFIX,envatousercontent.com
-DOMAIN-SUFFIX,themeforest.net

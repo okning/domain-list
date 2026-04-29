@@ -1,8 +1,0 @@
-# URL: https://s.nosec.me/surge/huggingface.txt
-# Name: huggingface
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 3
-
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,hf.space
-DOMAIN-SUFFIX,huggingface.co

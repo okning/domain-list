@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/surge/realitykings.txt
-# Name: realitykings
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 2
-
-DOMAIN-SUFFIX,realitykings.com
-DOMAIN-SUFFIX,rk.com

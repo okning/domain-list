@@ -1,9 +1,0 @@
-# URL: https://s.nosec.me/surge/mikrotik.txt
-# Name: mikrotik
-# Updated: Wed Apr 29 03:34:37 UTC 2026
-# Total: 4
-
-DOMAIN-SUFFIX,mikrotik.com
-DOMAIN-SUFFIX,mt.lv
-DOMAIN-SUFFIX,mynetname.net
-DOMAIN-SUFFIX,routerboard.com
