@@ -46,5 +46,5 @@ jobs:
           mkdir -p public
 
           git add public
-          git commit -m "$(date -u)" || echo "chore: no changes to commit"
+          git commit -m "chore: update domain list" || echo "chore: no changes to commit"
           git push origin main
