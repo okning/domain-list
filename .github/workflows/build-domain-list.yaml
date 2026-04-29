@@ -1,0 +1,54 @@
+name: Build domain list
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-domain-list
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Checkout domain list
+        uses: actions/checkout@v6
+        with:
+          repository: v2fly/domain-list-community
+          path: domain-list-community
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Build domain list
+        run: python scripts/build_domain_list.py
+
+      - name: Push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          rm -rf public/surge
+          rm -rf public/clash
+
+          mkdir -p public
+
+          mv dist/surge public/surge
+          mv dist/clash public/clash
+
+          git add public
+          git commit -m "$(date -u)" || echo "chore: no changes to commit"
+          git push origin main
