@@ -76,7 +76,7 @@ class Processor {
   }
 
   private dumpClash(name: string, date: string, entries: Entry[]) {
-    const lines: string[] = this.header("surge", name, date, entries.length);
+    const lines: string[] = this.header("clash", name, date, entries.length);
 
     for (const entry of entries) {
       switch (entry.type) {
