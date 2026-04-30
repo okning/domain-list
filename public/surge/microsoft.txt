@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/microsoft.txt
 # Name: microsoft
-# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Updated: Thu, 30 Apr 2026 00:36:22 GMT
 # Total: 622
 
 # REGEXP,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$

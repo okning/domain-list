@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/apple-dev.txt
 # Name: apple-dev
-# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Updated: Thu, 30 Apr 2026 00:36:22 GMT
 # Total: 37
 
 DOMAIN-SUFFIX,apple-cloudkit.com

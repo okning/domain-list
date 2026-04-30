@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/strepsils.txt
 # Name: strepsils
-# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Updated: Thu, 30 Apr 2026 00:36:22 GMT
 # Total: 33
 
 DOMAIN-SUFFIX,cepacol.ca

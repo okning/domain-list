@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-browser-non-cn.txt
 # Name: category-browser-non-cn
-# Updated: Wed, 29 Apr 2026 10:21:12 GMT
+# Updated: Thu, 30 Apr 2026 00:36:22 GMT
 # Total: 29
 
 DOMAIN-SUFFIX,basilisk-browser.org
