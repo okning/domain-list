@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/category-container.txt
+# URL: https://s.nosec.me/clash/category-container.txt
 # Name: category-container
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 10
 
 DOMAIN-REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$

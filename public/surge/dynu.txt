@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/dynu.txt
 # Name: dynu
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 21
 
 DOMAIN-SUFFIX,1cooldns.com

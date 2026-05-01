@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/category-emby.txt
+# URL: https://s.nosec.me/clash/category-emby.txt
 # Name: category-emby
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 72
 
 DOMAIN-SUFFIX,123456.al

@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/stackexchange.txt
+# URL: https://s.nosec.me/clash/stackexchange.txt
 # Name: stackexchange
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 25
 
 DOMAIN-SUFFIX,askubuntu.com

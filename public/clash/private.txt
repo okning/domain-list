@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/private.txt
+# URL: https://s.nosec.me/clash/private.txt
 # Name: private
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 128
 
 DOMAIN-REGEXP,^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$

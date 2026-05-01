@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/gravatar.txt
 # Name: gravatar
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,gravatar.com

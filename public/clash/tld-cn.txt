@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/tld-cn.txt
+# URL: https://s.nosec.me/clash/tld-cn.txt
 # Name: tld-cn
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 42
 
 DOMAIN-SUFFIX,alibaba

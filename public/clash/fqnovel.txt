@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/fqnovel.txt
+# URL: https://s.nosec.me/clash/fqnovel.txt
 # Name: fqnovel
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 37
 
 DOMAIN-SUFFIX,activity-zhendingtech.com

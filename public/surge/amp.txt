@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/amp.txt
 # Name: amp
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 5
 
 DOMAIN,amp.akamaized.net

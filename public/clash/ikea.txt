@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/ikea.txt
+# URL: https://s.nosec.me/clash/ikea.txt
 # Name: ikea
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 95
 
 DOMAIN-SUFFIX,ikea.ae

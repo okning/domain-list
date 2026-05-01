@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/bytedance-ai-non-cn.txt
+# URL: https://s.nosec.me/clash/bytedance-ai-non-cn.txt
 # Name: bytedance-ai-non-cn
-# Updated: Thu, 30 Apr 2026 00:36:22 GMT
+# Updated: Fri, 01 May 2026 00:38:34 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,cici.com
