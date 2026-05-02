@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/cloudflare-cn.txt
 # Name: cloudflare-cn
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 19
 
 DOMAIN-SUFFIX,cf-china.info

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-forums.txt
 # Name: category-forums
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 98
 
 DOMAIN-SUFFIX,18p2p.com

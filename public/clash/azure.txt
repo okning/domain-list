@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/azure.txt
 # Name: azure
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 144
 
 DOMAIN-SUFFIX,21vbc.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/2gis.txt
 # Name: 2gis
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 14
 
 DOMAIN-SUFFIX,2gis.ae

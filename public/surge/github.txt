@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/github.txt
 # Name: github
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 32
 
 # REGEXP,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$

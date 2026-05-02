@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-ip-geo-detect.txt
 # Name: category-ip-geo-detect
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 154
 
 DOMAIN-SUFFIX,2ip.io

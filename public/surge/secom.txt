@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/secom.txt
 # Name: secom
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 5
 
 DOMAIN-SUFFIX,cybertrust.co.jp

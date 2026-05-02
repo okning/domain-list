@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/discoveryplus.txt
 # Name: discoveryplus
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com

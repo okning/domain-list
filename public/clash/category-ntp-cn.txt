@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-ntp-cn.txt
 # Name: category-ntp-cn
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 23
 
 DOMAIN-SUFFIX,cn.pool.ntp.org

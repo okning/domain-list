@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/4399.txt
 # Name: 4399
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 63
 
 DOMAIN-SUFFIX,3304399.com

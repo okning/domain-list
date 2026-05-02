@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/manorama.txt
 # Name: manorama
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 12
 
 DOMAIN-SUFFIX,malayalamanorama.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/apple.txt
 # Name: apple
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 1565
 
 DOMAIN-SUFFIX,100beatscheap.com

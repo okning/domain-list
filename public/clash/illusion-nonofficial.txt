@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/illusion-nonofficial.txt
 # Name: illusion-nonofficial
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 29
 
 DOMAIN-SUFFIX,acgcf.com

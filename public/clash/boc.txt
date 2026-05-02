@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/boc.txt
 # Name: boc
-# Updated: Fri, 01 May 2026 00:38:34 GMT
+# Updated: Sat, 02 May 2026 00:35:29 GMT
 # Total: 20
 
 DOMAIN-SUFFIX,bank-of-china.com
