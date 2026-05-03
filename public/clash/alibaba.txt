@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/alibaba.txt
 # Name: alibaba
-# Updated: Sat, 02 May 2026 00:35:29 GMT
+# Updated: Sun, 03 May 2026 00:36:18 GMT
 # Total: 311
 
 DOMAIN-SUFFIX,1688.com

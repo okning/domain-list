@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/jetbrains-ai.txt
 # Name: jetbrains-ai
-# Updated: Sat, 02 May 2026 00:35:29 GMT
+# Updated: Sun, 03 May 2026 00:36:18 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,grazie.ai

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/18comic.txt
 # Name: 18comic
-# Updated: Sat, 02 May 2026 00:35:29 GMT
+# Updated: Sun, 03 May 2026 00:36:18 GMT
 # Total: 51
 
 DOMAIN-SUFFIX,18comic-god.cc

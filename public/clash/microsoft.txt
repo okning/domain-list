@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/microsoft.txt
 # Name: microsoft
-# Updated: Sat, 02 May 2026 00:35:29 GMT
+# Updated: Sun, 03 May 2026 00:36:18 GMT
 # Total: 622
 
 DOMAIN-REGEXP,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
