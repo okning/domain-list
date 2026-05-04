@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/netcup.txt
 # Name: netcup
-# Updated: Sun, 03 May 2026 00:36:18 GMT
+# Updated: Mon, 04 May 2026 00:36:00 GMT
 # Total: 24
 
 DOMAIN-SUFFIX,bestsrv.de

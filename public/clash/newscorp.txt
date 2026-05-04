@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/newscorp.txt
 # Name: newscorp
-# Updated: Sun, 03 May 2026 00:36:18 GMT
+# Updated: Mon, 04 May 2026 00:36:00 GMT
 # Total: 151
 
 DOMAIN-SUFFIX,1degree.com.au

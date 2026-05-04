@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/facebook-dev.txt
 # Name: facebook-dev
-# Updated: Sun, 03 May 2026 00:36:18 GMT
+# Updated: Mon, 04 May 2026 00:36:00 GMT
 # Total: 44
 
 DOMAIN-SUFFIX,accountkit.com

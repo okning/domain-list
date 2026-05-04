@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/okx.txt
 # Name: okx
-# Updated: Sun, 03 May 2026 00:36:18 GMT
-# Total: 7
+# Updated: Mon, 04 May 2026 00:36:00 GMT
+# Total: 8
 
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
 DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net

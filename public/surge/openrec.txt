@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/openrec.txt
 # Name: openrec
-# Updated: Sun, 03 May 2026 00:36:18 GMT
+# Updated: Mon, 04 May 2026 00:36:00 GMT
 # Total: 2
 
 DOMAIN,dqd0jw5gvbchn.cloudfront.net

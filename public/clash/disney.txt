@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/disney.txt
 # Name: disney
-# Updated: Sun, 03 May 2026 00:36:18 GMT
+# Updated: Mon, 04 May 2026 00:36:00 GMT
 # Total: 157
 
 DOMAIN-REGEXP,^hses[1-7]?\.akamaized\.net$

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-cryptocurrency.txt
 # Name: category-cryptocurrency
-# Updated: Sun, 03 May 2026 00:36:18 GMT
-# Total: 184
+# Updated: Mon, 04 May 2026 00:36:00 GMT
+# Total: 185
 
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
 DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN,onekey.zendesk.com

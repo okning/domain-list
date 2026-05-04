@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-speedtest.txt
 # Name: category-speedtest
-# Updated: Sun, 03 May 2026 00:36:18 GMT
+# Updated: Mon, 04 May 2026 00:36:00 GMT
 # Total: 76
 
 DOMAIN-REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

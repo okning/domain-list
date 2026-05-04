@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/metacritic.txt
 # Name: metacritic
-# Updated: Sun, 03 May 2026 00:36:18 GMT
+# Updated: Mon, 04 May 2026 00:36:00 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,metacritic.com
