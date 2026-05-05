@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Mon, 04 May 2026 00:36:00 GMT
-# Total: 684
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 685
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,13a.com
@@ -615,6 +615,7 @@ DOMAIN-SUFFIX,ucg.cn
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,vgtime.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com
+DOMAIN-SUFFIX,viviv.com
 DOMAIN-SUFFIX,vrzwk.cn
 DOMAIN-SUFFIX,vrzwk.com
 DOMAIN-SUFFIX,vrzwk.net

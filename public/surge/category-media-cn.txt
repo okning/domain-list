@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-media-cn.txt
 # Name: category-media-cn
-# Updated: Mon, 04 May 2026 00:36:00 GMT
-# Total: 289
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 291
 
 DOMAIN-SUFFIX,0033.cn
 DOMAIN-SUFFIX,10jqka.com.cn
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,cooldock.com
 DOMAIN-SUFFIX,cqcb.com
 DOMAIN-SUFFIX,cqhlw.cn
 DOMAIN-SUFFIX,cqliving.com
+DOMAIN-SUFFIX,cqn.com.cn
 DOMAIN-SUFFIX,cqnews.net
 DOMAIN-SUFFIX,cqsjb.com
 DOMAIN-SUFFIX,cs.com.cn
@@ -166,6 +167,7 @@ DOMAIN-SUFFIX,minapp.com
 DOMAIN-SUFFIX,mydrivers.com
 DOMAIN-SUFFIX,nanyuenews.com
 DOMAIN-SUFFIX,nbd.com.cn
+DOMAIN-SUFFIX,neweekly.com.cn
 DOMAIN-SUFFIX,news.cn
 DOMAIN-SUFFIX,ofweek.com
 DOMAIN-SUFFIX,olympicchannelchina.cn

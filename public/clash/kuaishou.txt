@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/kuaishou.txt
 # Name: kuaishou
-# Updated: Mon, 04 May 2026 00:36:00 GMT
-# Total: 19
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 20
 
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adkwai.com
@@ -20,5 +20,6 @@ DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,viviv.com
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,yximgs.com

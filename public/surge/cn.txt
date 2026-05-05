@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Mon, 04 May 2026 00:36:00 GMT
-# Total: 5479
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 5488
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -356,6 +356,7 @@ DOMAIN-SUFFIX,acctdns.net
 DOMAIN-SUFFIX,accxiaoheihe.com
 DOMAIN-SUFFIX,acepanel.net
 DOMAIN-SUFFIX,acetaffy.club
+DOMAIN-SUFFIX,acftu.org
 DOMAIN-SUFFIX,acfun.net
 DOMAIN-SUFFIX,acfunchina.com
 DOMAIN-SUFFIX,acfunchina.net
@@ -2920,6 +2921,7 @@ DOMAIN-SUFFIX,kaola.com
 DOMAIN-SUFFIX,kaolacdn.com
 DOMAIN-SUFFIX,kaopu001.com
 DOMAIN-SUFFIX,kcbebank.com
+DOMAIN-SUFFIX,kcdnvip.com
 DOMAIN-SUFFIX,kd100.com
 DOMAIN-SUFFIX,kdslife.com
 DOMAIN-SUFFIX,ke.com
@@ -3355,6 +3357,7 @@ DOMAIN-SUFFIX,midasbuy.com
 DOMAIN-SUFFIX,midasbuy.com
 DOMAIN-SUFFIX,midea.com
 DOMAIN-SUFFIX,mideaepayuat.com
+DOMAIN-SUFFIX,mieco.net
 DOMAIN-SUFFIX,miercn.com
 DOMAIN-SUFFIX,mifon.com
 DOMAIN-SUFFIX,migames.com
@@ -3539,6 +3542,7 @@ DOMAIN-SUFFIX,nn.com
 DOMAIN-SUFFIX,nnbooster.com
 DOMAIN-SUFFIX,nnthink.com
 DOMAIN-SUFFIX,nomuraoi-sec.com
+DOMAIN-SUFFIX,nongfuspring.com
 DOMAIN-SUFFIX,novelfm.com
 DOMAIN-SUFFIX,novelfm.com
 DOMAIN-SUFFIX,novelfmpic.com
@@ -4708,6 +4712,7 @@ DOMAIN-SUFFIX,vipexam.org
 DOMAIN-SUFFIX,vipmro.com
 DOMAIN-SUFFIX,vipmro.net
 DOMAIN-SUFFIX,vipstatic.com
+DOMAIN-SUFFIX,viviv.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
@@ -4876,6 +4881,7 @@ DOMAIN-SUFFIX,wf.pub
 DOMAIN-SUFFIX,wfdata.club
 DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,whccb.com
+DOMAIN-SUFFIX,whhhealth.com
 DOMAIN-SUFFIX,whlovehome.com
 DOMAIN-SUFFIX,wicresoft.com
 DOMAIN-SUFFIX,wildfirechat.net
@@ -4892,6 +4898,7 @@ DOMAIN-SUFFIX,winwin7.com
 DOMAIN-SUFFIX,winyoungreading.com
 DOMAIN-SUFFIX,wishdown.com
 DOMAIN-SUFFIX,wiwide.com
+DOMAIN-SUFFIX,wjwai.com
 DOMAIN-SUFFIX,wjx.com
 DOMAIN-SUFFIX,wjx.top
 DOMAIN-SUFFIX,wkzuche.com
@@ -5064,6 +5071,7 @@ DOMAIN-SUFFIX,xiu8.com
 DOMAIN-SUFFIX,xiucai.com
 DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,xiumius.com
+DOMAIN-SUFFIX,xiyouyingyu.com
 DOMAIN-SUFFIX,xiziwang.net
 DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,xjoycity.com
@@ -5479,6 +5487,7 @@ DOMAIN-SUFFIX,zxhgroup.com
 DOMAIN-SUFFIX,zxxk.com
 DOMAIN-SUFFIX,zybang.com
 DOMAIN-SUFFIX,zyh365.com
+DOMAIN-SUFFIX,zysn.net
 DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com

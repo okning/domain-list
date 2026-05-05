@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment-ru.txt
 # Name: category-entertainment-ru
-# Updated: Mon, 04 May 2026 00:36:00 GMT
-# Total: 25
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 28
 
 DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,amediateka.ru
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,ivi.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinorium.com
+DOMAIN-SUFFIX,more.tv
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,okkoapi.tv
@@ -19,6 +20,7 @@ DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,promodj.com
 DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,restream.ru
 DOMAIN-SUFFIX,rtbcdn.ru
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutubelist.ru
@@ -27,4 +29,5 @@ DOMAIN-SUFFIX,start.ru
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,tvigle.ru
 DOMAIN-SUFFIX,viju.ru
+DOMAIN-SUFFIX,wink.am
 DOMAIN-SUFFIX,wink.ru

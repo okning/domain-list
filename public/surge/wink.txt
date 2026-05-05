@@ -1,7 +1,10 @@
 # URL: https://s.nosec.me/surge/wink.txt
 # Name: wink
-# Updated: Mon, 04 May 2026 00:36:00 GMT
-# Total: 2
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 5
 
+DOMAIN-SUFFIX,more.tv
 DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,wink.am
 DOMAIN-SUFFIX,wink.ru

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-education-cn.txt
 # Name: category-education-cn
-# Updated: Mon, 04 May 2026 00:36:00 GMT
-# Total: 143
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 146
 
 DOMAIN-SUFFIX,17zuoye.cn
 DOMAIN-SUFFIX,17zuoye.com
@@ -119,10 +119,12 @@ DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,unipus.cn
 DOMAIN-SUFFIX,weilaiyunxiao.com
 DOMAIN-SUFFIX,winyoungreading.com
+DOMAIN-SUFFIX,wjwai.com
 DOMAIN-SUFFIX,x-cloud.cc
 DOMAIN-SUFFIX,xesimg.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,xir.cn
+DOMAIN-SUFFIX,xiyouyingyu.com
 DOMAIN-SUFFIX,xkw.com
 DOMAIN-SUFFIX,xueersi.com
 DOMAIN-SUFFIX,xuetangx.com
@@ -146,3 +148,4 @@ DOMAIN-SUFFIX,zhan.com
 DOMAIN-SUFFIX,zhihuishu.com
 DOMAIN-SUFFIX,zjzs.net
 DOMAIN-SUFFIX,zxxk.com
+DOMAIN-SUFFIX,zysn.net

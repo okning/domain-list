@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/clash/rostelecom.txt
+# Name: rostelecom
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 8
+
+DOMAIN-SUFFIX,azbukainterneta.ru
+DOMAIN-SUFFIX,more.tv
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,rostelecom.ru
+DOMAIN-SUFFIX,rt.ru
+DOMAIN-SUFFIX,wink.am
+DOMAIN-SUFFIX,wink.ru

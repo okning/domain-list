@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/xiaomi.txt
 # Name: xiaomi
-# Updated: Mon, 04 May 2026 00:36:00 GMT
-# Total: 47
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 48
 
 DOMAIN-SUFFIX,airstarfinance.net
 DOMAIN-SUFFIX,duokan.com
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,mi-idc.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,mieco.net
 DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,migames.com
 DOMAIN-SUFFIX,mijia.tech

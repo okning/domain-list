@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ip-geo-detect.txt
 # Name: category-ip-geo-detect
-# Updated: Mon, 04 May 2026 00:36:00 GMT
-# Total: 154
+# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Total: 155
 
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,2ip.ru
@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,getipintel.net
 DOMAIN-SUFFIX,greip.io
 DOMAIN-SUFFIX,hackertarget.com
 DOMAIN-SUFFIX,httpbin.org
+DOMAIN-SUFFIX,i.pn
 DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,ident.me
 DOMAIN-SUFFIX,ifconfig.co
