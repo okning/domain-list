@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/sankei.txt
 # Name: sankei
-# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Updated: Wed, 06 May 2026 00:34:34 GMT
 # Total: 30
 
 DOMAIN-SUFFIX,business-i.jp

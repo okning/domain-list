@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/lark-global.txt
 # Name: lark-global
-# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Updated: Wed, 06 May 2026 00:34:34 GMT
 # Total: 31
 
 DOMAIN-SUFFIX,frontier-lark-lb-v3.lf.bytelb.net

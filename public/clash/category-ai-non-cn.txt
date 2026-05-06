@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-ai-non-cn.txt
 # Name: category-ai-non-cn
-# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Updated: Wed, 06 May 2026 00:34:34 GMT
 # Total: 143
 
 DOMAIN-REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$

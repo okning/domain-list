@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/mozilla.txt
 # Name: mozilla
-# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Updated: Wed, 06 May 2026 00:34:34 GMT
 # Total: 19
 
 DOMAIN-SUFFIX,bugzilla.org

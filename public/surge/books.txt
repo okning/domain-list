@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/books.txt
 # Name: books
-# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Updated: Wed, 06 May 2026 00:34:34 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,book.com.tw

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/tencent-games.txt
 # Name: tencent-games
-# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Updated: Wed, 06 May 2026 00:34:34 GMT
 # Total: 86
 
 DOMAIN-SUFFIX,17roco.com

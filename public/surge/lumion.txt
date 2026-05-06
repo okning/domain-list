@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/lumion.txt
 # Name: lumion
-# Updated: Tue, 05 May 2026 00:35:02 GMT
+# Updated: Wed, 06 May 2026 00:34:34 GMT
 # Total: 6
 
 DOMAIN-SUFFIX,lumion-la.com
