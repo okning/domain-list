@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/kodik.txt
 # Name: kodik
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,kodik-storage.com
-DOMAIN-SUFFIX,kodik.biz
-DOMAIN-SUFFIX,kodik.cc
-DOMAIN-SUFFIX,kodik.info
-DOMAIN-SUFFIX,kodikplayer.com
+payload:
+  - DOMAIN-SUFFIX,kodik-storage.com
+  - DOMAIN-SUFFIX,kodik.biz
+  - DOMAIN-SUFFIX,kodik.cc
+  - DOMAIN-SUFFIX,kodik.info
+  - DOMAIN-SUFFIX,kodikplayer.com

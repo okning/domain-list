@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/acfun.txt
 # Name: acfun
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,ac.fun
-DOMAIN-SUFFIX,acfun.cn
-DOMAIN-SUFFIX,acfun.net
-DOMAIN-SUFFIX,acfunchina.cn
-DOMAIN-SUFFIX,acfunchina.com
-DOMAIN-SUFFIX,acfunchina.net
-DOMAIN-SUFFIX,aixifan.com
+payload:
+  - DOMAIN-SUFFIX,ac.fun
+  - DOMAIN-SUFFIX,acfun.cn
+  - DOMAIN-SUFFIX,acfun.net
+  - DOMAIN-SUFFIX,acfunchina.cn
+  - DOMAIN-SUFFIX,acfunchina.com
+  - DOMAIN-SUFFIX,acfunchina.net
+  - DOMAIN-SUFFIX,aixifan.com

@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/dowjones.txt
 # Name: dowjones
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,djreprints.com
-DOMAIN-SUFFIX,dowjones.com
-DOMAIN-SUFFIX,dowjones.io
-DOMAIN-SUFFIX,dowjoneson.com
+payload:
+  - DOMAIN-SUFFIX,djreprints.com
+  - DOMAIN-SUFFIX,dowjones.com
+  - DOMAIN-SUFFIX,dowjones.io
+  - DOMAIN-SUFFIX,dowjoneson.com

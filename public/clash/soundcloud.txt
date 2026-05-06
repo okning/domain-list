@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/soundcloud.txt
 # Name: soundcloud
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,sndcdn.com
-DOMAIN-SUFFIX,soundcloud.cloud
-DOMAIN-SUFFIX,soundcloud.com
+payload:
+  - DOMAIN-SUFFIX,sndcdn.com
+  - DOMAIN-SUFFIX,soundcloud.cloud
+  - DOMAIN-SUFFIX,soundcloud.com

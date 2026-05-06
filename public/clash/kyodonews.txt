@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/kyodonews.txt
 # Name: kyodonews
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,47gyosei.jp
-DOMAIN-SUFFIX,47news.jp
-DOMAIN-SUFFIX,kyodo-d.info
-DOMAIN-SUFFIX,kyodo-d.jp
-DOMAIN-SUFFIX,kyodoimages.jp
-DOMAIN-SUFFIX,kyodonews.jp
-DOMAIN-SUFFIX,kyodonews.net
-DOMAIN-SUFFIX,newsmart.jp
-DOMAIN-SUFFIX,nna.jp
+payload:
+  - DOMAIN-SUFFIX,47gyosei.jp
+  - DOMAIN-SUFFIX,47news.jp
+  - DOMAIN-SUFFIX,kyodo-d.info
+  - DOMAIN-SUFFIX,kyodo-d.jp
+  - DOMAIN-SUFFIX,kyodoimages.jp
+  - DOMAIN-SUFFIX,kyodonews.jp
+  - DOMAIN-SUFFIX,kyodonews.net
+  - DOMAIN-SUFFIX,newsmart.jp
+  - DOMAIN-SUFFIX,nna.jp

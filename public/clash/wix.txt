@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/wix.txt
 # Name: wix
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,editorx.com
-DOMAIN-SUFFIX,parastorage.com
-DOMAIN-SUFFIX,wix-code.com
-DOMAIN-SUFFIX,wix.com
-DOMAIN-SUFFIX,wixanswers.com
-DOMAIN-SUFFIX,wixapps.net
-DOMAIN-SUFFIX,wixmp.com
-DOMAIN-SUFFIX,wixsite.com
-DOMAIN-SUFFIX,wixstatic.com
+payload:
+  - DOMAIN-SUFFIX,editorx.com
+  - DOMAIN-SUFFIX,parastorage.com
+  - DOMAIN-SUFFIX,wix-code.com
+  - DOMAIN-SUFFIX,wix.com
+  - DOMAIN-SUFFIX,wixanswers.com
+  - DOMAIN-SUFFIX,wixapps.net
+  - DOMAIN-SUFFIX,wixmp.com
+  - DOMAIN-SUFFIX,wixsite.com
+  - DOMAIN-SUFFIX,wixstatic.com

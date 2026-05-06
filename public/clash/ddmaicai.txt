@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/ddmaicai.txt
 # Name: ddmaicai
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,100.me
-DOMAIN-SUFFIX,ddcorp.net
-DOMAIN-SUFFIX,ddfresh.net
-DOMAIN-SUFFIX,ddimg.mobi
-DOMAIN-SUFFIX,ddmaicai.net
-DOMAIN-SUFFIX,ddmc.mobi
-DOMAIN-SUFFIX,dduser.mobi
-DOMAIN-SUFFIX,ddxq.mobi
-DOMAIN-SUFFIX,imaicai.mobi
+payload:
+  - DOMAIN-SUFFIX,100.me
+  - DOMAIN-SUFFIX,ddcorp.net
+  - DOMAIN-SUFFIX,ddfresh.net
+  - DOMAIN-SUFFIX,ddimg.mobi
+  - DOMAIN-SUFFIX,ddmaicai.net
+  - DOMAIN-SUFFIX,ddmc.mobi
+  - DOMAIN-SUFFIX,dduser.mobi
+  - DOMAIN-SUFFIX,ddxq.mobi
+  - DOMAIN-SUFFIX,imaicai.mobi

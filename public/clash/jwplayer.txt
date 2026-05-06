@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/jwplayer.txt
 # Name: jwplayer
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,jwpcdn.com
-DOMAIN-SUFFIX,jwplatform.com
-DOMAIN-SUFFIX,jwplayer.com
-DOMAIN-SUFFIX,jwpltx.com
-DOMAIN-SUFFIX,jwpsrv.com
-DOMAIN-SUFFIX,longtailvideo.com
+payload:
+  - DOMAIN-SUFFIX,jwpcdn.com
+  - DOMAIN-SUFFIX,jwplatform.com
+  - DOMAIN-SUFFIX,jwplayer.com
+  - DOMAIN-SUFFIX,jwpltx.com
+  - DOMAIN-SUFFIX,jwpsrv.com
+  - DOMAIN-SUFFIX,longtailvideo.com

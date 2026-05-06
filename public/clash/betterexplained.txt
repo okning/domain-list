@@ -1,6 +1,7 @@
 # URL: https://s.nosec.me/clash/betterexplained.txt
 # Name: betterexplained
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 1
 
-DOMAIN-SUFFIX,betterexplained.com
+payload:
+  - DOMAIN-SUFFIX,betterexplained.com

@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/canva.txt
 # Name: canva
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com
-DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com
-DOMAIN-SUFFIX,affinity.api.serifservices.com
-DOMAIN-SUFFIX,affinity.studio
-DOMAIN-SUFFIX,canva.com
-DOMAIN-SUFFIX,canvastatus.com
+payload:
+  - DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com
+  - DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com
+  - DOMAIN-SUFFIX,affinity.api.serifservices.com
+  - DOMAIN-SUFFIX,affinity.studio
+  - DOMAIN-SUFFIX,canva.com
+  - DOMAIN-SUFFIX,canvastatus.com

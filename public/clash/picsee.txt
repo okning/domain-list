@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/picsee.txt
 # Name: picsee
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,pics.ee
-DOMAIN-SUFFIX,picsee.co
-DOMAIN-SUFFIX,picsee.pro
-DOMAIN-SUFFIX,pise.pw
-DOMAIN-SUFFIX,pros.ee
-DOMAIN-SUFFIX,pse.is
+payload:
+  - DOMAIN-SUFFIX,pics.ee
+  - DOMAIN-SUFFIX,picsee.co
+  - DOMAIN-SUFFIX,picsee.pro
+  - DOMAIN-SUFFIX,pise.pw
+  - DOMAIN-SUFFIX,pros.ee
+  - DOMAIN-SUFFIX,pse.is

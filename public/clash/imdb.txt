@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/imdb.txt
 # Name: imdb
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,boxofficemojo.com
-DOMAIN-SUFFIX,imdb
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,imdb.to
-DOMAIN-SUFFIX,media-imdb.com
+payload:
+  - DOMAIN-SUFFIX,boxofficemojo.com
+  - DOMAIN-SUFFIX,imdb
+  - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN-SUFFIX,imdb.to
+  - DOMAIN-SUFFIX,media-imdb.com

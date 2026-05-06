@@ -1,15 +1,16 @@
 # URL: https://s.nosec.me/clash/category-container.txt
 # Name: category-container
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 10
 
-DOMAIN-REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
-DOMAIN-SUFFIX,azurecr.io
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,ecr.aws
-DOMAIN-SUFFIX,gcr.io
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,mcr.microsoft.com
-DOMAIN-SUFFIX,quay.io
-DOMAIN-SUFFIX,registry.gitlab.com
-DOMAIN-SUFFIX,registry.k8s.io
+payload:
+  - DOMAIN-REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
+  - DOMAIN-SUFFIX,azurecr.io
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,ecr.aws
+  - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,mcr.microsoft.com
+  - DOMAIN-SUFFIX,quay.io
+  - DOMAIN-SUFFIX,registry.gitlab.com
+  - DOMAIN-SUFFIX,registry.k8s.io

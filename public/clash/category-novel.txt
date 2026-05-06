@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/category-novel.txt
 # Name: category-novel
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,ptzwx.com
-DOMAIN-SUFFIX,quanben-xiaoshuo.com
-DOMAIN-SUFFIX,quanben.io
+payload:
+  - DOMAIN-SUFFIX,ptzwx.com
+  - DOMAIN-SUFFIX,quanben-xiaoshuo.com
+  - DOMAIN-SUFFIX,quanben.io

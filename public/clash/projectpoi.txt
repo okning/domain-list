@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/projectpoi.txt
 # Name: projectpoi
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,poi.icu
-DOMAIN-SUFFIX,poi6.net
-DOMAIN-SUFFIX,poihub.com
-DOMAIN-SUFFIX,project-poi.com
+payload:
+  - DOMAIN-SUFFIX,poi.icu
+  - DOMAIN-SUFFIX,poi6.net
+  - DOMAIN-SUFFIX,poihub.com
+  - DOMAIN-SUFFIX,project-poi.com

@@ -1,19 +1,20 @@
 # URL: https://s.nosec.me/clash/dnspod.txt
 # Name: dnspod
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 14
 
-DOMAIN-SUFFIX,dns.pub
-DOMAIN-SUFFIX,dnsapi.cn
-DOMAIN-SUFFIX,dnspod.cn
-DOMAIN-SUFFIX,dnspod.com
-DOMAIN-SUFFIX,dnspod.com.cn
-DOMAIN-SUFFIX,dnspod.mobi
-DOMAIN-SUFFIX,dnspod.net
-DOMAIN-SUFFIX,dnspod.org
-DOMAIN-SUFFIX,dnsv2.com
-DOMAIN-SUFFIX,dnsv3.com
-DOMAIN-SUFFIX,dnsv4.com
-DOMAIN-SUFFIX,dnsv5.com
-DOMAIN-SUFFIX,doh.pub
-DOMAIN-SUFFIX,dot.pub
+payload:
+  - DOMAIN-SUFFIX,dns.pub
+  - DOMAIN-SUFFIX,dnsapi.cn
+  - DOMAIN-SUFFIX,dnspod.cn
+  - DOMAIN-SUFFIX,dnspod.com
+  - DOMAIN-SUFFIX,dnspod.com.cn
+  - DOMAIN-SUFFIX,dnspod.mobi
+  - DOMAIN-SUFFIX,dnspod.net
+  - DOMAIN-SUFFIX,dnspod.org
+  - DOMAIN-SUFFIX,dnsv2.com
+  - DOMAIN-SUFFIX,dnsv3.com
+  - DOMAIN-SUFFIX,dnsv4.com
+  - DOMAIN-SUFFIX,dnsv5.com
+  - DOMAIN-SUFFIX,doh.pub
+  - DOMAIN-SUFFIX,dot.pub

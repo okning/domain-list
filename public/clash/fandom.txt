@@ -1,17 +1,18 @@
 # URL: https://s.nosec.me/clash/fandom.txt
 # Name: fandom
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 12
 
-DOMAIN-SUFFIX,cortexrpg.com
-DOMAIN-SUFFIX,cursecdn.com
-DOMAIN-SUFFIX,dndbeyond.com
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,fandom.com
-DOMAIN,fandom.zendesk.com
-DOMAIN-SUFFIX,futhead.com
-DOMAIN-SUFFIX,gamepedia.com
-DOMAIN-SUFFIX,muthead.com
-DOMAIN-SUFFIX,wikia.com
-DOMAIN-SUFFIX,wikia.nocookie.net
-DOMAIN-SUFFIX,wikia.org
+payload:
+  - DOMAIN-SUFFIX,cortexrpg.com
+  - DOMAIN-SUFFIX,cursecdn.com
+  - DOMAIN-SUFFIX,dndbeyond.com
+  - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,fandom.com
+  - DOMAIN,fandom.zendesk.com
+  - DOMAIN-SUFFIX,futhead.com
+  - DOMAIN-SUFFIX,gamepedia.com
+  - DOMAIN-SUFFIX,muthead.com
+  - DOMAIN-SUFFIX,wikia.com
+  - DOMAIN-SUFFIX,wikia.nocookie.net
+  - DOMAIN-SUFFIX,wikia.org

@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/wholefoodsmarket.txt
 # Name: wholefoodsmarket
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,wfm.com
-DOMAIN-SUFFIX,wholecitiesfoundation.org
-DOMAIN-SUFFIX,wholefoods.com
-DOMAIN-SUFFIX,wholefoodsmarket.co.uk
-DOMAIN-SUFFIX,wholefoodsmarket.com
-DOMAIN-SUFFIX,wholekidsfoundation.org
-DOMAIN-SUFFIX,wholeplanetfoundation.org
+payload:
+  - DOMAIN-SUFFIX,wfm.com
+  - DOMAIN-SUFFIX,wholecitiesfoundation.org
+  - DOMAIN-SUFFIX,wholefoods.com
+  - DOMAIN-SUFFIX,wholefoodsmarket.co.uk
+  - DOMAIN-SUFFIX,wholefoodsmarket.com
+  - DOMAIN-SUFFIX,wholekidsfoundation.org
+  - DOMAIN-SUFFIX,wholeplanetfoundation.org

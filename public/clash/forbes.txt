@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/forbes.txt
 # Name: forbes
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,forbes.com
-DOMAIN-SUFFIX,forbesimg.com
+payload:
+  - DOMAIN-SUFFIX,forbes.com
+  - DOMAIN-SUFFIX,forbesimg.com

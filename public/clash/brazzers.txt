@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/brazzers.txt
 # Name: brazzers
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,brazzer.com
-DOMAIN-SUFFIX,brazzers.com
-DOMAIN-SUFFIX,brazzers.xxx
-DOMAIN-SUFFIX,brazzersnetwork.com
-DOMAIN-SUFFIX,mofos.com
+payload:
+  - DOMAIN-SUFFIX,brazzer.com
+  - DOMAIN-SUFFIX,brazzers.com
+  - DOMAIN-SUFFIX,brazzers.xxx
+  - DOMAIN-SUFFIX,brazzersnetwork.com
+  - DOMAIN-SUFFIX,mofos.com

@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/myoffice-ru.txt
 # Name: myoffice-ru
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,myoffice.ru
-DOMAIN-SUFFIX,myoffice.team
+payload:
+  - DOMAIN-SUFFIX,myoffice.ru
+  - DOMAIN-SUFFIX,myoffice.team

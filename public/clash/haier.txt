@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/haier.txt
 # Name: haier
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,ehaier.com
-DOMAIN-SUFFIX,haier.com
-DOMAIN-SUFFIX,haier.net
-DOMAIN-SUFFIX,haiersmarthomes.com
+payload:
+  - DOMAIN-SUFFIX,ehaier.com
+  - DOMAIN-SUFFIX,haier.com
+  - DOMAIN-SUFFIX,haier.net
+  - DOMAIN-SUFFIX,haiersmarthomes.com

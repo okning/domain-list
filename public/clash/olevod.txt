@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/olevod.txt
 # Name: olevod
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,haiwaikan.com
-DOMAIN-SUFFIX,iole.tv
-DOMAIN-SUFFIX,olehd.com
-DOMAIN-SUFFIX,olelive.com
-DOMAIN-SUFFIX,olemovienews.com
-DOMAIN-SUFFIX,olevod.com
-DOMAIN-SUFFIX,olevod.io
-DOMAIN-SUFFIX,olevod.tv
-DOMAIN-SUFFIX,olevodtv.com
+payload:
+  - DOMAIN-SUFFIX,haiwaikan.com
+  - DOMAIN-SUFFIX,iole.tv
+  - DOMAIN-SUFFIX,olehd.com
+  - DOMAIN-SUFFIX,olelive.com
+  - DOMAIN-SUFFIX,olemovienews.com
+  - DOMAIN-SUFFIX,olevod.com
+  - DOMAIN-SUFFIX,olevod.io
+  - DOMAIN-SUFFIX,olevod.tv
+  - DOMAIN-SUFFIX,olevodtv.com

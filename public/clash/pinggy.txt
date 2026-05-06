@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/pinggy.txt
 # Name: pinggy
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,pinggy.io
-DOMAIN-SUFFIX,pinggy.link
+payload:
+  - DOMAIN-SUFFIX,pinggy.io
+  - DOMAIN-SUFFIX,pinggy.link

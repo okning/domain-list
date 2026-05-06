@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/adjust.txt
 # Name: adjust
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,adjust.com
-DOMAIN-SUFFIX,adjust.io
-DOMAIN-SUFFIX,adjust.net.in
-DOMAIN-SUFFIX,adjust.world
+payload:
+  - DOMAIN-SUFFIX,adjust.com
+  - DOMAIN-SUFFIX,adjust.io
+  - DOMAIN-SUFFIX,adjust.net.in
+  - DOMAIN-SUFFIX,adjust.world

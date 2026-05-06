@@ -1,15 +1,16 @@
 # URL: https://s.nosec.me/clash/longbridge.txt
 # Name: longbridge
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 10
 
-DOMAIN-SUFFIX,lbctrl.com
-DOMAIN-SUFFIX,lbkrs.com
-DOMAIN-SUFFIX,longbridge.cloud
-DOMAIN-SUFFIX,longbridge.com
-DOMAIN-SUFFIX,longbridge.global
-DOMAIN-SUFFIX,longbridge.hk
-DOMAIN-SUFFIX,longbridge.sg
-DOMAIN-SUFFIX,longbridgeapp.com
-DOMAIN-SUFFIX,longportapp.com
-DOMAIN-SUFFIX,wbrks.com
+payload:
+  - DOMAIN-SUFFIX,lbctrl.com
+  - DOMAIN-SUFFIX,lbkrs.com
+  - DOMAIN-SUFFIX,longbridge.cloud
+  - DOMAIN-SUFFIX,longbridge.com
+  - DOMAIN-SUFFIX,longbridge.global
+  - DOMAIN-SUFFIX,longbridge.hk
+  - DOMAIN-SUFFIX,longbridge.sg
+  - DOMAIN-SUFFIX,longbridgeapp.com
+  - DOMAIN-SUFFIX,longportapp.com
+  - DOMAIN-SUFFIX,wbrks.com

@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/collabora.txt
 # Name: collabora
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,collabora.co.uk
-DOMAIN-SUFFIX,collabora.com
-DOMAIN-SUFFIX,collabora.org
-DOMAIN-SUFFIX,collaboraoffice.com
+payload:
+  - DOMAIN-SUFFIX,collabora.co.uk
+  - DOMAIN-SUFFIX,collabora.com
+  - DOMAIN-SUFFIX,collabora.org
+  - DOMAIN-SUFFIX,collaboraoffice.com

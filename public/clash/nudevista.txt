@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/nudevista.txt
 # Name: nudevista
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,nudevista.com
-DOMAIN-SUFFIX,nudevista.es
-DOMAIN-SUFFIX,nudevista.net
-DOMAIN-SUFFIX,nudevista.vip
+payload:
+  - DOMAIN-SUFFIX,nudevista.com
+  - DOMAIN-SUFFIX,nudevista.es
+  - DOMAIN-SUFFIX,nudevista.net
+  - DOMAIN-SUFFIX,nudevista.vip

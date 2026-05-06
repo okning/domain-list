@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/meipian.txt
 # Name: meipian
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,ivwen.com
-DOMAIN-SUFFIX,meipian.cn
-DOMAIN-SUFFIX,meipian.me
+payload:
+  - DOMAIN-SUFFIX,ivwen.com
+  - DOMAIN-SUFFIX,meipian.cn
+  - DOMAIN-SUFFIX,meipian.me

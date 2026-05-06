@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/apkpure.txt
 # Name: apkpure
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,apkpure.net
-DOMAIN-SUFFIX,apkpures.xyz
-DOMAIN-SUFFIX,cdnpure.com
-DOMAIN-SUFFIX,pureapk.com
-DOMAIN-SUFFIX,winudf.com
+payload:
+  - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,apkpure.net
+  - DOMAIN-SUFFIX,apkpures.xyz
+  - DOMAIN-SUFFIX,cdnpure.com
+  - DOMAIN-SUFFIX,pureapk.com
+  - DOMAIN-SUFFIX,winudf.com

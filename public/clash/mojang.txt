@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/mojang.txt
 # Name: mojang
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,callersbane.com
-DOMAIN-SUFFIX,minecraft-services.net
-DOMAIN-SUFFIX,minecraft.net
-DOMAIN-SUFFIX,minecraftservices.com
-DOMAIN-SUFFIX,minecraftshop.com
-DOMAIN-SUFFIX,mojang.com
+payload:
+  - DOMAIN-SUFFIX,callersbane.com
+  - DOMAIN-SUFFIX,minecraft-services.net
+  - DOMAIN-SUFFIX,minecraft.net
+  - DOMAIN-SUFFIX,minecraftservices.com
+  - DOMAIN-SUFFIX,minecraftshop.com
+  - DOMAIN-SUFFIX,mojang.com

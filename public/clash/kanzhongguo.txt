@@ -1,21 +1,22 @@
 # URL: https://s.nosec.me/clash/kanzhongguo.txt
 # Name: kanzhongguo
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 16
 
-DOMAIN-SUFFIX,es-visiontimes.com
-DOMAIN-SUFFIX,kannewyork.com
-DOMAIN-SUFFIX,kanzhongguo.com
-DOMAIN-SUFFIX,kanzhongguo.eu
-DOMAIN-SUFFIX,secretchina.com
-DOMAIN-SUFFIX,trithucvn.net
-DOMAIN-SUFFIX,trithucvn.org
-DOMAIN-SUFFIX,vct.news
-DOMAIN-SUFFIX,visiontimes.com
-DOMAIN-SUFFIX,visiontimes.de
-DOMAIN-SUFFIX,visiontimes.fr
-DOMAIN-SUFFIX,visiontimes.it
-DOMAIN-SUFFIX,visiontimes.net
-DOMAIN-SUFFIX,visiontimesjp.com
-DOMAIN-SUFFIX,vtvan.com
-DOMAIN-SUFFIX,watchinese.com
+payload:
+  - DOMAIN-SUFFIX,es-visiontimes.com
+  - DOMAIN-SUFFIX,kannewyork.com
+  - DOMAIN-SUFFIX,kanzhongguo.com
+  - DOMAIN-SUFFIX,kanzhongguo.eu
+  - DOMAIN-SUFFIX,secretchina.com
+  - DOMAIN-SUFFIX,trithucvn.net
+  - DOMAIN-SUFFIX,trithucvn.org
+  - DOMAIN-SUFFIX,vct.news
+  - DOMAIN-SUFFIX,visiontimes.com
+  - DOMAIN-SUFFIX,visiontimes.de
+  - DOMAIN-SUFFIX,visiontimes.fr
+  - DOMAIN-SUFFIX,visiontimes.it
+  - DOMAIN-SUFFIX,visiontimes.net
+  - DOMAIN-SUFFIX,visiontimesjp.com
+  - DOMAIN-SUFFIX,vtvan.com
+  - DOMAIN-SUFFIX,watchinese.com

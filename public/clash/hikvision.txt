@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/hikvision.txt
 # Name: hikvision
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,eziot.com
-DOMAIN-SUFFIX,ezviz.com
-DOMAIN-SUFFIX,hik-cloud.com
-DOMAIN-SUFFIX,hik-express.com
-DOMAIN-SUFFIX,hikiot.com
-DOMAIN-SUFFIX,hikmall.com
-DOMAIN-SUFFIX,hikvision.com
-DOMAIN-SUFFIX,ys7.com
+payload:
+  - DOMAIN-SUFFIX,eziot.com
+  - DOMAIN-SUFFIX,ezviz.com
+  - DOMAIN-SUFFIX,hik-cloud.com
+  - DOMAIN-SUFFIX,hik-express.com
+  - DOMAIN-SUFFIX,hikiot.com
+  - DOMAIN-SUFFIX,hikmall.com
+  - DOMAIN-SUFFIX,hikvision.com
+  - DOMAIN-SUFFIX,ys7.com

@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/dart.txt
 # Name: dart
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,dart.dev
-DOMAIN-SUFFIX,dartlang.org
-DOMAIN-SUFFIX,dartpad.dev
+payload:
+  - DOMAIN-SUFFIX,dart.dev
+  - DOMAIN-SUFFIX,dartlang.org
+  - DOMAIN-SUFFIX,dartpad.dev

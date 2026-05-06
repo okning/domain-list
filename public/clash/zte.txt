@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/zte.txt
 # Name: zte
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,nubia.cn
-DOMAIN-SUFFIX,nubia.com
-DOMAIN-SUFFIX,redmagic.com
-DOMAIN-SUFFIX,zte.com.cn
-DOMAIN-SUFFIX,ztedevices.com
-DOMAIN-SUFFIX,ztemall.com
-DOMAIN-SUFFIX,ztems.com
+payload:
+  - DOMAIN-SUFFIX,nubia.cn
+  - DOMAIN-SUFFIX,nubia.com
+  - DOMAIN-SUFFIX,redmagic.com
+  - DOMAIN-SUFFIX,zte.com.cn
+  - DOMAIN-SUFFIX,ztedevices.com
+  - DOMAIN-SUFFIX,ztemall.com
+  - DOMAIN-SUFFIX,ztems.com

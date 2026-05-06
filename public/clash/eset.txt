@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/eset.txt
 # Name: eset
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,e5.sk
-DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
-DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
-DOMAIN-SUFFIX,eset.com
-DOMAIN-SUFFIX,eset.eu
-DOMAIN-SUFFIX,eset.sk
-DOMAIN-SUFFIX,eset.systems
-DOMAIN-SUFFIX,esetsoftware.com
+payload:
+  - DOMAIN-SUFFIX,e5.sk
+  - DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+  - DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,eset.com
+  - DOMAIN-SUFFIX,eset.eu
+  - DOMAIN-SUFFIX,eset.sk
+  - DOMAIN-SUFFIX,eset.systems
+  - DOMAIN-SUFFIX,esetsoftware.com

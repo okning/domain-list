@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/tubi.txt
 # Name: tubi
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,tubi.io
-DOMAIN-SUFFIX,tubi.tv
-DOMAIN-SUFFIX,tubi.video
-DOMAIN-SUFFIX,tubitv.com
+payload:
+  - DOMAIN-SUFFIX,tubi.io
+  - DOMAIN-SUFFIX,tubi.tv
+  - DOMAIN-SUFFIX,tubi.video
+  - DOMAIN-SUFFIX,tubitv.com

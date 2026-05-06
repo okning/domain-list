@@ -1,22 +1,23 @@
 # URL: https://s.nosec.me/clash/firebase.txt
 # Name: firebase
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 17
 
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN-SUFFIX,firebase.com
-DOMAIN,firebase.google.com
-DOMAIN,firebase.googleapis.com
-DOMAIN-SUFFIX,firebase.io
-DOMAIN-SUFFIX,firebaseapp.com
-DOMAIN,firebaseappcheck.googleapis.com
-DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
-DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
-DOMAIN,firebasedynamiclinks.googleapis.com
-DOMAIN,firebaseinappmessaging.googleapis.com
-DOMAIN,firebaseinstallations.googleapis.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,firebaselogging.googleapis.com
-DOMAIN,firebaseperusertopics-pa.googleapis.com
-DOMAIN,firebaseremoteconfig.googleapis.com
+payload:
+  - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN-SUFFIX,firebase.com
+  - DOMAIN,firebase.google.com
+  - DOMAIN,firebase.googleapis.com
+  - DOMAIN-SUFFIX,firebase.io
+  - DOMAIN-SUFFIX,firebaseapp.com
+  - DOMAIN,firebaseappcheck.googleapis.com
+  - DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
+  - DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
+  - DOMAIN,firebasedynamiclinks.googleapis.com
+  - DOMAIN,firebaseinappmessaging.googleapis.com
+  - DOMAIN,firebaseinstallations.googleapis.com
+  - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
+  - DOMAIN,firebaseperusertopics-pa.googleapis.com
+  - DOMAIN,firebaseremoteconfig.googleapis.com

@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/wbgames.txt
 # Name: wbgames
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN,datarouter.apps.netherrealm.com
-DOMAIN-SUFFIX,warnerbrosgames.com
-DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
-DOMAIN-SUFFIX,wbagora.com
-DOMAIN-SUFFIX,wbgames.com
-DOMAIN-SUFFIX,wbinsights.com
+payload:
+  - DOMAIN,datarouter.apps.netherrealm.com
+  - DOMAIN-SUFFIX,warnerbrosgames.com
+  - DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+  - DOMAIN-SUFFIX,wbagora.com
+  - DOMAIN-SUFFIX,wbgames.com
+  - DOMAIN-SUFFIX,wbinsights.com

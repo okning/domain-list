@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/yuanbei.txt
 # Name: yuanbei
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,i2oo.cn
-DOMAIN-SUFFIX,laoban100.com
-DOMAIN-SUFFIX,shengyi.ai
-DOMAIN-SUFFIX,shengyizhuanjia.com
-DOMAIN-SUFFIX,yuanbei.biz
+payload:
+  - DOMAIN-SUFFIX,i2oo.cn
+  - DOMAIN-SUFFIX,laoban100.com
+  - DOMAIN-SUFFIX,shengyi.ai
+  - DOMAIN-SUFFIX,shengyizhuanjia.com
+  - DOMAIN-SUFFIX,yuanbei.biz

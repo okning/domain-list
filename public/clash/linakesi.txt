@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/linakesi.txt
 # Name: linakesi
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,heiyu.space
-DOMAIN-SUFFIX,lazycat.cloud
-DOMAIN-SUFFIX,linakesi.cn
-DOMAIN-SUFFIX,linakesi.com
+payload:
+  - DOMAIN-SUFFIX,heiyu.space
+  - DOMAIN-SUFFIX,lazycat.cloud
+  - DOMAIN-SUFFIX,linakesi.cn
+  - DOMAIN-SUFFIX,linakesi.com

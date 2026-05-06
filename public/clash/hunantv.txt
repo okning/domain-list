@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/hunantv.txt
 # Name: hunantv
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,hifuntv.com
-DOMAIN-SUFFIX,hitv.com
-DOMAIN-SUFFIX,hnbntv.com
-DOMAIN-SUFFIX,hunaniptv.com
-DOMAIN-SUFFIX,hunantv.com
-DOMAIN-SUFFIX,imgo.tv
-DOMAIN-SUFFIX,mgtv.com
+payload:
+  - DOMAIN-SUFFIX,hifuntv.com
+  - DOMAIN-SUFFIX,hitv.com
+  - DOMAIN-SUFFIX,hnbntv.com
+  - DOMAIN-SUFFIX,hunaniptv.com
+  - DOMAIN-SUFFIX,hunantv.com
+  - DOMAIN-SUFFIX,imgo.tv
+  - DOMAIN-SUFFIX,mgtv.com

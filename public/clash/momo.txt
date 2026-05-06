@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/momo.txt
 # Name: momo
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,momo.dm
-DOMAIN-SUFFIX,momo5188.com
-DOMAIN-SUFFIX,momomall.com.tw
-DOMAIN-SUFFIX,momoshop.com.tw
+payload:
+  - DOMAIN-SUFFIX,momo.dm
+  - DOMAIN-SUFFIX,momo5188.com
+  - DOMAIN-SUFFIX,momomall.com.tw
+  - DOMAIN-SUFFIX,momoshop.com.tw

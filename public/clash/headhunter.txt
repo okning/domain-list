@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/headhunter.txt
 # Name: headhunter
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,hh.by
-DOMAIN-SUFFIX,hh.kz
-DOMAIN-SUFFIX,hh.ru
-DOMAIN-SUFFIX,hhcdn.ru
-DOMAIN-SUFFIX,rabota.by
-DOMAIN-SUFFIX,setka.ru
-DOMAIN-SUFFIX,talantix.ru
-DOMAIN-SUFFIX,zarplata.ru
+payload:
+  - DOMAIN-SUFFIX,hh.by
+  - DOMAIN-SUFFIX,hh.kz
+  - DOMAIN-SUFFIX,hh.ru
+  - DOMAIN-SUFFIX,hhcdn.ru
+  - DOMAIN-SUFFIX,rabota.by
+  - DOMAIN-SUFFIX,setka.ru
+  - DOMAIN-SUFFIX,talantix.ru
+  - DOMAIN-SUFFIX,zarplata.ru

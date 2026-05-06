@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/17zuoye.txt
 # Name: 17zuoye
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,17zuoye.cn
-DOMAIN-SUFFIX,17zuoye.com
-DOMAIN-SUFFIX,17zuoye.net
+payload:
+  - DOMAIN-SUFFIX,17zuoye.cn
+  - DOMAIN-SUFFIX,17zuoye.com
+  - DOMAIN-SUFFIX,17zuoye.net

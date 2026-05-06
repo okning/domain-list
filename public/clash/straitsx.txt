@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/straitsx.txt
 # Name: straitsx
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN,d3r7nsslvs6aaf.cloudfront.net
-DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
-DOMAIN-SUFFIX,straitsx.com
+payload:
+  - DOMAIN,d3r7nsslvs6aaf.cloudfront.net
+  - DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+  - DOMAIN-SUFFIX,straitsx.com

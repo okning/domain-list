@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/bjyouth.txt
 # Name: bjyouth
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,bjyouth.gov.cn
-DOMAIN-SUFFIX,bjyouth.net
-DOMAIN-SUFFIX,sqqnh.cn
-DOMAIN-SUFFIX,sqqnh.org
+payload:
+  - DOMAIN-SUFFIX,bjyouth.gov.cn
+  - DOMAIN-SUFFIX,bjyouth.net
+  - DOMAIN-SUFFIX,sqqnh.cn
+  - DOMAIN-SUFFIX,sqqnh.org

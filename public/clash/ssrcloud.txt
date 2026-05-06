@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/ssrcloud.txt
 # Name: ssrcloud
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,airport-gov-cn.com
-DOMAIN-SUFFIX,cnix-gov-cn.com
-DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
+payload:
+  - DOMAIN-SUFFIX,airport-gov-cn.com
+  - DOMAIN-SUFFIX,cnix-gov-cn.com
+  - DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com

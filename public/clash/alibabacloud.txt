@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/alibabacloud.txt
 # Name: alibabacloud
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,alibabacloud.co.in
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alibabacloud.com.au
-DOMAIN-SUFFIX,alibabacloud.com.hk
-DOMAIN-SUFFIX,alibabacloud.com.my
-DOMAIN-SUFFIX,alibabacloud.com.sg
-DOMAIN-SUFFIX,alibabacloud.com.tw
-DOMAIN-SUFFIX,alicloud.com
+payload:
+  - DOMAIN-SUFFIX,alibabacloud.co.in
+  - DOMAIN-SUFFIX,alibabacloud.com
+  - DOMAIN-SUFFIX,alibabacloud.com.au
+  - DOMAIN-SUFFIX,alibabacloud.com.hk
+  - DOMAIN-SUFFIX,alibabacloud.com.my
+  - DOMAIN-SUFFIX,alibabacloud.com.sg
+  - DOMAIN-SUFFIX,alibabacloud.com.tw
+  - DOMAIN-SUFFIX,alicloud.com

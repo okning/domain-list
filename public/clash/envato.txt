@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/envato.txt
 # Name: envato
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,envato-static.com
-DOMAIN-SUFFIX,envato.com
-DOMAIN-SUFFIX,envatousercontent.com
-DOMAIN-SUFFIX,themeforest.net
+payload:
+  - DOMAIN-SUFFIX,envato-static.com
+  - DOMAIN-SUFFIX,envato.com
+  - DOMAIN-SUFFIX,envatousercontent.com
+  - DOMAIN-SUFFIX,themeforest.net

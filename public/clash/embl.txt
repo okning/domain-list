@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/embl.txt
 # Name: embl
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,ebi.ac.uk
-DOMAIN-SUFFIX,embl-hamburg.de
-DOMAIN-SUFFIX,embl.de
-DOMAIN-SUFFIX,embl.fr
-DOMAIN-SUFFIX,embl.it
-DOMAIN-SUFFIX,embl.org
-DOMAIN-SUFFIX,emblstatic.net
+payload:
+  - DOMAIN-SUFFIX,ebi.ac.uk
+  - DOMAIN-SUFFIX,embl-hamburg.de
+  - DOMAIN-SUFFIX,embl.de
+  - DOMAIN-SUFFIX,embl.fr
+  - DOMAIN-SUFFIX,embl.it
+  - DOMAIN-SUFFIX,embl.org
+  - DOMAIN-SUFFIX,emblstatic.net

@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/tcl.txt
 # Name: tcl
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,leiniao.com
-DOMAIN-SUFFIX,my7v.com
-DOMAIN-SUFFIX,tcl.com
-DOMAIN-SUFFIX,tcl.com.cn
-DOMAIN-SUFFIX,tclai.top
-DOMAIN-SUFFIX,tcltech.com
+payload:
+  - DOMAIN-SUFFIX,leiniao.com
+  - DOMAIN-SUFFIX,my7v.com
+  - DOMAIN-SUFFIX,tcl.com
+  - DOMAIN-SUFFIX,tcl.com.cn
+  - DOMAIN-SUFFIX,tclai.top
+  - DOMAIN-SUFFIX,tcltech.com

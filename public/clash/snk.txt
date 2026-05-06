@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/snk.txt
 # Name: snk
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,snk-corp.co.jp
-DOMAIN-SUFFIX,snk-corp.info
-DOMAIN-SUFFIX,snkplaymore.info
+payload:
+  - DOMAIN-SUFFIX,snk-corp.co.jp
+  - DOMAIN-SUFFIX,snk-corp.info
+  - DOMAIN-SUFFIX,snkplaymore.info

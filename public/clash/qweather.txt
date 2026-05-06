@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/qweather.txt
 # Name: qweather
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,hecdn.net
-DOMAIN-SUFFIX,heweather.net
-DOMAIN-SUFFIX,qweather.com
-DOMAIN-SUFFIX,qweather.net
+payload:
+  - DOMAIN-SUFFIX,hecdn.net
+  - DOMAIN-SUFFIX,heweather.net
+  - DOMAIN-SUFFIX,qweather.com
+  - DOMAIN-SUFFIX,qweather.net

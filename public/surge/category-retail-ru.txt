@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-retail-ru.txt
 # Name: category-retail-ru
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 75
 
 DOMAIN-SUFFIX,5ka.ru

@@ -1,23 +1,24 @@
 # URL: https://s.nosec.me/clash/wikimedia.txt
 # Name: wikimedia
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 18
 
-DOMAIN-SUFFIX,mediawiki.org
-DOMAIN-SUFFIX,toolforge.org
-DOMAIN-SUFFIX,w.wiki
-DOMAIN-SUFFIX,wikibooks.org
-DOMAIN-SUFFIX,wikidata.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikimediacloud.org
-DOMAIN-SUFFIX,wikimediafoundation.org
-DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikiquote.org
-DOMAIN-SUFFIX,wikisource.org
-DOMAIN-SUFFIX,wikiversity.org
-DOMAIN-SUFFIX,wikivoyage.org
-DOMAIN-SUFFIX,wiktionary.org
-DOMAIN-SUFFIX,wmcloud.org
-DOMAIN-SUFFIX,wmflabs.org
-DOMAIN-SUFFIX,wmfusercontent.org
+payload:
+  - DOMAIN-SUFFIX,mediawiki.org
+  - DOMAIN-SUFFIX,toolforge.org
+  - DOMAIN-SUFFIX,w.wiki
+  - DOMAIN-SUFFIX,wikibooks.org
+  - DOMAIN-SUFFIX,wikidata.org
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikimediacloud.org
+  - DOMAIN-SUFFIX,wikimediafoundation.org
+  - DOMAIN-SUFFIX,wikinews.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikisource.org
+  - DOMAIN-SUFFIX,wikiversity.org
+  - DOMAIN-SUFFIX,wikivoyage.org
+  - DOMAIN-SUFFIX,wiktionary.org
+  - DOMAIN-SUFFIX,wmcloud.org
+  - DOMAIN-SUFFIX,wmflabs.org
+  - DOMAIN-SUFFIX,wmfusercontent.org

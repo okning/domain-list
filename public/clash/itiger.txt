@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/itiger.txt
 # Name: itiger
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,itiger.com
-DOMAIN-SUFFIX,itigergrowth.com
-DOMAIN-SUFFIX,itigergrowtha.com
-DOMAIN-SUFFIX,itigerup.com
+payload:
+  - DOMAIN-SUFFIX,itiger.com
+  - DOMAIN-SUFFIX,itigergrowth.com
+  - DOMAIN-SUFFIX,itigergrowtha.com
+  - DOMAIN-SUFFIX,itigerup.com

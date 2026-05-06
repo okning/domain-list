@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/scenesource.txt
 # Name: scenesource
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,predb.me
-DOMAIN-SUFFIX,scenesource.me
-DOMAIN-SUFFIX,scnsrc.me
+payload:
+  - DOMAIN-SUFFIX,predb.me
+  - DOMAIN-SUFFIX,scenesource.me
+  - DOMAIN-SUFFIX,scnsrc.me

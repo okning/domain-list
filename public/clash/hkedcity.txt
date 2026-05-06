@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/hkedcity.txt
 # Name: hkedcity
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,edcity.hk
-DOMAIN-SUFFIX,hkedcity.net
-DOMAIN-SUFFIX,hkreadingcity.net
+payload:
+  - DOMAIN-SUFFIX,edcity.hk
+  - DOMAIN-SUFFIX,hkedcity.net
+  - DOMAIN-SUFFIX,hkreadingcity.net

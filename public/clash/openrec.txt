@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/openrec.txt
 # Name: openrec
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN,dqd0jw5gvbchn.cloudfront.net
-DOMAIN-SUFFIX,openrec.tv
+payload:
+  - DOMAIN,dqd0jw5gvbchn.cloudfront.net
+  - DOMAIN-SUFFIX,openrec.tv

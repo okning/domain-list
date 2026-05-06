@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/ymtc.txt
 # Name: ymtc
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,ymtc.cn
-DOMAIN-SUFFIX,ymtc.com
-DOMAIN-SUFFIX,ymtc.com.cn
+payload:
+  - DOMAIN-SUFFIX,ymtc.cn
+  - DOMAIN-SUFFIX,ymtc.com
+  - DOMAIN-SUFFIX,ymtc.com.cn

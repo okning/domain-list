@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/identrust.txt
 # Name: identrust
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,identrust.co.uk
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,identrust.net
+payload:
+  - DOMAIN-SUFFIX,identrust.co.uk
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,identrust.net

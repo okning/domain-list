@@ -1,19 +1,20 @@
 # URL: https://s.nosec.me/clash/wantmedia.txt
 # Name: wantmedia
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 14
 
-DOMAIN-SUFFIX,benliton.com
-DOMAIN-SUFFIX,chinatimes.com
-DOMAIN-SUFFIX,chinatimes.com.tw
-DOMAIN-SUFFIX,ctee.com.tw
-DOMAIN-SUFFIX,ctitv.com.tw
-DOMAIN-SUFFIX,ctv.com.tw
-DOMAIN-SUFFIX,ctwant.com
-DOMAIN-SUFFIX,infotimes.com.tw
-DOMAIN-SUFFIX,lecoin.cc
-DOMAIN-SUFFIX,loveparents.org
-DOMAIN-SUFFIX,superstation.com.tw
-DOMAIN-SUFFIX,want-media.com
-DOMAIN-SUFFIX,wantblogger.com
-DOMAIN-SUFFIX,zwtvusa.com
+payload:
+  - DOMAIN-SUFFIX,benliton.com
+  - DOMAIN-SUFFIX,chinatimes.com
+  - DOMAIN-SUFFIX,chinatimes.com.tw
+  - DOMAIN-SUFFIX,ctee.com.tw
+  - DOMAIN-SUFFIX,ctitv.com.tw
+  - DOMAIN-SUFFIX,ctv.com.tw
+  - DOMAIN-SUFFIX,ctwant.com
+  - DOMAIN-SUFFIX,infotimes.com.tw
+  - DOMAIN-SUFFIX,lecoin.cc
+  - DOMAIN-SUFFIX,loveparents.org
+  - DOMAIN-SUFFIX,superstation.com.tw
+  - DOMAIN-SUFFIX,want-media.com
+  - DOMAIN-SUFFIX,wantblogger.com
+  - DOMAIN-SUFFIX,zwtvusa.com

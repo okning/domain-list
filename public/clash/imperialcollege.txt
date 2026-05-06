@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/imperialcollege.txt
 # Name: imperialcollege
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,ic.ac.uk
-DOMAIN-SUFFIX,imperial.ac.uk
-DOMAIN,imperial.insendi.com
-DOMAIN-SUFFIX,imperialbusiness.school
+payload:
+  - DOMAIN-SUFFIX,ic.ac.uk
+  - DOMAIN-SUFFIX,imperial.ac.uk
+  - DOMAIN,imperial.insendi.com
+  - DOMAIN-SUFFIX,imperialbusiness.school

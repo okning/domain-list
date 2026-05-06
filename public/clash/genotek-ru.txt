@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/genotek-ru.txt
 # Name: genotek-ru
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,eligens.cl
-DOMAIN-SUFFIX,eligens.com.br
-DOMAIN-SUFFIX,eligens.io
-DOMAIN-SUFFIX,genetic-technologies.am
-DOMAIN-SUFFIX,genotek.am
-DOMAIN-SUFFIX,genotek.es
-DOMAIN-SUFFIX,genotek.eu
-DOMAIN-SUFFIX,genotek.health
-DOMAIN-SUFFIX,genotek.ru
+payload:
+  - DOMAIN-SUFFIX,eligens.cl
+  - DOMAIN-SUFFIX,eligens.com.br
+  - DOMAIN-SUFFIX,eligens.io
+  - DOMAIN-SUFFIX,genetic-technologies.am
+  - DOMAIN-SUFFIX,genotek.am
+  - DOMAIN-SUFFIX,genotek.es
+  - DOMAIN-SUFFIX,genotek.eu
+  - DOMAIN-SUFFIX,genotek.health
+  - DOMAIN-SUFFIX,genotek.ru

@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/cambridge.txt
 # Name: cambridge
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,cam.ac.uk
-DOMAIN-SUFFIX,cambridge.org
-DOMAIN-SUFFIX,cambridgedigital.net
-DOMAIN-SUFFIX,cambridgemaths.org
-DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
-DOMAIN-SUFFIX,dlib.eastview.com
+payload:
+  - DOMAIN-SUFFIX,cam.ac.uk
+  - DOMAIN-SUFFIX,cambridge.org
+  - DOMAIN-SUFFIX,cambridgedigital.net
+  - DOMAIN-SUFFIX,cambridgemaths.org
+  - DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
+  - DOMAIN-SUFFIX,dlib.eastview.com

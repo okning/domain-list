@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/cnn.txt
 # Name: cnn
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,cnn.com
-DOMAIN-SUFFIX,cnn.io
-DOMAIN-SUFFIX,cnn.it
-DOMAIN-SUFFIX,cnnarabic.com
-DOMAIN-SUFFIX,cnnlabs.com
-DOMAIN-SUFFIX,cnnmoney.ch
-DOMAIN-SUFFIX,cnnmoney.com
-DOMAIN-SUFFIX,cnnmoneystream.com
-DOMAIN-SUFFIX,cnnpolitics.com
+payload:
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN-SUFFIX,cnn.it
+  - DOMAIN-SUFFIX,cnnarabic.com
+  - DOMAIN-SUFFIX,cnnlabs.com
+  - DOMAIN-SUFFIX,cnnmoney.ch
+  - DOMAIN-SUFFIX,cnnmoney.com
+  - DOMAIN-SUFFIX,cnnmoneystream.com
+  - DOMAIN-SUFFIX,cnnpolitics.com

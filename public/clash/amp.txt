@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/amp.txt
 # Name: amp
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN,amp.akamaized.net
-DOMAIN-SUFFIX,amp.dev
-DOMAIN-SUFFIX,ampproject.com
-DOMAIN-SUFFIX,ampproject.net
-DOMAIN-SUFFIX,ampproject.org
+payload:
+  - DOMAIN,amp.akamaized.net
+  - DOMAIN-SUFFIX,amp.dev
+  - DOMAIN-SUFFIX,ampproject.com
+  - DOMAIN-SUFFIX,ampproject.net
+  - DOMAIN-SUFFIX,ampproject.org

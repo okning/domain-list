@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/category-mobile-repair.txt
 # Name: category-mobile-repair
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,androidfilehost.com
-DOMAIN-SUFFIX,borneo.world
-DOMAIN-SUFFIX,borneoasia.com
-DOMAIN-SUFFIX,borneoschematic.com
-DOMAIN-SUFFIX,bosharso.net
-DOMAIN-SUFFIX,easy-jtag.com
-DOMAIN-SUFFIX,hostborneo.org
-DOMAIN-SUFFIX,unlocktool.net
-DOMAIN-SUFFIX,z3x-team.com
+payload:
+  - DOMAIN-SUFFIX,androidfilehost.com
+  - DOMAIN-SUFFIX,borneo.world
+  - DOMAIN-SUFFIX,borneoasia.com
+  - DOMAIN-SUFFIX,borneoschematic.com
+  - DOMAIN-SUFFIX,bosharso.net
+  - DOMAIN-SUFFIX,easy-jtag.com
+  - DOMAIN-SUFFIX,hostborneo.org
+  - DOMAIN-SUFFIX,unlocktool.net
+  - DOMAIN-SUFFIX,z3x-team.com

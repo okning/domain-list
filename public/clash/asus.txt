@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/asus.txt
 # Name: asus
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,asus.com
-DOMAIN-SUFFIX,asus.com.cn
-DOMAIN-SUFFIX,asuscloud.com
-DOMAIN-SUFFIX,asuswebstorage.com
+payload:
+  - DOMAIN-SUFFIX,asus.com
+  - DOMAIN-SUFFIX,asus.com.cn
+  - DOMAIN-SUFFIX,asuscloud.com
+  - DOMAIN-SUFFIX,asuswebstorage.com

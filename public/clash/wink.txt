@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/wink.txt
 # Name: wink
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,more.tv
-DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,restream.ru
-DOMAIN-SUFFIX,wink.am
-DOMAIN-SUFFIX,wink.ru
+payload:
+  - DOMAIN-SUFFIX,more.tv
+  - DOMAIN-SUFFIX,restream-media.net
+  - DOMAIN-SUFFIX,restream.ru
+  - DOMAIN-SUFFIX,wink.am
+  - DOMAIN-SUFFIX,wink.ru

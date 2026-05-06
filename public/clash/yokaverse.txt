@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/yokaverse.txt
 # Name: yokaverse
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,dobest.com
-DOMAIN-SUFFIX,langrenclub.com
-DOMAIN-SUFFIX,sanguosha.com
-DOMAIN-SUFFIX,xhlsgs.com
-DOMAIN-SUFFIX,xinwuji.com
-DOMAIN-SUFFIX,yokaverse.com
-DOMAIN-SUFFIX,zhuoyou.com
+payload:
+  - DOMAIN-SUFFIX,dobest.com
+  - DOMAIN-SUFFIX,langrenclub.com
+  - DOMAIN-SUFFIX,sanguosha.com
+  - DOMAIN-SUFFIX,xhlsgs.com
+  - DOMAIN-SUFFIX,xinwuji.com
+  - DOMAIN-SUFFIX,yokaverse.com
+  - DOMAIN-SUFFIX,zhuoyou.com

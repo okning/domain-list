@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/weiphone.txt
 # Name: weiphone
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,feng.com
-DOMAIN-SUFFIX,fengimg.com
-DOMAIN-SUFFIX,weiphone.net
-DOMAIN-SUFFIX,wfdata.club
+payload:
+  - DOMAIN-SUFFIX,feng.com
+  - DOMAIN-SUFFIX,fengimg.com
+  - DOMAIN-SUFFIX,weiphone.net
+  - DOMAIN-SUFFIX,wfdata.club

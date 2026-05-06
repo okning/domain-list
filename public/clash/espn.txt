@@ -1,16 +1,17 @@
 # URL: https://s.nosec.me/clash/espn.txt
 # Name: espn
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 11
 
-DOMAIN-SUFFIX,dtci.co
-DOMAIN-SUFFIX,dtci.technology
-DOMAIN,espn.api.edge.bamgrid.com
-DOMAIN-SUFFIX,espn.co.uk
-DOMAIN-SUFFIX,espn.com
-DOMAIN,espn.hb.omtrdc.net
-DOMAIN-SUFFIX,espn.net
-DOMAIN-SUFFIX,espncdn.com
-DOMAIN,espndotcom.tt.omtrdc.net
-DOMAIN-SUFFIX,espnqa.com
-DOMAIN-SUFFIX,watchespn.com
+payload:
+  - DOMAIN-SUFFIX,dtci.co
+  - DOMAIN-SUFFIX,dtci.technology
+  - DOMAIN,espn.api.edge.bamgrid.com
+  - DOMAIN-SUFFIX,espn.co.uk
+  - DOMAIN-SUFFIX,espn.com
+  - DOMAIN,espn.hb.omtrdc.net
+  - DOMAIN-SUFFIX,espn.net
+  - DOMAIN-SUFFIX,espncdn.com
+  - DOMAIN,espndotcom.tt.omtrdc.net
+  - DOMAIN-SUFFIX,espnqa.com
+  - DOMAIN-SUFFIX,watchespn.com

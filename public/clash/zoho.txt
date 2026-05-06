@@ -1,18 +1,19 @@
 # URL: https://s.nosec.me/clash/zoho.txt
 # Name: zoho
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 13
 
-DOMAIN-SUFFIX,zoho.com
-DOMAIN-SUFFIX,zoho.com.au
-DOMAIN-SUFFIX,zoho.eu
-DOMAIN-SUFFIX,zoho.in
-DOMAIN-SUFFIX,zohocdn.com
-DOMAIN-SUFFIX,zohomeetups.com
-DOMAIN-SUFFIX,zohomerchandise.com
-DOMAIN-SUFFIX,zohopublic.com
-DOMAIN-SUFFIX,zohoschools.com
-DOMAIN-SUFFIX,zohostatic.com
-DOMAIN-SUFFIX,zohostatic.in
-DOMAIN-SUFFIX,zohouniversity.com
-DOMAIN-SUFFIX,zohowebstatic.com
+payload:
+  - DOMAIN-SUFFIX,zoho.com
+  - DOMAIN-SUFFIX,zoho.com.au
+  - DOMAIN-SUFFIX,zoho.eu
+  - DOMAIN-SUFFIX,zoho.in
+  - DOMAIN-SUFFIX,zohocdn.com
+  - DOMAIN-SUFFIX,zohomeetups.com
+  - DOMAIN-SUFFIX,zohomerchandise.com
+  - DOMAIN-SUFFIX,zohopublic.com
+  - DOMAIN-SUFFIX,zohoschools.com
+  - DOMAIN-SUFFIX,zohostatic.com
+  - DOMAIN-SUFFIX,zohostatic.in
+  - DOMAIN-SUFFIX,zohouniversity.com
+  - DOMAIN-SUFFIX,zohowebstatic.com

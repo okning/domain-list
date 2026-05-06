@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/kemono.txt
 # Name: kemono
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,kemono.cr
-DOMAIN-SUFFIX,kemono.party
-DOMAIN-SUFFIX,kemono.su
+payload:
+  - DOMAIN-SUFFIX,kemono.cr
+  - DOMAIN-SUFFIX,kemono.party
+  - DOMAIN-SUFFIX,kemono.su

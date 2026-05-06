@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/vivo.txt
 # Name: vivo
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,iqoo.com
-DOMAIN-SUFFIX,vivo.cn
-DOMAIN-SUFFIX,vivo.com
-DOMAIN-SUFFIX,vivo.com.cn
-DOMAIN-SUFFIX,vivoglobal.com
-DOMAIN-SUFFIX,vvstc.com
+payload:
+  - DOMAIN-SUFFIX,iqoo.com
+  - DOMAIN-SUFFIX,vivo.cn
+  - DOMAIN-SUFFIX,vivo.com
+  - DOMAIN-SUFFIX,vivo.com.cn
+  - DOMAIN-SUFFIX,vivoglobal.com
+  - DOMAIN-SUFFIX,vvstc.com

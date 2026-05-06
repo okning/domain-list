@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/coursera.txt
 # Name: coursera
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,coursera-for-business.org
-DOMAIN-SUFFIX,coursera.community
-DOMAIN-SUFFIX,coursera.help
-DOMAIN-SUFFIX,coursera.org
+payload:
+  - DOMAIN-SUFFIX,coursera-for-business.org
+  - DOMAIN-SUFFIX,coursera.community
+  - DOMAIN-SUFFIX,coursera.help
+  - DOMAIN-SUFFIX,coursera.org

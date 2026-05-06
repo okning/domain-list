@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/ku6.txt
 # Name: ku6
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,ku6.com
-DOMAIN-SUFFIX,ku6cdn.com
-DOMAIN-SUFFIX,ku6img.com
+payload:
+  - DOMAIN-SUFFIX,ku6.com
+  - DOMAIN-SUFFIX,ku6cdn.com
+  - DOMAIN-SUFFIX,ku6img.com

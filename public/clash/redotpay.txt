@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/redotpay.txt
 # Name: redotpay
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
-DOMAIN-SUFFIX,redotpay.com
-DOMAIN-SUFFIX,redotpay.zendesk.com
-DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
-DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+payload:
+  - DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+  - DOMAIN-SUFFIX,redotpay.com
+  - DOMAIN-SUFFIX,redotpay.zendesk.com
+  - DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com

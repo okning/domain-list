@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/pagecdn.txt
 # Name: pagecdn
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,pagecdn.com
-DOMAIN-SUFFIX,pagecdn.io
+payload:
+  - DOMAIN-SUFFIX,pagecdn.com
+  - DOMAIN-SUFFIX,pagecdn.io

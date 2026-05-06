@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/notion.txt
 # Name: notion
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,notion-static.com
-DOMAIN-SUFFIX,notion.com
-DOMAIN-SUFFIX,notion.new
-DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,notionusercontent.com
+payload:
+  - DOMAIN-SUFFIX,notion-static.com
+  - DOMAIN-SUFFIX,notion.com
+  - DOMAIN-SUFFIX,notion.new
+  - DOMAIN-SUFFIX,notion.site
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,notionusercontent.com

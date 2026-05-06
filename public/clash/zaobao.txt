@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/zaobao.txt
 # Name: zaobao
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,zaobao.com
-DOMAIN-SUFFIX,zaobao.com.sg
-DOMAIN-SUFFIX,zaobao.sg
+payload:
+  - DOMAIN-SUFFIX,zaobao.com
+  - DOMAIN-SUFFIX,zaobao.com.sg
+  - DOMAIN-SUFFIX,zaobao.sg

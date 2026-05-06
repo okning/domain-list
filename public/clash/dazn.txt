@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/dazn.txt
 # Name: dazn
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,dazn-api.com
-DOMAIN-SUFFIX,dazn.com
-DOMAIN-SUFFIX,dazndn.com
-DOMAIN-SUFFIX,daznfeeds.com
-DOMAIN-SUFFIX,daznplayer.com
-DOMAIN-SUFFIX,daznservices.com
-DOMAIN-SUFFIX,indazn.com
-DOMAIN-SUFFIX,indaznlab.com
+payload:
+  - DOMAIN-SUFFIX,dazn-api.com
+  - DOMAIN-SUFFIX,dazn.com
+  - DOMAIN-SUFFIX,dazndn.com
+  - DOMAIN-SUFFIX,daznfeeds.com
+  - DOMAIN-SUFFIX,daznplayer.com
+  - DOMAIN-SUFFIX,daznservices.com
+  - DOMAIN-SUFFIX,indazn.com
+  - DOMAIN-SUFFIX,indaznlab.com

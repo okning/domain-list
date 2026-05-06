@@ -1,21 +1,22 @@
 # URL: https://s.nosec.me/clash/insider.txt
 # Name: insider
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 16
 
-DOMAIN-SUFFIX,businessinsider.co.za
-DOMAIN-SUFFIX,businessinsider.com
-DOMAIN-SUFFIX,businessinsider.com.au
-DOMAIN-SUFFIX,businessinsider.com.pl
-DOMAIN-SUFFIX,businessinsider.de
-DOMAIN-SUFFIX,businessinsider.es
-DOMAIN-SUFFIX,businessinsider.fr
-DOMAIN-SUFFIX,businessinsider.in
-DOMAIN-SUFFIX,businessinsider.jp
-DOMAIN-SUFFIX,businessinsider.mx
-DOMAIN-SUFFIX,businessinsider.my
-DOMAIN-SUFFIX,businessinsider.nl
-DOMAIN-SUFFIX,businessinsider.sg
-DOMAIN-SUFFIX,insider-intelligence.com
-DOMAIN-SUFFIX,insider.com
-DOMAIN-SUFFIX,insiderintelligence.com
+payload:
+  - DOMAIN-SUFFIX,businessinsider.co.za
+  - DOMAIN-SUFFIX,businessinsider.com
+  - DOMAIN-SUFFIX,businessinsider.com.au
+  - DOMAIN-SUFFIX,businessinsider.com.pl
+  - DOMAIN-SUFFIX,businessinsider.de
+  - DOMAIN-SUFFIX,businessinsider.es
+  - DOMAIN-SUFFIX,businessinsider.fr
+  - DOMAIN-SUFFIX,businessinsider.in
+  - DOMAIN-SUFFIX,businessinsider.jp
+  - DOMAIN-SUFFIX,businessinsider.mx
+  - DOMAIN-SUFFIX,businessinsider.my
+  - DOMAIN-SUFFIX,businessinsider.nl
+  - DOMAIN-SUFFIX,businessinsider.sg
+  - DOMAIN-SUFFIX,insider-intelligence.com
+  - DOMAIN-SUFFIX,insider.com
+  - DOMAIN-SUFFIX,insiderintelligence.com

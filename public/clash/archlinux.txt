@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/archlinux.txt
 # Name: archlinux
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,archlinux.de
-DOMAIN-SUFFIX,archlinux.org
-DOMAIN-SUFFIX,archlinuxarm.org
-DOMAIN-SUFFIX,archlinuxcn.org
-DOMAIN-SUFFIX,pkgbuild.com
+payload:
+  - DOMAIN-SUFFIX,archlinux.de
+  - DOMAIN-SUFFIX,archlinux.org
+  - DOMAIN-SUFFIX,archlinuxarm.org
+  - DOMAIN-SUFFIX,archlinuxcn.org
+  - DOMAIN-SUFFIX,pkgbuild.com

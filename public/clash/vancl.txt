@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/vancl.txt
 # Name: vancl
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,vancl.com
-DOMAIN-SUFFIX,vanclimg.com
-DOMAIN-SUFFIX,vcimg.com
+payload:
+  - DOMAIN-SUFFIX,vancl.com
+  - DOMAIN-SUFFIX,vanclimg.com
+  - DOMAIN-SUFFIX,vcimg.com

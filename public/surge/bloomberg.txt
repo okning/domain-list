@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bloomberg.txt
 # Name: bloomberg
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 61
 
 DOMAIN-SUFFIX,bbgevent.com

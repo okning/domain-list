@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/bohemia.txt
 # Name: bohemia
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,arma3.com
-DOMAIN-SUFFIX,armaplatform.com
-DOMAIN-SUFFIX,bistudio.com
-DOMAIN-SUFFIX,bohemia.net
-DOMAIN-SUFFIX,dayz.com
-DOMAIN-SUFFIX,makearmanotwar.com
-DOMAIN-SUFFIX,silicagame.com
-DOMAIN-SUFFIX,vigorgame.com
-DOMAIN-SUFFIX,ylands.com
+payload:
+  - DOMAIN-SUFFIX,arma3.com
+  - DOMAIN-SUFFIX,armaplatform.com
+  - DOMAIN-SUFFIX,bistudio.com
+  - DOMAIN-SUFFIX,bohemia.net
+  - DOMAIN-SUFFIX,dayz.com
+  - DOMAIN-SUFFIX,makearmanotwar.com
+  - DOMAIN-SUFFIX,silicagame.com
+  - DOMAIN-SUFFIX,vigorgame.com
+  - DOMAIN-SUFFIX,ylands.com

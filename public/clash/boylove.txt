@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/boylove.txt
 # Name: boylove
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,boylove.cc
-DOMAIN-SUFFIX,boylove.live
-DOMAIN-SUFFIX,boylove1.cc
-DOMAIN-SUFFIX,boyloves.cc
-DOMAIN-SUFFIX,fuhouse.club
+payload:
+  - DOMAIN-SUFFIX,boylove.cc
+  - DOMAIN-SUFFIX,boylove.live
+  - DOMAIN-SUFFIX,boylove1.cc
+  - DOMAIN-SUFFIX,boyloves.cc
+  - DOMAIN-SUFFIX,fuhouse.club

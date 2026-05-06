@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/seasun.txt
 # Name: seasun
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,cbjq.com
-DOMAIN-SUFFIX,seasungames.com
-DOMAIN-SUFFIX,testplus.cn
-DOMAIN-SUFFIX,xishanju.com
-DOMAIN-SUFFIX,xoyo.com
-DOMAIN-SUFFIX,xoyocdn.com
+payload:
+  - DOMAIN-SUFFIX,cbjq.com
+  - DOMAIN-SUFFIX,seasungames.com
+  - DOMAIN-SUFFIX,testplus.cn
+  - DOMAIN-SUFFIX,xishanju.com
+  - DOMAIN-SUFFIX,xoyo.com
+  - DOMAIN-SUFFIX,xoyocdn.com

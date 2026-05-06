@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/shopify.txt
 # Name: shopify
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,myshopify.com
-DOMAIN-SUFFIX,shop.app
-DOMAIN-SUFFIX,shopify.com
-DOMAIN-SUFFIX,shopify.dev
-DOMAIN-SUFFIX,shopifycdn.com
-DOMAIN-SUFFIX,shopifycloud.com
-DOMAIN-SUFFIX,shopifystatus.com
-DOMAIN-SUFFIX,shopifysvc.com
+payload:
+  - DOMAIN-SUFFIX,myshopify.com
+  - DOMAIN-SUFFIX,shop.app
+  - DOMAIN-SUFFIX,shopify.com
+  - DOMAIN-SUFFIX,shopify.dev
+  - DOMAIN-SUFFIX,shopifycdn.com
+  - DOMAIN-SUFFIX,shopifycloud.com
+  - DOMAIN-SUFFIX,shopifystatus.com
+  - DOMAIN-SUFFIX,shopifysvc.com

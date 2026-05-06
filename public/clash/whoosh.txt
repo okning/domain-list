@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/whoosh.txt
 # Name: whoosh
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,whoosh-bike.ru
-DOMAIN-SUFFIX,whoosh.bike
+payload:
+  - DOMAIN-SUFFIX,whoosh-bike.ru
+  - DOMAIN-SUFFIX,whoosh.bike

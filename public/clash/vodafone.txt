@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/vodafone.txt
 # Name: vodafone
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,myvodafone.com.au
-DOMAIN-SUFFIX,myvodafone.com.ws
-DOMAIN-SUFFIX,vodafone.co.uk
-DOMAIN-SUFFIX,vodafone.com
-DOMAIN-SUFFIX,vodafone.com.au
-DOMAIN-SUFFIX,vodafone.com.tr
-DOMAIN-SUFFIX,vodafone.de
-DOMAIN-SUFFIX,vodafone.it
+payload:
+  - DOMAIN-SUFFIX,myvodafone.com.au
+  - DOMAIN-SUFFIX,myvodafone.com.ws
+  - DOMAIN-SUFFIX,vodafone.co.uk
+  - DOMAIN-SUFFIX,vodafone.com
+  - DOMAIN-SUFFIX,vodafone.com.au
+  - DOMAIN-SUFFIX,vodafone.com.tr
+  - DOMAIN-SUFFIX,vodafone.de
+  - DOMAIN-SUFFIX,vodafone.it

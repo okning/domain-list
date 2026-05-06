@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/lastpass.txt
 # Name: lastpass
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,lastpass.com
-DOMAIN-SUFFIX,lastpass.eu
-DOMAIN-SUFFIX,lputil.com
+payload:
+  - DOMAIN-SUFFIX,lastpass.com
+  - DOMAIN-SUFFIX,lastpass.eu
+  - DOMAIN-SUFFIX,lputil.com

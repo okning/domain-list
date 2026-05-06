@@ -1,16 +1,17 @@
 # URL: https://s.nosec.me/clash/category-mooc-cn.txt
 # Name: category-mooc-cn
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 11
 
-DOMAIN-SUFFIX,chinesemooc.org
-DOMAIN-SUFFIX,cnmooc.org
-DOMAIN-SUFFIX,icourse163.org
-DOMAIN-SUFFIX,icourses.cn
-DOMAIN-SUFFIX,icve.com.cn
-DOMAIN-SUFFIX,mooc.cn
-DOMAIN,moocs.unipus.cn
-DOMAIN,opencourse.pku.edu.cn
-DOMAIN-SUFFIX,openlearning.com
-DOMAIN-SUFFIX,pmphmooc.com
-DOMAIN,study.163.com
+payload:
+  - DOMAIN-SUFFIX,chinesemooc.org
+  - DOMAIN-SUFFIX,cnmooc.org
+  - DOMAIN-SUFFIX,icourse163.org
+  - DOMAIN-SUFFIX,icourses.cn
+  - DOMAIN-SUFFIX,icve.com.cn
+  - DOMAIN-SUFFIX,mooc.cn
+  - DOMAIN,moocs.unipus.cn
+  - DOMAIN,opencourse.pku.edu.cn
+  - DOMAIN-SUFFIX,openlearning.com
+  - DOMAIN-SUFFIX,pmphmooc.com
+  - DOMAIN,study.163.com

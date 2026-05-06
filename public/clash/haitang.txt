@@ -1,22 +1,23 @@
 # URL: https://s.nosec.me/clash/haitang.txt
 # Name: haitang
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 17
 
-DOMAIN-SUFFIX,haitangbook.com
-DOMAIN-SUFFIX,haitbook.com
-DOMAIN-SUFFIX,htlvbooks.com
-DOMAIN-SUFFIX,htnewbooks.com
-DOMAIN-SUFFIX,htwhbook.com
-DOMAIN-SUFFIX,lmbooks.com
-DOMAIN-SUFFIX,lmebooks.com
-DOMAIN-SUFFIX,longmabook.com
-DOMAIN-SUFFIX,longmabookcn.com
-DOMAIN-SUFFIX,lovehtbooks.com
-DOMAIN-SUFFIX,lvhtebook.com
-DOMAIN-SUFFIX,mybookinlm.com
-DOMAIN-SUFFIX,myhtebook.com
-DOMAIN-SUFFIX,myhtebooks.com
-DOMAIN-SUFFIX,myhtlmebook.com
-DOMAIN-SUFFIX,newhtbook.com
-DOMAIN-SUFFIX,urhtbooks.com
+payload:
+  - DOMAIN-SUFFIX,haitangbook.com
+  - DOMAIN-SUFFIX,haitbook.com
+  - DOMAIN-SUFFIX,htlvbooks.com
+  - DOMAIN-SUFFIX,htnewbooks.com
+  - DOMAIN-SUFFIX,htwhbook.com
+  - DOMAIN-SUFFIX,lmbooks.com
+  - DOMAIN-SUFFIX,lmebooks.com
+  - DOMAIN-SUFFIX,longmabook.com
+  - DOMAIN-SUFFIX,longmabookcn.com
+  - DOMAIN-SUFFIX,lovehtbooks.com
+  - DOMAIN-SUFFIX,lvhtebook.com
+  - DOMAIN-SUFFIX,mybookinlm.com
+  - DOMAIN-SUFFIX,myhtebook.com
+  - DOMAIN-SUFFIX,myhtebooks.com
+  - DOMAIN-SUFFIX,myhtlmebook.com
+  - DOMAIN-SUFFIX,newhtbook.com
+  - DOMAIN-SUFFIX,urhtbooks.com

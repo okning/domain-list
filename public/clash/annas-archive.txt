@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/annas-archive.txt
 # Name: annas-archive
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,annas-archive.gd
-DOMAIN-SUFFIX,annas-archive.gl
-DOMAIN-SUFFIX,annas-archive.in
-DOMAIN-SUFFIX,annas-archive.li
-DOMAIN-SUFFIX,annas-archive.org
-DOMAIN-SUFFIX,annas-archive.pk
-DOMAIN-SUFFIX,annas-archive.pm
-DOMAIN-SUFFIX,annas-archive.se
+payload:
+  - DOMAIN-SUFFIX,annas-archive.gd
+  - DOMAIN-SUFFIX,annas-archive.gl
+  - DOMAIN-SUFFIX,annas-archive.in
+  - DOMAIN-SUFFIX,annas-archive.li
+  - DOMAIN-SUFFIX,annas-archive.org
+  - DOMAIN-SUFFIX,annas-archive.pk
+  - DOMAIN-SUFFIX,annas-archive.pm
+  - DOMAIN-SUFFIX,annas-archive.se

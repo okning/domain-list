@@ -1,15 +1,16 @@
 # URL: https://s.nosec.me/clash/apple-pki.txt
 # Name: apple-pki
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 10
 
-DOMAIN,certs-lb.apple.com.akadns.net
-DOMAIN,certs.apple.com
-DOMAIN,crl-lb.apple.com.akadns.net
-DOMAIN,crl.apple.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2-lb.apple.com.akadns.net
-DOMAIN,ocsp2.apple.com
-DOMAIN,valid.apple.com
-DOMAIN,valid.origin-apple.com.akadns.net
+payload:
+  - DOMAIN,certs-lb.apple.com.akadns.net
+  - DOMAIN,certs.apple.com
+  - DOMAIN,crl-lb.apple.com.akadns.net
+  - DOMAIN,crl.apple.com
+  - DOMAIN,ocsp-lb.apple.com.akadns.net
+  - DOMAIN,ocsp.apple.com
+  - DOMAIN,ocsp2-lb.apple.com.akadns.net
+  - DOMAIN,ocsp2.apple.com
+  - DOMAIN,valid.apple.com
+  - DOMAIN,valid.origin-apple.com.akadns.net

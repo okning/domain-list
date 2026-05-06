@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/deppon.txt
 # Name: deppon
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,deppon.com
-DOMAIN-SUFFIX,deppon.com.cn
-DOMAIN-SUFFIX,dpma.cc
+payload:
+  - DOMAIN-SUFFIX,deppon.com
+  - DOMAIN-SUFFIX,deppon.com.cn
+  - DOMAIN-SUFFIX,dpma.cc

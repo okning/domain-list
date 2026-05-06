@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/python.txt
 # Name: python
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,pycon.org
-DOMAIN-SUFFIX,pypa.io
-DOMAIN-SUFFIX,pypi.io
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,python.org
-DOMAIN-SUFFIX,pythonhosted.org
+payload:
+  - DOMAIN-SUFFIX,pycon.org
+  - DOMAIN-SUFFIX,pypa.io
+  - DOMAIN-SUFFIX,pypi.io
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,pythonhosted.org

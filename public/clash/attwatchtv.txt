@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/attwatchtv.txt
 # Name: attwatchtv
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,att.tv
-DOMAIN-SUFFIX,atttvnow.com
-DOMAIN-SUFFIX,attwatchtv.com
-DOMAIN-SUFFIX,directv.com
-DOMAIN-SUFFIX,dtvce.com
-DOMAIN-SUFFIX,nettyinternet.com
+payload:
+  - DOMAIN-SUFFIX,att.tv
+  - DOMAIN-SUFFIX,atttvnow.com
+  - DOMAIN-SUFFIX,attwatchtv.com
+  - DOMAIN-SUFFIX,directv.com
+  - DOMAIN-SUFFIX,dtvce.com
+  - DOMAIN-SUFFIX,nettyinternet.com

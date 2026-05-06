@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/hashicorp.txt
 # Name: hashicorp
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,consul.io
-DOMAIN-SUFFIX,hashicorp.com
-DOMAIN-SUFFIX,nomadproject.io
-DOMAIN-SUFFIX,packer.io
-DOMAIN-SUFFIX,terraform.io
-DOMAIN-SUFFIX,vagrantcloud.com
-DOMAIN-SUFFIX,vagrantup.com
-DOMAIN-SUFFIX,vaultproject.io
+payload:
+  - DOMAIN-SUFFIX,consul.io
+  - DOMAIN-SUFFIX,hashicorp.com
+  - DOMAIN-SUFFIX,nomadproject.io
+  - DOMAIN-SUFFIX,packer.io
+  - DOMAIN-SUFFIX,terraform.io
+  - DOMAIN-SUFFIX,vagrantcloud.com
+  - DOMAIN-SUFFIX,vagrantup.com
+  - DOMAIN-SUFFIX,vaultproject.io

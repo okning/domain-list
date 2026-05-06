@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/fengxing.txt
 # Name: fengxing
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,fspcdn.com
-DOMAIN-SUFFIX,fun.tv
-DOMAIN-SUFFIX,funshion.com
-DOMAIN-SUFFIX,funshion.net
-DOMAIN-SUFFIX,ibidian.com
-DOMAIN-SUFFIX,jvcsmart.cn
-DOMAIN-SUFFIX,jvcsmart.com.cn
+payload:
+  - DOMAIN-SUFFIX,fspcdn.com
+  - DOMAIN-SUFFIX,fun.tv
+  - DOMAIN-SUFFIX,funshion.com
+  - DOMAIN-SUFFIX,funshion.net
+  - DOMAIN-SUFFIX,ibidian.com
+  - DOMAIN-SUFFIX,jvcsmart.cn
+  - DOMAIN-SUFFIX,jvcsmart.com.cn

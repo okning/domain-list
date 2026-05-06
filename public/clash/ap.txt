@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/ap.txt
 # Name: ap
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,ap.org
-DOMAIN-SUFFIX,apnews.com
+payload:
+  - DOMAIN-SUFFIX,ap.org
+  - DOMAIN-SUFFIX,apnews.com

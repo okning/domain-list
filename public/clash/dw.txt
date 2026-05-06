@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/dw.txt
 # Name: dw
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN,deutschewelle.h-cdn.com
-DOMAIN-SUFFIX,dw.com
+payload:
+  - DOMAIN,deutschewelle.h-cdn.com
+  - DOMAIN-SUFFIX,dw.com

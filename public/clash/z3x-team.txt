@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/z3x-team.txt
 # Name: z3x-team
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,easy-jtag.com
-DOMAIN-SUFFIX,z3x-team.com
+payload:
+  - DOMAIN-SUFFIX,easy-jtag.com
+  - DOMAIN-SUFFIX,z3x-team.com

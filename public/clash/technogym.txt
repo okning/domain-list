@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/technogym.txt
 # Name: technogym
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,letsmoveforabetterworld.com
-DOMAIN-SUFFIX,technogym.bg
-DOMAIN-SUFFIX,technogym.ch
-DOMAIN-SUFFIX,technogym.com
-DOMAIN-SUFFIX,technogym.com.br
-DOMAIN-SUFFIX,technogym.ru
-DOMAIN-SUFFIX,technogym.su
-DOMAIN-SUFFIX,wellnessinstitute.com
+payload:
+  - DOMAIN-SUFFIX,letsmoveforabetterworld.com
+  - DOMAIN-SUFFIX,technogym.bg
+  - DOMAIN-SUFFIX,technogym.ch
+  - DOMAIN-SUFFIX,technogym.com
+  - DOMAIN-SUFFIX,technogym.com.br
+  - DOMAIN-SUFFIX,technogym.ru
+  - DOMAIN-SUFFIX,technogym.su
+  - DOMAIN-SUFFIX,wellnessinstitute.com

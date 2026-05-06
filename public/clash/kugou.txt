@@ -1,21 +1,22 @@
 # URL: https://s.nosec.me/clash/kugou.txt
 # Name: kugou
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 16
 
-DOMAIN-SUFFIX,fanxingliveshow.com
-DOMAIN-SUFFIX,kgimg.com
-DOMAIN-SUFFIX,kglink.cn
-DOMAIN-SUFFIX,ktv.com
-DOMAIN-SUFFIX,kugoo.com
-DOMAIN-SUFFIX,kugou.com
-DOMAIN-SUFFIX,kugou.net
-DOMAIN-SUFFIX,kugouaudio.com
-DOMAIN-SUFFIX,kugouipv6.com
-DOMAIN-SUFFIX,kugoukid.com
-DOMAIN-SUFFIX,kugouliveshow.com
-DOMAIN-SUFFIX,kugouringtone.com
-DOMAIN-SUFFIX,kugousenior.com
-DOMAIN-SUFFIX,kugoustore.com
-DOMAIN-SUFFIX,kugouvoice.com
-DOMAIN-SUFFIX,kugouyouth.com
+payload:
+  - DOMAIN-SUFFIX,fanxingliveshow.com
+  - DOMAIN-SUFFIX,kgimg.com
+  - DOMAIN-SUFFIX,kglink.cn
+  - DOMAIN-SUFFIX,ktv.com
+  - DOMAIN-SUFFIX,kugoo.com
+  - DOMAIN-SUFFIX,kugou.com
+  - DOMAIN-SUFFIX,kugou.net
+  - DOMAIN-SUFFIX,kugouaudio.com
+  - DOMAIN-SUFFIX,kugouipv6.com
+  - DOMAIN-SUFFIX,kugoukid.com
+  - DOMAIN-SUFFIX,kugouliveshow.com
+  - DOMAIN-SUFFIX,kugouringtone.com
+  - DOMAIN-SUFFIX,kugousenior.com
+  - DOMAIN-SUFFIX,kugoustore.com
+  - DOMAIN-SUFFIX,kugouvoice.com
+  - DOMAIN-SUFFIX,kugouyouth.com

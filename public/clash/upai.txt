@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/upai.txt
 # Name: upai
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,aicdn.com
-DOMAIN-SUFFIX,oncdp.com
-DOMAIN-SUFFIX,upai.com
-DOMAIN-SUFFIX,upaiyun.com
-DOMAIN-SUFFIX,upcdn.net
-DOMAIN-SUFFIX,upyun.com
+payload:
+  - DOMAIN-SUFFIX,aicdn.com
+  - DOMAIN-SUFFIX,oncdp.com
+  - DOMAIN-SUFFIX,upai.com
+  - DOMAIN-SUFFIX,upaiyun.com
+  - DOMAIN-SUFFIX,upcdn.net
+  - DOMAIN-SUFFIX,upyun.com

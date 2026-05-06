@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/lihkg.txt
 # Name: lihkg
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,lih.kg
-DOMAIN-SUFFIX,lihkg.com
+payload:
+  - DOMAIN-SUFFIX,lih.kg
+  - DOMAIN-SUFFIX,lihkg.com

@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/sling.txt
 # Name: sling
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,dishworld.com
-DOMAIN-SUFFIX,movenetworks.com
-DOMAIN-SUFFIX,movetv.com
-DOMAIN-SUFFIX,sling.com
-DOMAIN-SUFFIX,slinginternational.com
+payload:
+  - DOMAIN-SUFFIX,dishworld.com
+  - DOMAIN-SUFFIX,movenetworks.com
+  - DOMAIN-SUFFIX,movetv.com
+  - DOMAIN-SUFFIX,sling.com
+  - DOMAIN-SUFFIX,slinginternational.com

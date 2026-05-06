@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/gog.txt
 # Name: gog
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-REGEXP,^cdn-akamai-.+\.gog-services\.com$
-DOMAIN-REGEXP,^gog-cdn-.+\.footprint\.net$
-DOMAIN-REGEXP,^images(-\d)?\.gog-statics\.com$
-DOMAIN,gog-cdn.akamaized.net
-DOMAIN-SUFFIX,gog-statics.com
-DOMAIN-SUFFIX,gog.com
-DOMAIN,gog.qtlglb.com
+payload:
+  - DOMAIN-REGEXP,^cdn-akamai-.+\.gog-services\.com$
+  - DOMAIN-REGEXP,^gog-cdn-.+\.footprint\.net$
+  - DOMAIN-REGEXP,^images(-\d)?\.gog-statics\.com$
+  - DOMAIN,gog-cdn.akamaized.net
+  - DOMAIN-SUFFIX,gog-statics.com
+  - DOMAIN-SUFFIX,gog.com
+  - DOMAIN,gog.qtlglb.com

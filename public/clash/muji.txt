@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/muji.txt
 # Name: muji
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,muji.com
-DOMAIN-SUFFIX,muji.com.cn
-DOMAIN-SUFFIX,muji.com.hk
-DOMAIN-SUFFIX,muji.eu
-DOMAIN-SUFFIX,muji.net
-DOMAIN-SUFFIX,muji.tw
-DOMAIN-SUFFIX,muji.us
-DOMAIN-SUFFIX,mujikorea.net
+payload:
+  - DOMAIN-SUFFIX,muji.com
+  - DOMAIN-SUFFIX,muji.com.cn
+  - DOMAIN-SUFFIX,muji.com.hk
+  - DOMAIN-SUFFIX,muji.eu
+  - DOMAIN-SUFFIX,muji.net
+  - DOMAIN-SUFFIX,muji.tw
+  - DOMAIN-SUFFIX,muji.us
+  - DOMAIN-SUFFIX,mujikorea.net

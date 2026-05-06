@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/osu.txt
 # Name: osu
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN,a.ppy.sh
-DOMAIN,assets.ppy.sh
-DOMAIN,c.ppy.sh
-DOMAIN,lazer.ppy.sh
-DOMAIN,m1.ppy.sh
-DOMAIN,notify.ppy.sh
-DOMAIN,osu.ppy.sh
-DOMAIN,sentry.ppy.sh
-DOMAIN,spectator.ppy.sh
+payload:
+  - DOMAIN,a.ppy.sh
+  - DOMAIN,assets.ppy.sh
+  - DOMAIN,c.ppy.sh
+  - DOMAIN,lazer.ppy.sh
+  - DOMAIN,m1.ppy.sh
+  - DOMAIN,notify.ppy.sh
+  - DOMAIN,osu.ppy.sh
+  - DOMAIN,sentry.ppy.sh
+  - DOMAIN,spectator.ppy.sh

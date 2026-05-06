@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/ciweimao.txt
 # Name: ciweimao
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,ciweimao.com
-DOMAIN-SUFFIX,hbooker.com
-DOMAIN-SUFFIX,kuangxiangit.com
+payload:
+  - DOMAIN-SUFFIX,ciweimao.com
+  - DOMAIN-SUFFIX,hbooker.com
+  - DOMAIN-SUFFIX,kuangxiangit.com

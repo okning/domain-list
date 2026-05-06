@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/jibencaozuo.txt
 # Name: jibencaozuo
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,jbcz.tv
-DOMAIN-SUFFIX,jibencaozuo.com
-DOMAIN-SUFFIX,media.paperclipclub.net
+payload:
+  - DOMAIN-SUFFIX,jbcz.tv
+  - DOMAIN-SUFFIX,jibencaozuo.com
+  - DOMAIN-SUFFIX,media.paperclipclub.net

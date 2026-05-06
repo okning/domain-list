@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/anaconda.txt
 # Name: anaconda
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,anaconda.cloud
-DOMAIN-SUFFIX,anaconda.com
-DOMAIN-SUFFIX,anaconda.org
-DOMAIN-SUFFIX,conda.io
+payload:
+  - DOMAIN-SUFFIX,anaconda.cloud
+  - DOMAIN-SUFFIX,anaconda.com
+  - DOMAIN-SUFFIX,anaconda.org
+  - DOMAIN-SUFFIX,conda.io

@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/pornhub.txt
 # Name: pornhub
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,gaytube.com
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,porngub.com
-DOMAIN-SUFFIX,pornhub-deutsch.net
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhub.org
-DOMAIN-SUFFIX,pornhubapparel.com
-DOMAIN-SUFFIX,pornhubpremium.com
+payload:
+  - DOMAIN-SUFFIX,gaytube.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,porngub.com
+  - DOMAIN-SUFFIX,pornhub-deutsch.net
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhub.org
+  - DOMAIN-SUFFIX,pornhubapparel.com
+  - DOMAIN-SUFFIX,pornhubpremium.com

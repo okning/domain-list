@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/gemfury.txt
 # Name: gemfury
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,fury.blog
-DOMAIN-SUFFIX,fury.co
-DOMAIN-SUFFIX,fury.dev
-DOMAIN-SUFFIX,fury.help
-DOMAIN-SUFFIX,fury.io
-DOMAIN-SUFFIX,gemfury.com
+payload:
+  - DOMAIN-SUFFIX,fury.blog
+  - DOMAIN-SUFFIX,fury.co
+  - DOMAIN-SUFFIX,fury.dev
+  - DOMAIN-SUFFIX,fury.help
+  - DOMAIN-SUFFIX,fury.io
+  - DOMAIN-SUFFIX,gemfury.com

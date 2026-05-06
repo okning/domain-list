@@ -1,16 +1,17 @@
 # URL: https://s.nosec.me/clash/atlassian.txt
 # Name: atlassian
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 11
 
-DOMAIN-SUFFIX,atl-paas.net
-DOMAIN-SUFFIX,atlassian-dev.net
-DOMAIN-SUFFIX,atlassian.com
-DOMAIN-SUFFIX,atlassian.net
-DOMAIN-SUFFIX,bitbucket.io
-DOMAIN-SUFFIX,bitbucket.org
-DOMAIN-SUFFIX,jira.com
-DOMAIN-SUFFIX,ss-inf.net
-DOMAIN-SUFFIX,statuspage.io
-DOMAIN-SUFFIX,trello.com
-DOMAIN-SUFFIX,trellocdn.com
+payload:
+  - DOMAIN-SUFFIX,atl-paas.net
+  - DOMAIN-SUFFIX,atlassian-dev.net
+  - DOMAIN-SUFFIX,atlassian.com
+  - DOMAIN-SUFFIX,atlassian.net
+  - DOMAIN-SUFFIX,bitbucket.io
+  - DOMAIN-SUFFIX,bitbucket.org
+  - DOMAIN-SUFFIX,jira.com
+  - DOMAIN-SUFFIX,ss-inf.net
+  - DOMAIN-SUFFIX,statuspage.io
+  - DOMAIN-SUFFIX,trello.com
+  - DOMAIN-SUFFIX,trellocdn.com

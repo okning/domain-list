@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/tutanota.txt
 # Name: tutanota
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,keemail.me
-DOMAIN-SUFFIX,tuta.com
-DOMAIN-SUFFIX,tuta.io
-DOMAIN-SUFFIX,tutamail.com
-DOMAIN-SUFFIX,tutanota.com
-DOMAIN-SUFFIX,tutanota.de
+payload:
+  - DOMAIN-SUFFIX,keemail.me
+  - DOMAIN-SUFFIX,tuta.com
+  - DOMAIN-SUFFIX,tuta.io
+  - DOMAIN-SUFFIX,tutamail.com
+  - DOMAIN-SUFFIX,tutanota.com
+  - DOMAIN-SUFFIX,tutanota.de

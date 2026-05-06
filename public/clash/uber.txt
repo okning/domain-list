@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/uber.txt
 # Name: uber
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,uber-assets.com
-DOMAIN-SUFFIX,uber.com
-DOMAIN-SUFFIX,ubereats.com
+payload:
+  - DOMAIN-SUFFIX,uber-assets.com
+  - DOMAIN-SUFFIX,uber.com
+  - DOMAIN-SUFFIX,ubereats.com

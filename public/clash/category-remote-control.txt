@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/category-remote-control.txt
 # Name: category-remote-control
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,anydesk.com
-DOMAIN,client-teamviewer-com.trafficmanager.net
-DOMAIN-SUFFIX,nomachine.com
-DOMAIN-SUFFIX,rustdesk.com
-DOMAIN-SUFFIX,teamviewer.cn
-DOMAIN-SUFFIX,teamviewer.com
-DOMAIN,teamviewer.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,teamviewer.us
+payload:
+  - DOMAIN-SUFFIX,anydesk.com
+  - DOMAIN,client-teamviewer-com.trafficmanager.net
+  - DOMAIN-SUFFIX,nomachine.com
+  - DOMAIN-SUFFIX,rustdesk.com
+  - DOMAIN-SUFFIX,teamviewer.cn
+  - DOMAIN-SUFFIX,teamviewer.com
+  - DOMAIN,teamviewer.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,teamviewer.us

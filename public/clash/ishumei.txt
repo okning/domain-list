@@ -1,15 +1,16 @@
 # URL: https://s.nosec.me/clash/ishumei.txt
 # Name: ishumei
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 10
 
-DOMAIN-SUFFIX,fengkongbao.com
-DOMAIN-SUFFIX,fengkongcloud.cn
-DOMAIN-SUFFIX,fengkongcloud.com
-DOMAIN-SUFFIX,ishumei.com
-DOMAIN-SUFFIX,portal101.cn
-DOMAIN-SUFFIX,portal102.cn
-DOMAIN-SUFFIX,portal201.cn
-DOMAIN-SUFFIX,portal301.cn
-DOMAIN-SUFFIX,tebiefuza.cloud
-DOMAIN-SUFFIX,tebiefuza.cn
+payload:
+  - DOMAIN-SUFFIX,fengkongbao.com
+  - DOMAIN-SUFFIX,fengkongcloud.cn
+  - DOMAIN-SUFFIX,fengkongcloud.com
+  - DOMAIN-SUFFIX,ishumei.com
+  - DOMAIN-SUFFIX,portal101.cn
+  - DOMAIN-SUFFIX,portal102.cn
+  - DOMAIN-SUFFIX,portal201.cn
+  - DOMAIN-SUFFIX,portal301.cn
+  - DOMAIN-SUFFIX,tebiefuza.cloud
+  - DOMAIN-SUFFIX,tebiefuza.cn

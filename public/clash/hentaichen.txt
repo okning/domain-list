@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/hentaichen.txt
 # Name: hentaichen
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,h-chan.me
-DOMAIN-SUFFIX,hentai-chan.com
-DOMAIN-SUFFIX,hentai-chan.live
-DOMAIN-SUFFIX,hentaichan.live
-DOMAIN-SUFFIX,hentaichan.me
-DOMAIN-SUFFIX,imgschan.xyz
+payload:
+  - DOMAIN-SUFFIX,h-chan.me
+  - DOMAIN-SUFFIX,hentai-chan.com
+  - DOMAIN-SUFFIX,hentai-chan.live
+  - DOMAIN-SUFFIX,hentaichan.live
+  - DOMAIN-SUFFIX,hentaichan.me
+  - DOMAIN-SUFFIX,imgschan.xyz

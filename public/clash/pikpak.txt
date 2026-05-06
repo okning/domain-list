@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/pikpak.txt
 # Name: pikpak
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,mypikpak.net
-DOMAIN,o4504926511693824.ingest.sentry.io
-DOMAIN-SUFFIX,pickpackapp.com
-DOMAIN-SUFFIX,pikpak.io
-DOMAIN-SUFFIX,pikpak.me
-DOMAIN-SUFFIX,pikpakdrive.com
+payload:
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,mypikpak.net
+  - DOMAIN,o4504926511693824.ingest.sentry.io
+  - DOMAIN-SUFFIX,pickpackapp.com
+  - DOMAIN-SUFFIX,pikpak.io
+  - DOMAIN-SUFFIX,pikpak.me
+  - DOMAIN-SUFFIX,pikpakdrive.com

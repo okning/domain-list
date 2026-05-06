@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/limelight.txt
 # Name: limelight
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,delvenetworks.com
-DOMAIN-SUFFIX,limelight.com
-DOMAIN-SUFFIX,lldns.net
-DOMAIN-SUFFIX,llnw-trials.com
-DOMAIN-SUFFIX,llnw.com
-DOMAIN-SUFFIX,llnw.net
-DOMAIN-SUFFIX,llnwd.net
-DOMAIN-SUFFIX,llnwi.net
+payload:
+  - DOMAIN-SUFFIX,delvenetworks.com
+  - DOMAIN-SUFFIX,limelight.com
+  - DOMAIN-SUFFIX,lldns.net
+  - DOMAIN-SUFFIX,llnw-trials.com
+  - DOMAIN-SUFFIX,llnw.com
+  - DOMAIN-SUFFIX,llnw.net
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,llnwi.net

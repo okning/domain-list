@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/yunfanjiasu.txt
 # Name: yunfanjiasu
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,yfcache.com
-DOMAIN-SUFFIX,yfcalc.com
-DOMAIN-SUFFIX,yfcdn.net
-DOMAIN-SUFFIX,yfcloud.com
-DOMAIN-SUFFIX,yfdts.net
-DOMAIN-SUFFIX,yfp2p.net
-DOMAIN-SUFFIX,yfscdn.net
-DOMAIN-SUFFIX,yunfancdn.com
+payload:
+  - DOMAIN-SUFFIX,yfcache.com
+  - DOMAIN-SUFFIX,yfcalc.com
+  - DOMAIN-SUFFIX,yfcdn.net
+  - DOMAIN-SUFFIX,yfcloud.com
+  - DOMAIN-SUFFIX,yfdts.net
+  - DOMAIN-SUFFIX,yfp2p.net
+  - DOMAIN-SUFFIX,yfscdn.net
+  - DOMAIN-SUFFIX,yunfancdn.com

@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/cloudns.txt
 # Name: cloudns
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,cloudns.nz
-DOMAIN-SUFFIX,cloudns.ph
+payload:
+  - DOMAIN-SUFFIX,cloudns.nz
+  - DOMAIN-SUFFIX,cloudns.ph

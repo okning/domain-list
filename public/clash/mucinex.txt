@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/mucinex.txt
 # Name: mucinex
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,mucinex.ca
-DOMAIN-SUFFIX,mucinex.cn
-DOMAIN-SUFFIX,mucinex.co.nz
-DOMAIN-SUFFIX,mucinex.com
-DOMAIN-SUFFIX,mucinex.com.cn
-DOMAIN-SUFFIX,mucinex.net
-DOMAIN-SUFFIX,mucinex.tv
-DOMAIN-SUFFIX,mucinexprofessional.com
+payload:
+  - DOMAIN-SUFFIX,mucinex.ca
+  - DOMAIN-SUFFIX,mucinex.cn
+  - DOMAIN-SUFFIX,mucinex.co.nz
+  - DOMAIN-SUFFIX,mucinex.com
+  - DOMAIN-SUFFIX,mucinex.com.cn
+  - DOMAIN-SUFFIX,mucinex.net
+  - DOMAIN-SUFFIX,mucinex.tv
+  - DOMAIN-SUFFIX,mucinexprofessional.com

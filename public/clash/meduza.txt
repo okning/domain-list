@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/meduza.txt
 # Name: meduza
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,meduza-flutter.firebaseapp.com
-DOMAIN-SUFFIX,meduza.io
+payload:
+  - DOMAIN-SUFFIX,meduza-flutter.firebaseapp.com
+  - DOMAIN-SUFFIX,meduza.io

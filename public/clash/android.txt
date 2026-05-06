@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/android.txt
 # Name: android
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,android
-DOMAIN-SUFFIX,android.com
-DOMAIN,android.googlesource.com
-DOMAIN-SUFFIX,androidify.com
+payload:
+  - DOMAIN-SUFFIX,android
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN,android.googlesource.com
+  - DOMAIN-SUFFIX,androidify.com

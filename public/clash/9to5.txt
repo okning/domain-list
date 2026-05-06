@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/9to5.txt
 # Name: 9to5
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,9to5google.com
-DOMAIN-SUFFIX,9to5mac.com
-DOMAIN-SUFFIX,9to5terminal.com
-DOMAIN-SUFFIX,9to5toys.com
-DOMAIN-SUFFIX,dronedj.com
-DOMAIN-SUFFIX,electrek.co
-DOMAIN-SUFFIX,spaceexplored.com
+payload:
+  - DOMAIN-SUFFIX,9to5google.com
+  - DOMAIN-SUFFIX,9to5mac.com
+  - DOMAIN-SUFFIX,9to5terminal.com
+  - DOMAIN-SUFFIX,9to5toys.com
+  - DOMAIN-SUFFIX,dronedj.com
+  - DOMAIN-SUFFIX,electrek.co
+  - DOMAIN-SUFFIX,spaceexplored.com

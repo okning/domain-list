@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/agora.txt
 # Name: agora
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,agora.io
-DOMAIN-SUFFIX,agoraio.cn
-DOMAIN-SUFFIX,agoralab.co
+payload:
+  - DOMAIN-SUFFIX,agora.io
+  - DOMAIN-SUFFIX,agoraio.cn
+  - DOMAIN-SUFFIX,agoralab.co

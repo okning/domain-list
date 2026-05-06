@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/duitang.txt
 # Name: duitang
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,dtstatic.com
-DOMAIN-SUFFIX,duitang.com
+payload:
+  - DOMAIN-SUFFIX,dtstatic.com
+  - DOMAIN-SUFFIX,duitang.com

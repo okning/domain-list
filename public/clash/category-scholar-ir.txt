@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/category-scholar-ir.txt
 # Name: category-scholar-ir
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,ac.ir
-DOMAIN-SUFFIX,edu.ir
-DOMAIN-SUFFIX,iranlms.ir
-DOMAIN-SUFFIX,jtt.ir
-DOMAIN-SUFFIX,sanjesh.org
-DOMAIN-SUFFIX,sharif.edu
-DOMAIN-SUFFIX,sharif.ir
-DOMAIN-SUFFIX,srttu.edu
+payload:
+  - DOMAIN-SUFFIX,ac.ir
+  - DOMAIN-SUFFIX,edu.ir
+  - DOMAIN-SUFFIX,iranlms.ir
+  - DOMAIN-SUFFIX,jtt.ir
+  - DOMAIN-SUFFIX,sanjesh.org
+  - DOMAIN-SUFFIX,sharif.edu
+  - DOMAIN-SUFFIX,sharif.ir
+  - DOMAIN-SUFFIX,srttu.edu

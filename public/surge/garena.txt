@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/garena.txt
 # Name: garena
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 16
 
 DOMAIN,avatargarenanow-a.akamaihd.net

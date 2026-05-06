@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/douyu.txt
 # Name: douyu
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,douyu.com
-DOMAIN-SUFFIX,douyu.tv
-DOMAIN-SUFFIX,douyucdn.cn
-DOMAIN-SUFFIX,douyucdn2.cn
-DOMAIN-SUFFIX,douyuscdn.com
-DOMAIN-SUFFIX,douyutv.com
-DOMAIN-SUFFIX,edgesrv.com
+payload:
+  - DOMAIN-SUFFIX,douyu.com
+  - DOMAIN-SUFFIX,douyu.tv
+  - DOMAIN-SUFFIX,douyucdn.cn
+  - DOMAIN-SUFFIX,douyucdn2.cn
+  - DOMAIN-SUFFIX,douyuscdn.com
+  - DOMAIN-SUFFIX,douyutv.com
+  - DOMAIN-SUFFIX,edgesrv.com

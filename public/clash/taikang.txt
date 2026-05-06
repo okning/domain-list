@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/taikang.txt
 # Name: taikang
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,taikang.com
-DOMAIN-SUFFIX,taikanglife.com
-DOMAIN-SUFFIX,taikangzhijia.com
-DOMAIN-SUFFIX,tkhealthcare.com
+payload:
+  - DOMAIN-SUFFIX,taikang.com
+  - DOMAIN-SUFFIX,taikanglife.com
+  - DOMAIN-SUFFIX,taikangzhijia.com
+  - DOMAIN-SUFFIX,tkhealthcare.com

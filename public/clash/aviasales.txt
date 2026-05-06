@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/aviasales.txt
 # Name: aviasales
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,aviasales.com
-DOMAIN-SUFFIX,aviasales.ru
-DOMAIN-SUFFIX,avs.io
+payload:
+  - DOMAIN-SUFFIX,aviasales.com
+  - DOMAIN-SUFFIX,aviasales.ru
+  - DOMAIN-SUFFIX,avs.io

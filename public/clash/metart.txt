@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/metart.txt
 # Name: metart
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,metart.com
-DOMAIN-SUFFIX,metartnetwork.com
-DOMAIN-SUFFIX,metcams.com
-DOMAIN-SUFFIX,naiadsystems.com
-DOMAIN-SUFFIX,nsimg.net
+payload:
+  - DOMAIN-SUFFIX,metart.com
+  - DOMAIN-SUFFIX,metartnetwork.com
+  - DOMAIN-SUFFIX,metcams.com
+  - DOMAIN-SUFFIX,naiadsystems.com
+  - DOMAIN-SUFFIX,nsimg.net

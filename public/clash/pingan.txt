@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/pingan.txt
 # Name: pingan
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,pingan.com
-DOMAIN-SUFFIX,pingan.com.cn
-DOMAIN-SUFFIX,pingan.com.hk
-DOMAIN-SUFFIX,yqb.com
+payload:
+  - DOMAIN-SUFFIX,pingan.com
+  - DOMAIN-SUFFIX,pingan.com.cn
+  - DOMAIN-SUFFIX,pingan.com.hk
+  - DOMAIN-SUFFIX,yqb.com

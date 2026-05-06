@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/xiaoheihe.txt
 # Name: xiaoheihe
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,1xhh.cn
-DOMAIN-SUFFIX,accxiaoheihe.com
-DOMAIN-SUFFIX,chat.top
-DOMAIN-SUFFIX,debugmode.cn
-DOMAIN-SUFFIX,max-c.com
-DOMAIN-SUFFIX,maxadmin.cn
-DOMAIN-SUFFIX,maxjia.com
-DOMAIN-SUFFIX,xiaoheihe.cn
+payload:
+  - DOMAIN-SUFFIX,1xhh.cn
+  - DOMAIN-SUFFIX,accxiaoheihe.com
+  - DOMAIN-SUFFIX,chat.top
+  - DOMAIN-SUFFIX,debugmode.cn
+  - DOMAIN-SUFFIX,max-c.com
+  - DOMAIN-SUFFIX,maxadmin.cn
+  - DOMAIN-SUFFIX,maxjia.com
+  - DOMAIN-SUFFIX,xiaoheihe.cn

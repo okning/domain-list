@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/fontshop.txt
 # Name: fontshop
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,fontbook.com
-DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
-DOMAIN-SUFFIX,fontshop.com
-DOMAIN-SUFFIX,fstopimages.com
+payload:
+  - DOMAIN-SUFFIX,fontbook.com
+  - DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
+  - DOMAIN-SUFFIX,fontshop.com
+  - DOMAIN-SUFFIX,fstopimages.com

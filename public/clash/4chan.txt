@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/4chan.txt
 # Name: 4chan
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,4cdn.org
-DOMAIN-SUFFIX,4chan.org
-DOMAIN-SUFFIX,4channel.org
+payload:
+  - DOMAIN-SUFFIX,4cdn.org
+  - DOMAIN-SUFFIX,4chan.org
+  - DOMAIN-SUFFIX,4channel.org

@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/progress.txt
 # Name: progress
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,chef.io
-DOMAIN-SUFFIX,getfiddler.com
-DOMAIN-SUFFIX,kemptechnologies.com
-DOMAIN-SUFFIX,progress.com
-DOMAIN-SUFFIX,sharefile.com
-DOMAIN-SUFFIX,telerik.com
+payload:
+  - DOMAIN-SUFFIX,chef.io
+  - DOMAIN-SUFFIX,getfiddler.com
+  - DOMAIN-SUFFIX,kemptechnologies.com
+  - DOMAIN-SUFFIX,progress.com
+  - DOMAIN-SUFFIX,sharefile.com
+  - DOMAIN-SUFFIX,telerik.com

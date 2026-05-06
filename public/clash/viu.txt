@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/viu.txt
 # Name: viu
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-REGEXP,^ewcdn[0-9]+\.nowe\.com$
-DOMAIN,api.viu.now.com
-DOMAIN,d1k2us671qcoau.cloudfront.net
-DOMAIN,d2anahhhmp1ffz.cloudfront.net
-DOMAIN,dfp6rglgjqszk.cloudfront.net
-DOMAIN-SUFFIX,viu.com
-DOMAIN-SUFFIX,viu.tv
+payload:
+  - DOMAIN-REGEXP,^ewcdn[0-9]+\.nowe\.com$
+  - DOMAIN,api.viu.now.com
+  - DOMAIN,d1k2us671qcoau.cloudfront.net
+  - DOMAIN,d2anahhhmp1ffz.cloudfront.net
+  - DOMAIN,dfp6rglgjqszk.cloudfront.net
+  - DOMAIN-SUFFIX,viu.com
+  - DOMAIN-SUFFIX,viu.tv

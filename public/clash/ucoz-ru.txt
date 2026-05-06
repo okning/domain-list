@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/ucoz-ru.txt
 # Name: ucoz-ru
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,scripts-for-ucoz.ru
-DOMAIN-SUFFIX,ucoz.ru
-DOMAIN-SUFFIX,ucozmedia.ru
-DOMAIN-SUFFIX,uguide.ru
+payload:
+  - DOMAIN-SUFFIX,scripts-for-ucoz.ru
+  - DOMAIN-SUFFIX,ucoz.ru
+  - DOMAIN-SUFFIX,ucozmedia.ru
+  - DOMAIN-SUFFIX,uguide.ru

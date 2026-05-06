@@ -1,23 +1,24 @@
 # URL: https://s.nosec.me/clash/singtaonewscorp.txt
 # Name: singtaonewscorp
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 18
 
-DOMAIN-SUFFIX,bastillepost.com
-DOMAIN-SUFFIX,easttouch.com.hk
-DOMAIN-SUFFIX,eastweek.com.hk
-DOMAIN-SUFFIX,eduplus.hk
-DOMAIN-SUFFIX,headlinejobs.hk
-DOMAIN-SUFFIX,hkheadline.com
-DOMAIN-SUFFIX,jobmarket.com.hk
-DOMAIN-SUFFIX,my-magazine.me
-DOMAIN-SUFFIX,pcmarket.com.hk
-DOMAIN-SUFFIX,sing68.com
-DOMAIN-SUFFIX,singtao.com
-DOMAIN-SUFFIX,singtaobooks.com
-DOMAIN-SUFFIX,singtaola.com
-DOMAIN-SUFFIX,singtaonewscorp.com
-DOMAIN-SUFFIX,singtaoopo.com
-DOMAIN-SUFFIX,singtaousa.com
-DOMAIN-SUFFIX,stheadline.com
-DOMAIN-SUFFIX,thestandard.com.hk
+payload:
+  - DOMAIN-SUFFIX,bastillepost.com
+  - DOMAIN-SUFFIX,easttouch.com.hk
+  - DOMAIN-SUFFIX,eastweek.com.hk
+  - DOMAIN-SUFFIX,eduplus.hk
+  - DOMAIN-SUFFIX,headlinejobs.hk
+  - DOMAIN-SUFFIX,hkheadline.com
+  - DOMAIN-SUFFIX,jobmarket.com.hk
+  - DOMAIN-SUFFIX,my-magazine.me
+  - DOMAIN-SUFFIX,pcmarket.com.hk
+  - DOMAIN-SUFFIX,sing68.com
+  - DOMAIN-SUFFIX,singtao.com
+  - DOMAIN-SUFFIX,singtaobooks.com
+  - DOMAIN-SUFFIX,singtaola.com
+  - DOMAIN-SUFFIX,singtaonewscorp.com
+  - DOMAIN-SUFFIX,singtaoopo.com
+  - DOMAIN-SUFFIX,singtaousa.com
+  - DOMAIN-SUFFIX,stheadline.com
+  - DOMAIN-SUFFIX,thestandard.com.hk

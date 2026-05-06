@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/huggingface.txt
 # Name: huggingface
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,hf.space
-DOMAIN-SUFFIX,huggingface.co
+payload:
+  - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,hf.space
+  - DOMAIN-SUFFIX,huggingface.co

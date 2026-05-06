@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/tendcloud.txt
 # Name: tendcloud
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,cpatrk.net
-DOMAIN-SUFFIX,talkingdata.com
-DOMAIN-SUFFIX,talkinggame.com
-DOMAIN-SUFFIX,tendcloud.com
+payload:
+  - DOMAIN-SUFFIX,cpatrk.net
+  - DOMAIN-SUFFIX,talkingdata.com
+  - DOMAIN-SUFFIX,talkinggame.com
+  - DOMAIN-SUFFIX,tendcloud.com

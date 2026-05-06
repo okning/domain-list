@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/timeweb.txt
 # Name: timeweb
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,timeweb.cloud
-DOMAIN-SUFFIX,timeweb.com
-DOMAIN-SUFFIX,twcstorage.ru
+payload:
+  - DOMAIN-SUFFIX,timeweb.cloud
+  - DOMAIN-SUFFIX,timeweb.com
+  - DOMAIN-SUFFIX,twcstorage.ru

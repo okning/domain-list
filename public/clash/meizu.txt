@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/meizu.txt
 # Name: meizu
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,flyme.cn
-DOMAIN-SUFFIX,flyme.com
-DOMAIN-SUFFIX,flymeauto.com
-DOMAIN-SUFFIX,meizu.cn
-DOMAIN-SUFFIX,meizu.com
-DOMAIN-SUFFIX,mzres.com
+payload:
+  - DOMAIN-SUFFIX,flyme.cn
+  - DOMAIN-SUFFIX,flyme.com
+  - DOMAIN-SUFFIX,flymeauto.com
+  - DOMAIN-SUFFIX,meizu.cn
+  - DOMAIN-SUFFIX,meizu.com
+  - DOMAIN-SUFFIX,mzres.com

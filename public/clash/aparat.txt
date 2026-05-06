@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/aparat.txt
 # Name: aparat
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,aparat.com
-DOMAIN-SUFFIX,aparatkids.com
-DOMAIN-SUFFIX,aparatsport.com
+payload:
+  - DOMAIN-SUFFIX,aparat.com
+  - DOMAIN-SUFFIX,aparatkids.com
+  - DOMAIN-SUFFIX,aparatsport.com

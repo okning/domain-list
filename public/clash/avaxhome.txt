@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/avaxhome.txt
 # Name: avaxhome
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,avh.world
-DOMAIN-SUFFIX,avxde.org
-DOMAIN-SUFFIX,avxhm.is
-DOMAIN-SUFFIX,avxhm.se
-DOMAIN-SUFFIX,avxlive.icu
-DOMAIN-SUFFIX,xsava.xyz
-DOMAIN-SUFFIX,zavat.pw
+payload:
+  - DOMAIN-SUFFIX,avh.world
+  - DOMAIN-SUFFIX,avxde.org
+  - DOMAIN-SUFFIX,avxhm.is
+  - DOMAIN-SUFFIX,avxhm.se
+  - DOMAIN-SUFFIX,avxlive.icu
+  - DOMAIN-SUFFIX,xsava.xyz
+  - DOMAIN-SUFFIX,zavat.pw

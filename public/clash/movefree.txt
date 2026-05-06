@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/movefree.txt
 # Name: movefree
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,keepmovingwithmovefree.com
-DOMAIN-SUFFIX,move-free.net
-DOMAIN-SUFFIX,movefree.cn
-DOMAIN-SUFFIX,movefreeoffers.com
-DOMAIN-SUFFIX,movefreerewards.com
-DOMAIN-SUFFIX,movefrees.com
-DOMAIN-SUFFIX,schiffvitamins.com
+payload:
+  - DOMAIN-SUFFIX,keepmovingwithmovefree.com
+  - DOMAIN-SUFFIX,move-free.net
+  - DOMAIN-SUFFIX,movefree.cn
+  - DOMAIN-SUFFIX,movefreeoffers.com
+  - DOMAIN-SUFFIX,movefreerewards.com
+  - DOMAIN-SUFFIX,movefrees.com
+  - DOMAIN-SUFFIX,schiffvitamins.com

@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/vrzwk.txt
 # Name: vrzwk
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,vrzwk.cn
-DOMAIN-SUFFIX,vrzwk.com
-DOMAIN-SUFFIX,vrzwk.net
-DOMAIN-SUFFIX,vrzwk.top
+payload:
+  - DOMAIN-SUFFIX,vrzwk.cn
+  - DOMAIN-SUFFIX,vrzwk.com
+  - DOMAIN-SUFFIX,vrzwk.net
+  - DOMAIN-SUFFIX,vrzwk.top

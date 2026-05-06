@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/lkcoffee.txt
 # Name: lkcoffee
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,lkcoffee.com
-DOMAIN-SUFFIX,luckincoffeecdn.com
-DOMAIN-SUFFIX,yyds.co
+payload:
+  - DOMAIN-SUFFIX,lkcoffee.com
+  - DOMAIN-SUFFIX,luckincoffeecdn.com
+  - DOMAIN-SUFFIX,yyds.co

@@ -1,16 +1,17 @@
 # URL: https://s.nosec.me/clash/picacg.txt
 # Name: picacg
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 11
 
-DOMAIN-SUFFIX,bikaa.xyz
-DOMAIN-SUFFIX,bikac.xyz
-DOMAIN-SUFFIX,bikaios.xyz
-DOMAIN-SUFFIX,diwodiwo.xyz
-DOMAIN-SUFFIX,manhuabika.com
-DOMAIN-SUFFIX,picacgp.com
-DOMAIN-SUFFIX,picacgy.com
-DOMAIN-SUFFIX,picacn.xyz
-DOMAIN-SUFFIX,picacomic.com
-DOMAIN-SUFFIX,picacomic.xyz
-DOMAIN-SUFFIX,wikawika.xyz
+payload:
+  - DOMAIN-SUFFIX,bikaa.xyz
+  - DOMAIN-SUFFIX,bikac.xyz
+  - DOMAIN-SUFFIX,bikaios.xyz
+  - DOMAIN-SUFFIX,diwodiwo.xyz
+  - DOMAIN-SUFFIX,manhuabika.com
+  - DOMAIN-SUFFIX,picacgp.com
+  - DOMAIN-SUFFIX,picacgy.com
+  - DOMAIN-SUFFIX,picacn.xyz
+  - DOMAIN-SUFFIX,picacomic.com
+  - DOMAIN-SUFFIX,picacomic.xyz
+  - DOMAIN-SUFFIX,wikawika.xyz

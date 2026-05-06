@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/hsbc-cn.txt
 # Name: hsbc-cn
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,hsbc.com.cn
-DOMAIN-SUFFIX,hsbcinsurance.com.cn
-DOMAIN-SUFFIX,hsbcqh.com.cn
+payload:
+  - DOMAIN-SUFFIX,hsbc.com.cn
+  - DOMAIN-SUFFIX,hsbcinsurance.com.cn
+  - DOMAIN-SUFFIX,hsbcqh.com.cn

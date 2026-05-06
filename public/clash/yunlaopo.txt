@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/yunlaopo.txt
 # Name: yunlaopo
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,doure.net
-DOMAIN-SUFFIX,kuaipa.net
-DOMAIN-SUFFIX,miaopa.net
-DOMAIN-SUFFIX,yunlaopo.cc
-DOMAIN-SUFFIX,yunlaopo.com
-DOMAIN-SUFFIX,yunlaopo.net
+payload:
+  - DOMAIN-SUFFIX,doure.net
+  - DOMAIN-SUFFIX,kuaipa.net
+  - DOMAIN-SUFFIX,miaopa.net
+  - DOMAIN-SUFFIX,yunlaopo.cc
+  - DOMAIN-SUFFIX,yunlaopo.com
+  - DOMAIN-SUFFIX,yunlaopo.net

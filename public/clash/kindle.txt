@@ -1,25 +1,26 @@
 # URL: https://s.nosec.me/clash/kindle.txt
 # Name: kindle
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 20
 
-DOMAIN-SUFFIX,kindle
-DOMAIN-SUFFIX,kindle.cn
-DOMAIN-SUFFIX,kindle.co.jp
-DOMAIN-SUFFIX,kindle.co.uk
-DOMAIN-SUFFIX,kindle.com
-DOMAIN-SUFFIX,kindle.de
-DOMAIN-SUFFIX,kindle.es
-DOMAIN-SUFFIX,kindle.fr
-DOMAIN-SUFFIX,kindle.in
-DOMAIN-SUFFIX,kindle.it
-DOMAIN-SUFFIX,kindle.jp
-DOMAIN-SUFFIX,kindleoasis.cn
-DOMAIN-SUFFIX,kindleoasis.com
-DOMAIN-SUFFIX,kindleoasis.com.cn
-DOMAIN-SUFFIX,kindleoasis.info
-DOMAIN-SUFFIX,kindleoasis.jp
-DOMAIN-SUFFIX,kindleoasis.org
-DOMAIN-SUFFIX,kindleoasis.us
-DOMAIN-SUFFIX,kindleoasisnews.com
-DOMAIN-SUFFIX,kindleproject.com
+payload:
+  - DOMAIN-SUFFIX,kindle
+  - DOMAIN-SUFFIX,kindle.cn
+  - DOMAIN-SUFFIX,kindle.co.jp
+  - DOMAIN-SUFFIX,kindle.co.uk
+  - DOMAIN-SUFFIX,kindle.com
+  - DOMAIN-SUFFIX,kindle.de
+  - DOMAIN-SUFFIX,kindle.es
+  - DOMAIN-SUFFIX,kindle.fr
+  - DOMAIN-SUFFIX,kindle.in
+  - DOMAIN-SUFFIX,kindle.it
+  - DOMAIN-SUFFIX,kindle.jp
+  - DOMAIN-SUFFIX,kindleoasis.cn
+  - DOMAIN-SUFFIX,kindleoasis.com
+  - DOMAIN-SUFFIX,kindleoasis.com.cn
+  - DOMAIN-SUFFIX,kindleoasis.info
+  - DOMAIN-SUFFIX,kindleoasis.jp
+  - DOMAIN-SUFFIX,kindleoasis.org
+  - DOMAIN-SUFFIX,kindleoasis.us
+  - DOMAIN-SUFFIX,kindleoasisnews.com
+  - DOMAIN-SUFFIX,kindleproject.com

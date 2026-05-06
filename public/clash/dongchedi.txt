@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/dongchedi.txt
 # Name: dongchedi
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,dcarapi.com
-DOMAIN-SUFFIX,dcarimg.com
-DOMAIN-SUFFIX,dcarlive.com
-DOMAIN-SUFFIX,dcarstatic.com
-DOMAIN-SUFFIX,dcarvod.com
-DOMAIN-SUFFIX,dcdapp.com
-DOMAIN-SUFFIX,dongchedi.com
-DOMAIN-SUFFIX,dongchediapp.com
+payload:
+  - DOMAIN-SUFFIX,dcarapi.com
+  - DOMAIN-SUFFIX,dcarimg.com
+  - DOMAIN-SUFFIX,dcarlive.com
+  - DOMAIN-SUFFIX,dcarstatic.com
+  - DOMAIN-SUFFIX,dcarvod.com
+  - DOMAIN-SUFFIX,dcdapp.com
+  - DOMAIN-SUFFIX,dongchedi.com
+  - DOMAIN-SUFFIX,dongchediapp.com

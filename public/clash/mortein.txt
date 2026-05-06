@@ -1,16 +1,17 @@
 # URL: https://s.nosec.me/clash/mortein.txt
 # Name: mortein
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 11
 
-DOMAIN-SUFFIX,mortein.cn
-DOMAIN-SUFFIX,mortein.co.in
-DOMAIN-SUFFIX,mortein.co.nz
-DOMAIN-SUFFIX,mortein.co.za
-DOMAIN-SUFFIX,mortein.com
-DOMAIN-SUFFIX,mortein.com.au
-DOMAIN-SUFFIX,mortein.com.br
-DOMAIN-SUFFIX,mortein.com.ng
-DOMAIN-SUFFIX,mortein.com.pk
-DOMAIN-SUFFIX,morteincam.com
-DOMAIN-SUFFIX,pifpafarabia.com
+payload:
+  - DOMAIN-SUFFIX,mortein.cn
+  - DOMAIN-SUFFIX,mortein.co.in
+  - DOMAIN-SUFFIX,mortein.co.nz
+  - DOMAIN-SUFFIX,mortein.co.za
+  - DOMAIN-SUFFIX,mortein.com
+  - DOMAIN-SUFFIX,mortein.com.au
+  - DOMAIN-SUFFIX,mortein.com.br
+  - DOMAIN-SUFFIX,mortein.com.ng
+  - DOMAIN-SUFFIX,mortein.com.pk
+  - DOMAIN-SUFFIX,morteincam.com
+  - DOMAIN-SUFFIX,pifpafarabia.com

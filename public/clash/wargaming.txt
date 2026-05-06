@@ -1,16 +1,17 @@
 # URL: https://s.nosec.me/clash/wargaming.txt
 # Name: wargaming
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 11
 
-DOMAIN-SUFFIX,masteroforion.com
-DOMAIN-SUFFIX,wargaming.com
-DOMAIN-SUFFIX,wargaming.net
-DOMAIN-SUFFIX,wgcdn.co
-DOMAIN-SUFFIX,wgcrowd.io
-DOMAIN-SUFFIX,worldoftanks.com
-DOMAIN-SUFFIX,worldoftanks.eu
-DOMAIN-SUFFIX,worldofwarplanes.com
-DOMAIN-SUFFIX,worldofwarships.com
-DOMAIN-SUFFIX,wotblitz.com
-DOMAIN-SUFFIX,wowsblitz.com
+payload:
+  - DOMAIN-SUFFIX,masteroforion.com
+  - DOMAIN-SUFFIX,wargaming.com
+  - DOMAIN-SUFFIX,wargaming.net
+  - DOMAIN-SUFFIX,wgcdn.co
+  - DOMAIN-SUFFIX,wgcrowd.io
+  - DOMAIN-SUFFIX,worldoftanks.com
+  - DOMAIN-SUFFIX,worldoftanks.eu
+  - DOMAIN-SUFFIX,worldofwarplanes.com
+  - DOMAIN-SUFFIX,worldofwarships.com
+  - DOMAIN-SUFFIX,wotblitz.com
+  - DOMAIN-SUFFIX,wowsblitz.com

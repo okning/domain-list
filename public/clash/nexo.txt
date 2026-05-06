@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/nexo.txt
 # Name: nexo
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,nexo.com
-DOMAIN-SUFFIX,nexo.io
+payload:
+  - DOMAIN-SUFFIX,nexo.com
+  - DOMAIN-SUFFIX,nexo.io

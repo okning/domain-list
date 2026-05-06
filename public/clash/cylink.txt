@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/cylink.txt
 # Name: cylink
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,cylink.pro
-DOMAIN-SUFFIX,cylink0122.icu
+payload:
+  - DOMAIN-SUFFIX,cylink.pro
+  - DOMAIN-SUFFIX,cylink0122.icu

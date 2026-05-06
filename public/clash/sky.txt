@@ -1,17 +1,18 @@
 # URL: https://s.nosec.me/clash/sky.txt
 # Name: sky
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 12
 
-DOMAIN-SUFFIX,sky
-DOMAIN-SUFFIX,sky.com
-DOMAIN-SUFFIX,skyassets.com
-DOMAIN-SUFFIX,skymansion.net
-DOMAIN-SUFFIX,skyoceanrescue.com
-DOMAIN-SUFFIX,skyoceanrescue.de
-DOMAIN-SUFFIX,skyoceanrescue.it
-DOMAIN-SUFFIX,skysports.com
-DOMAIN-SUFFIX,skysports.fr
-DOMAIN-SUFFIX,skysports.ie
-DOMAIN-SUFFIX,skysportsonline.com
-DOMAIN-SUFFIX,skysportsracing.com
+payload:
+  - DOMAIN-SUFFIX,sky
+  - DOMAIN-SUFFIX,sky.com
+  - DOMAIN-SUFFIX,skyassets.com
+  - DOMAIN-SUFFIX,skymansion.net
+  - DOMAIN-SUFFIX,skyoceanrescue.com
+  - DOMAIN-SUFFIX,skyoceanrescue.de
+  - DOMAIN-SUFFIX,skyoceanrescue.it
+  - DOMAIN-SUFFIX,skysports.com
+  - DOMAIN-SUFFIX,skysports.fr
+  - DOMAIN-SUFFIX,skysports.ie
+  - DOMAIN-SUFFIX,skysportsonline.com
+  - DOMAIN-SUFFIX,skysportsracing.com

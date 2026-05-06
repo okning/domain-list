@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/b3log.txt
 # Name: b3log
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,b3log.org
-DOMAIN-SUFFIX,b3logfile.com
-DOMAIN-SUFFIX,hacpai.com
-DOMAIN-SUFFIX,ld246.com
+payload:
+  - DOMAIN-SUFFIX,b3log.org
+  - DOMAIN-SUFFIX,b3logfile.com
+  - DOMAIN-SUFFIX,hacpai.com
+  - DOMAIN-SUFFIX,ld246.com

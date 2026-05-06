@@ -1,16 +1,17 @@
 # URL: https://s.nosec.me/clash/ok.txt
 # Name: ok
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 11
 
-DOMAIN-SUFFIX,apiok.ru
-DOMAIN-SUFFIX,insideok.ru
-DOMAIN-SUFFIX,odkl.ru
-DOMAIN-SUFFIX,odnoklassniki.ru
-DOMAIN-SUFFIX,ok.me
-DOMAIN-SUFFIX,ok.ru
-DOMAIN-SUFFIX,okcdn.ru
-DOMAIN-SUFFIX,okl.lt
-DOMAIN-SUFFIX,oktech.ru
-DOMAIN,st-ok-pts.cdn-vk.ru
-DOMAIN,st-ok.cdn-vk.ru
+payload:
+  - DOMAIN-SUFFIX,apiok.ru
+  - DOMAIN-SUFFIX,insideok.ru
+  - DOMAIN-SUFFIX,odkl.ru
+  - DOMAIN-SUFFIX,odnoklassniki.ru
+  - DOMAIN-SUFFIX,ok.me
+  - DOMAIN-SUFFIX,ok.ru
+  - DOMAIN-SUFFIX,okcdn.ru
+  - DOMAIN-SUFFIX,okl.lt
+  - DOMAIN-SUFFIX,oktech.ru
+  - DOMAIN,st-ok-pts.cdn-vk.ru
+  - DOMAIN,st-ok.cdn-vk.ru

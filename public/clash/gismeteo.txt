@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/gismeteo.txt
 # Name: gismeteo
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,gismeteo.by
-DOMAIN-SUFFIX,gismeteo.com
-DOMAIN-SUFFIX,gismeteo.net
-DOMAIN-SUFFIX,gismeteo.ru
-DOMAIN-SUFFIX,gismeteo.st
-DOMAIN-SUFFIX,meteofor.com
-DOMAIN-SUFFIX,meteofor.st
+payload:
+  - DOMAIN-SUFFIX,gismeteo.by
+  - DOMAIN-SUFFIX,gismeteo.com
+  - DOMAIN-SUFFIX,gismeteo.net
+  - DOMAIN-SUFFIX,gismeteo.ru
+  - DOMAIN-SUFFIX,gismeteo.st
+  - DOMAIN-SUFFIX,meteofor.com
+  - DOMAIN-SUFFIX,meteofor.st

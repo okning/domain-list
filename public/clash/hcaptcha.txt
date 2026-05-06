@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/hcaptcha.txt
 # Name: hcaptcha
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,botstop.com
-DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,hcaptchastatus.com
+payload:
+  - DOMAIN-SUFFIX,botstop.com
+  - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,hcaptchastatus.com

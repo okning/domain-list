@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/xda.txt
 # Name: xda
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,xda-cdn.com
-DOMAIN-SUFFIX,xda-developers.com
-DOMAIN-SUFFIX,xdaforums.com
-DOMAIN-SUFFIX,xdaimages.com
+payload:
+  - DOMAIN-SUFFIX,xda-cdn.com
+  - DOMAIN-SUFFIX,xda-developers.com
+  - DOMAIN-SUFFIX,xdaforums.com
+  - DOMAIN-SUFFIX,xdaimages.com

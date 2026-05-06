@@ -1,6 +1,7 @@
 # URL: https://s.nosec.me/clash/trustwallet.txt
 # Name: trustwallet
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 1
 
-DOMAIN-SUFFIX,trustwallet.com
+payload:
+  - DOMAIN-SUFFIX,trustwallet.com

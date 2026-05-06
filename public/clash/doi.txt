@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/doi.txt
 # Name: doi
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,doi.info
-DOMAIN-SUFFIX,doi.org
+payload:
+  - DOMAIN-SUFFIX,doi.info
+  - DOMAIN-SUFFIX,doi.org

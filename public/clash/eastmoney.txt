@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/eastmoney.txt
 # Name: eastmoney
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,1234567.com.cn
-DOMAIN-SUFFIX,18.cn
-DOMAIN-SUFFIX,18.com.cn
-DOMAIN-SUFFIX,dfcfw.com
-DOMAIN-SUFFIX,eastmoney.com
-DOMAIN-SUFFIX,eastmoneyfutures.com
-DOMAIN-SUFFIX,emsec.hk
-DOMAIN-SUFFIX,guba.com.cn
+payload:
+  - DOMAIN-SUFFIX,1234567.com.cn
+  - DOMAIN-SUFFIX,18.cn
+  - DOMAIN-SUFFIX,18.com.cn
+  - DOMAIN-SUFFIX,dfcfw.com
+  - DOMAIN-SUFFIX,eastmoney.com
+  - DOMAIN-SUFFIX,eastmoneyfutures.com
+  - DOMAIN-SUFFIX,emsec.hk
+  - DOMAIN-SUFFIX,guba.com.cn

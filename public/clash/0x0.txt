@@ -1,6 +1,7 @@
 # URL: https://s.nosec.me/clash/0x0.txt
 # Name: 0x0
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 1
 
-DOMAIN-SUFFIX,0x0.st
+payload:
+  - DOMAIN-SUFFIX,0x0.st

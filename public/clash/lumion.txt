@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/lumion.txt
 # Name: lumion
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,lumion-la.com
-DOMAIN-SUFFIX,lumion.com
-DOMAIN-SUFFIX,lumion3d.com.my
-DOMAIN-SUFFIX,lumion3d.net
-DOMAIN-SUFFIX,lumiontech.net
-DOMAIN-SUFFIX,mylumion.com
+payload:
+  - DOMAIN-SUFFIX,lumion-la.com
+  - DOMAIN-SUFFIX,lumion.com
+  - DOMAIN-SUFFIX,lumion3d.com.my
+  - DOMAIN-SUFFIX,lumion3d.net
+  - DOMAIN-SUFFIX,lumiontech.net
+  - DOMAIN-SUFFIX,mylumion.com

@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/tver.txt
 # Name: tver
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,dogatch.jp
-DOMAIN-SUFFIX,gorin.jp
-DOMAIN-SUFFIX,screens-lab.jp
-DOMAIN-SUFFIX,tver.co.jp
-DOMAIN-SUFFIX,tver.jp
+payload:
+  - DOMAIN-SUFFIX,dogatch.jp
+  - DOMAIN-SUFFIX,gorin.jp
+  - DOMAIN-SUFFIX,screens-lab.jp
+  - DOMAIN-SUFFIX,tver.co.jp
+  - DOMAIN-SUFFIX,tver.jp

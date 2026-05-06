@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/readthedocs.txt
 # Name: readthedocs
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,readthedocs-hosted.com
-DOMAIN-SUFFIX,readthedocs.com
-DOMAIN-SUFFIX,readthedocs.io
-DOMAIN-SUFFIX,readthedocs.org
+payload:
+  - DOMAIN-SUFFIX,readthedocs-hosted.com
+  - DOMAIN-SUFFIX,readthedocs.com
+  - DOMAIN-SUFFIX,readthedocs.io
+  - DOMAIN-SUFFIX,readthedocs.org

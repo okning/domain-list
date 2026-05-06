@@ -1,17 +1,18 @@
 # URL: https://s.nosec.me/clash/manorama.txt
 # Name: manorama
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 12
 
-DOMAIN-SUFFIX,malayalamanorama.com
-DOMAIN-SUFFIX,manorama.com
-DOMAIN-SUFFIX,manoramanews.com
-DOMAIN-SUFFIX,manoramaonline.com
-DOMAIN-SUFFIX,manoramayearbook.in
-DOMAIN-SUFFIX,onmanorama.com
-DOMAIN-SUFFIX,radiomango.fm
-DOMAIN-SUFFIX,theman.in
-DOMAIN-SUFFIX,theweek.in
-DOMAIN-SUFFIX,vanitaonline.com
-DOMAIN-SUFFIX,vanitha.in
-DOMAIN-SUFFIX,vanithaveedu.com
+payload:
+  - DOMAIN-SUFFIX,malayalamanorama.com
+  - DOMAIN-SUFFIX,manorama.com
+  - DOMAIN-SUFFIX,manoramanews.com
+  - DOMAIN-SUFFIX,manoramaonline.com
+  - DOMAIN-SUFFIX,manoramayearbook.in
+  - DOMAIN-SUFFIX,onmanorama.com
+  - DOMAIN-SUFFIX,radiomango.fm
+  - DOMAIN-SUFFIX,theman.in
+  - DOMAIN-SUFFIX,theweek.in
+  - DOMAIN-SUFFIX,vanitaonline.com
+  - DOMAIN-SUFFIX,vanitha.in
+  - DOMAIN-SUFFIX,vanithaveedu.com

@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/mega.txt
 # Name: mega
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,mega.co.nz
-DOMAIN-SUFFIX,mega.io
-DOMAIN-SUFFIX,mega.nz
+payload:
+  - DOMAIN-SUFFIX,mega.co.nz
+  - DOMAIN-SUFFIX,mega.io
+  - DOMAIN-SUFFIX,mega.nz

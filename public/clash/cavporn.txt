@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/cavporn.txt
 # Name: cavporn
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-REGEXP,(^|\.)cav1(0[2-9]|1[0-9])\.com$
-DOMAIN-SUFFIX,cavporn.com
-DOMAIN-SUFFIX,cavporn.github.io
+payload:
+  - DOMAIN-REGEXP,(^|\.)cav1(0[2-9]|1[0-9])\.com$
+  - DOMAIN-SUFFIX,cavporn.com
+  - DOMAIN-SUFFIX,cavporn.github.io

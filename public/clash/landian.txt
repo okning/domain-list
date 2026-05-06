@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/landian.txt
 # Name: landian
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,lancdn.com
-DOMAIN-SUFFIX,landian.vip
-DOMAIN-SUFFIX,landian.xyz
-DOMAIN-SUFFIX,landiannews.com
-DOMAIN-SUFFIX,ourl.co
-DOMAIN-SUFFIX,wsoso.com
+payload:
+  - DOMAIN-SUFFIX,lancdn.com
+  - DOMAIN-SUFFIX,landian.vip
+  - DOMAIN-SUFFIX,landian.xyz
+  - DOMAIN-SUFFIX,landiannews.com
+  - DOMAIN-SUFFIX,ourl.co
+  - DOMAIN-SUFFIX,wsoso.com

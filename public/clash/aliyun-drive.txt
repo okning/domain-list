@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/aliyun-drive.txt
 # Name: aliyun-drive
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,alicloudccp.com
-DOMAIN-SUFFIX,alipan.com
-DOMAIN-SUFFIX,aliyundrive.cloud
-DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,aliyundrive.net
-DOMAIN-SUFFIX,yunpan.aliyun.com
+payload:
+  - DOMAIN-SUFFIX,alicloudccp.com
+  - DOMAIN-SUFFIX,alipan.com
+  - DOMAIN-SUFFIX,aliyundrive.cloud
+  - DOMAIN-SUFFIX,aliyundrive.com
+  - DOMAIN-SUFFIX,aliyundrive.net
+  - DOMAIN-SUFFIX,yunpan.aliyun.com

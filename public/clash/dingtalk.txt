@@ -1,15 +1,16 @@
 # URL: https://s.nosec.me/clash/dingtalk.txt
 # Name: dingtalk
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 10
 
-DOMAIN-SUFFIX,ddurl.to
-DOMAIN-SUFFIX,dingding.xin
-DOMAIN-SUFFIX,dingtalk.cn
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,dingtalk.net
-DOMAIN-SUFFIX,dingtalkapps.com
-DOMAIN-SUFFIX,dingtalkcloud.com
-DOMAIN-SUFFIX,laiwang.com
-DOMAIN-SUFFIX,lwurl.to
-DOMAIN-SUFFIX,ztna-dingtalk.com
+payload:
+  - DOMAIN-SUFFIX,ddurl.to
+  - DOMAIN-SUFFIX,dingding.xin
+  - DOMAIN-SUFFIX,dingtalk.cn
+  - DOMAIN-SUFFIX,dingtalk.com
+  - DOMAIN-SUFFIX,dingtalk.net
+  - DOMAIN-SUFFIX,dingtalkapps.com
+  - DOMAIN-SUFFIX,dingtalkcloud.com
+  - DOMAIN-SUFFIX,laiwang.com
+  - DOMAIN-SUFFIX,lwurl.to
+  - DOMAIN-SUFFIX,ztna-dingtalk.com

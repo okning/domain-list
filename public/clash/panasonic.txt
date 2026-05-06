@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/panasonic.txt
 # Name: panasonic
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,panasonic
-DOMAIN-SUFFIX,panasonic.cn
-DOMAIN-SUFFIX,panasonic.com
-DOMAIN-SUFFIX,panasonic.jp
-DOMAIN-SUFFIX,technics.com
+payload:
+  - DOMAIN-SUFFIX,panasonic
+  - DOMAIN-SUFFIX,panasonic.cn
+  - DOMAIN-SUFFIX,panasonic.com
+  - DOMAIN-SUFFIX,panasonic.jp
+  - DOMAIN-SUFFIX,technics.com

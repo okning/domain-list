@@ -1,16 +1,17 @@
 # URL: https://s.nosec.me/clash/xiaohongshu.txt
 # Name: xiaohongshu
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 11
 
-DOMAIN-SUFFIX,askdiandian.com
-DOMAIN-SUFFIX,diandianlife.top
-DOMAIN-SUFFIX,redelight.cn
-DOMAIN-SUFFIX,rednote.com
-DOMAIN-SUFFIX,rednote.com.my
-DOMAIN-SUFFIX,rednotecdn.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xhslink.com
-DOMAIN-SUFFIX,xhsrcdn.com
-DOMAIN-SUFFIX,xiaohongshu.com
+payload:
+  - DOMAIN-SUFFIX,askdiandian.com
+  - DOMAIN-SUFFIX,diandianlife.top
+  - DOMAIN-SUFFIX,redelight.cn
+  - DOMAIN-SUFFIX,rednote.com
+  - DOMAIN-SUFFIX,rednote.com.my
+  - DOMAIN-SUFFIX,rednotecdn.com
+  - DOMAIN-SUFFIX,xhscdn.com
+  - DOMAIN-SUFFIX,xhscdn.net
+  - DOMAIN-SUFFIX,xhslink.com
+  - DOMAIN-SUFFIX,xhsrcdn.com
+  - DOMAIN-SUFFIX,xiaohongshu.com

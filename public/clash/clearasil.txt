@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/clearasil.txt
 # Name: clearasil
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,clearasil.cn
-DOMAIN-SUFFIX,clearasil.com.cn
-DOMAIN-SUFFIX,clearasil.us
+payload:
+  - DOMAIN-SUFFIX,clearasil.cn
+  - DOMAIN-SUFFIX,clearasil.com.cn
+  - DOMAIN-SUFFIX,clearasil.us

@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/nodeseek.txt
 # Name: nodeseek
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,22112211.xyz
-DOMAIN-SUFFIX,deepflood.com
-DOMAIN-SUFFIX,nodeget.com
-DOMAIN-SUFFIX,nodeimage.com
-DOMAIN-SUFFIX,nodequality.com
-DOMAIN-SUFFIX,nodeseek.com
+payload:
+  - DOMAIN-SUFFIX,22112211.xyz
+  - DOMAIN-SUFFIX,deepflood.com
+  - DOMAIN-SUFFIX,nodeget.com
+  - DOMAIN-SUFFIX,nodeimage.com
+  - DOMAIN-SUFFIX,nodequality.com
+  - DOMAIN-SUFFIX,nodeseek.com

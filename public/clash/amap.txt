@@ -1,15 +1,16 @@
 # URL: https://s.nosec.me/clash/amap.txt
 # Name: amap
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 10
 
-DOMAIN-SUFFIX,a-map.cn
-DOMAIN-SUFFIX,a-map.co
-DOMAIN-SUFFIX,a-map.link
-DOMAIN-SUFFIX,a-map.vip
-DOMAIN-SUFFIX,acloudrender.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,amapauto.com
-DOMAIN-SUFFIX,anav.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,gaode.com
+payload:
+  - DOMAIN-SUFFIX,a-map.cn
+  - DOMAIN-SUFFIX,a-map.co
+  - DOMAIN-SUFFIX,a-map.link
+  - DOMAIN-SUFFIX,a-map.vip
+  - DOMAIN-SUFFIX,acloudrender.com
+  - DOMAIN-SUFFIX,amap.com
+  - DOMAIN-SUFFIX,amapauto.com
+  - DOMAIN-SUFFIX,anav.com
+  - DOMAIN-SUFFIX,autonavi.com
+  - DOMAIN-SUFFIX,gaode.com

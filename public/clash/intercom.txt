@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/intercom.txt
 # Name: intercom
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,intercom.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomassets.com
-DOMAIN-SUFFIX,intercomcdn.com
+payload:
+  - DOMAIN-SUFFIX,intercom.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomassets.com
+  - DOMAIN-SUFFIX,intercomcdn.com

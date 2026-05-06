@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/askdiandian.txt
 # Name: askdiandian
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,askdiandian.com
-DOMAIN-SUFFIX,diandianlife.top
+payload:
+  - DOMAIN-SUFFIX,askdiandian.com
+  - DOMAIN-SUFFIX,diandianlife.top

@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/aljazeera.txt
 # Name: aljazeera
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,ajplus.net
-DOMAIN-SUFFIX,aljazeera.com
-DOMAIN-SUFFIX,aljazeera.net
-DOMAIN-SUFFIX,palestineremix.com
-DOMAIN-SUFFIX,sarajevopodopsadom.com
-DOMAIN-SUFFIX,srebrenica360.com
-DOMAIN-SUFFIX,syhacked.com
+payload:
+  - DOMAIN-SUFFIX,ajplus.net
+  - DOMAIN-SUFFIX,aljazeera.com
+  - DOMAIN-SUFFIX,aljazeera.net
+  - DOMAIN-SUFFIX,palestineremix.com
+  - DOMAIN-SUFFIX,sarajevopodopsadom.com
+  - DOMAIN-SUFFIX,srebrenica360.com
+  - DOMAIN-SUFFIX,syhacked.com

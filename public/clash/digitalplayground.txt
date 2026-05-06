@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/digitalplayground.txt
 # Name: digitalplayground
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,digitalplayground.com
-DOMAIN-SUFFIX,digitalplaygroundnetwork.com
+payload:
+  - DOMAIN-SUFFIX,digitalplayground.com
+  - DOMAIN-SUFFIX,digitalplaygroundnetwork.com

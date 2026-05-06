@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/qianxin.txt
 # Name: qianxin
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,95015.com
-DOMAIN-SUFFIX,ceati.org.cn
-DOMAIN-SUFFIX,datacon.org.cn
-DOMAIN-SUFFIX,qianxin.com
-DOMAIN-SUFFIX,qianxincdn.com
-DOMAIN-SUFFIX,seclab.online
-DOMAIN-SUFFIX,tianshucup.com
+payload:
+  - DOMAIN-SUFFIX,95015.com
+  - DOMAIN-SUFFIX,ceati.org.cn
+  - DOMAIN-SUFFIX,datacon.org.cn
+  - DOMAIN-SUFFIX,qianxin.com
+  - DOMAIN-SUFFIX,qianxincdn.com
+  - DOMAIN-SUFFIX,seclab.online
+  - DOMAIN-SUFFIX,tianshucup.com

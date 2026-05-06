@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/phoenix.txt
 # Name: phoenix
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,fengcx.com
-DOMAIN-SUFFIX,fengedu.com
-DOMAIN-SUFFIX,ifeng.com
-DOMAIN-SUFFIX,ifengimg.com
-DOMAIN-SUFFIX,ifengweekly.com
-DOMAIN-SUFFIX,phoenixcenter.cn
+payload:
+  - DOMAIN-SUFFIX,fengcx.com
+  - DOMAIN-SUFFIX,fengedu.com
+  - DOMAIN-SUFFIX,ifeng.com
+  - DOMAIN-SUFFIX,ifengimg.com
+  - DOMAIN-SUFFIX,ifengweekly.com
+  - DOMAIN-SUFFIX,phoenixcenter.cn

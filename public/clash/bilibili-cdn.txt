@@ -1,19 +1,20 @@
 # URL: https://s.nosec.me/clash/bilibili-cdn.txt
 # Name: bilibili-cdn
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 14
 
-DOMAIN-SUFFIX,bilicdn1.com
-DOMAIN-SUFFIX,bilicdn2.com
-DOMAIN-SUFFIX,bilicdn3.com
-DOMAIN-SUFFIX,bilicdn4.com
-DOMAIN-SUFFIX,bilicdn5.com
-DOMAIN-SUFFIX,biliimg.com
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.net
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,hdslb.org
-DOMAIN-SUFFIX,maoercdn.com
-DOMAIN-SUFFIX,mincdn.com
-DOMAIN,upos-hz-mirrorakam.akamaized.net
+payload:
+  - DOMAIN-SUFFIX,bilicdn1.com
+  - DOMAIN-SUFFIX,bilicdn2.com
+  - DOMAIN-SUFFIX,bilicdn3.com
+  - DOMAIN-SUFFIX,bilicdn4.com
+  - DOMAIN-SUFFIX,bilicdn5.com
+  - DOMAIN-SUFFIX,biliimg.com
+  - DOMAIN-SUFFIX,bilivideo.cn
+  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,bilivideo.net
+  - DOMAIN-SUFFIX,hdslb.com
+  - DOMAIN-SUFFIX,hdslb.org
+  - DOMAIN-SUFFIX,maoercdn.com
+  - DOMAIN-SUFFIX,mincdn.com
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net

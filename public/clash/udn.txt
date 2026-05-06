@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/udn.txt
 # Name: udn
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,udn.com
-DOMAIN-SUFFIX,udn.com.tw
-DOMAIN-SUFFIX,udndata.com
-DOMAIN-SUFFIX,udnfunlife.com
+payload:
+  - DOMAIN-SUFFIX,udn.com
+  - DOMAIN-SUFFIX,udn.com.tw
+  - DOMAIN-SUFFIX,udndata.com
+  - DOMAIN-SUFFIX,udnfunlife.com

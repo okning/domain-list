@@ -1,19 +1,20 @@
 # URL: https://s.nosec.me/clash/agilebits.txt
 # Name: agilebits
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 14
 
-DOMAIN-SUFFIX,1infra.net
-DOMAIN-SUFFIX,1password.ca
-DOMAIN-SUFFIX,1password.co
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,1password.community
-DOMAIN,1password.drift.click
-DOMAIN-SUFFIX,1password.eu
-DOMAIN-SUFFIX,1password.io
-DOMAIN-SUFFIX,1passwordservices.com
-DOMAIN-SUFFIX,1passwordusercontent.ca
-DOMAIN-SUFFIX,1passwordusercontent.com
-DOMAIN-SUFFIX,1passwordusercontent.eu
-DOMAIN-SUFFIX,agilebits.com
-DOMAIN-SUFFIX,passage.id
+payload:
+  - DOMAIN-SUFFIX,1infra.net
+  - DOMAIN-SUFFIX,1password.ca
+  - DOMAIN-SUFFIX,1password.co
+  - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,1password.community
+  - DOMAIN,1password.drift.click
+  - DOMAIN-SUFFIX,1password.eu
+  - DOMAIN-SUFFIX,1password.io
+  - DOMAIN-SUFFIX,1passwordservices.com
+  - DOMAIN-SUFFIX,1passwordusercontent.ca
+  - DOMAIN-SUFFIX,1passwordusercontent.com
+  - DOMAIN-SUFFIX,1passwordusercontent.eu
+  - DOMAIN-SUFFIX,agilebits.com
+  - DOMAIN-SUFFIX,passage.id

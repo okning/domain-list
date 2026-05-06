@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/zb.txt
 # Name: zb
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,zb.app
-DOMAIN-SUFFIX,zb.com
-DOMAIN-SUFFIX,zb.io
-DOMAIN-SUFFIX,zb.live
+payload:
+  - DOMAIN-SUFFIX,zb.app
+  - DOMAIN-SUFFIX,zb.com
+  - DOMAIN-SUFFIX,zb.io
+  - DOMAIN-SUFFIX,zb.live

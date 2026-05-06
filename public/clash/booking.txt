@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/booking.txt
 # Name: booking
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,booking.cn
-DOMAIN-SUFFIX,booking.com
-DOMAIN-SUFFIX,bstatic.com
+payload:
+  - DOMAIN-SUFFIX,booking.cn
+  - DOMAIN-SUFFIX,booking.com
+  - DOMAIN-SUFFIX,bstatic.com

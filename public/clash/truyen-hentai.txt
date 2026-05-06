@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/truyen-hentai.txt
 # Name: truyen-hentai
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,truyen-hentai.com
-DOMAIN-SUFFIX,truyen-hentai.fr
-DOMAIN-SUFFIX,truyen-hentai.ru
+payload:
+  - DOMAIN-SUFFIX,truyen-hentai.com
+  - DOMAIN-SUFFIX,truyen-hentai.fr
+  - DOMAIN-SUFFIX,truyen-hentai.ru

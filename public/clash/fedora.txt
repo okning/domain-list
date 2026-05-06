@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/fedora.txt
 # Name: fedora
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,fedoraforum.org
-DOMAIN-SUFFIX,fedorainfracloud.org
-DOMAIN-SUFFIX,fedoramagazine.org
-DOMAIN-SUFFIX,fedorapeople.org
-DOMAIN-SUFFIX,fedoraproject.org
-DOMAIN-SUFFIX,getfedora.org
+payload:
+  - DOMAIN-SUFFIX,fedoraforum.org
+  - DOMAIN-SUFFIX,fedorainfracloud.org
+  - DOMAIN-SUFFIX,fedoramagazine.org
+  - DOMAIN-SUFFIX,fedorapeople.org
+  - DOMAIN-SUFFIX,fedoraproject.org
+  - DOMAIN-SUFFIX,getfedora.org

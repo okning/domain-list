@@ -1,14 +1,15 @@
 # URL: https://s.nosec.me/clash/razer.txt
 # Name: razer
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 9
 
-DOMAIN-SUFFIX,razer.com
-DOMAIN-SUFFIX,razerapi.com
-DOMAIN-SUFFIX,razerofficial.com
-DOMAIN-SUFFIX,razersupport.com
-DOMAIN-SUFFIX,razersynapse.com
-DOMAIN-SUFFIX,razerzone.com
-DOMAIN-SUFFIX,razerzone.jp
-DOMAIN-SUFFIX,respawnbyrazer.com
-DOMAIN-SUFFIX,rzr.to
+payload:
+  - DOMAIN-SUFFIX,razer.com
+  - DOMAIN-SUFFIX,razerapi.com
+  - DOMAIN-SUFFIX,razerofficial.com
+  - DOMAIN-SUFFIX,razersupport.com
+  - DOMAIN-SUFFIX,razersynapse.com
+  - DOMAIN-SUFFIX,razerzone.com
+  - DOMAIN-SUFFIX,razerzone.jp
+  - DOMAIN-SUFFIX,respawnbyrazer.com
+  - DOMAIN-SUFFIX,rzr.to

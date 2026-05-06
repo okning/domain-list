@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/sci-hub.txt
 # Name: sci-hub
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,sci-hub.ee
-DOMAIN-SUFFIX,sci-hub.it.nf
-DOMAIN-SUFFIX,sci-hub.mksa.top
-DOMAIN-SUFFIX,sci-hub.se
-DOMAIN-SUFFIX,sci-hub.st
-DOMAIN-SUFFIX,sci.hubg.org
+payload:
+  - DOMAIN-SUFFIX,sci-hub.ee
+  - DOMAIN-SUFFIX,sci-hub.it.nf
+  - DOMAIN-SUFFIX,sci-hub.mksa.top
+  - DOMAIN-SUFFIX,sci-hub.se
+  - DOMAIN-SUFFIX,sci-hub.st
+  - DOMAIN-SUFFIX,sci.hubg.org

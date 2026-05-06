@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/keep.txt
 # Name: keep
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,calorietech.com
-DOMAIN-SUFFIX,gotokeep.com
-DOMAIN-SUFFIX,keep.com
-DOMAIN-SUFFIX,keep.com.cn
-DOMAIN-SUFFIX,keepcdn.com
+payload:
+  - DOMAIN-SUFFIX,calorietech.com
+  - DOMAIN-SUFFIX,gotokeep.com
+  - DOMAIN-SUFFIX,keep.com
+  - DOMAIN-SUFFIX,keep.com.cn
+  - DOMAIN-SUFFIX,keepcdn.com

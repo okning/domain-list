@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/chinabroadnet.txt
 # Name: chinabroadnet
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 8
 
-DOMAIN-SUFFIX,10099.com.cn
-DOMAIN-SUFFIX,ahitv.com
-DOMAIN-SUFFIX,chn.cn
-DOMAIN-SUFFIX,cqccn.com
-DOMAIN-SUFFIX,gcable.com.cn
-DOMAIN-SUFFIX,isxtv.com
-DOMAIN-SUFFIX,sc96655.com
-DOMAIN-SUFFIX,sdgdwljt.com
+payload:
+  - DOMAIN-SUFFIX,10099.com.cn
+  - DOMAIN-SUFFIX,ahitv.com
+  - DOMAIN-SUFFIX,chn.cn
+  - DOMAIN-SUFFIX,cqccn.com
+  - DOMAIN-SUFFIX,gcable.com.cn
+  - DOMAIN-SUFFIX,isxtv.com
+  - DOMAIN-SUFFIX,sc96655.com
+  - DOMAIN-SUFFIX,sdgdwljt.com

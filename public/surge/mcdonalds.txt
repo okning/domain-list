@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/mcdonalds.txt
 # Name: mcdonalds
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 42
 
 DOMAIN-SUFFIX,4008-517-517.cn

@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/suning.txt
 # Name: suning
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,cnsuning.com
-DOMAIN-SUFFIX,suning.cn
-DOMAIN-SUFFIX,suning.com
-DOMAIN-SUFFIX,suningcloud.com
-DOMAIN-SUFFIX,suningestate.com
-DOMAIN-SUFFIX,suningholdings.com
+payload:
+  - DOMAIN-SUFFIX,cnsuning.com
+  - DOMAIN-SUFFIX,suning.cn
+  - DOMAIN-SUFFIX,suning.com
+  - DOMAIN-SUFFIX,suningcloud.com
+  - DOMAIN-SUFFIX,suningestate.com
+  - DOMAIN-SUFFIX,suningholdings.com

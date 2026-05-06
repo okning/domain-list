@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/ethereum.txt
 # Name: ethereum
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,devcon.org
-DOMAIN-SUFFIX,ethereum.foundation
-DOMAIN-SUFFIX,ethereum.org
-DOMAIN-SUFFIX,etherscan.io
+payload:
+  - DOMAIN-SUFFIX,devcon.org
+  - DOMAIN-SUFFIX,ethereum.foundation
+  - DOMAIN-SUFFIX,ethereum.org
+  - DOMAIN-SUFFIX,etherscan.io

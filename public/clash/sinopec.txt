@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/sinopec.txt
 # Name: sinopec
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,sinopec-usa.com
-DOMAIN-SUFFIX,sinopec.com
-DOMAIN-SUFFIX,sinopecgroup.com
-DOMAIN-SUFFIX,sinopecnews.com.cn
-DOMAIN-SUFFIX,sinopecsales.com
+payload:
+  - DOMAIN-SUFFIX,sinopec-usa.com
+  - DOMAIN-SUFFIX,sinopec.com
+  - DOMAIN-SUFFIX,sinopecgroup.com
+  - DOMAIN-SUFFIX,sinopecnews.com.cn
+  - DOMAIN-SUFFIX,sinopecsales.com

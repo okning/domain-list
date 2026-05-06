@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/dcard.txt
 # Name: dcard
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,dcard.cc
-DOMAIN-SUFFIX,dcard.io
-DOMAIN-SUFFIX,dcard.link
-DOMAIN-SUFFIX,dcard.tw
+payload:
+  - DOMAIN-SUFFIX,dcard.cc
+  - DOMAIN-SUFFIX,dcard.io
+  - DOMAIN-SUFFIX,dcard.link
+  - DOMAIN-SUFFIX,dcard.tw

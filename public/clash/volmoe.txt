@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/volmoe.txt
 # Name: volmoe
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 2
 
-DOMAIN-SUFFIX,mox.moe
-DOMAIN-SUFFIX,vol.moe
+payload:
+  - DOMAIN-SUFFIX,mox.moe
+  - DOMAIN-SUFFIX,vol.moe

@@ -1,19 +1,20 @@
 # URL: https://s.nosec.me/clash/dwion.txt
 # Name: dwion
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 14
 
-DOMAIN-SUFFIX,acadn.cn
-DOMAIN-SUFFIX,acadn.com
-DOMAIN-SUFFIX,bbbcdns.com
-DOMAIN-SUFFIX,dlgslb.cn
-DOMAIN-SUFFIX,dlgslb.net
-DOMAIN-SUFFIX,dwion.com
-DOMAIN-SUFFIX,fastcdn.com
-DOMAIN-SUFFIX,fastcdn.com.cn
-DOMAIN-SUFFIX,flxdns.cn
-DOMAIN-SUFFIX,flxdns.com
-DOMAIN-SUFFIX,globalcdn.cn
-DOMAIN-SUFFIX,mcadn.cn
-DOMAIN-SUFFIX,tlgslb.cn
-DOMAIN-SUFFIX,tlgslb.com
+payload:
+  - DOMAIN-SUFFIX,acadn.cn
+  - DOMAIN-SUFFIX,acadn.com
+  - DOMAIN-SUFFIX,bbbcdns.com
+  - DOMAIN-SUFFIX,dlgslb.cn
+  - DOMAIN-SUFFIX,dlgslb.net
+  - DOMAIN-SUFFIX,dwion.com
+  - DOMAIN-SUFFIX,fastcdn.com
+  - DOMAIN-SUFFIX,fastcdn.com.cn
+  - DOMAIN-SUFFIX,flxdns.cn
+  - DOMAIN-SUFFIX,flxdns.com
+  - DOMAIN-SUFFIX,globalcdn.cn
+  - DOMAIN-SUFFIX,mcadn.cn
+  - DOMAIN-SUFFIX,tlgslb.cn
+  - DOMAIN-SUFFIX,tlgslb.com

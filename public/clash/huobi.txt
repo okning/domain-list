@@ -1,15 +1,16 @@
 # URL: https://s.nosec.me/clash/huobi.txt
 # Name: huobi
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 10
 
-DOMAIN-SUFFIX,hbabit.com
-DOMAIN-SUFFIX,hbfile.net
-DOMAIN-SUFFIX,htx.com
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,huobi.me
-DOMAIN-SUFFIX,huobi.pro
-DOMAIN-SUFFIX,huobi.sc
-DOMAIN-SUFFIX,huobiasia.vip
-DOMAIN-SUFFIX,huobigroup.com
-DOMAIN-SUFFIX,huobitoken.com
+payload:
+  - DOMAIN-SUFFIX,hbabit.com
+  - DOMAIN-SUFFIX,hbfile.net
+  - DOMAIN-SUFFIX,htx.com
+  - DOMAIN-SUFFIX,huobi.com
+  - DOMAIN-SUFFIX,huobi.me
+  - DOMAIN-SUFFIX,huobi.pro
+  - DOMAIN-SUFFIX,huobi.sc
+  - DOMAIN-SUFFIX,huobiasia.vip
+  - DOMAIN-SUFFIX,huobigroup.com
+  - DOMAIN-SUFFIX,huobitoken.com

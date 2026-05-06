@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/meitu.txt
 # Name: meitu
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 3
 
-DOMAIN-SUFFIX,meitu.com
-DOMAIN-SUFFIX,meitudata.com
-DOMAIN-SUFFIX,meitustat.com
+payload:
+  - DOMAIN-SUFFIX,meitu.com
+  - DOMAIN-SUFFIX,meitudata.com
+  - DOMAIN-SUFFIX,meitustat.com

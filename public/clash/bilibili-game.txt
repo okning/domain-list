@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/bilibili-game.txt
 # Name: bilibili-game
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,bilibiligame.cn
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
+payload:
+  - DOMAIN-SUFFIX,bilibiligame.cn
+  - DOMAIN-SUFFIX,bilibiligame.co
+  - DOMAIN-SUFFIX,bilibiligame.net
+  - DOMAIN-SUFFIX,biligame.co
+  - DOMAIN-SUFFIX,biligame.com
+  - DOMAIN-SUFFIX,biligame.net

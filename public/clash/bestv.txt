@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/bestv.txt
 # Name: bestv
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 7
 
-DOMAIN-SUFFIX,bbtv.cn
-DOMAIN-SUFFIX,bestv.com.cn
-DOMAIN-SUFFIX,bestvcdn.cn
-DOMAIN-SUFFIX,bestvcdn.com
-DOMAIN-SUFFIX,bestvcdn.com.cn
-DOMAIN-SUFFIX,bestvcdn.net
-DOMAIN-SUFFIX,smgbb.cn
+payload:
+  - DOMAIN-SUFFIX,bbtv.cn
+  - DOMAIN-SUFFIX,bestv.com.cn
+  - DOMAIN-SUFFIX,bestvcdn.cn
+  - DOMAIN-SUFFIX,bestvcdn.com
+  - DOMAIN-SUFFIX,bestvcdn.com.cn
+  - DOMAIN-SUFFIX,bestvcdn.net
+  - DOMAIN-SUFFIX,smgbb.cn

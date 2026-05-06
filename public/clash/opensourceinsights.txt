@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/opensourceinsights.txt
 # Name: opensourceinsights
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 4
 
-DOMAIN-SUFFIX,deps.dev
-DOMAIN-SUFFIX,deps.info
-DOMAIN-SUFFIX,opensourceinsight.dev
-DOMAIN-SUFFIX,opensourceinsights.dev
+payload:
+  - DOMAIN-SUFFIX,deps.dev
+  - DOMAIN-SUFFIX,deps.info
+  - DOMAIN-SUFFIX,opensourceinsight.dev
+  - DOMAIN-SUFFIX,opensourceinsights.dev

@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/okjike.txt
 # Name: okjike
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 5
 
-DOMAIN-SUFFIX,jike.city
-DOMAIN-SUFFIX,jikecdn.com
-DOMAIN-SUFFIX,okjike.com
-DOMAIN-SUFFIX,okjk.co
-DOMAIN-SUFFIX,ruguoapp.com
+payload:
+  - DOMAIN-SUFFIX,jike.city
+  - DOMAIN-SUFFIX,jikecdn.com
+  - DOMAIN-SUFFIX,okjike.com
+  - DOMAIN-SUFFIX,okjk.co
+  - DOMAIN-SUFFIX,ruguoapp.com

@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/now.txt
 # Name: now
-# Updated: Wed, 06 May 2026 00:34:34 GMT
+# Updated: Wed, 06 May 2026 00:49:16 GMT
 # Total: 6
 
-DOMAIN-SUFFIX,now-ashare.com
-DOMAIN-SUFFIX,now-tv.com
-DOMAIN-SUFFIX,now.com
-DOMAIN-SUFFIX,now.com.hk
-DOMAIN-SUFFIX,nowe.com
-DOMAIN-SUFFIX,nowe.hk
+payload:
+  - DOMAIN-SUFFIX,now-ashare.com
+  - DOMAIN-SUFFIX,now-tv.com
+  - DOMAIN-SUFFIX,now.com
+  - DOMAIN-SUFFIX,now.com.hk
+  - DOMAIN-SUFFIX,nowe.com
+  - DOMAIN-SUFFIX,nowe.hk
