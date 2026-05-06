@@ -78,19 +78,21 @@ class Processor {
   private dumpClash(name: string, date: string, entries: Entry[]) {
     const lines: string[] = this.header("clash", name, date, entries.length);
 
+    lines.push("payload:");
+
     for (const entry of entries) {
       switch (entry.type) {
         case EntryType.DOMAIN:
-          lines.push(`DOMAIN-SUFFIX,${entry.value}`);
+          lines.push(`  - DOMAIN-SUFFIX,${entry.value}`);
           break;
         case EntryType.FULL_DOMAIN:
-          lines.push(`DOMAIN,${entry.value}`);
+          lines.push(`  - DOMAIN,${entry.value}`);
           break;
         case EntryType.KEYWORD:
-          lines.push(`DOMAIN-KEYWORD,${entry.value}`);
+          lines.push(`  - DOMAIN-KEYWORD,${entry.value}`);
           break;
         case EntryType.REGEXP:
-          lines.push(`DOMAIN-REGEXP,${entry.value}`);
+          lines.push(`  - DOMAIN-REGEXP,${entry.value}`);
           break;
       }
     }
