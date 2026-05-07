@@ -92,7 +92,7 @@ class Processor {
           lines.push(`  - DOMAIN-KEYWORD,${entry.value}`);
           break;
         case EntryType.REGEXP:
-          lines.push(`  - DOMAIN-REGEXP,${entry.value}`);
+          lines.push(`  - DOMAIN-REGEX,${entry.value}`);
           break;
       }
     }
