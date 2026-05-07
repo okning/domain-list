@@ -1,10 +1,10 @@
 # URL: https://s.nosec.me/clash/category-dev.txt
 # Name: category-dev
-# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Updated: Thu, 07 May 2026 10:21:30 GMT
 # Total: 568
 
 payload:
-  - DOMAIN-REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
+  - DOMAIN-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
   - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,accountkit.com
   - DOMAIN-SUFFIX,acpica.com

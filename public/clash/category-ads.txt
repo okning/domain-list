@@ -1,10 +1,10 @@
 # URL: https://s.nosec.me/clash/category-ads.txt
 # Name: category-ads
-# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Updated: Thu, 07 May 2026 10:21:30 GMT
 # Total: 822
 
 payload:
-  - DOMAIN-REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
+  - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
   - DOMAIN,1l-hit.mail.ru
   - DOMAIN,1l-hit.vkplay.ru
   - DOMAIN-SUFFIX,2mdn-cn.net

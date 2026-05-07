@@ -1,10 +1,10 @@
 # URL: https://s.nosec.me/clash/category-ai-chat-non-cn.txt
 # Name: category-ai-chat-non-cn
-# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Updated: Thu, 07 May 2026 10:21:30 GMT
 # Total: 150
 
 payload:
-  - DOMAIN-REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+  - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
   - DOMAIN-SUFFIX,agentclientprotocol.com
   - DOMAIN,ai.google.dev
   - DOMAIN-SUFFIX,ai.studio

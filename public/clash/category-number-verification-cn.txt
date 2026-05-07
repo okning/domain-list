@@ -1,10 +1,10 @@
 # URL: https://s.nosec.me/clash/category-number-verification-cn.txt
 # Name: category-number-verification-cn
-# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Updated: Thu, 07 May 2026 10:21:30 GMT
 # Total: 7
 
 payload:
-  - DOMAIN-REGEXP,^nis.+\.10010\.com$
+  - DOMAIN-REGEX,^nis.+\.10010\.com$
   - DOMAIN-SUFFIX,cmpassport.com
   - DOMAIN,enrichgw.10010.com
   - DOMAIN,hap.10010.com

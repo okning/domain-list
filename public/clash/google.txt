@@ -1,11 +1,11 @@
 # URL: https://s.nosec.me/clash/google.txt
 # Name: google
-# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Updated: Thu, 07 May 2026 10:21:30 GMT
 # Total: 882
 
 payload:
-  - DOMAIN-REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - DOMAIN-REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+  - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+  - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com

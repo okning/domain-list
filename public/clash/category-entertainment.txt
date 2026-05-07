@@ -1,22 +1,22 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Updated: Thu, 07 May 2026 10:21:30 GMT
 # Total: 1856
 
 payload:
-  - DOMAIN-REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
-  - DOMAIN-REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
-  - DOMAIN-REGEXP,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
-  - DOMAIN-REGEXP,(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
-  - DOMAIN-REGEXP,^[0-9]+vod-adaptive\.akamaized\.net$
-  - DOMAIN-REGEXP,^cdn-akamai-.+\.gog-services\.com$
-  - DOMAIN-REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-  - DOMAIN-REGEXP,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-  - DOMAIN-REGEXP,^epicgames-download\d\.akamaized\.net$
-  - DOMAIN-REGEXP,^ewcdn[0-9]+\.nowe\.com$
-  - DOMAIN-REGEXP,^gog-cdn-.+\.footprint\.net$
-  - DOMAIN-REGEXP,^hses[1-7]?\.akamaized\.net$
-  - DOMAIN-REGEXP,^images(-\d)?\.gog-statics\.com$
+  - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
+  - DOMAIN-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
+  - DOMAIN-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
+  - DOMAIN-REGEX,(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
+  - DOMAIN-REGEX,^[0-9]+vod-adaptive\.akamaized\.net$
+  - DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
+  - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+  - DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+  - DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
+  - DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$
+  - DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
+  - DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
+  - DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
   - DOMAIN-SUFFIX,100classicbooks.com
   - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,2025copy.com

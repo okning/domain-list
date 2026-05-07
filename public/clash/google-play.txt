@@ -1,11 +1,11 @@
 # URL: https://s.nosec.me/clash/google-play.txt
 # Name: google-play
-# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Updated: Thu, 07 May 2026 10:21:30 GMT
 # Total: 9
 
 payload:
-  - DOMAIN-REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - DOMAIN-REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+  - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+  - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - DOMAIN-SUFFIX,googleplay.com
   - DOMAIN-SUFFIX,play-fe.googleapis.com
   - DOMAIN-SUFFIX,play-games.googleusercontent.com

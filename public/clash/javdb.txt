@@ -1,11 +1,11 @@
 # URL: https://s.nosec.me/clash/javdb.txt
 # Name: javdb
-# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Updated: Thu, 07 May 2026 10:21:30 GMT
 # Total: 5
 
 payload:
   - DOMAIN-SUFFIX,jav.app
   - DOMAIN-SUFFIX,javdb.com
-  - DOMAIN-REGEXP,javdb\d+\.com$
+  - DOMAIN-REGEX,javdb\d+\.com$
   - DOMAIN-SUFFIX,jdbimgs.com
   - DOMAIN-SUFFIX,jdbstatic.com
