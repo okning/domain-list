@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 685
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 687
 
 payload:
   - DOMAIN-REGEXP,^.+-mihayo\.akamaized\.net$
@@ -205,6 +205,8 @@ payload:
   - DOMAIN-SUFFIX,ecukwai.com
   - DOMAIN-SUFFIX,edgesrv.com
   - DOMAIN-SUFFIX,edu4399.com
+  - DOMAIN,end-api.shallow.ink
+  - DOMAIN,end.shallow.ink
   - DOMAIN-SUFFIX,faloo.com
   - DOMAIN-SUFFIX,fanqienovel.com
   - DOMAIN-SUFFIX,fanqieopen.com

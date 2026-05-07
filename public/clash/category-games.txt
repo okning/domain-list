@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-games.txt
 # Name: category-games
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 1026
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 1029
 
 payload:
   - DOMAIN-REGEXP,^.+-mihayo\.akamaized\.net$
@@ -246,6 +246,8 @@ payload:
   - DOMAIN-SUFFIX,electronicarts.fr
   - DOMAIN-SUFFIX,embark-studios.com
   - DOMAIN-SUFFIX,embark.games
+  - DOMAIN,end-api.shallow.ink
+  - DOMAIN,end.shallow.ink
   - DOMAIN-SUFFIX,eneba.com
   - DOMAIN-SUFFIX,eneba.games
   - DOMAIN-SUFFIX,enlisted.net
@@ -827,6 +829,7 @@ payload:
   - DOMAIN-SUFFIX,superpapermario.com
   - DOMAIN-SUFFIX,supersmashbros.cn
   - DOMAIN-SUFFIX,supersmashbros.com.cn
+  - DOMAIN-SUFFIX,supr.cl
   - DOMAIN-SUFFIX,supremacy.com
   - DOMAIN-SUFFIX,supremacy.net
   - DOMAIN-SUFFIX,swjedifallenorder.com

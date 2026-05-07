@@ -1,13 +1,12 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Wed, 06 May 2026 00:49:16 GMT
+# Updated: Thu, 07 May 2026 00:36:10 GMT
 # Total: 7677
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 # REGEXP,^ewcdn[0-9]+\.nowe\.com$
-# REGEXP,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 DOMAIN-SUFFIX,01.org
@@ -5563,6 +5562,7 @@ DOMAIN-SUFFIX,onamae-desktop.com
 DOMAIN-SUFFIX,onamae-office.com
 DOMAIN-SUFFIX,onamae.com
 DOMAIN-SUFFIX,onbeatsbydresale.com
+DOMAIN-SUFFIX,ondigitalocean.com
 DOMAIN-SUFFIX,oneapi.com
 DOMAIN-SUFFIX,oneapi.io
 DOMAIN-SUFFIX,onedrive.co

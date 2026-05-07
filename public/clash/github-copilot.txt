@@ -1,7 +1,12 @@
 # URL: https://s.nosec.me/clash/github-copilot.txt
 # Name: github-copilot
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 1
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 6
 
 payload:
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,copilot-telemetry-service.githubusercontent.com
+  - DOMAIN,copilot-telemetry.githubusercontent.com
+  - DOMAIN,copilot-workspace.githubnext.com
+  - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN-SUFFIX,githubcopilot.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 873
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 874
 
 payload:
   - DOMAIN-REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -341,7 +341,8 @@ payload:
   - DOMAIN-SUFFIX,collector.xhamster.com
   - DOMAIN-SUFFIX,contentabc.com
   - DOMAIN-SUFFIX,contextual.media.net
-  - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+  - DOMAIN,copilot-telemetry-service.githubusercontent.com
+  - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN-SUFFIX,counter.yandex.ru
   - DOMAIN-SUFFIX,cpmstar.com
   - DOMAIN-SUFFIX,cpro.baidu.com

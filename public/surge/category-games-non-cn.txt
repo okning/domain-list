@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games-non-cn.txt
 # Name: category-games-non-cn
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 800
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 801
 
 # REGEXP,^cdn-akamai-.+\.gog-services\.com$
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
@@ -660,6 +660,7 @@ DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,superpapermario.com
 DOMAIN-SUFFIX,supersmashbros.cn
 DOMAIN-SUFFIX,supersmashbros.com.cn
+DOMAIN-SUFFIX,supr.cl
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
 DOMAIN-SUFFIX,swjedifallenorder.com

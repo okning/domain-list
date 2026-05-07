@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ai-non-cn.txt
 # Name: category-ai-non-cn
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 143
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 150
 
 payload:
   - DOMAIN-REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,antigravity-unleash.goog
   - DOMAIN-SUFFIX,antigravity.google
   - DOMAIN,antigravity.googleapis.com
+  - DOMAIN-SUFFIX,anythingllm.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,cerebras.ai
@@ -47,7 +48,12 @@ payload:
   - DOMAIN-SUFFIX,comfy.org
   - DOMAIN-SUFFIX,comfyci.org
   - DOMAIN-SUFFIX,comfyregistry.org
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,copilot-telemetry-service.githubusercontent.com
+  - DOMAIN,copilot-telemetry.githubusercontent.com
+  - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,crewai.com
   - DOMAIN-SUFFIX,crixet.com
@@ -121,6 +127,7 @@ payload:
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai
   - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,oystermercury.top
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,perplexity.com

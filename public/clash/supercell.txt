@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/supercell.txt
 # Name: supercell
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 21
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 22
 
 payload:
   - DOMAIN-SUFFIX,boombeach.com
@@ -25,3 +25,4 @@ payload:
   - DOMAIN-SUFFIX,supercellgames.com
   - DOMAIN-SUFFIX,supercellid.com
   - DOMAIN-SUFFIX,supercellstore.com
+  - DOMAIN-SUFFIX,supr.cl

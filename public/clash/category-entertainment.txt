@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 1855
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 1856
 
 payload:
   - DOMAIN-REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -1423,6 +1423,7 @@ payload:
   - DOMAIN-SUFFIX,superpapermario.com
   - DOMAIN-SUFFIX,supersmashbros.cn
   - DOMAIN-SUFFIX,supersmashbros.com.cn
+  - DOMAIN-SUFFIX,supr.cl
   - DOMAIN-SUFFIX,supremacy.com
   - DOMAIN-SUFFIX,supremacy.net
   - DOMAIN-SUFFIX,swjedifallenorder.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games-cn.txt
 # Name: category-games-cn
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 228
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 230
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,17roco.com
@@ -69,6 +69,8 @@ DOMAIN-SUFFIX,codm.com
 DOMAIN-SUFFIX,cowlevel.net
 DOMAIN-SUFFIX,dobest.com
 DOMAIN-SUFFIX,edu4399.com
+DOMAIN,end-api.shallow.ink
+DOMAIN,end.shallow.ink
 DOMAIN-SUFFIX,feihuo.com
 DOMAIN-SUFFIX,ffbuddy.com
 DOMAIN-SUFFIX,forevernine.com

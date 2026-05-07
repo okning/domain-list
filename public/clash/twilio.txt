@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/twilio.txt
+# Name: twilio
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 3
+
+payload:
+  - DOMAIN-SUFFIX,twilio.com
+  - DOMAIN-SUFFIX,twilio.jp
+  - DOMAIN-SUFFIX,tytch.com

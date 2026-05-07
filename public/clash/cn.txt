@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/cn.txt
 # Name: cn
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 5488
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 5489
 
 payload:
   - DOMAIN-REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -596,6 +596,7 @@ payload:
   - DOMAIN-SUFFIX,awemeugwave.com
   - DOMAIN-SUFFIX,awemeugwave.com
   - DOMAIN-SUFFIX,awstme.top
+  - DOMAIN-SUFFIX,azz.net
   - DOMAIN-SUFFIX,b23.tv
   - DOMAIN-SUFFIX,b2bgo.com
   - DOMAIN-SUFFIX,b2byao.com
@@ -1780,6 +1781,8 @@ payload:
   - DOMAIN-SUFFIX,emoriko.com
   - DOMAIN-SUFFIX,emr-volces.com
   - DOMAIN-SUFFIX,emumax.com
+  - DOMAIN,end-api.shallow.ink
+  - DOMAIN,end.shallow.ink
   - DOMAIN-SUFFIX,enterdesk.com
   - DOMAIN-SUFFIX,eoeandroid.com
   - DOMAIN-SUFFIX,eoffcn.com
@@ -1904,7 +1907,6 @@ payload:
   - DOMAIN-SUFFIX,flyme.com
   - DOMAIN-SUFFIX,flymeauto.com
   - DOMAIN-SUFFIX,fm365.com
-  - DOMAIN-SUFFIX,fm3838.com
   - DOMAIN-SUFFIX,fnjiasu.com
   - DOMAIN-SUFFIX,fnnas.com
   - DOMAIN-SUFFIX,fnnas.net
@@ -2428,6 +2430,7 @@ payload:
   - DOMAIN-SUFFIX,huoshanzhibo.com
   - DOMAIN-SUFFIX,huoshanzhibo.net
   - DOMAIN-SUFFIX,huoshanzhibo.net
+  - DOMAIN-SUFFIX,huotan.net
   - DOMAIN-SUFFIX,hupu.com
   - DOMAIN-SUFFIX,hupucdn.com
   - DOMAIN-SUFFIX,hupun.com
@@ -3103,7 +3106,6 @@ payload:
   - DOMAIN-SUFFIX,larksuiteimg-pre.com
   - DOMAIN-SUFFIX,larksuiteimg.com
   - DOMAIN-SUFFIX,larkvc.com
-  - DOMAIN-SUFFIX,larsonlimited.com
   - DOMAIN-SUFFIX,lascn.net
   - DOMAIN-SUFFIX,latepost.com
   - DOMAIN-SUFFIX,lawxp.com
@@ -5453,7 +5455,6 @@ payload:
   - DOMAIN-SUFFIX,znds.com
   - DOMAIN-SUFFIX,zofund.com
   - DOMAIN-SUFFIX,zongheng.com
-  - DOMAIN-SUFFIX,zoom3g.com
   - DOMAIN-SUFFIX,zpb365.com
   - DOMAIN-SUFFIX,zs-jlc.com
   - DOMAIN-SUFFIX,zsxq.com

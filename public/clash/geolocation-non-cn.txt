@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 25430
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 25449
 
 payload:
   - DOMAIN-REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -160,8 +160,6 @@ payload:
   - DOMAIN-REGEXP,^epicgames-download\d\.akamaized\.net$
   - DOMAIN-REGEXP,^ewcdn[0-9]+\.nowe\.com$
   - DOMAIN-REGEXP,^ewcdn[0-9]+\.nowe\.com$
-  - DOMAIN-REGEXP,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
-  - DOMAIN-REGEXP,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
   - DOMAIN-REGEXP,^gog-cdn-.+\.footprint\.net$
   - DOMAIN-REGEXP,^hses[1-7]?\.akamaized\.net$
   - DOMAIN-REGEXP,^images(-\d)?\.gog-statics\.com$
@@ -309,6 +307,8 @@ payload:
   - DOMAIN-SUFFIX,1classtube.com
   - DOMAIN-SUFFIX,1degree.com.au
   - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,1drv.ms
   - DOMAIN-SUFFIX,1drv.ms
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1inch.io
@@ -1898,6 +1898,7 @@ payload:
   - DOMAIN-SUFFIX,anypornsexxx.com
   - DOMAIN-SUFFIX,anysex.com
   - DOMAIN-SUFFIX,anyshemale.com
+  - DOMAIN-SUFFIX,anythingllm.com
   - DOMAIN-SUFFIX,anyxxx.me
   - DOMAIN-SUFFIX,anyxxx.pro
   - DOMAIN-SUFFIX,ao3.org
@@ -4776,6 +4777,7 @@ payload:
   - DOMAIN-SUFFIX,calgoncarbon-china.com
   - DOMAIN-SUFFIX,calgoncarbon.com
   - DOMAIN-SUFFIX,calgonit.com
+  - DOMAIN-SUFFIX,calibre-ebook.com
   - DOMAIN-SUFFIX,callabitch.org
   - DOMAIN-SUFFIX,callbackkiller.com
   - DOMAIN-SUFFIX,callersbane.com
@@ -11549,6 +11551,7 @@ payload:
   - DOMAIN-SUFFIX,ibooksauthor.com
   - DOMAIN-SUFFIX,ibradome.com
   - DOMAIN-SUFFIX,icashpassport.com.mx
+  - DOMAIN-SUFFIX,iccf.com
   - DOMAIN-SUFFIX,icegay.tv
   - DOMAIN-SUFFIX,icegaytube.tv
   - DOMAIN-SUFFIX,iceporn.com
@@ -13758,6 +13761,7 @@ payload:
   - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,liveauction.com
   - DOMAIN-SUFFIX,livecamclips.com
+  - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,livehdcams.com
   - DOMAIN-SUFFIX,livehdcams.com
@@ -16814,6 +16818,8 @@ payload:
   - DOMAIN-SUFFIX,onani-daisuki.com
   - DOMAIN-SUFFIX,onbeatsbydresale.com
   - DOMAIN-SUFFIX,oncars.in
+  - DOMAIN-SUFFIX,ondigitalocean.com
+  - DOMAIN-SUFFIX,ondigitalocean.com
   - DOMAIN-SUFFIX,one.one.one
   - DOMAIN-SUFFIX,one889.app
   - DOMAIN-SUFFIX,oneapi.com
@@ -16822,10 +16828,16 @@ payload:
   - DOMAIN-SUFFIX,oneapi.io
   - DOMAIN-SUFFIX,onedinesfree.com
   - DOMAIN-SUFFIX,onedrive.co
+  - DOMAIN-SUFFIX,onedrive.co
+  - DOMAIN-SUFFIX,onedrive.co.uk
   - DOMAIN-SUFFIX,onedrive.co.uk
   - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,onedrive.eu
   - DOMAIN-SUFFIX,onedrive.eu
   - DOMAIN-SUFFIX,onedrive.net
+  - DOMAIN-SUFFIX,onedrive.net
+  - DOMAIN-SUFFIX,onedrive.org
   - DOMAIN-SUFFIX,onedrive.org
   - DOMAIN-SUFFIX,onefifteen.net
   - DOMAIN-SUFFIX,onefifteen.org
@@ -16930,6 +16942,7 @@ payload:
   - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,opensourceinsight.dev
   - DOMAIN-SUFFIX,opensourceinsights.dev
+  - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,openssl.org
   - DOMAIN-SUFFIX,openstreetmap.com
   - DOMAIN-SUFFIX,openstreetmap.net
@@ -20718,6 +20731,7 @@ payload:
   - DOMAIN-SUFFIX,support-uber.com
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,supportfacebook.com
+  - DOMAIN-SUFFIX,supr.cl
   - DOMAIN-SUFFIX,supremacy.com
   - DOMAIN-SUFFIX,supremacy.net
   - DOMAIN-SUFFIX,sureporn.com
@@ -21764,6 +21778,8 @@ payload:
   - DOMAIN-SUFFIX,twidouga.net
   - DOMAIN-SUFFIX,twidouga.tv
   - DOMAIN-SUFFIX,twifuli.com
+  - DOMAIN-SUFFIX,twilio.com
+  - DOMAIN-SUFFIX,twilio.jp
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twinkboyfriends.tv
   - DOMAIN-SUFFIX,twinkspornos.com
@@ -21818,6 +21834,7 @@ payload:
   - DOMAIN-SUFFIX,typography.com
   - DOMAIN-SUFFIX,tyre-cadcam.com
   - DOMAIN-SUFFIX,tyrecadcam.com
+  - DOMAIN-SUFFIX,tytch.com
   - DOMAIN-SUFFIX,tytng189.com
   - DOMAIN-SUFFIX,tytporno.online
   - DOMAIN-SUFFIX,u.nu
@@ -21986,7 +22003,9 @@ payload:
   - DOMAIN-SUFFIX,userapi.ru
   - DOMAIN-SUFFIX,usercentrics.eu
   - DOMAIN-SUFFIX,usercontent.dev
+  - DOMAIN-SUFFIX,userdrive.org
   - DOMAIN-SUFFIX,userpxt.io
+  - DOMAIN-SUFFIX,usersdrive.com
   - DOMAIN-SUFFIX,usertrust.com
   - DOMAIN-SUFFIX,usvimosquito.com
   - DOMAIN-SUFFIX,usvimosquitoproject.com

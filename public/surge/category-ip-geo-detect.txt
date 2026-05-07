@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ip-geo-detect.txt
 # Name: category-ip-geo-detect
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 155
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 158
 
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,2ip.ru
@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,ipfind.io
 DOMAIN-SUFFIX,ipfinder.io
 DOMAIN-SUFFIX,ipgeo.vercel.app
 DOMAIN-SUFFIX,ipgeolocation.io
+DOMAIN-SUFFIX,ipify.cn
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipip.net
@@ -103,8 +104,10 @@ DOMAIN-SUFFIX,iproyal.com
 DOMAIN-SUFFIX,ipstack.com
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN-SUFFIX,ipv4-internet.yandex.net
+DOMAIN-SUFFIX,ipv4.internet.yandex.net
 DOMAIN,ipv6-check-perf.radar.cloudflare.com
 DOMAIN-SUFFIX,ipv6-internet.yandex.net
+DOMAIN-SUFFIX,ipv6.internet.yandex.net
 DOMAIN-SUFFIX,ipverify.com
 DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,ipwho.is

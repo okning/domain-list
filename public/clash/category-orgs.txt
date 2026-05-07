@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-orgs.txt
 # Name: category-orgs
-# Updated: Wed, 06 May 2026 00:49:16 GMT
-# Total: 121
+# Updated: Thu, 07 May 2026 00:36:10 GMT
+# Total: 122
 
 payload:
   - DOMAIN-SUFFIX,acousticbrainz.org
@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,grapheneos.social
   - DOMAIN-SUFFIX,grss-ieee.org
   - DOMAIN-SUFFIX,iana.org
+  - DOMAIN-SUFFIX,iccf.com
   - DOMAIN-SUFFIX,ieee-aess.org
   - DOMAIN-SUFFIX,ieee-cas.org
   - DOMAIN-SUFFIX,ieee-ccnc.org

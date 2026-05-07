@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Wed, 06 May 2026 00:49:16 GMT
+# Updated: Thu, 07 May 2026 00:36:10 GMT
 # Total: 6895
 
 payload:
@@ -723,6 +723,7 @@ payload:
   - DOMAIN-SUFFIX,awsstatic.cn
   - DOMAIN-SUFFIX,awstme.top
   - DOMAIN-SUFFIX,azkr2.cn
+  - DOMAIN-SUFFIX,azz.net
   - DOMAIN-SUFFIX,b23.tv
   - DOMAIN-SUFFIX,b2bgo.com
   - DOMAIN-SUFFIX,b2byao.com
@@ -2275,6 +2276,8 @@ payload:
   - DOMAIN-SUFFIX,emoriko.com
   - DOMAIN-SUFFIX,emr-volces.com
   - DOMAIN-SUFFIX,emumax.com
+  - DOMAIN,end-api.shallow.ink
+  - DOMAIN,end.shallow.ink
   - DOMAIN-SUFFIX,enterdesk.com
   - DOMAIN-SUFFIX,eoeandroid.com
   - DOMAIN-SUFFIX,eoffcn.com
@@ -2437,7 +2440,6 @@ payload:
   - DOMAIN-SUFFIX,flyme.com
   - DOMAIN-SUFFIX,flymeauto.com
   - DOMAIN-SUFFIX,fm365.com
-  - DOMAIN-SUFFIX,fm3838.com
   - DOMAIN-SUFFIX,fnjiasu.com
   - DOMAIN-SUFFIX,fnnas.com
   - DOMAIN-SUFFIX,fnnas.net
@@ -3104,6 +3106,7 @@ payload:
   - DOMAIN-SUFFIX,huoshanzhibo.com
   - DOMAIN-SUFFIX,huoshanzhibo.net
   - DOMAIN-SUFFIX,huoshanzhibo.net
+  - DOMAIN-SUFFIX,huotan.net
   - DOMAIN-SUFFIX,hupu.com
   - DOMAIN-SUFFIX,hupucdn.com
   - DOMAIN-SUFFIX,hupun.com
@@ -3912,7 +3915,6 @@ payload:
   - DOMAIN-SUFFIX,larksuiteimg-pre.com
   - DOMAIN-SUFFIX,larksuiteimg.com
   - DOMAIN-SUFFIX,larkvc.com
-  - DOMAIN-SUFFIX,larsonlimited.com
   - DOMAIN-SUFFIX,las.ac.cn
   - DOMAIN-SUFFIX,lascn.net
   - DOMAIN-SUFFIX,latepost.com
@@ -6848,8 +6850,6 @@ payload:
   - DOMAIN-SUFFIX,zol-img.com.cn
   - DOMAIN-SUFFIX,zol.com.cn
   - DOMAIN-SUFFIX,zongheng.com
-  - DOMAIN-SUFFIX,zoom3g.com
-  - DOMAIN-SUFFIX,zoomyou.cn
   - DOMAIN-SUFFIX,zpb365.com
   - DOMAIN-SUFFIX,zqrb.cn
   - DOMAIN-SUFFIX,zs-jlc.com
