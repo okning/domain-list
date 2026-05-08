@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/twilio.txt
 # Name: twilio
-# Updated: Thu, 07 May 2026 10:21:30 GMT
+# Updated: Fri, 08 May 2026 00:36:18 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,twilio.com
