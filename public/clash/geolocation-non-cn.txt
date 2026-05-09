@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Fri, 08 May 2026 00:36:18 GMT
-# Total: 25449
+# Updated: Sat, 09 May 2026 00:37:25 GMT
+# Total: 25450
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -22772,6 +22772,7 @@ payload:
   - DOMAIN-SUFFIX,vodafone.com.tr
   - DOMAIN-SUFFIX,vodafone.de
   - DOMAIN-SUFFIX,vodafone.it
+  - DOMAIN-SUFFIX,vodafone.nl
   - DOMAIN-SUFFIX,vokevr.com
   - DOMAIN-SUFFIX,vol.moe
   - DOMAIN-SUFFIX,volvo

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-cas.txt
 # Name: category-cas
-# Updated: Fri, 08 May 2026 00:36:18 GMT
-# Total: 437
+# Updated: Sat, 09 May 2026 00:37:25 GMT
+# Total: 438
 
 payload:
   - DOMAIN-SUFFIX,accv.es
@@ -268,6 +268,7 @@ payload:
   - DOMAIN-SUFFIX,vodafone.com.tr
   - DOMAIN-SUFFIX,vodafone.de
   - DOMAIN-SUFFIX,vodafone.it
+  - DOMAIN-SUFFIX,vodafone.nl
   - DOMAIN-SUFFIX,vzw.com
   - DOMAIN-SUFFIX,wisecoin.com
   - DOMAIN-SUFFIX,wiseid.com

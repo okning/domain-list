@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/github-copilot.txt
 # Name: github-copilot
-# Updated: Fri, 08 May 2026 00:36:18 GMT
+# Updated: Sat, 09 May 2026 00:37:25 GMT
 # Total: 6
 
 DOMAIN,copilot-proxy.githubusercontent.com
