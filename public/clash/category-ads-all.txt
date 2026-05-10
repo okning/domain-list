@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Sat, 09 May 2026 00:37:25 GMT
-# Total: 874
+# Updated: Sun, 10 May 2026 00:37:40 GMT
+# Total: 881
 
 payload:
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,1rx.io
   - DOMAIN-SUFFIX,2mdn-cn.net
   - DOMAIN-SUFFIX,2mdn.net
+  - DOMAIN-SUFFIX,4008-517-517.cn
   - DOMAIN-SUFFIX,51.la
   - DOMAIN-SUFFIX,51y5.net
   - DOMAIN-SUFFIX,7box.vip
@@ -530,6 +531,7 @@ payload:
   - DOMAIN,log3-applog.fqnovel.com
   - DOMAIN,log5-applog-hl.fqnovel.com
   - DOMAIN,log5-applog.fqnovel.com
+  - DOMAIN-SUFFIX,logger.qmai.cn
   - DOMAIN-SUFFIX,logs.amap.com
   - DOMAIN-SUFFIX,logs.chelaile.net.cn
   - DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
@@ -550,6 +552,9 @@ payload:
   - DOMAIN,mc.yandex.net
   - DOMAIN-SUFFIX,mc.yandex.ru
   - DOMAIN,mc.yango.com
+  - DOMAIN-SUFFIX,mcd.cn
+  - DOMAIN-SUFFIX,mcdchina.net
+  - DOMAIN-SUFFIX,mcdonalds.com.cn
   - DOMAIN-SUFFIX,mcs.snssdk.com
   - DOMAIN-SUFFIX,mdt.qq.com
   - DOMAIN-SUFFIX,mediav.com
@@ -808,6 +813,8 @@ payload:
   - DOMAIN-SUFFIX,tracker.my.com
   - DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
   - DOMAIN-SUFFIX,tracking.miui.com
+  - DOMAIN-SUFFIX,trackingprd.hwwt8.com
+  - DOMAIN-SUFFIX,trackserver.shuxinyc.com
   - DOMAIN-SUFFIX,trafficfactory.biz
   - DOMAIN-SUFFIX,tsyndicate.com
   - DOMAIN-SUFFIX,tubemogul.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-social-media-non-cn.txt
 # Name: category-social-media-non-cn
-# Updated: Sat, 09 May 2026 00:37:25 GMT
-# Total: 598
+# Updated: Sun, 10 May 2026 00:37:40 GMT
+# Total: 606
 
 payload:
   - DOMAIN-SUFFIX,9ineverse.com
@@ -499,7 +499,15 @@ payload:
   - DOMAIN-SUFFIX,nextstop.com
   - DOMAIN-SUFFIX,nijimiss.moe
   - DOMAIN-SUFFIX,odkl.ru
+  - DOMAIN-SUFFIX,odnoklasniki.by
+  - DOMAIN-SUFFIX,odnoklasniki.ua
+  - DOMAIN-SUFFIX,odnoklassniki.am
+  - DOMAIN-SUFFIX,odnoklassniki.by
+  - DOMAIN-SUFFIX,odnoklassniki.co.ee
+  - DOMAIN-SUFFIX,odnoklassniki.eu
+  - DOMAIN-SUFFIX,odnoklassniki.lv
   - DOMAIN-SUFFIX,odnoklassniki.ru
+  - DOMAIN-SUFFIX,odnoklassniki.tj
   - DOMAIN-SUFFIX,oekakiskey.com
   - DOMAIN-SUFFIX,ok.me
   - DOMAIN-SUFFIX,ok.ru

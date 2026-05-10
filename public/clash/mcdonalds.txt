@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/mcdonalds.txt
 # Name: mcdonalds
-# Updated: Sat, 09 May 2026 00:37:25 GMT
-# Total: 42
+# Updated: Sun, 10 May 2026 00:37:40 GMT
+# Total: 43
 
 payload:
   - DOMAIN-SUFFIX,4008-517-517.cn
@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,mcd-holdings.co.jp
   - DOMAIN-SUFFIX,mcd.cn
   - DOMAIN-SUFFIX,mcd.com
+  - DOMAIN-SUFFIX,mcdchina.net
   - DOMAIN-SUFFIX,mcdelivery.co.id
   - DOMAIN-SUFFIX,mcdelivery.co.in
   - DOMAIN-SUFFIX,mcdelivery.co.kr

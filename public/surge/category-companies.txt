@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Sat, 09 May 2026 00:37:25 GMT
-# Total: 7677
+# Updated: Sun, 10 May 2026 00:37:40 GMT
+# Total: 7689
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -4588,6 +4588,7 @@ DOMAIN-SUFFIX,jkbeats.com
 DOMAIN-SUFFIX,jos.com
 DOMAIN-SUFFIX,jsati.com
 DOMAIN-SUFFIX,jsatmobile.com
+DOMAIN-SUFFIX,justveryok.com
 DOMAIN-SUFFIX,jwide.co.kr
 DOMAIN-SUFFIX,jword.jp
 DOMAIN-SUFFIX,jwt.ms
@@ -4663,6 +4664,7 @@ DOMAIN-SUFFIX,kaydara.com
 DOMAIN-SUFFIX,keepyourcad.com
 DOMAIN-SUFFIX,keezmovies.com
 DOMAIN-SUFFIX,kemptechnologies.com
+DOMAIN-SUFFIX,keyboardmen.com
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,keytransparency.com
 DOMAIN-SUFFIX,keytransparency.foo
@@ -5524,7 +5526,15 @@ DOMAIN-SUFFIX,oculusforbusiness.com
 DOMAIN-SUFFIX,oculusrift.com
 DOMAIN-SUFFIX,oculusvr.com
 DOMAIN-SUFFIX,odkl.ru
+DOMAIN-SUFFIX,odnoklasniki.by
+DOMAIN-SUFFIX,odnoklasniki.ua
+DOMAIN-SUFFIX,odnoklassniki.am
+DOMAIN-SUFFIX,odnoklassniki.by
+DOMAIN-SUFFIX,odnoklassniki.co.ee
+DOMAIN-SUFFIX,odnoklassniki.eu
+DOMAIN-SUFFIX,odnoklassniki.lv
 DOMAIN-SUFFIX,odnoklassniki.ru
+DOMAIN-SUFFIX,odnoklassniki.tj
 DOMAIN-SUFFIX,offerairjordanlebron.com
 DOMAIN-SUFFIX,office
 DOMAIN-SUFFIX,office.com
@@ -5877,6 +5887,7 @@ DOMAIN-SUFFIX,qwant.de
 DOMAIN-SUFFIX,qwant.fr
 DOMAIN-SUFFIX,qwant.it
 DOMAIN-SUFFIX,qwapi.com
+DOMAIN-SUFFIX,rabbitcounter.com
 DOMAIN-SUFFIX,rabota.by
 DOMAIN-SUFFIX,radeon.com
 DOMAIN-SUFFIX,radian6.com
@@ -6027,6 +6038,7 @@ DOMAIN-SUFFIX,sankie.net
 DOMAIN-SUFFIX,sanvaras.com
 DOMAIN-SUFFIX,savethedate.foo
 DOMAIN-SUFFIX,savoycomputing.com
+DOMAIN-SUFFIX,sayeasy.eu
 DOMAIN-SUFFIX,saynow.com
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,scaleform.com

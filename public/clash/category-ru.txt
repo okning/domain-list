@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ru.txt
 # Name: category-ru
-# Updated: Sat, 09 May 2026 00:37:25 GMT
-# Total: 584
+# Updated: Sun, 10 May 2026 00:37:40 GMT
+# Total: 597
 
 payload:
   - DOMAIN-SUFFIX,24h.tv
@@ -205,6 +205,7 @@ payload:
   - DOMAIN-SUFFIX,jivochat.ng
   - DOMAIN-SUFFIX,jivosite.com
   - DOMAIN-SUFFIX,jump.taxi
+  - DOMAIN-SUFFIX,justveryok.com
   - DOMAIN-SUFFIX,kaspersky-labs.com
   - DOMAIN-SUFFIX,kaspersky.be
   - DOMAIN-SUFFIX,kaspersky.ca
@@ -241,6 +242,7 @@ payload:
   - DOMAIN-SUFFIX,kaspersky.ro
   - DOMAIN-SUFFIX,kaspersky.rs
   - DOMAIN-SUFFIX,kaspersky.se
+  - DOMAIN-SUFFIX,keyboardmen.com
   - DOMAIN-SUFFIX,kinescopecdn.net
   - DOMAIN-SUFFIX,kinorium.com
   - DOMAIN-SUFFIX,knightspeak.com
@@ -294,6 +296,14 @@ payload:
   - DOMAIN-SUFFIX,neon.click
   - DOMAIN-SUFFIX,netmonet.co
   - DOMAIN-SUFFIX,ngenix.net
+  - DOMAIN-SUFFIX,odnoklasniki.by
+  - DOMAIN-SUFFIX,odnoklasniki.ua
+  - DOMAIN-SUFFIX,odnoklassniki.am
+  - DOMAIN-SUFFIX,odnoklassniki.by
+  - DOMAIN-SUFFIX,odnoklassniki.co.ee
+  - DOMAIN-SUFFIX,odnoklassniki.eu
+  - DOMAIN-SUFFIX,odnoklassniki.lv
+  - DOMAIN-SUFFIX,odnoklassniki.tj
   - DOMAIN-SUFFIX,ognihome.com
   - DOMAIN-SUFFIX,ok.me
   - DOMAIN-SUFFIX,okko.sport
@@ -337,6 +347,8 @@ payload:
   - DOMAIN-SUFFIX,promodj.com
   - DOMAIN-SUFFIX,psk
   - DOMAIN-SUFFIX,pushgrow.io
+  - DOMAIN-SUFFIX,pz.help
+  - DOMAIN-SUFFIX,rabbitcounter.com
   - DOMAIN-SUFFIX,rabota.by
   - DOMAIN-SUFFIX,restream-media.net
   - DOMAIN-SUFFIX,restream-media.net
@@ -356,6 +368,7 @@ payload:
   - DOMAIN-SUFFIX,saas-support.com
   - DOMAIN-SUFFIX,safeliner.tech
   - DOMAIN-SUFFIX,sage-observability.tech
+  - DOMAIN-SUFFIX,sayeasy.eu
   - DOMAIN-SUFFIX,sber-bank.by
   - DOMAIN-SUFFIX,sber.pro
   - DOMAIN-SUFFIX,sberauto.com
