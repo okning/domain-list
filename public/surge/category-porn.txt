@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-porn.txt
 # Name: category-porn
-# Updated: Sun, 10 May 2026 00:37:40 GMT
-# Total: 6657
+# Updated: Mon, 11 May 2026 00:38:18 GMT
+# Total: 6658
 
 # REGEXP,(^|\.)[1-5]gaoap\.com$
 # REGEXP,(^|\.)[1-9]+aipai\.(com|net)$
@@ -3057,6 +3057,7 @@ DOMAIN-SUFFIX,javdoe.to
 DOMAIN-SUFFIX,javdove.com
 DOMAIN-SUFFIX,javdove8.xyz
 DOMAIN-SUFFIX,javextreme.net
+DOMAIN-SUFFIX,javfc2.xyz
 DOMAIN-SUFFIX,javfilms.com
 DOMAIN-SUFFIX,javfor.me
 DOMAIN-SUFFIX,javforme.ninja

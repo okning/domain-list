@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/embark.txt
 # Name: embark
-# Updated: Sun, 10 May 2026 00:37:40 GMT
+# Updated: Mon, 11 May 2026 00:38:18 GMT
 # Total: 4
 
 payload:
