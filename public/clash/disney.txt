@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/disney.txt
 # Name: disney
-# Updated: Mon, 11 May 2026 00:38:18 GMT
+# Updated: Tue, 12 May 2026 00:35:40 GMT
 # Total: 157
 
 payload:

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Mon, 11 May 2026 00:38:18 GMT
+# Updated: Tue, 12 May 2026 00:35:40 GMT
 # Total: 881
 
 # REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

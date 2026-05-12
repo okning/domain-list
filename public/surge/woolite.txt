@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/woolite.txt
 # Name: woolite
-# Updated: Mon, 11 May 2026 00:38:18 GMT
+# Updated: Tue, 12 May 2026 00:35:40 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,woolite.ca
