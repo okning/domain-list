@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/tencent.txt
 # Name: tencent
-# Updated: Tue, 12 May 2026 00:35:40 GMT
-# Total: 469
+# Updated: Wed, 13 May 2026 00:39:33 GMT
+# Total: 470
 
 payload:
   - DOMAIN-SUFFIX,17roco.com
@@ -452,6 +452,7 @@ payload:
   - DOMAIN-SUFFIX,wetvinfo.com
   - DOMAIN-SUFFIX,weui.io
   - DOMAIN-SUFFIX,wework-studio.com
+  - DOMAIN-SUFFIX,wting.info
   - DOMAIN-SUFFIX,wxcloudrun.com
   - DOMAIN-SUFFIX,wxgateway.com
   - DOMAIN-SUFFIX,wxlivecdn.com

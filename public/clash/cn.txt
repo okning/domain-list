@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/cn.txt
 # Name: cn
-# Updated: Tue, 12 May 2026 00:35:40 GMT
-# Total: 5499
+# Updated: Wed, 13 May 2026 00:39:33 GMT
+# Total: 5520
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -332,6 +332,7 @@ payload:
   - DOMAIN-SUFFIX,999d.com
   - DOMAIN-SUFFIX,99danji.com
   - DOMAIN-SUFFIX,99fund.com
+  - DOMAIN-SUFFIX,99jiasu.net
   - DOMAIN-SUFFIX,99uri.com
   - DOMAIN-SUFFIX,9ht.com
   - DOMAIN-SUFFIX,9xgame.com
@@ -583,6 +584,7 @@ payload:
   - DOMAIN-SUFFIX,asktug.com
   - DOMAIN-SUFFIX,astral-vector.com
   - DOMAIN-SUFFIX,atatech.org
+  - DOMAIN-SUFFIX,atianqi.com
   - DOMAIN-SUFFIX,autohome.com
   - DOMAIN-SUFFIX,autohome.tel
   - DOMAIN-SUFFIX,autonavi.com
@@ -652,6 +654,8 @@ payload:
   - DOMAIN-SUFFIX,baofeng.net
   - DOMAIN-SUFFIX,baomitu.com
   - DOMAIN-SUFFIX,baoxianshichang.com
+  - DOMAIN-SUFFIX,baozou.com
+  - DOMAIN-SUFFIX,baozoumanhua.com
   - DOMAIN-SUFFIX,baseopendev.com
   - DOMAIN-SUFFIX,batchat.com
   - DOMAIN-SUFFIX,battlecare.net
@@ -1111,6 +1115,7 @@ payload:
   - DOMAIN-SUFFIX,chinaaet.com
   - DOMAIN-SUFFIX,chinaamc.com
   - DOMAIN-SUFFIX,chinabooktrading.com
+  - DOMAIN-SUFFIX,chinabyte.com
   - DOMAIN-SUFFIX,chinacache.com
   - DOMAIN-SUFFIX,chinacache.net
   - DOMAIN-SUFFIX,chinachugui.com
@@ -1129,6 +1134,7 @@ payload:
   - DOMAIN-SUFFIX,chinanews.com
   - DOMAIN-SUFFIX,chinaott.com
   - DOMAIN-SUFFIX,chinapay.com
+  - DOMAIN-SUFFIX,chinapost-life.com
   - DOMAIN-SUFFIX,chinapp.net
   - DOMAIN-SUFFIX,chinapubmed.net
   - DOMAIN-SUFFIX,chinaso.com
@@ -1148,6 +1154,7 @@ payload:
   - DOMAIN-SUFFIX,chinesemooc.org
   - DOMAIN-SUFFIX,chiphell.com
   - DOMAIN-SUFFIX,chndoi.org
+  - DOMAIN-SUFFIX,chnppmuseum.com
   - DOMAIN-SUFFIX,chntel.com
   - DOMAIN-SUFFIX,chongbuluo.com
   - DOMAIN-SUFFIX,chongdiantou.com
@@ -1166,7 +1173,7 @@ payload:
   - DOMAIN-SUFFIX,chushi.cool
   - DOMAIN-SUFFIX,chushou.tv
   - DOMAIN-SUFFIX,chuyu.me
-  - DOMAIN-SUFFIX,cibntv.net
+  - DOMAIN-SUFFIX,cibn.cc
   - DOMAIN-SUFFIX,cibntv.net
   - DOMAIN-SUFFIX,cicc.com
   - DOMAIN-SUFFIX,ciccwm.com
@@ -1314,6 +1321,7 @@ payload:
   - DOMAIN-SUFFIX,cnlaw.net
   - DOMAIN-SUFFIX,cnmooc.org
   - DOMAIN-SUFFIX,cnmstl.net
+  - DOMAIN-SUFFIX,cnpsec.com
   - DOMAIN-SUFFIX,cnsciedu.com
   - DOMAIN-SUFFIX,cnstock.com
   - DOMAIN-SUFFIX,cnsuning.com
@@ -1419,6 +1427,7 @@ payload:
   - DOMAIN-SUFFIX,ctripteam.com
   - DOMAIN-SUFFIX,ctsbw.com
   - DOMAIN-SUFFIX,ctsec.com
+  - DOMAIN-SUFFIX,ctvpost.com
   - DOMAIN-SUFFIX,ctxcdn.com
   - DOMAIN-SUFFIX,ctxcdn.net
   - DOMAIN-SUFFIX,ctxirang.com
@@ -1822,6 +1831,8 @@ payload:
   - DOMAIN-SUFFIX,fangxiaoer.com
   - DOMAIN-SUFFIX,fanli.com
   - DOMAIN-SUFFIX,fanmingming.com
+  - DOMAIN-SUFFIX,fanqiecopyright.com
+  - DOMAIN-SUFFIX,fanqiecopyright.com
   - DOMAIN-SUFFIX,fanqienovel.com
   - DOMAIN-SUFFIX,fanqienovel.com
   - DOMAIN-SUFFIX,fanqieopen.com
@@ -1935,6 +1946,8 @@ payload:
   - DOMAIN-SUFFIX,fqnovelstatic.com
   - DOMAIN-SUFFIX,fqnovelvod.com
   - DOMAIN-SUFFIX,fqnovelvod.com
+  - DOMAIN-SUFFIX,fqopenplatform.com
+  - DOMAIN-SUFFIX,fqopenplatform.com
   - DOMAIN-SUFFIX,freebuf.com
   - DOMAIN-SUFFIX,freshhema.com
   - DOMAIN-SUFFIX,freshippo.com
@@ -2366,6 +2379,7 @@ payload:
   - DOMAIN-SUFFIX,huaban.com
   - DOMAIN-SUFFIX,huabanimg.com
   - DOMAIN-SUFFIX,huafengaw.com
+  - DOMAIN-SUFFIX,huajiao.com
   - DOMAIN-SUFFIX,huajingsec.com
   - DOMAIN-SUFFIX,huangyuhui.net
   - DOMAIN-SUFFIX,huanleguang.com
@@ -2916,6 +2930,7 @@ payload:
   - DOMAIN-SUFFIX,kaipuyun.com
   - DOMAIN-SUFFIX,kaipuyun.net
   - DOMAIN-SUFFIX,kaixin001.com
+  - DOMAIN-SUFFIX,kajicam.com
   - DOMAIN-SUFFIX,kameng98.com
   - DOMAIN-SUFFIX,kanbox.com
   - DOMAIN-SUFFIX,kanimg.com
@@ -3696,6 +3711,7 @@ payload:
   - DOMAIN-SUFFIX,pearvideo.com
   - DOMAIN-SUFFIX,peccn.com
   - DOMAIN-SUFFIX,pengyoudewu.com
+  - DOMAIN-SUFFIX,peopleapp.com
   - DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
   - DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
   - DOMAIN-SUFFIX,pglstatp-toutiao-b.com
@@ -3754,6 +3770,7 @@ payload:
   - DOMAIN-SUFFIX,privateapi.xyz
   - DOMAIN-SUFFIX,proximabeta.com
   - DOMAIN-SUFFIX,proximabeta.com
+  - DOMAIN-SUFFIX,psbc.com
   - DOMAIN-SUFFIX,psbc.com
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,puata.info
@@ -4626,6 +4643,8 @@ payload:
   - DOMAIN-SUFFIX,ugslb2.net
   - DOMAIN-SUFFIX,uhasadmin.com
   - DOMAIN-SUFFIX,uiwow.com
+  - DOMAIN-SUFFIX,ule.com
+  - DOMAIN-SUFFIX,ulecdn.com
   - DOMAIN-SUFFIX,ulikecam.com
   - DOMAIN-SUFFIX,ultracachenode.com
   - DOMAIN-SUFFIX,ultracachenode.com
@@ -4959,6 +4978,8 @@ payload:
   - DOMAIN-SUFFIX,wsukwai.com
   - DOMAIN-SUFFIX,wswebcdn.com
   - DOMAIN-SUFFIX,wswebpic.com
+  - DOMAIN-SUFFIX,wting.info
+  - DOMAIN-SUFFIX,wting.info
   - DOMAIN-SUFFIX,wtown.com
   - DOMAIN-SUFFIX,wtzw.com
   - DOMAIN-SUFFIX,wukong.com

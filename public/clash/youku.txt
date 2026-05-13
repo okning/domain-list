@@ -1,10 +1,9 @@
 # URL: https://s.nosec.me/clash/youku.txt
 # Name: youku
-# Updated: Tue, 12 May 2026 00:35:40 GMT
-# Total: 6
+# Updated: Wed, 13 May 2026 00:39:33 GMT
+# Total: 5
 
 payload:
-  - DOMAIN-SUFFIX,cibntv.net
   - DOMAIN-SUFFIX,kumiao.com
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,soku.com

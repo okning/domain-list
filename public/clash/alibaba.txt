@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/alibaba.txt
 # Name: alibaba
-# Updated: Tue, 12 May 2026 00:35:40 GMT
-# Total: 312
+# Updated: Wed, 13 May 2026 00:39:33 GMT
+# Total: 311
 
 payload:
   - DOMAIN-SUFFIX,1688.com
@@ -121,7 +121,6 @@ payload:
   - DOMAIN-SUFFIX,cainiaoyizhan.com
   - DOMAIN-SUFFIX,cdngslb.com
   - DOMAIN-SUFFIX,cheng.xin
-  - DOMAIN-SUFFIX,cibntv.net
   - DOMAIN-SUFFIX,cloudeagle.cn
   - DOMAIN-SUFFIX,cnzz.com
   - DOMAIN-SUFFIX,cueme.cn

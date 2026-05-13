@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/fqnovel.txt
 # Name: fqnovel
-# Updated: Tue, 12 May 2026 00:35:40 GMT
-# Total: 37
+# Updated: Wed, 13 May 2026 00:39:33 GMT
+# Total: 39
 
 payload:
   - DOMAIN-SUFFIX,activity-zhendingtech.com
@@ -10,6 +10,7 @@ payload:
   - DOMAIN,ads5-normal-hl.zijieapi.com
   - DOMAIN,ads5-normal.zijieapi.com
   - DOMAIN-SUFFIX,changdunovel.com
+  - DOMAIN-SUFFIX,fanqiecopyright.com
   - DOMAIN-SUFFIX,fanqienovel.com
   - DOMAIN-SUFFIX,fanqieopen.com
   - DOMAIN-SUFFIX,fanqieopenpic.com
@@ -26,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,fqnovelpic.com
   - DOMAIN-SUFFIX,fqnovelstatic.com
   - DOMAIN-SUFFIX,fqnovelvod.com
+  - DOMAIN-SUFFIX,fqopenplatform.com
   - DOMAIN-SUFFIX,ihaohaoxuexi.com
   - DOMAIN-SUFFIX,muyewx.com
   - DOMAIN-SUFFIX,novelfm.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/bytedance.txt
 # Name: bytedance
-# Updated: Tue, 12 May 2026 00:35:40 GMT
-# Total: 756
+# Updated: Wed, 13 May 2026 00:39:33 GMT
+# Total: 758
 
 DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,99uri.cn
@@ -252,6 +252,7 @@ DOMAIN-SUFFIX,ecombdstatic.com
 DOMAIN-SUFFIX,emr-volces.com
 DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,falconsending.com
+DOMAIN-SUFFIX,fanqiecopyright.com
 DOMAIN-SUFFIX,fanqienovel.com
 DOMAIN-SUFFIX,fanqieopen.com
 DOMAIN-SUFFIX,fanqieopenpic.com
@@ -302,6 +303,7 @@ DOMAIN-SUFFIX,fqnovelop.com
 DOMAIN-SUFFIX,fqnovelpic.com
 DOMAIN-SUFFIX,fqnovelstatic.com
 DOMAIN-SUFFIX,fqnovelvod.com
+DOMAIN-SUFFIX,fqopenplatform.com
 DOMAIN-SUFFIX,gcloudcache.com
 DOMAIN-SUFFIX,getfeishu.cn
 DOMAIN-SUFFIX,getfeishu.com
