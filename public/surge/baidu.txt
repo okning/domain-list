@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/baidu.txt
 # Name: baidu
-# Updated: Wed, 13 May 2026 00:39:33 GMT
+# Updated: Thu, 14 May 2026 00:41:02 GMT
 # Total: 82
 
 DOMAIN-SUFFIX,91.com

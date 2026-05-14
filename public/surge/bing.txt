@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bing.txt
 # Name: bing
-# Updated: Wed, 13 May 2026 00:39:33 GMT
+# Updated: Thu, 14 May 2026 00:41:02 GMT
 # Total: 31
 
 DOMAIN-SUFFIX,bing
