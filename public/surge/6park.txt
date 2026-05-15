@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/6park.txt
 # Name: 6park
-# Updated: Thu, 14 May 2026 00:41:02 GMT
+# Updated: Fri, 15 May 2026 00:38:26 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,6park.com

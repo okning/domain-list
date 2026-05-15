@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/microsoft.txt
 # Name: microsoft
-# Updated: Thu, 14 May 2026 00:41:02 GMT
+# Updated: Fri, 15 May 2026 00:38:26 GMT
 # Total: 626
 
 DOMAIN-SUFFIX,1drv.com

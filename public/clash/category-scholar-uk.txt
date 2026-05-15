@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-scholar-uk.txt
 # Name: category-scholar-uk
-# Updated: Thu, 14 May 2026 00:41:02 GMT
+# Updated: Fri, 15 May 2026 00:38:26 GMT
 # Total: 36
 
 payload:

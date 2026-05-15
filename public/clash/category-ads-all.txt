@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Thu, 14 May 2026 00:41:02 GMT
-# Total: 881
+# Updated: Fri, 15 May 2026 00:38:26 GMT
+# Total: 882
 
 payload:
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -160,6 +160,7 @@ payload:
   - DOMAIN-SUFFIX,adserviceretry.kglink.cn
   - DOMAIN-SUFFIX,adserviceretry.kugou.com
   - DOMAIN-SUFFIX,adsfile.qq.com
+  - DOMAIN-SUFFIX,adsgram.ai
   - DOMAIN-SUFFIX,adsh.m.taobao.com
   - DOMAIN-SUFFIX,adshmmsg.qq.com
   - DOMAIN-SUFFIX,adslot.uc.cn

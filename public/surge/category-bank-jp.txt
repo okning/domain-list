@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-bank-jp.txt
 # Name: category-bank-jp
-# Updated: Thu, 14 May 2026 00:41:02 GMT
+# Updated: Fri, 15 May 2026 00:38:26 GMT
 # Total: 84
 
 DOMAIN-SUFFIX,114bank.co.jp
