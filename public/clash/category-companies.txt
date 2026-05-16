@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Fri, 15 May 2026 00:38:26 GMT
-# Total: 7700
+# Updated: Sat, 16 May 2026 00:36:16 GMT
+# Total: 7701
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -3139,6 +3139,7 @@ payload:
   - DOMAIN-SUFFIX,funnyfacebook.org
   - DOMAIN-SUFFIX,fusionlifecycle.com
   - DOMAIN-SUFFIX,fusionproductionapps.com
+  - DOMAIN-SUFFIX,fussengroup.com
   - DOMAIN-SUFFIX,future-cs.ru
   - DOMAIN-SUFFIX,futureofbritishmanufacturing.com
   - DOMAIN-SUFFIX,futureofbusinesssurvey.org

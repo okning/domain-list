@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-finance.txt
 # Name: category-finance
-# Updated: Fri, 15 May 2026 00:38:26 GMT
-# Total: 573
+# Updated: Sat, 16 May 2026 00:36:16 GMT
+# Total: 574
 
 payload:
   - DOMAIN-SUFFIX,114bank.co.jp
@@ -552,6 +552,7 @@ payload:
   - DOMAIN-SUFFIX,vtb-grants.fut.ru
   - DOMAIN-SUFFIX,vtb.ru
   - DOMAIN-SUFFIX,vtbglobalperspectives.com
+  - DOMAIN-SUFFIX,vv1865.com
   - DOMAIN-SUFFIX,waveomoney.com.mm
   - DOMAIN-SUFFIX,wbrks.com
   - DOMAIN-SUFFIX,westernunion.ru

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/hsbc.txt
 # Name: hsbc
-# Updated: Fri, 15 May 2026 00:38:26 GMT
-# Total: 47
+# Updated: Sat, 16 May 2026 00:36:16 GMT
+# Total: 48
 
 payload:
   - DOMAIN-SUFFIX,hsbc
@@ -51,3 +51,4 @@ payload:
   - DOMAIN-SUFFIX,hsbcprivatebank.com
   - DOMAIN-SUFFIX,hsbcqh.com.cn
   - DOMAIN-SUFFIX,hsbctrinkaus.de
+  - DOMAIN-SUFFIX,vv1865.com

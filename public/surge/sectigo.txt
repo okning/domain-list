@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/sectigo.txt
 # Name: sectigo
-# Updated: Fri, 15 May 2026 00:38:26 GMT
+# Updated: Sat, 16 May 2026 00:36:16 GMT
 # Total: 21
 
 DOMAIN-SUFFIX,aoc.cat

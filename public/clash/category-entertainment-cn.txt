@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Fri, 15 May 2026 00:38:26 GMT
-# Total: 702
+# Updated: Sat, 16 May 2026 00:36:16 GMT
+# Total: 707
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -167,6 +167,7 @@ payload:
   - DOMAIN-SUFFIX,bsbsb.top
   - DOMAIN-SUFFIX,buke999.com
   - DOMAIN-SUFFIX,bx1k.com
+  - DOMAIN-SUFFIX,ccw.site
   - DOMAIN-SUFFIX,cdkeynogap.com
   - DOMAIN-SUFFIX,cdncl.net
   - DOMAIN-SUFFIX,cgames.com
@@ -585,7 +586,9 @@ payload:
   - DOMAIN-SUFFIX,scescdn.cn
   - DOMAIN-SUFFIX,scid.cn
   - DOMAIN-SUFFIX,scsentry.cn
+  - DOMAIN-SUFFIX,sdo.com
   - DOMAIN-SUFFIX,sfacg.com
+  - DOMAIN-SUFFIX,shengqugames.com
   - DOMAIN-SUFFIX,shoutanjjj.com
   - DOMAIN-SUFFIX,shuhai.com
   - DOMAIN-SUFFIX,shyxhy.com
@@ -670,6 +673,7 @@ payload:
   - DOMAIN-SUFFIX,xs.cn
   - DOMAIN-SUFFIX,xs8.cn
   - DOMAIN-SUFFIX,xxsy.net
+  - DOMAIN-SUFFIX,xyys.com
   - DOMAIN-SUFFIX,xyzcdn.net
   - DOMAIN-SUFFIX,xyzfm.link
   - DOMAIN-SUFFIX,xyzfm.space
@@ -705,4 +709,5 @@ payload:
   - DOMAIN-SUFFIX,zhulang.com
   - DOMAIN-SUFFIX,zhuoyou.com
   - DOMAIN-SUFFIX,zhuoyuegame.com
+  - DOMAIN-SUFFIX,zjshulong.com
   - DOMAIN-SUFFIX,zongheng.com

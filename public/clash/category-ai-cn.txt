@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ai-cn.txt
 # Name: category-ai-cn
-# Updated: Fri, 15 May 2026 00:38:26 GMT
-# Total: 97
+# Updated: Sat, 16 May 2026 00:36:16 GMT
+# Total: 98
 
 payload:
   - DOMAIN,ai.zhaomi.cn
@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,liblib.art
   - DOMAIN-SUFFIX,liblib.cloud
   - DOMAIN-SUFFIX,liblib.tv
+  - DOMAIN-SUFFIX,linka2a.net
   - DOMAIN-SUFFIX,maoxiangai.com
   - DOMAIN-SUFFIX,marscode.cn
   - DOMAIN-SUFFIX,marscode.com.cn
