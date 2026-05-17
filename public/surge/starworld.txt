@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/starworld.txt
 # Name: starworld
-# Updated: Sat, 16 May 2026 00:36:16 GMT
+# Updated: Sun, 17 May 2026 00:39:25 GMT
 # Total: 25
 
 DOMAIN-SUFFIX,360-api.cn

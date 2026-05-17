@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-dev.txt
 # Name: category-dev
-# Updated: Sat, 16 May 2026 00:36:16 GMT
-# Total: 568
+# Updated: Sun, 17 May 2026 00:39:25 GMT
+# Total: 569
 
 # REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
@@ -33,6 +33,7 @@ DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN-SUFFIX,archlinux.de
 DOMAIN-SUFFIX,archlinux.org
+DOMAIN-SUFFIX,archlinux.page
 DOMAIN-SUFFIX,archlinuxarm.org
 DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,artixlinux.org
