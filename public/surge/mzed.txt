@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/mzed.txt
 # Name: mzed
-# Updated: Sun, 17 May 2026 00:39:25 GMT
+# Updated: Mon, 18 May 2026 00:40:29 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,mzed.com

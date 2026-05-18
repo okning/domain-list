@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/volvo.txt
 # Name: volvo
-# Updated: Sun, 17 May 2026 00:39:25 GMT
+# Updated: Mon, 18 May 2026 00:40:29 GMT
 # Total: 211
 
 payload:

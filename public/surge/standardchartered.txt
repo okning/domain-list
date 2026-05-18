@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/standardchartered.txt
 # Name: standardchartered
-# Updated: Sun, 17 May 2026 00:39:25 GMT
+# Updated: Mon, 18 May 2026 00:40:29 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,sc.com

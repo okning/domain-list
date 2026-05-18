@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/2kgames.txt
 # Name: 2kgames
-# Updated: Sun, 17 May 2026 00:39:25 GMT
+# Updated: Mon, 18 May 2026 00:40:29 GMT
 # Total: 6
 
 DOMAIN-SUFFIX,2k.com
