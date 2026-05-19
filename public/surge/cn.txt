@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Mon, 18 May 2026 00:40:29 GMT
+# Updated: Tue, 19 May 2026 00:42:14 GMT
 # Total: 5534
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$

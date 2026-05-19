@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Mon, 18 May 2026 00:40:29 GMT
-# Total: 25567
+# Updated: Tue, 19 May 2026 00:42:14 GMT
+# Total: 25587
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -557,6 +557,7 @@ payload:
   - DOMAIN-SUFFIX,55dndn.com
   - DOMAIN-SUFFIX,567321.online
   - DOMAIN-SUFFIX,568xe.com
+  - DOMAIN-SUFFIX,573.jp
   - DOMAIN-SUFFIX,58avgo.com
   - DOMAIN-SUFFIX,592r.com
   - DOMAIN-SUFFIX,59mvmv.com
@@ -13364,6 +13365,7 @@ payload:
   - DOMAIN-SUFFIX,keytransparency.foo
   - DOMAIN-SUFFIX,keytransparency.org
   - DOMAIN-SUFFIX,kfs.io
+  - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kgslb.com
   - DOMAIN-SUFFIX,khanacademy.org
   - DOMAIN-SUFFIX,khotruyentranhx.com
@@ -13454,6 +13456,7 @@ payload:
   - DOMAIN-SUFFIX,kissjav.com
   - DOMAIN-SUFFIX,kissjav.li
   - DOMAIN-SUFFIX,kitakyushubank.co.jp
+  - DOMAIN-SUFFIX,kiwi.jp
   - DOMAIN-SUFFIX,kiwibrowser.com
   - DOMAIN-SUFFIX,kiyobank.co.jp
   - DOMAIN-SUFFIX,kk.stream
@@ -13487,6 +13490,20 @@ payload:
   - DOMAIN-SUFFIX,konachan.com
   - DOMAIN-SUFFIX,konachan.net
   - DOMAIN-SUFFIX,konachan.wjcodes.com
+  - DOMAIN-SUFFIX,konami
+  - DOMAIN-SUFFIX,konami-igaming.online
+  - DOMAIN-SUFFIX,konami.co.jp
+  - DOMAIN-SUFFIX,konami.com
+  - DOMAIN-SUFFIX,konami.net
+  - DOMAIN-SUFFIX,konami.org
+  - DOMAIN-SUFFIX,konamicrossmedia.com
+  - DOMAIN-SUFFIX,konamigaming.com
+  - DOMAIN-SUFFIX,konamigaming.net
+  - DOMAIN-SUFFIX,konamigaming.online
+  - DOMAIN-SUFFIX,konamionline.com
+  - DOMAIN-SUFFIX,konamiopen.jp
+  - DOMAIN-SUFFIX,konamisportsclub.jp
+  - DOMAIN-SUFFIX,konamistyle.jp
   - DOMAIN-SUFFIX,kopfhorergunstigshop.com
   - DOMAIN-SUFFIX,koreanpornmovie.com
   - DOMAIN-SUFFIX,korewaeroi.com
@@ -18957,6 +18974,8 @@ payload:
   - DOMAIN-SUFFIX,researchkit.org
   - DOMAIN-SUFFIX,researchkit.tv
   - DOMAIN-SUFFIX,researchkit.tv
+  - DOMAIN-SUFFIX,resella.jp
+  - DOMAIN-SUFFIX,resellablue.com
   - DOMAIN-SUFFIX,resonabank.co.jp
   - DOMAIN-SUFFIX,resoubanana.buzz
   - DOMAIN-SUFFIX,resoubang.buzz
@@ -25365,6 +25384,7 @@ payload:
   - DOMAIN-SUFFIX,yuanming.net
   - DOMAIN-SUFFIX,yuenuge113.xyz
   - DOMAIN-SUFFIX,yuenuge18.cc
+  - DOMAIN-SUFFIX,yugioh-card.com
   - DOMAIN-SUFFIX,yuming.qxbbs.org
   - DOMAIN-SUFFIX,yuming.qxbbs.org
   - DOMAIN-SUFFIX,yunlaopo.cc

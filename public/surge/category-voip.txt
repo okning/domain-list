@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-voip.txt
 # Name: category-voip
-# Updated: Mon, 18 May 2026 00:40:29 GMT
+# Updated: Tue, 19 May 2026 00:42:14 GMT
 # Total: 9
 
 DOMAIN-SUFFIX,agkn.com

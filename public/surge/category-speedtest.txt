@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-speedtest.txt
 # Name: category-speedtest
-# Updated: Mon, 18 May 2026 00:40:29 GMT
+# Updated: Tue, 19 May 2026 00:42:14 GMT
 # Total: 76
 
 # REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-games-non-cn.txt
 # Name: category-games-non-cn
-# Updated: Mon, 18 May 2026 00:40:29 GMT
-# Total: 801
+# Updated: Tue, 19 May 2026 00:42:14 GMT
+# Total: 821
 
 payload:
   - DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,2ksports.com
   - DOMAIN-SUFFIX,2kweb.online
   - DOMAIN-SUFFIX,3lateral.com
+  - DOMAIN-SUFFIX,573.jp
   - DOMAIN,a.ppy.sh
   - DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
   - DOMAIN-SUFFIX,ac-pocketcamp.com
@@ -267,8 +268,24 @@ payload:
   - DOMAIN-SUFFIX,itch.zone
   - DOMAIN-SUFFIX,joinsquad.com
   - DOMAIN-SUFFIX,joyjoy.net
+  - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kirbysepicyarn.com
   - DOMAIN-SUFFIX,kirbysuperstarultra.com
+  - DOMAIN-SUFFIX,kiwi.jp
+  - DOMAIN-SUFFIX,konami
+  - DOMAIN-SUFFIX,konami-igaming.online
+  - DOMAIN-SUFFIX,konami.co.jp
+  - DOMAIN-SUFFIX,konami.com
+  - DOMAIN-SUFFIX,konami.net
+  - DOMAIN-SUFFIX,konami.org
+  - DOMAIN-SUFFIX,konamicrossmedia.com
+  - DOMAIN-SUFFIX,konamigaming.com
+  - DOMAIN-SUFFIX,konamigaming.net
+  - DOMAIN-SUFFIX,konamigaming.online
+  - DOMAIN-SUFFIX,konamionline.com
+  - DOMAIN-SUFFIX,konamiopen.jp
+  - DOMAIN-SUFFIX,konamisportsclub.jp
+  - DOMAIN-SUFFIX,konamistyle.jp
   - DOMAIN-SUFFIX,kraftonde.com
   - DOMAIN-SUFFIX,kyurem.com
   - DOMAIN,lazer.ppy.sh
@@ -510,6 +527,8 @@ payload:
   - DOMAIN-SUFFIX,reachthefinals.com
   - DOMAIN-SUFFIX,realityscan.com
   - DOMAIN-SUFFIX,renovacionxboxlive.com
+  - DOMAIN-SUFFIX,resella.jp
+  - DOMAIN-SUFFIX,resellablue.com
   - DOMAIN-SUFFIX,rgpub.io
   - DOMAIN-SUFFIX,riot-games.com
   - DOMAIN-SUFFIX,riot.com
@@ -801,6 +820,7 @@ payload:
   - DOMAIN-SUFFIX,yostar.co.jp
   - DOMAIN-SUFFIX,yostar.net
   - DOMAIN-SUFFIX,yostarplat.com
+  - DOMAIN-SUFFIX,yugioh-card.com
   - DOMAIN-SUFFIX,zenlesszonezero.com
   - DOMAIN-SUFFIX,zynga.com
   - DOMAIN-SUFFIX,zyngaplayersupport.com

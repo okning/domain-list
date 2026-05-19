@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Mon, 18 May 2026 00:40:29 GMT
-# Total: 1862
+# Updated: Tue, 19 May 2026 00:42:14 GMT
+# Total: 1882
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,3lateral.com
   - DOMAIN-SUFFIX,4gamer.net
   - DOMAIN-SUFFIX,4gamers.com.tw
+  - DOMAIN-SUFFIX,573.jp
   - DOMAIN-SUFFIX,777tv.net
   - DOMAIN-SUFFIX,7tv.app
   - DOMAIN-SUFFIX,7tv.io
@@ -764,6 +765,7 @@ payload:
   - DOMAIN-SUFFIX,kamisama-day.jp
   - DOMAIN-SUFFIX,kamisama-maeda-lab.com
   - DOMAIN-SUFFIX,kfs.io
+  - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kingkong.com.tw
   - DOMAIN-SUFFIX,kingkongapp.com
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
@@ -771,6 +773,7 @@ payload:
   - DOMAIN-SUFFIX,kinorium.com
   - DOMAIN-SUFFIX,kirbysepicyarn.com
   - DOMAIN-SUFFIX,kirbysuperstarultra.com
+  - DOMAIN-SUFFIX,kiwi.jp
   - DOMAIN-SUFFIX,kk.stream
   - DOMAIN-SUFFIX,kkbox.com
   - DOMAIN-SUFFIX,kkbox.com.tw
@@ -779,6 +782,20 @@ payload:
   - DOMAIN-SUFFIX,kktv.com.tw
   - DOMAIN-SUFFIX,kktv.me
   - DOMAIN-SUFFIX,kktv.me
+  - DOMAIN-SUFFIX,konami
+  - DOMAIN-SUFFIX,konami-igaming.online
+  - DOMAIN-SUFFIX,konami.co.jp
+  - DOMAIN-SUFFIX,konami.com
+  - DOMAIN-SUFFIX,konami.net
+  - DOMAIN-SUFFIX,konami.org
+  - DOMAIN-SUFFIX,konamicrossmedia.com
+  - DOMAIN-SUFFIX,konamigaming.com
+  - DOMAIN-SUFFIX,konamigaming.net
+  - DOMAIN-SUFFIX,konamigaming.online
+  - DOMAIN-SUFFIX,konamionline.com
+  - DOMAIN-SUFFIX,konamiopen.jp
+  - DOMAIN-SUFFIX,konamisportsclub.jp
+  - DOMAIN-SUFFIX,konamistyle.jp
   - DOMAIN-SUFFIX,koubaibu.jp
   - DOMAIN-SUFFIX,kpacg.com
   - DOMAIN-SUFFIX,kraftonde.com
@@ -1209,6 +1226,8 @@ payload:
   - DOMAIN-SUFFIX,registerhulu.com
   - DOMAIN-SUFFIX,renovacionxboxlive.com
   - DOMAIN-SUFFIX,repotama.com
+  - DOMAIN-SUFFIX,resella.jp
+  - DOMAIN-SUFFIX,resellablue.com
   - DOMAIN-SUFFIX,restream-media.net
   - DOMAIN-SUFFIX,restream.ru
   - DOMAIN-SUFFIX,revuestarlight.com
@@ -1853,6 +1872,7 @@ payload:
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN,yt3.googleusercontent.com
   - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,yugioh-card.com
   - DOMAIN-SUFFIX,z5.app
   - DOMAIN-SUFFIX,z5.com
   - DOMAIN-SUFFIX,zee5.com
