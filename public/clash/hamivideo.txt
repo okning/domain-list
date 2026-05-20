@@ -1,14 +1,19 @@
 # URL: https://s.nosec.me/clash/hamivideo.txt
 # Name: hamivideo
-# Updated: Tue, 19 May 2026 00:42:14 GMT
-# Total: 8
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 13
 
 payload:
   - DOMAIN,apl-hamivideo.cdn.hinet.net
+  - DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
   - DOMAIN,hamivideo.hinet.net
+  - DOMAIN,lgcscc-hamivideo2.cdn.hinet.net
   - DOMAIN,mobilelive-hamivideo.cdn.hinet.net
   - DOMAIN,pvr-hamivideo.cdn.hinet.net
   - DOMAIN,scc.ott.hinet.net
   - DOMAIN,static-hamivideo.cdn.hinet.net
+  - DOMAIN,thumbnail-hamivideo.cdn.hinet.net
+  - DOMAIN,tlmr-hamivideo2.cdn.hinet.net
   - DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
   - DOMAIN,weblive-hamivideo.cdn.hinet.net
+  - DOMAIN,webvodad-hamivideo.cdn.hinet.net

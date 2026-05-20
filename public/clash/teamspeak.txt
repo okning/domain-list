@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/teamspeak.txt
+# Name: teamspeak
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 3
+
+payload:
+  - DOMAIN-SUFFIX,myteamspeak.com
+  - DOMAIN-SUFFIX,teamspeak-services.com
+  - DOMAIN-SUFFIX,teamspeak.com

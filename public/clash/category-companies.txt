@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Tue, 19 May 2026 00:42:14 GMT
-# Total: 7701
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 7694
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -421,6 +421,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.cc
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
+  - DOMAIN-SUFFIX,amazonwebservices.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -2501,7 +2502,6 @@ payload:
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN,doubleclick.net
   - DOMAIN-SUFFIX,douwriteright.com
-  - DOMAIN,download.qatp1.net
   - DOMAIN-SUFFIX,downloadsforipod.com
   - DOMAIN-SUFFIX,draftjs.org
   - DOMAIN-SUFFIX,dragoniscoming.com
@@ -5155,7 +5155,6 @@ payload:
   - DOMAIN-SUFFIX,momentumms.com
   - DOMAIN-SUFFIX,monbeats2013.com
   - DOMAIN-SUFFIX,moneywithfacebook.com
-  - DOMAIN,monitoring.qpdp1.net
   - DOMAIN-SUFFIX,mono-project.com
   - DOMAIN-SUFFIX,monster-beats-by-dr-dre.com
   - DOMAIN-SUFFIX,monster-beats-headphones.com
@@ -5823,11 +5822,9 @@ payload:
   - DOMAIN-SUFFIX,pwabuilder.com
   - DOMAIN-SUFFIX,pxt.io
   - DOMAIN-SUFFIX,pyrobot.org
-  - DOMAIN,qagpublic.qatp1.net
   - DOMAIN-SUFFIX,qceventscenter.com.cn
   - DOMAIN-SUFFIX,qcomgeo2.com
   - DOMAIN-SUFFIX,qctconnect.com
-  - DOMAIN,qgadmin.qcpp1.net
   - DOMAIN,qiao-cn.com
   - DOMAIN-SUFFIX,qlink.to
   - DOMAIN-SUFFIX,qlinkto.cn
@@ -5856,8 +5853,6 @@ payload:
   - DOMAIN-SUFFIX,qualcommventures.cn
   - DOMAIN-SUFFIX,qualcommventures.com
   - DOMAIN-SUFFIX,qualphone.com
-  - DOMAIN,qualysapi.qatp1.net
-  - DOMAIN,qualysguard.qpdp1.net
   - DOMAIN-SUFFIX,quatrowireless.com
   - DOMAIN-SUFFIX,questvisual.com
   - DOMAIN-SUFFIX,quicinc.com
@@ -6046,7 +6041,6 @@ payload:
   - DOMAIN-SUFFIX,saynow.com
   - DOMAIN-SUFFIX,sc-cdn.net
   - DOMAIN-SUFFIX,scaleform.com
-  - DOMAIN,scanservice1.qcpp1.net
   - DOMAIN-SUFFIX,scartel.ru
   - DOMAIN-SUFFIX,scene7.com
   - DOMAIN-SUFFIX,schemer.com
@@ -7071,7 +7065,6 @@ payload:
   - DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
   - DOMAIN-SUFFIX,xn--flw351e
   - DOMAIN-SUFFIX,xn--flw351e.com
-  - DOMAIN,xn--flw351e.com
   - DOMAIN-SUFFIX,xn--ggle-55da.com
   - DOMAIN-SUFFIX,xn--gogl-0nd52e.com
   - DOMAIN-SUFFIX,xn--gogl-1nd42e.com

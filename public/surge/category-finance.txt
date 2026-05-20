@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-finance.txt
 # Name: category-finance
-# Updated: Tue, 19 May 2026 00:42:14 GMT
-# Total: 574
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 575
 
 DOMAIN-SUFFIX,114bank.co.jp
 DOMAIN-SUFFIX,21-school.ru
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,agri-bank.com
 DOMAIN-SUFFIX,akbars.ru
 DOMAIN-SUFFIX,akita-bank.co.jp
 DOMAIN-SUFFIX,alefbank.com
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st

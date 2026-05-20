@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/surge/aws-cn.txt
 # Name: aws-cn
-# Updated: Tue, 19 May 2026 00:42:14 GMT
-# Total: 27
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 28
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.com.cn
+DOMAIN-SUFFIX,amazonwebservices.cn
 DOMAIN-SUFFIX,amazonwebservices.com.cn
 DOMAIN-SUFFIX,amazonworkdocs.cn
 DOMAIN-SUFFIX,amazonworkdocs.com.cn

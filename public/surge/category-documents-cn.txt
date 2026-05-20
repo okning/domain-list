@@ -1,19 +1,27 @@
 # URL: https://s.nosec.me/surge/category-documents-cn.txt
 # Name: category-documents-cn
-# Updated: Tue, 19 May 2026 00:42:14 GMT
-# Total: 14
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 22
 
 DOMAIN-SUFFIX,1ppt.com
 DOMAIN-SUFFIX,360doc.com
+DOMAIN-SUFFIX,51pptmoban.com
 DOMAIN-SUFFIX,51wendang.com
 DOMAIN-SUFFIX,52ppt.com
 DOMAIN-SUFFIX,badou.com
 DOMAIN-SUFFIX,book118.com
+DOMAIN-SUFFIX,daodoc.com
 DOMAIN-SUFFIX,doc88.com
 DOMAIN-SUFFIX,docin.com
 DOMAIN-SUFFIX,douding.cn
+DOMAIN-SUFFIX,goldhoe.com
 DOMAIN-SUFFIX,haohaodoc.com
+DOMAIN-SUFFIX,jinchutou.com
 DOMAIN-SUFFIX,lazyer.net
 DOMAIN-SUFFIX,renrendoc.com
+DOMAIN-SUFFIX,safewk.com
+DOMAIN-SUFFIX,taodocs.com
 DOMAIN-SUFFIX,wenkeju.com
+DOMAIN-SUFFIX,wenkub.com
 DOMAIN-SUFFIX,ypppt.com
+DOMAIN-SUFFIX,zhijidoc.com

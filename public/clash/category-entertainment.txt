@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Tue, 19 May 2026 00:42:14 GMT
-# Total: 1882
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 1887
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -519,6 +519,7 @@ payload:
   - DOMAIN-SUFFIX,fandango.com
   - DOMAIN-SUFFIX,fanfictionero.com
   - DOMAIN-SUFFIX,fast.com
+  - DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
   - DOMAIN-SUFFIX,fc-buddyfight.com
   - DOMAIN-SUFFIX,fic.fan
   - DOMAIN-SUFFIX,ficador.com
@@ -820,6 +821,7 @@ payload:
   - DOMAIN-SUFFIX,learnwithleague.com
   - DOMAIN-SUFFIX,legendofzelda.cn
   - DOMAIN-SUFFIX,legendofzelda.com.cn
+  - DOMAIN,lgcscc-hamivideo2.cdn.hinet.net
   - DOMAIN,linear-abematv.akamaized.net
   - DOMAIN-SUFFIX,linetv.tw
   - DOMAIN-SUFFIX,litbus-anime.com
@@ -1476,6 +1478,7 @@ payload:
   - DOMAIN-SUFFIX,thewonderful101.com
   - DOMAIN-SUFFIX,thisisgame.com
   - DOMAIN-SUFFIX,thisispolaris.com
+  - DOMAIN,thumbnail-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,tiberiumalliances.com
   - DOMAIN-SUFFIX,tiberiumalliances.com
   - DOMAIN-SUFFIX,tiburon.com
@@ -1505,6 +1508,7 @@ payload:
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,titanfall.com
+  - DOMAIN,tlmr-hamivideo2.cdn.hinet.net
   - DOMAIN,tmdb-image-prod.b-cdn.net
   - DOMAIN,tmdb-web-image-prod.b-cdn.net
   - DOMAIN-SUFFIX,tmdb.org
@@ -1622,6 +1626,7 @@ payload:
   - DOMAIN-SUFFIX,wbinsights.com
   - DOMAIN,weblive-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,webnovel.com
+  - DOMAIN,webvodad-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,weverse.io
   - DOMAIN-SUFFIX,wgcdn.co
   - DOMAIN-SUFFIX,wgcrowd.io

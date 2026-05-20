@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Tue, 19 May 2026 00:42:14 GMT
-# Total: 25587
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 25585
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -1424,6 +1424,7 @@ DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
 DOMAIN-SUFFIX,alexanderstreet.com
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
@@ -1742,6 +1743,7 @@ DOMAIN-SUFFIX,amazonvideo.cc
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,amazonvideodirect.com
+DOMAIN-SUFFIX,amazonwebservices.cn
 DOMAIN-SUFFIX,amazonwebservices.com.cn
 DOMAIN-SUFFIX,amazonworkdocs.cn
 DOMAIN-SUFFIX,amazonworkdocs.com
@@ -6842,7 +6844,6 @@ DOMAIN-SUFFIX,dowjoneson.com
 DOMAIN-SUFFIX,dowjoneson.com
 DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
 DOMAIN-SUFFIX,download.com
-DOMAIN,download.qatp1.net
 DOMAIN-SUFFIX,downloadpass.com
 DOMAIN-SUFFIX,downloadsforipod.com
 DOMAIN-SUFFIX,draftjs.org
@@ -15287,7 +15288,6 @@ DOMAIN-SUFFIX,moneywithfacebook.com
 DOMAIN-SUFFIX,moneywithfacebook.com
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
-DOMAIN,monitoring.qpdp1.net
 DOMAIN-SUFFIX,monitrix.net
 DOMAIN-SUFFIX,mono-project.com
 DOMAIN-SUFFIX,mono-project.com
@@ -15754,6 +15754,7 @@ DOMAIN-SUFFIX,mysinchew.com
 DOMAIN-SUFFIX,mysocialworklab.com
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,mystrikingly.com
+DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,myteenwebcam.com
 DOMAIN-SUFFIX,mythicentertainment.com
 DOMAIN-SUFFIX,mythicentertainment.net
@@ -18535,7 +18536,6 @@ DOMAIN-SUFFIX,pzhanfor.today
 DOMAIN-SUFFIX,q10.jp
 DOMAIN-SUFFIX,q13.com
 DOMAIN-SUFFIX,q13fox.com
-DOMAIN,qagpublic.qatp1.net
 DOMAIN-SUFFIX,qatarescortsvip.com
 DOMAIN-SUFFIX,qattdh.cc
 DOMAIN-SUFFIX,qattdh.top
@@ -18548,7 +18548,6 @@ DOMAIN-SUFFIX,qcmod.xyz
 DOMAIN-SUFFIX,qcomgeo2.com
 DOMAIN-SUFFIX,qctconnect.com
 DOMAIN-SUFFIX,qdiehzz7.me
-DOMAIN,qgadmin.qcpp1.net
 DOMAIN,qiao-cn.com
 DOMAIN-SUFFIX,qinav.com
 DOMAIN-SUFFIX,qingse.one
@@ -18597,8 +18596,6 @@ DOMAIN-SUFFIX,qualcommretail.com
 DOMAIN-SUFFIX,qualcommventures.cn
 DOMAIN-SUFFIX,qualcommventures.com
 DOMAIN-SUFFIX,qualphone.com
-DOMAIN,qualysapi.qatp1.net
-DOMAIN,qualysguard.qpdp1.net
 DOMAIN-SUFFIX,quanben-xiaoshuo.com
 DOMAIN-SUFFIX,quanben.io
 DOMAIN-SUFFIX,quantil.com
@@ -19418,7 +19415,6 @@ DOMAIN-SUFFIX,scaleflex.com
 DOMAIN-SUFFIX,scaleform.com
 DOMAIN-SUFFIX,scandalplanet.com
 DOMAIN-SUFFIX,scanlover.com
-DOMAIN,scanservice1.qcpp1.net
 DOMAIN-SUFFIX,scartel.ru
 DOMAIN-SUFFIX,scat-enema.com
 DOMAIN-SUFFIX,scat-japan.com
@@ -21064,6 +21060,8 @@ DOMAIN-SUFFIX,teacherfucksteens.com
 DOMAIN-SUFFIX,teachmyass.com
 DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,teamskeet.com
+DOMAIN-SUFFIX,teamspeak-services.com
+DOMAIN-SUFFIX,teamspeak.com
 DOMAIN-SUFFIX,teamviewer.cn
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,teamviewer.us
@@ -23998,7 +23996,6 @@ DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
 DOMAIN-SUFFIX,xn--flw351e
 DOMAIN-SUFFIX,xn--flw351e.com
-DOMAIN,xn--flw351e.com
 DOMAIN-SUFFIX,xn--ggle-55da.com
 DOMAIN-SUFFIX,xn--gmq348bujlxrb.com
 DOMAIN-SUFFIX,xn--gmq92kd2rm1kx34a.com
@@ -25483,6 +25480,7 @@ DOMAIN-SUFFIX,zhaimankan.com
 DOMAIN-SUFFIX,zhainanjidi.xyz
 DOMAIN-SUFFIX,zhainanjidid.top
 DOMAIN-SUFFIX,zhangboz1.xyz
+DOMAIN-SUFFIX,zhangzhehan.net
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org

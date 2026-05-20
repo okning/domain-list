@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-netdisk-cn.txt
 # Name: category-netdisk-cn
-# Updated: Tue, 19 May 2026 00:42:14 GMT
-# Total: 88
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 89
 
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,116cd.com
 DOMAIN-SUFFIX,116cd.net
 DOMAIN-SUFFIX,123245.com
 DOMAIN-SUFFIX,123254.com
+DOMAIN-SUFFIX,123278.com
 DOMAIN-SUFFIX,123294.com
 DOMAIN-SUFFIX,123624.com
 DOMAIN-SUFFIX,123641.com

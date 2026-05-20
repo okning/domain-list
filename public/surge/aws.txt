@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/aws.txt
 # Name: aws
-# Updated: Tue, 19 May 2026 00:42:14 GMT
-# Total: 76
+# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Total: 77
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,amazonaws.org
 DOMAIN-SUFFIX,amazonaws.tv
 DOMAIN-SUFFIX,amazoncognito.com
 DOMAIN-SUFFIX,amazonses.com
+DOMAIN-SUFFIX,amazonwebservices.cn
 DOMAIN-SUFFIX,amazonwebservices.com.cn
 DOMAIN-SUFFIX,amazonworkdocs.cn
 DOMAIN-SUFFIX,amazonworkdocs.com
