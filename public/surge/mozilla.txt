@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/mozilla.txt
 # Name: mozilla
-# Updated: Wed, 20 May 2026 00:43:47 GMT
-# Total: 19
+# Updated: Thu, 21 May 2026 00:43:27 GMT
+# Total: 22
 
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,developer.allizom.org
@@ -16,9 +16,12 @@ DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN-SUFFIX,mdnplay.dev
 DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN-SUFFIX,mozgcp.net
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,mozillafoundation.org
+DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net

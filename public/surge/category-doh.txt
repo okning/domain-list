@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-doh.txt
 # Name: category-doh
-# Updated: Wed, 20 May 2026 00:43:47 GMT
-# Total: 91
+# Updated: Thu, 21 May 2026 00:43:27 GMT
+# Total: 93
 
 DOMAIN,ada.openbld.net
 DOMAIN,antivirus.bebasid.com
@@ -35,6 +35,7 @@ DOMAIN,dns.quad9.net
 DOMAIN,dns.rabbitdns.org
 DOMAIN,dns.sb
 DOMAIN,dns.seia.io
+DOMAIN,dns.shaw.ca
 DOMAIN,dns.surfsharkdns.com
 DOMAIN,dns.switch.ch
 DOMAIN,dns.twnic.tw
@@ -58,6 +59,7 @@ DOMAIN,doh.qis.io
 DOMAIN,doh.sb
 DOMAIN,doh.tiar.app
 DOMAIN,doh.tiarap.org
+DOMAIN,doh.xfinity.com
 DOMAIN,family.adguard-dns.com
 DOMAIN,family.canadianshield.cira.ca
 DOMAIN,family.dot.dns.yandex.net

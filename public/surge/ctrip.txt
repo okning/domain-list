@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/ctrip.txt
 # Name: ctrip
-# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Updated: Thu, 21 May 2026 00:43:27 GMT
 # Total: 37
 
 DOMAIN-SUFFIX,c-ctrip.com

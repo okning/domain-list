@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/picacg.txt
 # Name: picacg
-# Updated: Wed, 20 May 2026 00:43:47 GMT
+# Updated: Thu, 21 May 2026 00:43:27 GMT
 # Total: 11
 
 DOMAIN-SUFFIX,bikaa.xyz
