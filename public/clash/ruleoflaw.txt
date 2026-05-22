@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/ruleoflaw.txt
 # Name: ruleoflaw
-# Updated: Thu, 21 May 2026 00:43:27 GMT
+# Updated: Fri, 22 May 2026 00:41:39 GMT
 # Total: 2
 
 payload:

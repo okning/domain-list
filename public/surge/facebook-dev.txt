@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/facebook-dev.txt
 # Name: facebook-dev
-# Updated: Thu, 21 May 2026 00:43:27 GMT
+# Updated: Fri, 22 May 2026 00:41:39 GMT
 # Total: 44
 
 DOMAIN-SUFFIX,accountkit.com

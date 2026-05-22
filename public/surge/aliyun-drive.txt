@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/aliyun-drive.txt
 # Name: aliyun-drive
-# Updated: Thu, 21 May 2026 00:43:27 GMT
+# Updated: Fri, 22 May 2026 00:41:39 GMT
 # Total: 6
 
 DOMAIN-SUFFIX,alicloudccp.com

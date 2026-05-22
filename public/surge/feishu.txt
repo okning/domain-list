@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/feishu.txt
 # Name: feishu
-# Updated: Thu, 21 May 2026 00:43:27 GMT
+# Updated: Fri, 22 May 2026 00:41:39 GMT
 # Total: 43
 
 DOMAIN-SUFFIX,anycross.com

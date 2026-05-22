@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-game-accelerator-cn.txt
 # Name: category-game-accelerator-cn
-# Updated: Thu, 21 May 2026 00:43:27 GMT
+# Updated: Fri, 22 May 2026 00:41:39 GMT
 # Total: 45
 
 payload:

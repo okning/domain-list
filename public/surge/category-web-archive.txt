@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-web-archive.txt
 # Name: category-web-archive
-# Updated: Thu, 21 May 2026 00:43:27 GMT
+# Updated: Fri, 22 May 2026 00:41:39 GMT
 # Total: 18
 
 DOMAIN-SUFFIX,4pcdn.org

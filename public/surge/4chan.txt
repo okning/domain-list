@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/4chan.txt
 # Name: 4chan
-# Updated: Thu, 21 May 2026 00:43:27 GMT
+# Updated: Fri, 22 May 2026 00:41:39 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,4cdn.org
