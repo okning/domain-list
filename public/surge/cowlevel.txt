@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cowlevel.txt
 # Name: cowlevel
-# Updated: Fri, 22 May 2026 00:41:39 GMT
+# Updated: Sat, 23 May 2026 00:40:45 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,cdncl.net

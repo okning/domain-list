@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-tech-ir.txt
 # Name: category-tech-ir
-# Updated: Fri, 22 May 2026 00:41:39 GMT
+# Updated: Sat, 23 May 2026 00:40:45 GMT
 # Total: 44
 
 DOMAIN-SUFFIX,abrha.net

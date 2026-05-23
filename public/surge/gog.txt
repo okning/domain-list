@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/gog.txt
 # Name: gog
-# Updated: Fri, 22 May 2026 00:41:39 GMT
+# Updated: Sat, 23 May 2026 00:40:45 GMT
 # Total: 7
 
 # REGEXP,^cdn-akamai-.+\.gog-services\.com$

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/thescoregroup.txt
 # Name: thescoregroup
-# Updated: Fri, 22 May 2026 00:41:39 GMT
+# Updated: Sat, 23 May 2026 00:40:45 GMT
 # Total: 111
 
 DOMAIN-SUFFIX,18eighteen.com

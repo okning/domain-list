@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-travel-ir.txt
 # Name: category-travel-ir
-# Updated: Fri, 22 May 2026 00:41:39 GMT
+# Updated: Sat, 23 May 2026 00:40:45 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,alibaba.ir

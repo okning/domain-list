@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/sohu.txt
 # Name: sohu
-# Updated: Fri, 22 May 2026 00:41:39 GMT
+# Updated: Sat, 23 May 2026 00:40:45 GMT
 # Total: 40
 
 DOMAIN-SUFFIX,56.com
