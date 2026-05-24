@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/rsshub-3rd.txt
 # Name: rsshub-3rd
-# Updated: Sat, 23 May 2026 00:40:45 GMT
+# Updated: Sun, 24 May 2026 00:41:30 GMT
 # Total: 19
 
 payload:

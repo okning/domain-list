@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/modrinth.txt
 # Name: modrinth
-# Updated: Sat, 23 May 2026 00:40:45 GMT
+# Updated: Sun, 24 May 2026 00:41:30 GMT
 # Total: 1
 
 payload:

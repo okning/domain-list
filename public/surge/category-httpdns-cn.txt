@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-httpdns-cn.txt
 # Name: category-httpdns-cn
-# Updated: Sat, 23 May 2026 00:40:45 GMT
+# Updated: Sun, 24 May 2026 00:41:30 GMT
 # Total: 48
 
 DOMAIN-SUFFIX,apidns.kwd.inkuai.com
