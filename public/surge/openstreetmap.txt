@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/openstreetmap.txt
 # Name: openstreetmap
-# Updated: Sun, 24 May 2026 00:41:30 GMT
+# Updated: Mon, 25 May 2026 00:42:42 GMT
 # Total: 9
 
 DOMAIN-SUFFIX,openmaps.org

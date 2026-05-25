@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/broadcom.txt
 # Name: broadcom
-# Updated: Sun, 24 May 2026 00:41:30 GMT
+# Updated: Mon, 25 May 2026 00:42:42 GMT
 # Total: 105
 
 DOMAIN-SUFFIX,air-watch.com

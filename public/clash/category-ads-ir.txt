@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-ads-ir.txt
 # Name: category-ads-ir
-# Updated: Sun, 24 May 2026 00:41:30 GMT
+# Updated: Mon, 25 May 2026 00:42:42 GMT
 # Total: 7
 
 payload:
