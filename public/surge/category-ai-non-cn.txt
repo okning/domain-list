@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ai-non-cn.txt
 # Name: category-ai-non-cn
-# Updated: Mon, 25 May 2026 00:42:42 GMT
-# Total: 152
+# Updated: Tue, 26 May 2026 00:41:18 GMT
+# Total: 153
 
 # REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN-SUFFIX,agentclientprotocol.com
@@ -105,6 +105,7 @@ DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,mozilla.ai

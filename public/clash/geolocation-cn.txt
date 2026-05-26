@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Mon, 25 May 2026 00:42:42 GMT
-# Total: 6979
+# Updated: Tue, 26 May 2026 00:41:18 GMT
+# Total: 6980
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -1715,6 +1715,7 @@ payload:
   - DOMAIN-SUFFIX,colinker.com
   - DOMAIN-SUFFIX,coloros.com
   - DOMAIN-SUFFIX,coloros.net
+  - DOMAIN-SUFFIX,comfylink.com
   - DOMAIN-SUFFIX,computeinit.com
   - DOMAIN-SUFFIX,comsenz.com
   - DOMAIN-SUFFIX,conac.cn

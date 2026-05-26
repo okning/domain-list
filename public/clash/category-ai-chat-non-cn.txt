@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ai-chat-non-cn.txt
 # Name: category-ai-chat-non-cn
-# Updated: Mon, 25 May 2026 00:42:42 GMT
-# Total: 152
+# Updated: Tue, 26 May 2026 00:41:18 GMT
+# Total: 153
 
 payload:
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
@@ -106,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,mozilla.ai

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-social-media-non-cn.txt
 # Name: category-social-media-non-cn
-# Updated: Mon, 25 May 2026 00:42:42 GMT
+# Updated: Tue, 26 May 2026 00:41:18 GMT
 # Total: 606
 
 payload:
