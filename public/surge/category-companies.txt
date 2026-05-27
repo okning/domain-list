@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Tue, 26 May 2026 00:41:18 GMT
-# Total: 7697
+# Updated: Wed, 27 May 2026 00:42:45 GMT
+# Total: 7698
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -6521,6 +6521,7 @@ DOMAIN-SUFFIX,toutapp.com
 DOMAIN-SUFFIX,townwifi.jp
 DOMAIN-SUFFIX,toy-cadcam.com
 DOMAIN-SUFFIX,toycadcam.com
+DOMAIN-SUFFIX,trace-flow.ru
 DOMAIN-SUFFIX,tracking-location.com
 DOMAIN-SUFFIX,tradevip1.com
 DOMAIN-SUFFIX,trafficmanager.cn

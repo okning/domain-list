@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ai-non-cn.txt
 # Name: category-ai-non-cn
-# Updated: Tue, 26 May 2026 00:41:18 GMT
-# Total: 153
+# Updated: Wed, 27 May 2026 00:42:45 GMT
+# Total: 154
 
 # REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN-SUFFIX,agentclientprotocol.com
@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,githubcopilot.com

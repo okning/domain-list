@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/steamunlocked.txt
 # Name: steamunlocked
-# Updated: Tue, 26 May 2026 00:41:18 GMT
+# Updated: Wed, 27 May 2026 00:42:45 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,steamunlocked.net

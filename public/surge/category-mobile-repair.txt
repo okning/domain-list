@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-mobile-repair.txt
 # Name: category-mobile-repair
-# Updated: Tue, 26 May 2026 00:41:18 GMT
+# Updated: Wed, 27 May 2026 00:42:45 GMT
 # Total: 9
 
 DOMAIN-SUFFIX,androidfilehost.com

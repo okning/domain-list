@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/amazon.txt
 # Name: amazon
-# Updated: Tue, 26 May 2026 00:41:18 GMT
+# Updated: Wed, 27 May 2026 00:42:45 GMT
 # Total: 236
 
 payload:

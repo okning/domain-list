@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Tue, 26 May 2026 00:41:18 GMT
-# Total: 5546
+# Updated: Wed, 27 May 2026 00:42:45 GMT
+# Total: 5547
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -307,6 +307,7 @@ DOMAIN-SUFFIX,84399.com
 DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,885.com
 DOMAIN-SUFFIX,88cdn.com
+DOMAIN-SUFFIX,88cha.com
 DOMAIN-SUFFIX,8btc.com
 DOMAIN-SUFFIX,900.la
 DOMAIN-SUFFIX,900cha.com

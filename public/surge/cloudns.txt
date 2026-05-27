@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cloudns.txt
 # Name: cloudns
-# Updated: Tue, 26 May 2026 00:41:18 GMT
+# Updated: Wed, 27 May 2026 00:42:45 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,cloudns.nz

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Tue, 26 May 2026 00:41:18 GMT
-# Total: 25596
+# Updated: Wed, 27 May 2026 00:42:45 GMT
+# Total: 25597
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -21651,6 +21651,7 @@ payload:
   - DOMAIN-SUFFIX,tpension.ru
   - DOMAIN-SUFFIX,tpornstars.com
   - DOMAIN-SUFFIX,tr.com
+  - DOMAIN-SUFFIX,trace-flow.ru
   - DOMAIN-SUFFIX,tracker.gg
   - DOMAIN-SUFFIX,tracker.network
   - DOMAIN-SUFFIX,tracking-location.com

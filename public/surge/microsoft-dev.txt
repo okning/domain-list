@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/microsoft-dev.txt
 # Name: microsoft-dev
-# Updated: Tue, 26 May 2026 00:41:18 GMT
+# Updated: Wed, 27 May 2026 00:42:45 GMT
 # Total: 71
 
 DOMAIN-SUFFIX,adaptivecards.io
