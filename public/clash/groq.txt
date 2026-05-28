@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/groq.txt
 # Name: groq
-# Updated: Wed, 27 May 2026 00:42:45 GMT
+# Updated: Thu, 28 May 2026 00:39:11 GMT
 # Total: 1
 
 payload:

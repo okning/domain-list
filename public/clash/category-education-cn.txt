@@ -1,14 +1,17 @@
 # URL: https://s.nosec.me/clash/category-education-cn.txt
 # Name: category-education-cn
-# Updated: Wed, 27 May 2026 00:42:45 GMT
-# Total: 146
+# Updated: Thu, 28 May 2026 00:39:11 GMT
+# Total: 161
 
 payload:
+  - DOMAIN-SUFFIX,100tal.com
   - DOMAIN-SUFFIX,17zuoye.cn
   - DOMAIN-SUFFIX,17zuoye.com
   - DOMAIN-SUFFIX,17zuoye.net
+  - DOMAIN-SUFFIX,21cnjy.com
   - DOMAIN-SUFFIX,91yunxiao.com
   - DOMAIN-SUFFIX,aiyunxiao.com
+  - DOMAIN-SUFFIX,aoshu.com
   - DOMAIN-SUFFIX,applysquare.com
   - DOMAIN-SUFFIX,applysquare.net
   - DOMAIN-SUFFIX,baicizhan.com
@@ -45,6 +48,8 @@ payload:
   - DOMAIN-SUFFIX,dgjy.net
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,eduei.com
+  - DOMAIN-SUFFIX,eduu.com
+  - DOMAIN-SUFFIX,eduuu.com
   - DOMAIN-SUFFIX,eoffcn.com
   - DOMAIN-SUFFIX,fbstatic.cn
   - DOMAIN-SUFFIX,fenbi.com
@@ -52,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,fenbike.com
   - DOMAIN-SUFFIX,fenbilantian.cn
   - DOMAIN-SUFFIX,fenbilantian.com
+  - DOMAIN-SUFFIX,gaokao.com
   - DOMAIN-SUFFIX,gatzs.com.cn
   - DOMAIN-SUFFIX,gfbzb.cn
   - DOMAIN-SUFFIX,gfbzb.com
@@ -116,6 +122,7 @@ payload:
   - DOMAIN-SUFFIX,speiyou.com
   - DOMAIN,study.163.com
   - DOMAIN-SUFFIX,sydw8.com
+  - DOMAIN-SUFFIX,tal.com
   - DOMAIN-SUFFIX,tongxuepie.com
   - DOMAIN-SUFFIX,unipus.cn
   - DOMAIN-SUFFIX,weilaiyunxiao.com
@@ -124,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,x-cloud.cc
   - DOMAIN-SUFFIX,xesimg.com
   - DOMAIN-SUFFIX,xiaoyuankousuan.com
+  - DOMAIN-SUFFIX,xiguacity.cn
   - DOMAIN-SUFFIX,xir.cn
   - DOMAIN-SUFFIX,xiyouyingyu.com
   - DOMAIN-SUFFIX,xkw.com
@@ -131,6 +139,7 @@ payload:
   - DOMAIN-SUFFIX,xuetangx.com
   - DOMAIN-SUFFIX,ybccode.com
   - DOMAIN-SUFFIX,yeshj.com
+  - DOMAIN-SUFFIX,youjiao.com
   - DOMAIN-SUFFIX,ystbds.com
   - DOMAIN-SUFFIX,yuanfudao.com
   - DOMAIN-SUFFIX,yuansouti.com
@@ -147,6 +156,12 @@ payload:
   - DOMAIN-SUFFIX,zgsydw.com
   - DOMAIN-SUFFIX,zhan.com
   - DOMAIN-SUFFIX,zhihuishu.com
+  - DOMAIN-SUFFIX,zhongkao.com
   - DOMAIN-SUFFIX,zjzs.net
+  - DOMAIN-SUFFIX,zuowen.com
+  - DOMAIN-SUFFIX,zuowen8.com
+  - DOMAIN-SUFFIX,zuowenjun.com
+  - DOMAIN-SUFFIX,zuowenku.net
+  - DOMAIN-SUFFIX,zuowenwang.net
   - DOMAIN-SUFFIX,zxxk.com
   - DOMAIN-SUFFIX,zysn.net

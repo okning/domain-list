@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Wed, 27 May 2026 00:42:45 GMT
-# Total: 707
+# Updated: Thu, 28 May 2026 00:39:11 GMT
+# Total: 711
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,13a.com
@@ -183,6 +183,7 @@ DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dataeye.com
 DOMAIN-SUFFIX,ddmogo.com
 DOMAIN-SUFFIX,debugmode.cn
+DOMAIN-SUFFIX,diyring.cc
 DOMAIN-SUFFIX,dmzj.com
 DOMAIN-SUFFIX,dobest.com
 DOMAIN-SUFFIX,dongdianqiu.com
@@ -447,6 +448,9 @@ DOMAIN-SUFFIX,kujiang.com
 DOMAIN-SUFFIX,kumiao.com
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,kuyin123.com
+DOMAIN-SUFFIX,kuyinxiu.com
+DOMAIN-SUFFIX,kuyinyun.com
 DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com

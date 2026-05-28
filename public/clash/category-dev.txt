@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-dev.txt
 # Name: category-dev
-# Updated: Wed, 27 May 2026 00:42:45 GMT
-# Total: 569
+# Updated: Thu, 28 May 2026 00:39:11 GMT
+# Total: 577
 
 payload:
   - DOMAIN-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
@@ -115,6 +115,7 @@ payload:
   - DOMAIN,dtlgalleryint.cloudapp.net
   - DOMAIN-SUFFIX,ecr.aws
   - DOMAIN-SUFFIX,electronjs.org
+  - DOMAIN-SUFFIX,elementary.io
   - DOMAIN-SUFFIX,elixir-lang.org
   - DOMAIN-SUFFIX,elrepo.org
   - DOMAIN-SUFFIX,embed.ly
@@ -225,6 +226,7 @@ payload:
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,gitlab.net
+  - DOMAIN-SUFFIX,gnome.org
   - DOMAIN-SUFFIX,gnu.org
   - DOMAIN-SUFFIX,go-lang.com
   - DOMAIN-SUFFIX,go-lang.net
@@ -275,6 +277,7 @@ payload:
   - DOMAIN-SUFFIX,jwt.ms
   - DOMAIN-SUFFIX,k8s.io
   - DOMAIN-SUFFIX,kali.org
+  - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,kernel.org
   - DOMAIN-SUFFIX,kotlinlang.org
   - DOMAIN-SUFFIX,kubernetes.io
@@ -290,6 +293,7 @@ payload:
   - DOMAIN-SUFFIX,linuxfromscratch.org
   - DOMAIN-SUFFIX,linuxmint.com
   - DOMAIN-SUFFIX,lua.org
+  - DOMAIN-SUFFIX,lxqt-project.org
   - DOMAIN-SUFFIX,macosforge.org
   - DOMAIN-SUFFIX,macports.org
   - DOMAIN-SUFFIX,macruby.com
@@ -297,6 +301,7 @@ payload:
   - DOMAIN-SUFFIX,macruby.org
   - DOMAIN-SUFFIX,makeitopen.com
   - DOMAIN-SUFFIX,mariadb.org
+  - DOMAIN-SUFFIX,mate-desktop.org
   - DOMAIN-SUFFIX,mathoverflow.net
   - DOMAIN-SUFFIX,mcr.microsoft.com
   - DOMAIN-SUFFIX,mcrouter.net
@@ -382,6 +387,7 @@ payload:
   - DOMAIN-SUFFIX,php.net
   - DOMAIN-SUFFIX,piwheels.org
   - DOMAIN-SUFFIX,pkgbuild.com
+  - DOMAIN-SUFFIX,plasma-mobile.org
   - DOMAIN-SUFFIX,playerjs.io
   - DOMAIN-SUFFIX,playgrounds-cdn.apple.com
   - DOMAIN-SUFFIX,polymer-project.org
@@ -505,6 +511,7 @@ payload:
   - DOMAIN-SUFFIX,swift.org
   - DOMAIN-SUFFIX,swiftui.cn
   - DOMAIN-SUFFIX,swiftui.com.cn
+  - DOMAIN-SUFFIX,system76.com
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,termius.com
   - DOMAIN-SUFFIX,termux.com
@@ -567,6 +574,7 @@ payload:
   - DOMAIN-SUFFIX,wpewebkit.org
   - DOMAIN-SUFFIX,x.org
   - DOMAIN-SUFFIX,xamarin.com
+  - DOMAIN-SUFFIX,xfce.org
   - DOMAIN-SUFFIX,xposed.info
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,yogalayout.com

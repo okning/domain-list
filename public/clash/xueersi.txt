@@ -1,9 +1,18 @@
 # URL: https://s.nosec.me/clash/xueersi.txt
 # Name: xueersi
-# Updated: Wed, 27 May 2026 00:42:45 GMT
-# Total: 3
+# Updated: Thu, 28 May 2026 00:39:11 GMT
+# Total: 12
 
 payload:
+  - DOMAIN-SUFFIX,100tal.com
+  - DOMAIN-SUFFIX,aoshu.com
+  - DOMAIN-SUFFIX,eduu.com
+  - DOMAIN-SUFFIX,eduuu.com
+  - DOMAIN-SUFFIX,gaokao.com
   - DOMAIN-SUFFIX,speiyou.com
+  - DOMAIN-SUFFIX,tal.com
   - DOMAIN-SUFFIX,xesimg.com
   - DOMAIN-SUFFIX,xueersi.com
+  - DOMAIN-SUFFIX,youjiao.com
+  - DOMAIN-SUFFIX,zhongkao.com
+  - DOMAIN-SUFFIX,zuowen.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ru.txt
 # Name: category-ru
-# Updated: Wed, 27 May 2026 00:42:45 GMT
-# Total: 640
+# Updated: Thu, 28 May 2026 00:39:11 GMT
+# Total: 641
 
 DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,2gis.ae
@@ -356,6 +356,7 @@ DOMAIN-SUFFIX,pvubank.com
 DOMAIN-SUFFIX,pz.help
 DOMAIN-SUFFIX,rabbitcounter.com
 DOMAIN-SUFFIX,rabota.by
+DOMAIN-SUFFIX,reso-med.com
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,rocketozon.by
