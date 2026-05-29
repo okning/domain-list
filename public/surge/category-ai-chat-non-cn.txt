@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ai-chat-non-cn.txt
 # Name: category-ai-chat-non-cn
-# Updated: Thu, 28 May 2026 00:39:11 GMT
-# Total: 154
+# Updated: Fri, 29 May 2026 00:45:28 GMT
+# Total: 155
 
 # REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN-SUFFIX,agentclientprotocol.com
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN,antigravity.googleapis.com
 DOMAIN-SUFFIX,anythingllm.com
+DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,cerebras.ai

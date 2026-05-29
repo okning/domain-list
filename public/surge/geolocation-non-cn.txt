@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Thu, 28 May 2026 00:39:11 GMT
-# Total: 25630
+# Updated: Fri, 29 May 2026 00:45:28 GMT
+# Total: 25631
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -2383,6 +2383,7 @@ DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,area120.com
 DOMAIN-SUFFIX,area51.to
+DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,arewereadyyet.com
 DOMAIN-SUFFIX,areyoucreditwise.com
 DOMAIN-SUFFIX,argo-bdp.com
