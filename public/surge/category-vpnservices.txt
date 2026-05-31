@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-vpnservices.txt
 # Name: category-vpnservices
-# Updated: Sat, 30 May 2026 00:41:10 GMT
+# Updated: Sun, 31 May 2026 00:44:35 GMT
 # Total: 66
 
 DOMAIN-SUFFIX,928.plus

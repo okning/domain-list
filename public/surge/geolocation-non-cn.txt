@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Sat, 30 May 2026 00:41:10 GMT
-# Total: 25631
+# Updated: Sun, 31 May 2026 00:44:35 GMT
+# Total: 25633
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -13849,6 +13849,7 @@ DOMAIN-SUFFIX,livesketchshare.com
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,livexxx.me
 DOMAIN-SUFFIX,livingyourambition.com
+DOMAIN-SUFFIX,livinno.org
 DOMAIN-SUFFIX,livrariart.com.br
 DOMAIN-SUFFIX,lizardporn.com
 DOMAIN-SUFFIX,lizol.co.in
@@ -17031,6 +17032,7 @@ DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,ootbstudio.co.kr
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,op7979.com
+DOMAIN-SUFFIX,opac-project.eu
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openamt.com
 DOMAIN-SUFFIX,openapiplatform.com

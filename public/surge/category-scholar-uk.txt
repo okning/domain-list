@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-scholar-uk.txt
 # Name: category-scholar-uk
-# Updated: Sat, 30 May 2026 00:41:10 GMT
-# Total: 36
+# Updated: Sun, 31 May 2026 00:44:35 GMT
+# Total: 38
 
 DOMAIN-SUFFIX,ac.uk
 DOMAIN-SUFFIX,amamanualofstyle.com
@@ -15,8 +15,10 @@ DOMAIN-SUFFIX,dlib.eastview.com
 DOMAIN-SUFFIX,epigeum.com
 DOMAIN,imperial.insendi.com
 DOMAIN-SUFFIX,imperialbusiness.school
+DOMAIN-SUFFIX,livinno.org
 DOMAIN-SUFFIX,oed.com
 DOMAIN-SUFFIX,omscr.com
+DOMAIN-SUFFIX,opac-project.eu
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,ouplaw.com
 DOMAIN-SUFFIX,oxfordaasc.com

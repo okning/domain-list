@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-bank-jp.txt
 # Name: category-bank-jp
-# Updated: Sat, 30 May 2026 00:41:10 GMT
+# Updated: Sun, 31 May 2026 00:44:35 GMT
 # Total: 84
 
 payload:

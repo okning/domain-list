@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/uoliv.txt
+# Name: uoliv
+# Updated: Sun, 31 May 2026 00:44:35 GMT
+# Total: 4
+
+payload:
+  - DOMAIN-SUFFIX,liv.ac.uk
+  - DOMAIN-SUFFIX,liverpool.ac.uk
+  - DOMAIN-SUFFIX,livinno.org
+  - DOMAIN-SUFFIX,opac-project.eu
