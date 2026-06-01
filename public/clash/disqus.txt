@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/disqus.txt
 # Name: disqus
-# Updated: Sun, 31 May 2026 00:44:35 GMT
-# Total: 3
+# Updated: Mon, 01 Jun 2026 00:46:48 GMT
+# Total: 4
 
 payload:
+  - DOMAIN-SUFFIX,disq.us
   - DOMAIN-SUFFIX,disqus.com
   - DOMAIN-SUFFIX,disquscdn.com
   - DOMAIN-SUFFIX,disqusservice.com

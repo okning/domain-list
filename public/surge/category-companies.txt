@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Sun, 31 May 2026 00:44:35 GMT
-# Total: 7723
+# Updated: Mon, 01 Jun 2026 00:46:48 GMT
+# Total: 7724
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -5255,6 +5255,7 @@ DOMAIN-SUFFIX,movidius.net
 DOMAIN-SUFFIX,movidius.org
 DOMAIN-SUFFIX,movika.com
 DOMAIN-SUFFIX,mozgcp.net
+DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community

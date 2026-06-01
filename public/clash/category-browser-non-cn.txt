@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-browser-non-cn.txt
 # Name: category-browser-non-cn
-# Updated: Sun, 31 May 2026 00:44:35 GMT
-# Total: 29
+# Updated: Mon, 01 Jun 2026 00:46:48 GMT
+# Total: 30
 
 payload:
   - DOMAIN-SUFFIX,basilisk-browser.org
@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,kmeleonbrowser.org
   - DOMAIN-SUFFIX,librewolf.net
   - DOMAIN-SUFFIX,minbrowser.org
+  - DOMAIN,mozilla-ohttp.fastly-edge.com
   - DOMAIN-SUFFIX,netsurf-browser.org
   - DOMAIN-SUFFIX,opera.com
   - DOMAIN-SUFFIX,palemoon.org

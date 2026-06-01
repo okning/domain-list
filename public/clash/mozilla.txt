@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/mozilla.txt
 # Name: mozilla
-# Updated: Sun, 31 May 2026 00:44:35 GMT
-# Total: 22
+# Updated: Mon, 01 Jun 2026 00:46:48 GMT
+# Total: 23
 
 payload:
   - DOMAIN-SUFFIX,bugzilla.org
@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,mdnplay.dev
   - DOMAIN-SUFFIX,mdnyalp.dev
   - DOMAIN-SUFFIX,mozgcp.net
+  - DOMAIN,mozilla-ohttp.fastly-edge.com
   - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community

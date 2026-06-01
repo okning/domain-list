@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-betting-ru.txt
 # Name: category-betting-ru
-# Updated: Sun, 31 May 2026 00:44:35 GMT
+# Updated: Mon, 01 Jun 2026 00:46:48 GMT
 # Total: 13
 
 DOMAIN-SUFFIX,betboom.ru

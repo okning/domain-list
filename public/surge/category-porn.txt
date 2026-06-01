@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-porn.txt
 # Name: category-porn
-# Updated: Sun, 31 May 2026 00:44:35 GMT
-# Total: 6658
+# Updated: Mon, 01 Jun 2026 00:46:48 GMT
+# Total: 6662
 
 # REGEXP,(^|\.)[1-5]gaoap\.com$
 # REGEXP,(^|\.)[1-9]+aipai\.(com|net)$
@@ -6162,10 +6162,14 @@ DOMAIN-SUFFIX,xhamster.xxx
 DOMAIN-SUFFIX,xhamster18.com
 DOMAIN-SUFFIX,xhamster18.desi
 DOMAIN-SUFFIX,xhamster19.com
+DOMAIN-SUFFIX,xhamster2.com
 DOMAIN-SUFFIX,xhamster3.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhnews.live
 DOMAIN-SUFFIX,xhot.pro
+DOMAIN-SUFFIX,xhpingcdn.com
+DOMAIN-SUFFIX,xhreal5.com
 DOMAIN-SUFFIX,xhub.tv
 DOMAIN-SUFFIX,xiangrikui-app.com
 DOMAIN-SUFFIX,xianir.xyz
