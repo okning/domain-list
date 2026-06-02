@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/bmw.txt
 # Name: bmw
-# Updated: Mon, 01 Jun 2026 00:46:48 GMT
+# Updated: Tue, 02 Jun 2026 00:48:01 GMT
 # Total: 729
 
 payload:

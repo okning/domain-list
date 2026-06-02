@@ -1,11 +1,15 @@
 # URL: https://s.nosec.me/clash/chinanews.txt
 # Name: chinanews
-# Updated: Mon, 01 Jun 2026 00:46:48 GMT
-# Total: 5
+# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Total: 9
 
 payload:
   - DOMAIN-SUFFIX,chinanews.com
   - DOMAIN-SUFFIX,chinanews.com.cn
+  - DOMAIN-SUFFIX,chinaqw.com
   - DOMAIN-SUFFIX,cns.com.cn
+  - DOMAIN-SUFFIX,cnsimg.net
   - DOMAIN-SUFFIX,ecns.cn
   - DOMAIN-SUFFIX,inewsweek.cn
+  - DOMAIN-SUFFIX,jwview.com
+  - DOMAIN-SUFFIX,xinmeng.info

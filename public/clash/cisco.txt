@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/cisco.txt
 # Name: cisco
-# Updated: Mon, 01 Jun 2026 00:46:48 GMT
+# Updated: Tue, 02 Jun 2026 00:48:01 GMT
 # Total: 121
 
 payload:

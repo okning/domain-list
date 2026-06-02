@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-media-cn.txt
 # Name: category-media-cn
-# Updated: Mon, 01 Jun 2026 00:46:48 GMT
-# Total: 303
+# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Total: 308
 
 payload:
   - DOMAIN-SUFFIX,0033.cn
@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,chinanews.com
   - DOMAIN-SUFFIX,chinanews.com.cn
   - DOMAIN-SUFFIX,chinaott.com
+  - DOMAIN-SUFFIX,chinaqw.com
   - DOMAIN-SUFFIX,citv.net.cn
   - DOMAIN-SUFFIX,ckxx.net
   - DOMAIN-SUFFIX,cls.cn
@@ -57,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,cnms.net.cn
   - DOMAIN-SUFFIX,cnr.cn
   - DOMAIN-SUFFIX,cns.com.cn
+  - DOMAIN-SUFFIX,cnsimg.net
   - DOMAIN-SUFFIX,cnstock.com
   - DOMAIN-SUFFIX,cntv.cn
   - DOMAIN-SUFFIX,cntv.com.cn
@@ -154,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,jrjimg.cn
   - DOMAIN-SUFFIX,jsbc.com
   - DOMAIN-SUFFIX,jstv.com
+  - DOMAIN-SUFFIX,jwview.com
   - DOMAIN-SUFFIX,jxnews.com.cn
   - DOMAIN-SUFFIX,jxpp.com
   - DOMAIN-SUFFIX,jztvnews.com
@@ -178,6 +181,7 @@ payload:
   - DOMAIN-SUFFIX,nbd.com.cn
   - DOMAIN-SUFFIX,neweekly.com.cn
   - DOMAIN-SUFFIX,news.cn
+  - DOMAIN-SUFFIX,newsimg.cn
   - DOMAIN-SUFFIX,ofweek.com
   - DOMAIN-SUFFIX,olympicchannelchina.cn
   - DOMAIN-SUFFIX,ottcn.com
@@ -274,6 +278,7 @@ payload:
   - DOMAIN-SUFFIX,xilu.com
   - DOMAIN-SUFFIX,xinhuanet.com
   - DOMAIN-SUFFIX,xinhuaxmt.com
+  - DOMAIN-SUFFIX,xinmeng.info
   - DOMAIN-SUFFIX,xinyan.cn
   - DOMAIN-SUFFIX,xkb.com.cn
   - DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn

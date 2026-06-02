@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/cn.txt
 # Name: cn
-# Updated: Mon, 01 Jun 2026 00:46:48 GMT
-# Total: 5567
+# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Total: 5572
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -1148,6 +1148,7 @@ payload:
   - DOMAIN-SUFFIX,chinapost-life.com
   - DOMAIN-SUFFIX,chinapp.net
   - DOMAIN-SUFFIX,chinapubmed.net
+  - DOMAIN-SUFFIX,chinaqw.com
   - DOMAIN-SUFFIX,chinaso.com
   - DOMAIN-SUFFIX,chinasspp.com
   - DOMAIN-SUFFIX,chinatelecom-h.com
@@ -1334,6 +1335,7 @@ payload:
   - DOMAIN-SUFFIX,cnmstl.net
   - DOMAIN-SUFFIX,cnpsec.com
   - DOMAIN-SUFFIX,cnsciedu.com
+  - DOMAIN-SUFFIX,cnsimg.net
   - DOMAIN-SUFFIX,cnstock.com
   - DOMAIN-SUFFIX,cnsuning.com
   - DOMAIN-SUFFIX,cnthinkers.com
@@ -2936,6 +2938,7 @@ payload:
   - DOMAIN-SUFFIX,juxia.com
   - DOMAIN-SUFFIX,juxieyun.com
   - DOMAIN-SUFFIX,juziwulian.com
+  - DOMAIN-SUFFIX,jwview.com
   - DOMAIN-SUFFIX,jxedt.com
   - DOMAIN-SUFFIX,jxksw.net
   - DOMAIN-SUFFIX,jxpp.com
@@ -4494,6 +4497,7 @@ payload:
   - DOMAIN-SUFFIX,tianqistatic.com
   - DOMAIN-SUFFIX,tianshucup.com
   - DOMAIN-SUFFIX,tianxiajiameng.com
+  - DOMAIN-SUFFIX,tianya.net
   - DOMAIN-SUFFIX,tianyancha.com
   - DOMAIN-SUFFIX,tiapi.net
   - DOMAIN-SUFFIX,tidaas.com
@@ -5132,6 +5136,7 @@ payload:
   - DOMAIN-SUFFIX,xingyeai.com
   - DOMAIN-SUFFIX,xinhuanet.com
   - DOMAIN-SUFFIX,xinhuaxmt.com
+  - DOMAIN-SUFFIX,xinmeng.info
   - DOMAIN-SUFFIX,xinrenxinshi.com
   - DOMAIN-SUFFIX,xinshipu.com
   - DOMAIN-SUFFIX,xinwuji.com

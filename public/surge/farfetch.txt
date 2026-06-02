@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/farfetch.txt
 # Name: farfetch
-# Updated: Mon, 01 Jun 2026 00:46:48 GMT
+# Updated: Tue, 02 Jun 2026 00:48:01 GMT
 # Total: 8
 
 DOMAIN-SUFFIX,farfetch-apps.com
