@@ -1,7 +1,0 @@
-# URL: https://s.nosec.me/clash/9game.txt
-# Name: 9game
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
-# Total: 1
-
-payload:
-  - DOMAIN-SUFFIX,9game.cn

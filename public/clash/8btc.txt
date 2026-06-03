@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/8btc.txt
 # Name: 8btc
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 5
 
 payload:

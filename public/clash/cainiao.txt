@@ -1,11 +1,15 @@
 # URL: https://s.nosec.me/clash/cainiao.txt
 # Name: cainiao
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
-# Total: 5
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Total: 9
 
 payload:
+  - DOMAIN-SUFFIX,56xiniao.com
   - DOMAIN-SUFFIX,cainiao-inc.com
   - DOMAIN-SUFFIX,cainiao.com
   - DOMAIN-SUFFIX,cainiao.com.cn
   - DOMAIN-SUFFIX,cainiaoyizhan.com
+  - DOMAIN-SUFFIX,danniao.com
+  - DOMAIN-SUFFIX,dianwoda.cn
+  - DOMAIN-SUFFIX,dianwoda.com
   - DOMAIN-SUFFIX,guoguo-app.com

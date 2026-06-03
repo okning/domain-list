@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/kuaishou.txt
 # Name: kuaishou
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
-# Total: 20
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Total: 21
 
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adkwai.com
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,inkuai.com
 DOMAIN-SUFFIX,inkwai.com
 DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,kskwai.com
+DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,kuaishou.cn
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,kuaishouapps.com

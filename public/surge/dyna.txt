@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/dyna.txt
 # Name: dyna
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 5
 
 DOMAIN-SUFFIX,dynacw.co.jp

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-games-cn.txt
 # Name: category-games-cn
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
-# Total: 233
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Total: 237
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,9xgame.com
   - DOMAIN-SUFFIX,abdf002.com
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aligames.com
   - DOMAIN-SUFFIX,anticheatexpert.com
   - DOMAIN-SUFFIX,appeeres.com
   - DOMAIN-SUFFIX,arcaea.cn
@@ -112,11 +113,14 @@ payload:
   - DOMAIN-SUFFIX,ihykb.com
   - DOMAIN-SUFFIX,img4399.com
   - DOMAIN-SUFFIX,in.th
+  - DOMAIN-SUFFIX,jiaoyimao.cn
+  - DOMAIN-SUFFIX,jiaoyimao.com
   - DOMAIN-SUFFIX,juequling.com
   - DOMAIN-SUFFIX,kurogames.com
   - DOMAIN-SUFFIX,labycore.cn
   - DOMAIN-SUFFIX,langrenclub.com
   - DOMAIN-SUFFIX,ledu.com
+  - DOMAIN-SUFFIX,lingxigames.com
   - DOMAIN-SUFFIX,longtugame.com
   - DOMAIN-SUFFIX,ludosuperstar.cn
   - DOMAIN-SUFFIX,ludoworld.net

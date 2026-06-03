@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/adguard.txt
 # Name: adguard
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 18
 
 DOMAIN-SUFFIX,adguard-dns.com

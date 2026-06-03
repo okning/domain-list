@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games.txt
 # Name: category-games
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
-# Total: 1052
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Total: 1056
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 # REGEXP,^cdn-akamai-.+\.gog-services\.com$
@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,acesofthunder.net
 DOMAIN-SUFFIX,activematter.game
 DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,amiibo.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
@@ -371,6 +372,8 @@ DOMAIN-SUFFIX,industrialtoys.com
 DOMAIN-SUFFIX,instituteofwar.org
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
+DOMAIN-SUFFIX,jiaoyimao.cn
+DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,juequling.com
@@ -415,6 +418,7 @@ DOMAIN-SUFFIX,learnwithleague.com
 DOMAIN-SUFFIX,ledu.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
+DOMAIN-SUFFIX,lingxigames.com
 DOMAIN-SUFFIX,lol-europe.com
 DOMAIN-SUFFIX,lolclub.org
 DOMAIN-SUFFIX,lolespor.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/tube8.txt
 # Name: tube8
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,tube8.com

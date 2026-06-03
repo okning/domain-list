@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/4plebs.txt
 # Name: 4plebs
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,4pcdn.org

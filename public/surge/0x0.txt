@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/0x0.txt
 # Name: 0x0
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,0x0.st

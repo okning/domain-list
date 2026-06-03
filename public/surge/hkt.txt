@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/hkt.txt
 # Name: hkt
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 12
 
 DOMAIN-SUFFIX,1010.com.hk

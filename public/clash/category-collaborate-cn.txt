@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-collaborate-cn.txt
 # Name: category-collaborate-cn
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 26
 
 payload:

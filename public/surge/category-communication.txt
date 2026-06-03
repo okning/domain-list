@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-communication.txt
 # Name: category-communication
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
-# Total: 147
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Total: 148
 
 DOMAIN-SUFFIX,adsgram.ai
 DOMAIN-SUFFIX,airhorn.solutions
@@ -126,6 +126,7 @@ DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,temp-mail.org
 DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,toncenter.com
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,ui-portal.de
 DOMAIN-SUFFIX,uicdn.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/temp-mail.txt
 # Name: temp-mail
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,temp-mail.org

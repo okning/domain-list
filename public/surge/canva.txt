@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/canva.txt
 # Name: canva
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
 # Total: 6
 
 DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com

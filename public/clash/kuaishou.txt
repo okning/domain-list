@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/kuaishou.txt
 # Name: kuaishou
-# Updated: Tue, 02 Jun 2026 00:48:01 GMT
-# Total: 20
+# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Total: 21
 
 payload:
   - DOMAIN-SUFFIX,adbkwai.com
@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,inkwai.com
   - DOMAIN-SUFFIX,ksapisrv.com
   - DOMAIN-SUFFIX,kskwai.com
+  - DOMAIN-SUFFIX,kspkg.com
   - DOMAIN-SUFFIX,kuaishou.cn
   - DOMAIN-SUFFIX,kuaishou.com
   - DOMAIN-SUFFIX,kuaishouapps.com
