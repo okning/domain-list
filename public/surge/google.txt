@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/google.txt
 # Name: google
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
-# Total: 874
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Total: 869
 
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
@@ -14,7 +14,6 @@ DOMAIN,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN,2mdn.net
 DOMAIN-SUFFIX,466453.com
-DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,admeld.com
 DOMAIN-SUFFIX,admob-cn.com
@@ -28,7 +27,6 @@ DOMAIN-SUFFIX,advertiserscommunity.com
 DOMAIN-SUFFIX,adwords-community.com
 DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
-DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android.com
@@ -179,7 +177,6 @@ DOMAIN-SUFFIX,dataliberation.org
 DOMAIN-SUFFIX,dclk
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,debugproject.com
-DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deps.dev
 DOMAIN-SUFFIX,deps.info
@@ -540,7 +537,6 @@ DOMAIN-SUFFIX,gstaticcnapps.cn
 DOMAIN-SUFFIX,gsuite.com
 DOMAIN,gtm.oasisfeng.com
 DOMAIN-SUFFIX,guge
-DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt1.com
@@ -650,6 +646,7 @@ DOMAIN-SUFFIX,stxmosquitoproject.com
 DOMAIN-SUFFIX,stxmosquitoproject.net
 DOMAIN-SUFFIX,stxmosquitoproject.org
 DOMAIN-SUFFIX,synergyse.com
+DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,thecleversense.com
@@ -669,13 +666,11 @@ DOMAIN-SUFFIX,usvimosquitoproject.com
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 DOMAIN-SUFFIX,velostrata.com
-DOMAIN-SUFFIX,verily.com
 DOMAIN-SUFFIX,verilylifesciences.com
 DOMAIN-SUFFIX,verilystudyhub.com
 DOMAIN-SUFFIX,verilystudywatch.com
 DOMAIN-SUFFIX,verilystudywatch.org
 DOMAIN-SUFFIX,wallet.com
-DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,waze.com
 DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,web.dev

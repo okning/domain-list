@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/bilibili.txt
 # Name: bilibili
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
-# Total: 50
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Total: 52
 
 payload:
   - DOMAIN-SUFFIX,acg.tv
@@ -50,7 +50,9 @@ payload:
   - DOMAIN-SUFFIX,hdslb.org
   - DOMAIN-SUFFIX,huasheng.cn
   - DOMAIN-SUFFIX,im9.com
+  - DOMAIN-SUFFIX,maoer.com
   - DOMAIN-SUFFIX,maoercdn.com
   - DOMAIN-SUFFIX,mincdn.com
+  - DOMAIN-SUFFIX,missevan.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,yo9.com

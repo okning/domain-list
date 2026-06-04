@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
-# Total: 728
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Total: 730
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,11222.cn
@@ -493,6 +493,7 @@ DOMAIN-SUFFIX,mahjongcup.com
 DOMAIN-SUFFIX,mahjongcup.net
 DOMAIN-SUFFIX,mail4399.com
 DOMAIN-SUFFIX,maindown4399.com
+DOMAIN-SUFFIX,maoer.com
 DOMAIN-SUFFIX,maoercdn.com
 DOMAIN-SUFFIX,max-c.com
 DOMAIN-SUFFIX,maxadmin.cn
@@ -512,6 +513,7 @@ DOMAIN-SUFFIX,mihoyocg.com
 DOMAIN-SUFFIX,mihoyogift.com
 DOMAIN-SUFFIX,mihoyomall.com
 DOMAIN-SUFFIX,mincdn.com
+DOMAIN-SUFFIX,missevan.com
 DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mogoo.com
@@ -686,6 +688,7 @@ DOMAIN-SUFFIX,xiaoheihe.cn
 DOMAIN-SUFFIX,xiaoyuzhoufm.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xindong.com
+DOMAIN-SUFFIX,xinlishumeng.com
 DOMAIN-SUFFIX,xinwuji.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
@@ -728,6 +731,5 @@ DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhulang.com
 DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,zhuoyuegame.com
-DOMAIN-SUFFIX,zimgs.cn
 DOMAIN-SUFFIX,zjshulong.com
 DOMAIN-SUFFIX,zongheng.com

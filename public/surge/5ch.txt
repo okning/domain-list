@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/5ch.txt
 # Name: 5ch
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,2ch.net

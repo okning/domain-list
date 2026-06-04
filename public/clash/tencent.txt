@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/tencent.txt
 # Name: tencent
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
-# Total: 471
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Total: 492
 
 payload:
   - DOMAIN-SUFFIX,17roco.com
@@ -92,6 +92,7 @@ payload:
   - DOMAIN-SUFFIX,edgeonedy1.com
   - DOMAIN-SUFFIX,essurl.com
   - DOMAIN-SUFFIX,exmailgz.com
+  - DOMAIN-SUFFIX,fanxingliveshow.com
   - DOMAIN-SUFFIX,ffbuddy.com
   - DOMAIN-SUFFIX,foxmail.com
   - DOMAIN-SUFFIX,foxmail.com.cn
@@ -165,6 +166,24 @@ payload:
   - DOMAIN-SUFFIX,itopsdk.com
   - DOMAIN-SUFFIX,ivweb.io
   - DOMAIN-SUFFIX,jrzk.net.cn
+  - DOMAIN-SUFFIX,kgimg.com
+  - DOMAIN-SUFFIX,kglink.cn
+  - DOMAIN-SUFFIX,koowo.cn
+  - DOMAIN-SUFFIX,koowo.com
+  - DOMAIN-SUFFIX,ktv.com
+  - DOMAIN-SUFFIX,kugoo.com
+  - DOMAIN-SUFFIX,kugou.com
+  - DOMAIN-SUFFIX,kugou.net
+  - DOMAIN-SUFFIX,kugouaudio.com
+  - DOMAIN-SUFFIX,kugouipv6.com
+  - DOMAIN-SUFFIX,kugoukid.com
+  - DOMAIN-SUFFIX,kugouliveshow.com
+  - DOMAIN-SUFFIX,kugouringtone.com
+  - DOMAIN-SUFFIX,kugousenior.com
+  - DOMAIN-SUFFIX,kugoustore.com
+  - DOMAIN-SUFFIX,kugouvoice.com
+  - DOMAIN-SUFFIX,kugouyouth.com
+  - DOMAIN-SUFFIX,kuwo.cn
   - DOMAIN-SUFFIX,labycore.cn
   - DOMAIN-SUFFIX,lrts.me
   - DOMAIN-SUFFIX,ludosuperstar.cn
@@ -457,6 +476,8 @@ payload:
   - DOMAIN-SUFFIX,wxcloudrun.com
   - DOMAIN-SUFFIX,wxgateway.com
   - DOMAIN-SUFFIX,wxlivecdn.com
+  - DOMAIN-SUFFIX,ximalaya.com
+  - DOMAIN-SUFFIX,xmcdn.com
   - DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
   - DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
   - DOMAIN-SUFFIX,xqymuy.com

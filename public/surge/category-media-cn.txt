@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-media-cn.txt
 # Name: category-media-cn
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
-# Total: 308
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Total: 309
 
 DOMAIN-SUFFIX,0033.cn
 DOMAIN-SUFFIX,10jqka.com.cn
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,caixin.com
 DOMAIN-SUFFIX,cankaoxiaoxi.com
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctv4g.com
 DOMAIN-SUFFIX,cctvlib.cn
 DOMAIN-SUFFIX,cctvlib.com.cn
 DOMAIN-SUFFIX,cctvlibrary.cn

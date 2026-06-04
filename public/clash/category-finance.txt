@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-finance.txt
 # Name: category-finance
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
-# Total: 580
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Total: 581
 
 payload:
   - DOMAIN-SUFFIX,114bank.co.jp
@@ -259,6 +259,7 @@ payload:
   - DOMAIN-SUFFIX,jfn.su
   - DOMAIN-SUFFIX,jibunbank.co.jp
   - DOMAIN-SUFFIX,jira-tcsbank.ru
+  - DOMAIN-SUFFIX,jivara.global
   - DOMAIN-SUFFIX,jivo.chat
   - DOMAIN-SUFFIX,jivo.ru
   - DOMAIN-SUFFIX,jivochat.co.in

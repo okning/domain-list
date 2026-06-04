@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/surge/cctv.txt
 # Name: cctv
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
-# Total: 41
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Total: 42
 
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctv4g.com
 DOMAIN-SUFFIX,cctvlib.cn
 DOMAIN-SUFFIX,cctvlib.com.cn
 DOMAIN-SUFFIX,cctvlibrary.cn

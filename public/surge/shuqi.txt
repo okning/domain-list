@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/shuqi.txt
 # Name: shuqi
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
 # Total: 9
 
 DOMAIN-SUFFIX,11222.cn

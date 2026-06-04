@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/n3ro.txt
 # Name: n3ro
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,n3ro.lol

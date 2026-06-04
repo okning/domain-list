@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-browser-non-cn.txt
 # Name: category-browser-non-cn
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
-# Total: 30
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Total: 33
 
 payload:
   - DOMAIN-SUFFIX,basilisk-browser.org
@@ -16,7 +16,10 @@ payload:
   - DOMAIN-SUFFIX,decentr.net
   - DOMAIN-SUFFIX,dothq.org
   - DOMAIN-SUFFIX,epicbrowser.com
+  - DOMAIN-SUFFIX,extendfirefox.com
   - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,firefox.hu
+  - DOMAIN-SUFFIX,firefoxtweetmachine.com
   - DOMAIN-SUFFIX,firefoxusercontent.com
   - DOMAIN-SUFFIX,floorp.app
   - DOMAIN-SUFFIX,iridiumbrowser.de

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/dailymail.txt
 # Name: dailymail
-# Updated: Wed, 03 Jun 2026 00:53:25 GMT
+# Updated: Thu, 04 Jun 2026 00:53:00 GMT
 # Total: 17
 
 DOMAIN-SUFFIX,anm.co.uk
