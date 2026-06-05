@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cabletv.txt
 # Name: cabletv
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
 # Total: 5
 
 DOMAIN-SUFFIX,cabletv.com.hk

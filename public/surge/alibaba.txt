@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/alibaba.txt
 # Name: alibaba
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
-# Total: 333
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Total: 336
 
 DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,1688.com
@@ -328,6 +328,9 @@ DOMAIN-SUFFIX,xin.xin
 DOMAIN-SUFFIX,xinlingshou.cn
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,youkuhonor.com
+DOMAIN-SUFFIX,youkuplay.com
 DOMAIN-SUFFIX,yowhale.com
 DOMAIN-SUFFIX,yunos-inc.com
 DOMAIN-SUFFIX,yunos.com

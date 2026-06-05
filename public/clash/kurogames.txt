@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/kurogames.txt
 # Name: kurogames
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
-# Total: 2
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Total: 3
 
 payload:
   - DOMAIN-SUFFIX,aki-game.com
   - DOMAIN-SUFFIX,kurogames.com
+  - DOMAIN-SUFFIX,kurogames.net

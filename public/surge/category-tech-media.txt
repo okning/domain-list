@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-tech-media.txt
 # Name: category-tech-media
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
 # Total: 25
 
 DOMAIN-SUFFIX,9to5google.com

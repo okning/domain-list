@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
-# Total: 7122
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Total: 7136
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -405,6 +405,8 @@ DOMAIN-SUFFIX,95588.com.cn
 DOMAIN-SUFFIX,962.net
 DOMAIN-SUFFIX,9718.com
 DOMAIN-SUFFIX,97973.com
+DOMAIN-SUFFIX,97ting.com
+DOMAIN-SUFFIX,97ting.com
 DOMAIN-SUFFIX,99166.com
 DOMAIN-SUFFIX,998.com
 DOMAIN-SUFFIX,999d.com
@@ -3972,6 +3974,7 @@ DOMAIN-SUFFIX,kunlunvi.com
 DOMAIN-SUFFIX,kunlunwe.com
 DOMAIN-SUFFIX,kuqin.com
 DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,kurogames.net
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kuyin123.com
@@ -5080,6 +5083,8 @@ DOMAIN-SUFFIX,qqgexingqianming.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqmra.cn
 DOMAIN-SUFFIX,qqmra.com
+DOMAIN-SUFFIX,qqmusic.com
+DOMAIN-SUFFIX,qqmusic.com
 DOMAIN-SUFFIX,qqrizhi.com
 DOMAIN-SUFFIX,qqshuoshuo.com
 DOMAIN-SUFFIX,qschou.com
@@ -5744,6 +5749,7 @@ DOMAIN-SUFFIX,tencentelasticsearch.com
 DOMAIN-SUFFIX,tencentid.com
 DOMAIN-SUFFIX,tencentidentity.com
 DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencentproxy.com
 DOMAIN-SUFFIX,tencentrio.com
 DOMAIN-SUFFIX,tencentstart.com
@@ -5841,6 +5847,8 @@ DOMAIN-SUFFIX,timibase.com
 DOMAIN-SUFFIX,timmerse.com
 DOMAIN-SUFFIX,tingbook.com
 DOMAIN-SUFFIX,tingbook.com
+DOMAIN-SUFFIX,tingmall.com
+DOMAIN-SUFFIX,tingmall.com
 DOMAIN-SUFFIX,tingyun.com
 DOMAIN-SUFFIX,tipdm.org
 DOMAIN-SUFFIX,titanar.com
@@ -6051,6 +6059,8 @@ DOMAIN-SUFFIX,uiwow.com
 DOMAIN-SUFFIX,ule.com
 DOMAIN-SUFFIX,ulecdn.com
 DOMAIN-SUFFIX,ulikecam.com
+DOMAIN-SUFFIX,ultimatemusic.cn
+DOMAIN-SUFFIX,ultimatemusic.cn
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,um.run
@@ -6341,6 +6351,7 @@ DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,weilaicaijing.com
 DOMAIN-SUFFIX,weilaiyunxiao.com
 DOMAIN-SUFFIX,weiphone.net
+DOMAIN-SUFFIX,weishi.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixing.com
@@ -6704,6 +6715,7 @@ DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,ydsys.cn
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,yebaojiasu.com
+DOMAIN-SUFFIX,yebinnet.com
 DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,yeshj.com
@@ -6785,6 +6797,8 @@ DOMAIN-SUFFIX,youjiao.com
 DOMAIN-SUFFIX,youke.co
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youkuhonor.com
+DOMAIN-SUFFIX,youkuhonor.com
 DOMAIN-SUFFIX,youlai.cn
 DOMAIN-SUFFIX,youlian.fun
 DOMAIN-SUFFIX,youpin.cn

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/mini.txt
 # Name: mini
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
 # Total: 214
 
 DOMAIN-SUFFIX,4myminicard.com

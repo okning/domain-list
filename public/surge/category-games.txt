@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games.txt
 # Name: category-games
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
-# Total: 1056
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Total: 1057
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 # REGEXP,^cdn-akamai-.+\.gog-services\.com$
@@ -397,6 +397,7 @@ DOMAIN-SUFFIX,konamisportsclub.jp
 DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,kurogames.net
 DOMAIN-SUFFIX,kyurem.com
 DOMAIN-SUFFIX,labycore.cn
 DOMAIN-SUFFIX,langrenclub.com

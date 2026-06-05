@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-games-cn.txt
 # Name: category-games-cn
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
-# Total: 237
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Total: 238
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -117,6 +117,7 @@ payload:
   - DOMAIN-SUFFIX,jiaoyimao.com
   - DOMAIN-SUFFIX,juequling.com
   - DOMAIN-SUFFIX,kurogames.com
+  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,labycore.cn
   - DOMAIN-SUFFIX,langrenclub.com
   - DOMAIN-SUFFIX,ledu.com

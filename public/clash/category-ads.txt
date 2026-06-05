@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads.txt
 # Name: category-ads
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
-# Total: 842
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Total: 836
 
 payload:
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -64,7 +64,6 @@ payload:
   - DOMAIN-SUFFIX,adashx4yt.m.taobao.com
   - DOMAIN-SUFFIX,adashxgc.ut.taobao.com
   - DOMAIN-SUFFIX,adbehavior.ximalaya.com
-  - DOMAIN-SUFFIX,adbehavior.ximalaya.com
   - DOMAIN-SUFFIX,adbkwai.com
   - DOMAIN,adblogger.vk.com
   - DOMAIN,adblogger.vk.ru
@@ -113,7 +112,6 @@ payload:
   - DOMAIN,ads.rustore.ru
   - DOMAIN-SUFFIX,ads.sber.ru
   - DOMAIN-SUFFIX,ads.service.kugou.com
-  - DOMAIN-SUFFIX,ads.service.kugou.com
   - DOMAIN-SUFFIX,ads.sina.com
   - DOMAIN-SUFFIX,ads.sohu.com
   - DOMAIN-SUFFIX,ads.trafficjunky.net
@@ -145,8 +143,6 @@ payload:
   - DOMAIN-SUFFIX,adsclick.qq.com
   - DOMAIN,adsdk.yandex.ru
   - DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-  - DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-  - DOMAIN-SUFFIX,adse.ximalaya.com
   - DOMAIN-SUFFIX,adse.ximalaya.com
   - DOMAIN-SUFFIX,adsense.com
   - DOMAIN-SUFFIX,adsensecustomsearchads.com
@@ -154,8 +150,6 @@ payload:
   - DOMAIN-SUFFIX,adservice.google.com
   - DOMAIN-SUFFIX,adservice.sigmob.cn
   - DOMAIN-SUFFIX,adserviceretry.kglink.cn
-  - DOMAIN-SUFFIX,adserviceretry.kglink.cn
-  - DOMAIN-SUFFIX,adserviceretry.kugou.com
   - DOMAIN-SUFFIX,adserviceretry.kugou.com
   - DOMAIN-SUFFIX,adsfile.qq.com
   - DOMAIN-SUFFIX,adsgram.ai

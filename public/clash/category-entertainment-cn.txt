@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Thu, 04 Jun 2026 00:53:00 GMT
-# Total: 730
+# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Total: 740
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,71acg.net
   - DOMAIN-SUFFIX,71edge.com
   - DOMAIN-SUFFIX,7k7k.com
+  - DOMAIN-SUFFIX,97ting.com
   - DOMAIN-SUFFIX,9game.cn
   - DOMAIN-SUFFIX,9xgame.com
   - DOMAIN-SUFFIX,9xsecndns.cn
@@ -421,6 +422,7 @@ payload:
   - DOMAIN-SUFFIX,jvcsmart.com.cn
   - DOMAIN-SUFFIX,kajicam.com
   - DOMAIN-SUFFIX,kesong.co
+  - DOMAIN-SUFFIX,kg.qq.com
   - DOMAIN-SUFFIX,kgimg.com
   - DOMAIN-SUFFIX,kglink.cn
   - DOMAIN-SUFFIX,kjcdn.com
@@ -457,6 +459,7 @@ payload:
   - DOMAIN-SUFFIX,kujiang.com
   - DOMAIN-SUFFIX,kumiao.com
   - DOMAIN-SUFFIX,kurogames.com
+  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,kuwo.cn
   - DOMAIN-SUFFIX,kuyin123.com
   - DOMAIN-SUFFIX,kuyinxiu.com
@@ -527,6 +530,7 @@ payload:
   - DOMAIN-SUFFIX,mszdld.net
   - DOMAIN-SUFFIX,mtime.cn
   - DOMAIN-SUFFIX,mtime.com
+  - DOMAIN-SUFFIX,music.qq.com
   - DOMAIN-SUFFIX,muwai.com
   - DOMAIN-SUFFIX,muyewx.com
   - DOMAIN-SUFFIX,my4399.com
@@ -578,6 +582,7 @@ payload:
   - DOMAIN-SUFFIX,qq163.com
   - DOMAIN-SUFFIX,qq163.net
   - DOMAIN-SUFFIX,qqgameapp.com
+  - DOMAIN-SUFFIX,qqmusic.com
   - DOMAIN-SUFFIX,qtfm.cn
   - DOMAIN-SUFFIX,quehu.com
   - DOMAIN-SUFFIX,qy.net
@@ -633,6 +638,7 @@ payload:
   - DOMAIN-SUFFIX,taptapdada.com
   - DOMAIN-SUFFIX,tcfmglobal.com
   - DOMAIN-SUFFIX,tencent-gcloud.com
+  - DOMAIN-SUFFIX,tencentmusic.com
   - DOMAIN-SUFFIX,tencentstart.com
   - DOMAIN-SUFFIX,texasholdemcup.cn
   - DOMAIN-SUFFIX,texasholdemcup.com
@@ -645,6 +651,7 @@ payload:
   - DOMAIN-SUFFIX,tiancitycdn.com
   - DOMAIN-SUFFIX,timibase.com
   - DOMAIN-SUFFIX,tingbook.com
+  - DOMAIN-SUFFIX,tingmall.com
   - DOMAIN-SUFFIX,tudou.com
   - DOMAIN-SUFFIX,tuer123.com
   - DOMAIN-SUFFIX,tuyoo.com
@@ -652,6 +659,7 @@ payload:
   - DOMAIN-SUFFIX,u17i.com
   - DOMAIN-SUFFIX,u17t.com
   - DOMAIN-SUFFIX,ucg.cn
+  - DOMAIN-SUFFIX,ultimatemusic.cn
   - DOMAIN-SUFFIX,ultracachenode.com
   - DOMAIN-SUFFIX,vgtime.com
   - DOMAIN-SUFFIX,videoxiaoyouxi.com
@@ -700,6 +708,7 @@ payload:
   - DOMAIN-SUFFIX,xyzcdn.net
   - DOMAIN-SUFFIX,xyzfm.link
   - DOMAIN-SUFFIX,xyzfm.space
+  - DOMAIN-SUFFIX,y.qq.com
   - DOMAIN-SUFFIX,yamibo.com
   - DOMAIN-SUFFIX,ycgame.com
   - DOMAIN-SUFFIX,yeshen.com
@@ -710,6 +719,7 @@ payload:
   - DOMAIN-SUFFIX,yokaverse.com
   - DOMAIN-SUFFIX,youba.com
   - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,youkuhonor.com
   - DOMAIN-SUFFIX,youxichaguan.com
   - DOMAIN-SUFFIX,youxiputao.com
   - DOMAIN-SUFFIX,youxituoluo.com
