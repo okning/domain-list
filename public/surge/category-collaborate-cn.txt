@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-collaborate-cn.txt
 # Name: category-collaborate-cn
-# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Updated: Sat, 06 Jun 2026 00:43:13 GMT
 # Total: 26
 
 DOMAIN-SUFFIX,asklink.com

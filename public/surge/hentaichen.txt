@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/hentaichen.txt
 # Name: hentaichen
-# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Updated: Sat, 06 Jun 2026 00:43:13 GMT
 # Total: 6
 
 DOMAIN-SUFFIX,h-chan.me

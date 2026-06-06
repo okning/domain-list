@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/ookla-speedtest.txt
 # Name: ookla-speedtest
-# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Updated: Sat, 06 Jun 2026 00:43:13 GMT
 # Total: 14
 
 payload:

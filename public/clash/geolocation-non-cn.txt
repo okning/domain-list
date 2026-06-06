@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Fri, 05 Jun 2026 00:45:57 GMT
-# Total: 25818
+# Updated: Sat, 06 Jun 2026 00:43:13 GMT
+# Total: 25819
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -5435,6 +5435,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clck.ru

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-forums.txt
 # Name: category-forums
-# Updated: Fri, 05 Jun 2026 00:45:57 GMT
-# Total: 98
+# Updated: Sat, 06 Jun 2026 00:43:13 GMT
+# Total: 99
 
 payload:
   - DOMAIN-SUFFIX,18p2p.com
@@ -97,6 +97,7 @@ payload:
   - DOMAIN-SUFFIX,soyjak.party
   - DOMAIN-SUFFIX,soyjak.st
   - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN,www.quora.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,xda-cdn.com
   - DOMAIN-SUFFIX,xda-developers.com
   - DOMAIN-SUFFIX,xdaforums.com

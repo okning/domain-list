@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/youku.txt
 # Name: youku
-# Updated: Fri, 05 Jun 2026 00:45:57 GMT
+# Updated: Sat, 06 Jun 2026 00:43:13 GMT
 # Total: 10
 
 DOMAIN-SUFFIX,9xsecndns.cn
