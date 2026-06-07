@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/cityu-hk.txt
+# Name: cityu-hk
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 4
+
+payload:
+  - DOMAIN-SUFFIX,cityu.edu.hk
+  - DOMAIN-SUFFIX,cityu.hk
+  - DOMAIN-SUFFIX,xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g

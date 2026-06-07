@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 1887
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 1888
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -617,6 +617,7 @@ DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
+DOMAIN,hb.imgix.net
 DOMAIN-SUFFIX,hbo
 DOMAIN-SUFFIX,hbo-europe.com
 DOMAIN-SUFFIX,hbo.ba

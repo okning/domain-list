@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 5658
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 5680
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,17zuoye.com
 DOMAIN-SUFFIX,17zuoye.net
 DOMAIN-SUFFIX,18183.com
 DOMAIN-SUFFIX,188.com
+DOMAIN-SUFFIX,189smarthome.com
 DOMAIN-SUFFIX,1905.com
 DOMAIN-SUFFIX,19yxw.com
 DOMAIN-SUFFIX,1huizhan.com
@@ -419,6 +420,7 @@ DOMAIN-SUFFIX,aiops.com
 DOMAIN-SUFFIX,aipage.com
 DOMAIN-SUFFIX,aipai.com
 DOMAIN-SUFFIX,aiqicha.com
+DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,airchangan.com
 DOMAIN-SUFFIX,airchinacargo.com
 DOMAIN-SUFFIX,airguilin.com
@@ -563,6 +565,7 @@ DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,anycross.com
 DOMAIN-SUFFIX,anytocopy.com
 DOMAIN-SUFFIX,anywlan.com
+DOMAIN-SUFFIX,aocde.com
 DOMAIN-SUFFIX,aoshu.com
 DOMAIN-SUFFIX,aotrip.net
 DOMAIN-SUFFIX,aoyou.com
@@ -1073,6 +1076,7 @@ DOMAIN-SUFFIX,cdnhwczmn114.com
 DOMAIN-SUFFIX,cdnhwczth23.com
 DOMAIN-SUFFIX,cdnhwcztu09.com
 DOMAIN-SUFFIX,cdnhwczxh101.com
+DOMAIN-SUFFIX,cdnmama.com
 DOMAIN-SUFFIX,cdnmg.com
 DOMAIN-SUFFIX,cdntip.com
 DOMAIN-SUFFIX,cdntips.com
@@ -1717,6 +1721,7 @@ DOMAIN-SUFFIX,drp321.com
 DOMAIN-SUFFIX,druid.vip
 DOMAIN-SUFFIX,dtstatic.com
 DOMAIN-SUFFIX,du8.ltd
+DOMAIN-SUFFIX,duanshu.com
 DOMAIN-SUFFIX,duapp.com
 DOMAIN-SUFFIX,duapp.net
 DOMAIN-SUFFIX,duapps.com
@@ -2057,6 +2062,7 @@ DOMAIN-SUFFIX,funshion.com
 DOMAIN-SUFFIX,funshion.net
 DOMAIN-SUFFIX,fuwai.com
 DOMAIN-SUFFIX,fuwj.com
+DOMAIN-SUFFIX,fxbaogao.com
 DOMAIN-SUFFIX,fxt365.com
 DOMAIN-SUFFIX,fxxz.com
 DOMAIN-SUFFIX,fyeds.com
@@ -2363,9 +2369,13 @@ DOMAIN-SUFFIX,hikunpeng.net
 DOMAIN-SUFFIX,hikunpeng.net
 DOMAIN-SUFFIX,hikvision.com
 DOMAIN-SUFFIX,hima.auto
+DOMAIN-SUFFIX,hisense-home.com
+DOMAIN-SUFFIX,hisense.com
 DOMAIN-SUFFIX,hisensehitachi.com
+DOMAIN-SUFFIX,hisensekf.com
 DOMAIN-SUFFIX,hisilicon.com
 DOMAIN-SUFFIX,hisilicon.com
+DOMAIN-SUFFIX,hismarttv.com
 DOMAIN-SUFFIX,hitevision-solutions.com
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hiyd.com
@@ -2531,6 +2541,7 @@ DOMAIN-SUFFIX,ibdxiguastatic.com
 DOMAIN-SUFFIX,ibdxiguavod.com
 DOMAIN-SUFFIX,ibidian.com
 DOMAIN-SUFFIX,ibobscs.com
+DOMAIN-SUFFIX,iboxpay.com
 DOMAIN-SUFFIX,ibuychem.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,ica-alliance.org
@@ -2593,6 +2604,7 @@ DOMAIN-SUFFIX,igetui.com
 DOMAIN-SUFFIX,igexin.com
 DOMAIN-SUFFIX,igtm-meeting-tencent.com
 DOMAIN-SUFFIX,igtm.pub
+DOMAIN-SUFFIX,iguopin.com
 DOMAIN-SUFFIX,igwfmc.com
 DOMAIN-SUFFIX,ihaohaoxuexi.com
 DOMAIN-SUFFIX,ihaohaoxuexi.com
@@ -2910,6 +2922,7 @@ DOMAIN-SUFFIX,jmstatic.com
 DOMAIN-SUFFIX,job5588.com
 DOMAIN-SUFFIX,job910.com
 DOMAIN-SUFFIX,jobjm.com
+DOMAIN-SUFFIX,joinpay.com
 DOMAIN-SUFFIX,jokecommunity.com
 DOMAIN-SUFFIX,jokecommunity.net
 DOMAIN-SUFFIX,jomocdn.net
@@ -2948,6 +2961,7 @@ DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,jugongdan.com
+DOMAIN-SUFFIX,juhaokan.org
 DOMAIN-SUFFIX,juhuasuan.com
 DOMAIN-SUFFIX,juhuiwan.com
 DOMAIN-SUFFIX,juhuiwan.net
@@ -3033,6 +3047,7 @@ DOMAIN-SUFFIX,kk1.vip
 DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,kkzj.com
+DOMAIN-SUFFIX,klingai.com
 DOMAIN-SUFFIX,klpbbs.com
 DOMAIN-SUFFIX,knewsmart.com
 DOMAIN-SUFFIX,kongfz.com
@@ -3222,6 +3237,7 @@ DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,lecloudapi.com
 DOMAIN-SUFFIX,ledu.com
 DOMAIN-SUFFIX,leetcode-cn.com
+DOMAIN-SUFFIX,lehuipay.com
 DOMAIN-SUFFIX,leigod.com
 DOMAIN-SUFFIX,leigodjsq.com
 DOMAIN-SUFFIX,leikeji.com
@@ -3446,6 +3462,7 @@ DOMAIN-SUFFIX,meta.law
 DOMAIN-SUFFIX,metalrevolution.com
 DOMAIN-SUFFIX,metalrevolution.com
 DOMAIN-SUFFIX,mfcteda.com
+DOMAIN-SUFFIX,mfuns.net
 DOMAIN-SUFFIX,mgslb.com
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mhystatic.com
@@ -3651,6 +3668,8 @@ DOMAIN-SUFFIX,nic.xin
 DOMAIN-SUFFIX,nicaifu.com
 DOMAIN-SUFFIX,nihaoafrica.org
 DOMAIN-SUFFIX,ningtingche.com
+DOMAIN-SUFFIX,nio.com
+DOMAIN-SUFFIX,niohome.com
 DOMAIN-SUFFIX,nlark.com
 DOMAIN-SUFFIX,nmrdata.com
 DOMAIN-SUFFIX,nn.com
@@ -4348,6 +4367,7 @@ DOMAIN-SUFFIX,suzuki-china.com
 DOMAIN-SUFFIX,swhysc.com
 DOMAIN-SUFFIX,swsmu.com
 DOMAIN-SUFFIX,sxcxldjy.com
+DOMAIN-SUFFIX,sxlcdn.com
 DOMAIN-SUFFIX,sxsimg.com
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,sys321.com
@@ -5528,6 +5548,7 @@ DOMAIN-SUFFIX,zdnscloud.info
 DOMAIN-SUFFIX,zdnscloud.net
 DOMAIN-SUFFIX,zealer.com
 DOMAIN-SUFFIX,zebracdn.com
+DOMAIN-SUFFIX,zeekrgroup.com
 DOMAIN-SUFFIX,zeekrlife.com
 DOMAIN-SUFFIX,zgbk.com
 DOMAIN-SUFFIX,zgcbank.com
@@ -5584,6 +5605,7 @@ DOMAIN-SUFFIX,zhuanzfx.com
 DOMAIN-SUFFIX,zhuanzhuan.com
 DOMAIN-SUFFIX,zhuayoukong.com
 DOMAIN-SUFFIX,zhubajie.com
+DOMAIN-SUFFIX,zhuge.com
 DOMAIN-SUFFIX,zhulang.com
 DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,zhuoyuegame.com

@@ -1,0 +1,14 @@
+# URL: https://s.nosec.me/clash/cuhk.txt
+# Name: cuhk
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 8
+
+payload:
+  - DOMAIN-SUFFIX,cuhk.edu.hk
+  - DOMAIN-SUFFIX,cuhk.hk
+  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
+  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--mxtq18a.hk
+  - DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g

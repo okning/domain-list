@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-automobile-cn.txt
 # Name: category-automobile-cn
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 36
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 39
 
 payload:
   - DOMAIN-SUFFIX,12365auto.com
@@ -33,10 +33,13 @@ payload:
   - DOMAIN-SUFFIX,izuchebao.com
   - DOMAIN-SUFFIX,lixiang.com
   - DOMAIN-SUFFIX,nio.cn
+  - DOMAIN-SUFFIX,nio.com
+  - DOMAIN-SUFFIX,niohome.com
   - DOMAIN-SUFFIX,wkzuche.com
   - DOMAIN-SUFFIX,xiaopeng.com
   - DOMAIN-SUFFIX,yccdn.com
   - DOMAIN-SUFFIX,yiche.com
+  - DOMAIN-SUFFIX,zeekrgroup.com
   - DOMAIN-SUFFIX,zeekrlife.com
   - DOMAIN-SUFFIX,zuche.com
   - DOMAIN-SUFFIX,zuchecdn.com

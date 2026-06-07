@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/polyu.txt
+# Name: polyu
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,cpce-polyu.edu.hk
+DOMAIN-SUFFIX,hkcc-polyu.edu.hk
+DOMAIN-SUFFIX,polyu.edu.hk
+DOMAIN-SUFFIX,polyu.hk
+DOMAIN-SUFFIX,speed-polyu.edu.hk

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/steam.txt
 # Name: steam
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
 # Total: 53
 
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net

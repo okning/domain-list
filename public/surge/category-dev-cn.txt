@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-dev-cn.txt
 # Name: category-dev-cn
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 134
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 136
 
 DOMAIN-SUFFIX,51changxie.com
 DOMAIN-SUFFIX,51jianxie.cn
@@ -97,6 +97,7 @@ DOMAIN,p7-juejin.byteimg.com
 DOMAIN,p8-juejin.byteimg.com
 DOMAIN,p9-juejin.byteimg.com
 DOMAIN-SUFFIX,pgyer.com
+DOMAIN-SUFFIX,php.cn
 DOMAIN-SUFFIX,phpweblog.net
 DOMAIN-SUFFIX,pingcap.cn
 DOMAIN-SUFFIX,pingcap.com
@@ -113,6 +114,7 @@ DOMAIN-SUFFIX,sifou.com
 DOMAIN-SUFFIX,sndu.cn
 DOMAIN-SUFFIX,sxl.cn
 DOMAIN-SUFFIX,sxlcdn.cn
+DOMAIN-SUFFIX,sxlcdn.com
 DOMAIN-SUFFIX,teachblog.net
 DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,tencent-cloud.cn

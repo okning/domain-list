@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/chinaunicom.txt
 # Name: chinaunicom
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
 # Total: 23
 
 DOMAIN-SUFFIX,10010.com

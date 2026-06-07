@@ -1,0 +1,13 @@
+# URL: https://s.nosec.me/surge/hkbu.txt
+# Name: hkbu
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 8
+
+DOMAIN-SUFFIX,hkbu.edu.hk
+DOMAIN-SUFFIX,hkbu.hk
+DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
+DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
+DOMAIN-SUFFIX,xn--gdt08a.hk
+DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
+DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
+DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g

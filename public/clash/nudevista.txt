@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/nudevista.txt
 # Name: nudevista
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
 # Total: 4
 
 payload:

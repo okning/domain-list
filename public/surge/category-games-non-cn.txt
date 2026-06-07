@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games-non-cn.txt
 # Name: category-games-non-cn
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 821
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 822
 
 # REGEXP,^cdn-akamai-.+\.gog-services\.com$
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
@@ -247,6 +247,7 @@ DOMAIN-SUFFIX,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,hackyourconsole.com
 DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
+DOMAIN,hb.imgix.net
 DOMAIN-SUFFIX,heroesofdragonage.com
 DOMAIN-SUFFIX,heroesofthestorm.com
 DOMAIN-SUFFIX,historyofdota.com

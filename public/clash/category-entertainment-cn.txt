@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 740
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 742
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -505,6 +505,7 @@ payload:
   - DOMAIN-SUFFIX,me4399.com
   - DOMAIN-SUFFIX,metalrevolution.com
   - DOMAIN-SUFFIX,mfuns.cn
+  - DOMAIN-SUFFIX,mfuns.net
   - DOMAIN-SUFFIX,mgtv.com
   - DOMAIN-SUFFIX,mhystatic.com
   - DOMAIN-SUFFIX,mhyurl.cn
@@ -569,6 +570,7 @@ payload:
   - DOMAIN-SUFFIX,qdmm.com
   - DOMAIN-SUFFIX,qidian.com
   - DOMAIN-SUFFIX,qimao.com
+  - DOMAIN-SUFFIX,qingque.cn
   - DOMAIN-SUFFIX,qingting.fm
   - DOMAIN-SUFFIX,qishui.cn
   - DOMAIN-SUFFIX,qishui.com

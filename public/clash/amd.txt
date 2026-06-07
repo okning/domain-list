@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/amd.txt
 # Name: amd
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 4
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 5
 
 payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,amd.com.cn
   - DOMAIN-SUFFIX,amdfanstore.com
+  - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,radeon.com

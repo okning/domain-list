@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cnbc.txt
 # Name: cnbc
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,cnbc.com

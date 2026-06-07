@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/hkust.txt
+# Name: hkust
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 4
+
+payload:
+  - DOMAIN-SUFFIX,hkust.edu.hk
+  - DOMAIN-SUFFIX,hkust.hk
+  - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
+  - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g

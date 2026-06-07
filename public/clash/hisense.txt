@@ -1,0 +1,12 @@
+# URL: https://s.nosec.me/clash/hisense.txt
+# Name: hisense
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 6
+
+payload:
+  - DOMAIN-SUFFIX,hisense-home.com
+  - DOMAIN-SUFFIX,hisense.com
+  - DOMAIN-SUFFIX,hisensehitachi.com
+  - DOMAIN-SUFFIX,hisensekf.com
+  - DOMAIN-SUFFIX,hismarttv.com
+  - DOMAIN-SUFFIX,juhaokan.org

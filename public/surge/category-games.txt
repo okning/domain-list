@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games.txt
 # Name: category-games
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 1057
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 1058
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 # REGEXP,^cdn-akamai-.+\.gog-services\.com$
@@ -342,6 +342,7 @@ DOMAIN-SUFFIX,happyhlddz.com
 DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
 DOMAIN-SUFFIX,haydaypop.cn
+DOMAIN,hb.imgix.net
 DOMAIN-SUFFIX,hdyxgame.com
 DOMAIN-SUFFIX,heavenlywind.cc
 DOMAIN-SUFFIX,hero.com

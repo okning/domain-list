@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/clash/sxl.txt
 # Name: sxl
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 3
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 4
 
 payload:
   - DOMAIN-SUFFIX,mysxl.cn
   - DOMAIN-SUFFIX,sxl.cn
   - DOMAIN-SUFFIX,sxlcdn.cn
+  - DOMAIN-SUFFIX,sxlcdn.com

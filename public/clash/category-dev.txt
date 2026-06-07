@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-dev.txt
 # Name: category-dev
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 579
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 583
 
 payload:
   - DOMAIN-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
@@ -58,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,brew.sh
   - DOMAIN-SUFFIX,buck.build
   - DOMAIN-SUFFIX,buckbuild.com
+  - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,calendarserver.org
   - DOMAIN-SUFFIX,canonical.com
   - DOMAIN-SUFFIX,carekit.org
@@ -143,6 +144,7 @@ payload:
   - DOMAIN-SUFFIX,fedoraproject.org
   - DOMAIN-SUFFIX,ffmpeg.org
   - DOMAIN-SUFFIX,fightforux.com
+  - DOMAIN-SUFFIX,filezilla-project.org
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN-SUFFIX,firebase.com
   - DOMAIN,firebase.google.com
@@ -199,6 +201,7 @@ payload:
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,gitgud.io
   - DOMAIN,github-api.arkoselabs.com
   - DOMAIN,github-cloud.s3.amazonaws.com
   - DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
@@ -335,6 +338,7 @@ payload:
   - DOMAIN-SUFFIX,msinnovationchallenge.com
   - DOMAIN-SUFFIX,mspairlift.com
   - DOMAIN-SUFFIX,msropendata.com
+  - DOMAIN-SUFFIX,msys2.org
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,mysql.com
   - DOMAIN-SUFFIX,mystrikingly.com

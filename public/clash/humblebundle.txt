@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/humblebundle.txt
+# Name: humblebundle
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 2
+
+payload:
+  - DOMAIN,hb.imgix.net
+  - DOMAIN-SUFFIX,humblebundle.com

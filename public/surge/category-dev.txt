@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-dev.txt
 # Name: category-dev
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 579
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 583
 
 # REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,braveux.com
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,buck.build
 DOMAIN-SUFFIX,buckbuild.com
+DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,carekit.org
@@ -142,6 +143,7 @@ DOMAIN-SUFFIX,fedorapeople.org
 DOMAIN-SUFFIX,fedoraproject.org
 DOMAIN-SUFFIX,ffmpeg.org
 DOMAIN-SUFFIX,fightforux.com
+DOMAIN-SUFFIX,filezilla-project.org
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN,firebase.google.com
@@ -198,6 +200,7 @@ DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitgud.io
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
@@ -334,6 +337,7 @@ DOMAIN-SUFFIX,msdn.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
 DOMAIN-SUFFIX,mspairlift.com
 DOMAIN-SUFFIX,msropendata.com
+DOMAIN-SUFFIX,msys2.org
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,mystrikingly.com

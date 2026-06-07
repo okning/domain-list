@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Sat, 06 Jun 2026 00:43:13 GMT
-# Total: 7769
+# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Total: 7770
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -429,6 +429,7 @@ DOMAIN-SUFFIX,amazonworkdocs.com.cn
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amd.com.cn
 DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,amdgaming.com
 DOMAIN-SUFFIX,amplifi.com
 DOMAIN-SUFFIX,amplifi.com.cn
 DOMAIN-SUFFIX,amplifyapp.com
