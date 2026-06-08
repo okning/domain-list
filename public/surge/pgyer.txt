@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/pgyer.txt
 # Name: pgyer
-# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Updated: Mon, 08 Jun 2026 00:47:28 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,frontjs.com

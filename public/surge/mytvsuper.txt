@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/mytvsuper.txt
 # Name: mytvsuper
-# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Updated: Mon, 08 Jun 2026 00:47:28 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,mytvsuper.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/t2-ru.txt
 # Name: t2-ru
-# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Updated: Mon, 08 Jun 2026 00:47:28 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,b2c-digest.ru

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/aws-cn.txt
 # Name: aws-cn
-# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Updated: Mon, 08 Jun 2026 00:47:28 GMT
 # Total: 28
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$

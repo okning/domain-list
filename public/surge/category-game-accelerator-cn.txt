@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-game-accelerator-cn.txt
 # Name: category-game-accelerator-cn
-# Updated: Sun, 07 Jun 2026 00:46:34 GMT
+# Updated: Mon, 08 Jun 2026 00:47:28 GMT
 # Total: 45
 
 DOMAIN-SUFFIX,3dmjiasu.com
