@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bethesda.txt
 # Name: bethesda
-# Updated: Mon, 08 Jun 2026 00:47:28 GMT
+# Updated: Tue, 09 Jun 2026 00:41:32 GMT
 # Total: 6
 
 DOMAIN-SUFFIX,beth.games

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/ddmaicai.txt
 # Name: ddmaicai
-# Updated: Mon, 08 Jun 2026 00:47:28 GMT
+# Updated: Tue, 09 Jun 2026 00:41:32 GMT
 # Total: 9
 
 DOMAIN-SUFFIX,100.me

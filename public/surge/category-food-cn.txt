@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-food-cn.txt
 # Name: category-food-cn
-# Updated: Mon, 08 Jun 2026 00:47:28 GMT
+# Updated: Tue, 09 Jun 2026 00:41:32 GMT
 # Total: 56
 
 DOMAIN-SUFFIX,3songshu.com

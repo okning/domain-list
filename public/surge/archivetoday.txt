@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/archivetoday.txt
 # Name: archivetoday
-# Updated: Mon, 08 Jun 2026 00:47:28 GMT
+# Updated: Tue, 09 Jun 2026 00:41:32 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,archive.fo

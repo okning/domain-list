@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/ft.txt
 # Name: ft
-# Updated: Mon, 08 Jun 2026 00:47:28 GMT
+# Updated: Tue, 09 Jun 2026 00:41:32 GMT
 # Total: 22
 
 DOMAIN-SUFFIX,agendaweek.com

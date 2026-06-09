@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/take-two.txt
 # Name: take-two
-# Updated: Mon, 08 Jun 2026 00:47:28 GMT
+# Updated: Tue, 09 Jun 2026 00:41:32 GMT
 # Total: 16
 
 DOMAIN-SUFFIX,2k.com
