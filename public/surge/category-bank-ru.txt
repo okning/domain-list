@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-bank-ru.txt
 # Name: category-bank-ru
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
 # Total: 298
 
 DOMAIN-SUFFIX,21-school.ru

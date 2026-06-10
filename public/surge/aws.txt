@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/aws.txt
 # Name: aws
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
 # Total: 77
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$

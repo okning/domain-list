@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
-# Total: 25678
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
+# Total: 25683
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -12131,6 +12131,7 @@ payload:
   - DOMAIN-SUFFIX,infocert.it
   - DOMAIN-SUFFIX,infoglobo.com.br
   - DOMAIN-SUFFIX,infolinker.com.tw
+  - DOMAIN-SUFFIX,infoq.com
   - DOMAIN-SUFFIX,infoq.jp
   - DOMAIN-SUFFIX,informs.org
   - DOMAIN-SUFFIX,infotimes.com.tw
@@ -16850,6 +16851,7 @@ payload:
   - DOMAIN-SUFFIX,nxta.org
   - DOMAIN-SUFFIX,nxtdig.com.hk
   - DOMAIN-SUFFIX,nxtdig.com.tw
+  - DOMAIN-SUFFIX,nxtv.jp
   - DOMAIN-SUFFIX,nyaa.net
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,nyahentai.re
@@ -22283,6 +22285,9 @@ payload:
   - DOMAIN-SUFFIX,uncensoredsexparties.com
   - DOMAIN-SUFFIX,underhentai.net
   - DOMAIN-SUFFIX,underlords.com
+  - DOMAIN-SUFFIX,unext-info.jp
+  - DOMAIN-SUFFIX,unext.co.jp
+  - DOMAIN-SUFFIX,unext.jp
   - DOMAIN-SUFFIX,unfiltered.news
   - DOMAIN-SUFFIX,unidraw.io
   - DOMAIN-SUFFIX,uninhibitedcomix.com

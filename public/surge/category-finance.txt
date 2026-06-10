@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-finance.txt
 # Name: category-finance
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
 # Total: 581
 
 DOMAIN-SUFFIX,114bank.co.jp

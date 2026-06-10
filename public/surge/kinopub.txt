@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/kinopub.txt
 # Name: kinopub
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
 # Total: 12
 
 # REGEXP,(\w+)-static-[0-9]+\.cdntogo\.net$

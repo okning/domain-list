@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/familymart.txt
 # Name: familymart
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,famifun.com.tw

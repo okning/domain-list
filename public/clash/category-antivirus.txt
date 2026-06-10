@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-antivirus.txt
 # Name: category-antivirus
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
 # Total: 70
 
 payload:

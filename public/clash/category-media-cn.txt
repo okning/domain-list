@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-media-cn.txt
 # Name: category-media-cn
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
-# Total: 309
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
+# Total: 311
 
 payload:
   - DOMAIN-SUFFIX,0033.cn
@@ -103,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,focus-img.cn
   - DOMAIN-SUFFIX,focus.cn
   - DOMAIN-SUFFIX,freebuf.com
+  - DOMAIN-SUFFIX,geekbang.org
   - DOMAIN-SUFFIX,geekpark.net
   - DOMAIN-SUFFIX,ggoplay.com
   - DOMAIN-SUFFIX,ggowan.com
@@ -138,6 +139,7 @@ payload:
   - DOMAIN-SUFFIX,ikanchai.com
   - DOMAIN-SUFFIX,imedao.com
   - DOMAIN-SUFFIX,inewsweek.cn
+  - DOMAIN-SUFFIX,infoq.cn
   - DOMAIN-SUFFIX,ipanda.cn
   - DOMAIN-SUFFIX,ipanda.com
   - DOMAIN-SUFFIX,ipanda.com.cn

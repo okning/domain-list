@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-media.txt
 # Name: category-media
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
-# Total: 1582
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
+# Total: 1583
 
 payload:
   - DOMAIN-SUFFIX,1917live.red
@@ -738,6 +738,7 @@ payload:
   - DOMAIN-SUFFIX,india.com
   - DOMAIN-SUFFIX,indiancolleges.com
   - DOMAIN-SUFFIX,infoglobo.com.br
+  - DOMAIN-SUFFIX,infoq.com
   - DOMAIN-SUFFIX,infotimes.com.tw
   - DOMAIN-SUFFIX,infowars.com
   - DOMAIN-SUFFIX,infowarsmedia.com

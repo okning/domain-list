@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
-# Total: 7165
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
+# Total: 7164
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -2714,6 +2714,7 @@ DOMAIN-SUFFIX,gdliontech.com
 DOMAIN-SUFFIX,gdrc.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,geektool.top
 DOMAIN-SUFFIX,geely.com
@@ -3410,8 +3411,7 @@ DOMAIN-SUFFIX,inewsweek.cn
 DOMAIN-SUFFIX,infineon.cn
 DOMAIN-SUFFIX,infini-fantasy.com
 DOMAIN-SUFFIX,infinitynewtab.com
-DOMAIN-SUFFIX,infoq.com
-DOMAIN-SUFFIX,infoqstatic.com
+DOMAIN-SUFFIX,infoq.cn
 DOMAIN-SUFFIX,inftab.com
 DOMAIN-SUFFIX,inke.cn
 DOMAIN-SUFFIX,inkuai.com
@@ -3427,7 +3427,6 @@ DOMAIN-SUFFIX,intsig.net
 DOMAIN-SUFFIX,ioppo.com.cn
 DOMAIN-SUFFIX,ioppo.net
 DOMAIN-SUFFIX,iotronic.tech
-DOMAIN-SUFFIX,ip-cdn.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,ipanda.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/connectivity-check.txt
 # Name: connectivity-check
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
-# Total: 28
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
+# Total: 27
 
 payload:
   - DOMAIN-SUFFIX,captive.apple.com
@@ -28,7 +28,6 @@ payload:
   - DOMAIN,redirect.archlinux.org
   - DOMAIN-SUFFIX,test.steampowered.com
   - DOMAIN,wifi.vivo.com.cn
-  - DOMAIN,www.google.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.qualcomm.cn
   - DOMAIN,www.qualcomm.com

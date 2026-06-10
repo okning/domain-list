@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/duckduckgo.txt
 # Name: duckduckgo
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
 # Total: 44
 
 DOMAIN-SUFFIX,cispaletter.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Tue, 09 Jun 2026 00:41:32 GMT
-# Total: 1888
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
+# Total: 1892
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -1073,6 +1073,7 @@ DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
 DOMAIN,ntdofifreetv-tgc.cdn.hinet.net
 DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,nunuyy.cc
+DOMAIN-SUFFIX,nxtv.jp
 DOMAIN-SUFFIX,odysee.com
 DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
@@ -1570,6 +1571,9 @@ DOMAIN-SUFFIX,ultimaforever.com
 DOMAIN-SUFFIX,ultimaonline.com
 DOMAIN-SUFFIX,umamusume.akamaized.net
 DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,unext-info.jp
+DOMAIN-SUFFIX,unext.co.jp
+DOMAIN-SUFFIX,unext.jp
 DOMAIN-SUFFIX,unravel2.com
 DOMAIN-SUFFIX,unraveltwo.com
 DOMAIN-SUFFIX,unrealengine.com

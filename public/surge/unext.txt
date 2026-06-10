@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/surge/unext.txt
+# Name: unext
+# Updated: Wed, 10 Jun 2026 00:47:20 GMT
+# Total: 4
+
+DOMAIN-SUFFIX,nxtv.jp
+DOMAIN-SUFFIX,unext-info.jp
+DOMAIN-SUFFIX,unext.co.jp
+DOMAIN-SUFFIX,unext.jp
