@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-cdn-cn.txt
 # Name: category-cdn-cn
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 92
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 93
 
 payload:
   - DOMAIN-SUFFIX,51cdn.com
@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,mcadn.cn
   - DOMAIN-SUFFIX,mwcdns.com
   - DOMAIN-SUFFIX,mwcloudcdn.com
+  - DOMAIN-SUFFIX,npsv6.com
   - DOMAIN-SUFFIX,oncdp.com
   - DOMAIN-SUFFIX,ourdvsss.com
   - DOMAIN-SUFFIX,phpcomposer.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-bank-cn.txt
 # Name: category-bank-cn
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 131
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 133
 
 payload:
   - DOMAIN-SUFFIX,8008205555.cn
@@ -53,6 +53,8 @@ payload:
   - DOMAIN-SUFFIX,cfc108.com
   - DOMAIN-SUFFIX,cgbchina.com.cn
   - DOMAIN-SUFFIX,chinaamc.com
+  - DOMAIN-SUFFIX,chinapay.com
+  - DOMAIN-SUFFIX,chinaums.com
   - DOMAIN-SUFFIX,chinaunionpay.com
   - DOMAIN-SUFFIX,chinaunionpay.com.cn
   - DOMAIN-SUFFIX,chinaunionpay.net

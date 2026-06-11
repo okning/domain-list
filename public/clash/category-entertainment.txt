@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 1892
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 1898
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -431,6 +431,7 @@ payload:
   - DOMAIN-SUFFIX,dokusho-ojikan.jp
   - DOMAIN-SUFFIX,donkeykongcountryreturns.com
   - DOMAIN-SUFFIX,doom.com
+  - DOMAIN-SUFFIX,dota2.com
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN,dqd0jw5gvbchn.cloudfront.net
   - DOMAIN,dqrpb9wgowsf5.cloudfront.net
@@ -490,8 +491,6 @@ payload:
   - DOMAIN-SUFFIX,elpionero.es
   - DOMAIN-SUFFIX,embark-studios.com
   - DOMAIN-SUFFIX,embark.games
-  - DOMAIN-SUFFIX,eneba.com
-  - DOMAIN-SUFFIX,eneba.games
   - DOMAIN-SUFFIX,enlisted.net
   - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,epicgames.dev
@@ -524,6 +523,7 @@ payload:
   - DOMAIN-SUFFIX,fic.fan
   - DOMAIN-SUFFIX,ficador.com
   - DOMAIN-SUFFIX,ficbook.net
+  - DOMAIN-SUFFIX,ficgs.com
   - DOMAIN-SUFFIX,ficmania.com
   - DOMAIN-SUFFIX,fifastreet.com
   - DOMAIN-SUFFIX,fifastreet3.com
@@ -567,6 +567,8 @@ payload:
   - DOMAIN,gamer2-cds.cdn.hinet.net
   - DOMAIN-SUFFIX,gamesfirsthelsinki.com
   - DOMAIN-SUFFIX,gamespark.jp
+  - DOMAIN-SUFFIX,gamesplanet.com
+  - DOMAIN-SUFFIX,gametap.com
   - DOMAIN-SUFFIX,garena.co.id
   - DOMAIN-SUFFIX,garena.co.th
   - DOMAIN-SUFFIX,garena.com
@@ -607,6 +609,7 @@ payload:
   - DOMAIN-SUFFIX,goodreads.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,gorin.jp
+  - DOMAIN-SUFFIX,gpstatic.com
   - DOMAIN-SUFFIX,gr-assets.com
   - DOMAIN-SUFFIX,greatgame.asia
   - DOMAIN-SUFFIX,gstore.val.manlaxy.com
@@ -986,7 +989,9 @@ payload:
   - DOMAIN-SUFFIX,nexon.co.jp
   - DOMAIN-SUFFIX,nexon.com
   - DOMAIN-SUFFIX,nexon.io
+  - DOMAIN-SUFFIX,nexon.net
   - DOMAIN-SUFFIX,nexoncdn.co.kr
+  - DOMAIN-SUFFIX,nexongames.co.kr
   - DOMAIN-SUFFIX,nexus-cdn.com
   - DOMAIN-SUFFIX,nexusmods.com
   - DOMAIN-SUFFIX,nflxext.com
@@ -1583,6 +1588,7 @@ payload:
   - DOMAIN-SUFFIX,uoherald.com
   - DOMAIN-SUFFIX,uplay.com
   - DOMAIN,uts-api.itunes.apple.com
+  - DOMAIN-SUFFIX,valve.net
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,vhx.tv
   - DOMAIN-SUFFIX,vhxqa1.com

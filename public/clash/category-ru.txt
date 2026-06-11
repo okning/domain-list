@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ru.txt
 # Name: category-ru
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 752
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 763
 
 payload:
   - DOMAIN-SUFFIX,1917live.red
@@ -113,6 +113,17 @@ payload:
   - DOMAIN-SUFFIX,donationalerts.com
   - DOMAIN-SUFFIX,driveawaytaxi.org
   - DOMAIN-SUFFIX,drobbox.pro
+  - DOMAIN-SUFFIX,drweb-av.de
+  - DOMAIN-SUFFIX,drweb-av.es
+  - DOMAIN-SUFFIX,drweb-av.it
+  - DOMAIN-SUFFIX,drweb-av.pl
+  - DOMAIN-SUFFIX,drweb.by
+  - DOMAIN-SUFFIX,drweb.cn
+  - DOMAIN-SUFFIX,drweb.co.jp
+  - DOMAIN-SUFFIX,drweb.com
+  - DOMAIN-SUFFIX,drweb.fr
+  - DOMAIN-SUFFIX,drweb.kz
+  - DOMAIN-SUFFIX,drweb.uz
   - DOMAIN-SUFFIX,eadaily.com
   - DOMAIN-SUFFIX,eadaily.info
   - DOMAIN-SUFFIX,eadaily.net

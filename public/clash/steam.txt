@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/steam.txt
 # Name: steam
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 53
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 55
 
 payload:
   - DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
   - DOMAIN-SUFFIX,client-update.queniuqe.com
   - DOMAIN-SUFFIX,csgo.wmsj.cn
   - DOMAIN-SUFFIX,dl.steam.clngaa.com
+  - DOMAIN-SUFFIX,dota2.com
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
@@ -54,6 +55,7 @@ payload:
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net
   - DOMAIN-SUFFIX,underlords.com
+  - DOMAIN-SUFFIX,valve.net
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,wmsjsteam.com
   - DOMAIN,xz.pphimalayanrt.com

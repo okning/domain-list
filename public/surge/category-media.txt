@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-media.txt
 # Name: category-media
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 1583
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 1587
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1degree.com.au
@@ -961,6 +961,10 @@ DOMAIN-SUFFIX,nextwork.tw
 DOMAIN-SUFFIX,nfsc.global
 DOMAIN-SUFFIX,nfscdict.com
 DOMAIN-SUFFIX,nfscofficial.com
+DOMAIN-SUFFIX,nhk
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nhkworld.jp
 DOMAIN-SUFFIX,nikkan-gendai.com
 DOMAIN-SUFFIX,nikkansports.com
 DOMAIN-SUFFIX,nikkei-cnbc.co.jp

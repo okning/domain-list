@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-securities-cn.txt
 # Name: category-securities-cn
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
 # Total: 163
 
 DOMAIN-SUFFIX,5ifund.com

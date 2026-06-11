@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/oppo.txt
 # Name: oppo
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 41
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 42
 
 payload:
   - DOMAIN-SUFFIX,allawnfs.com
@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,oppowork.com
   - DOMAIN-SUFFIX,opstatics.com
   - DOMAIN-SUFFIX,realme.com
+  - DOMAIN-SUFFIX,realme.net
   - DOMAIN-SUFFIX,realmebbs.com
   - DOMAIN-SUFFIX,realmemobile.com
   - DOMAIN-SUFFIX,shopoppo.cn

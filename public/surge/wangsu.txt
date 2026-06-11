@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/wangsu.txt
 # Name: wangsu
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 28
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 29
 
 DOMAIN-SUFFIX,51cdn.com
 DOMAIN-SUFFIX,8686c.com
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,lxdns.net
 DOMAIN-SUFFIX,lxdns.org
 DOMAIN-SUFFIX,mwcdns.com
 DOMAIN-SUFFIX,mwcloudcdn.com
+DOMAIN-SUFFIX,npsv6.com
 DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,qtlcdn.cn
 DOMAIN-SUFFIX,qtlcdn.com

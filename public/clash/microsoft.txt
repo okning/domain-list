@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/microsoft.txt
 # Name: microsoft
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 626
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 627
 
 payload:
   - DOMAIN-SUFFIX,1drv.com
@@ -200,6 +200,7 @@ payload:
   - DOMAIN-SUFFIX,gfx.ms
   - DOMAIN-SUFFIX,gh.io
   - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,ghe.com
   - DOMAIN-SUFFIX,gigjam.com
   - DOMAIN-SUFFIX,git.io
   - DOMAIN,github-api.arkoselabs.com

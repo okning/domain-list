@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/category-electronic-cn.txt
 # Name: category-electronic-cn
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 75
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 76
 
 payload:
   - DOMAIN-SUFFIX,analog.com
   - DOMAIN-SUFFIX,arrow.cn
+  - DOMAIN-SUFFIX,avermedia.cn
   - DOMAIN-SUFFIX,boe.com
   - DOMAIN-SUFFIX,boe.com.cn
   - DOMAIN-SUFFIX,bouffalolab.com

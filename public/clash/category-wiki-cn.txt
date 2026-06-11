@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-wiki-cn.txt
 # Name: category-wiki-cn
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 14
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 15
 
 payload:
   - DOMAIN-SUFFIX,allhistory.com
@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,mcmod.cn
   - DOMAIN-SUFFIX,moegirl.org
   - DOMAIN-SUFFIX,moegirl.org.cn
+  - DOMAIN-SUFFIX,pwsannong.com
   - DOMAIN-SUFFIX,qiuwen.wiki
   - DOMAIN-SUFFIX,qiuwenbaike.cn
   - DOMAIN-SUFFIX,sec-wiki.com

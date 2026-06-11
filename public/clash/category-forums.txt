@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-forums.txt
 # Name: category-forums
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 99
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 101
 
 payload:
   - DOMAIN-SUFFIX,18p2p.com
@@ -45,6 +45,8 @@ payload:
   - DOMAIN-SUFFIX,lih.kg
   - DOMAIN-SUFFIX,lihkg.com
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,livejournal.com
+  - DOMAIN-SUFFIX,livejournal.net
   - DOMAIN-SUFFIX,maintracker.org
   - DOMAIN-SUFFIX,mewe.com
   - DOMAIN-SUFFIX,mobile01.com

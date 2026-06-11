@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ecommerce.txt
 # Name: category-ecommerce
-# Updated: Wed, 10 Jun 2026 00:47:20 GMT
-# Total: 1235
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 1259
 
 payload:
   - DOMAIN-SUFFIX,21centuryaccess.com
@@ -177,6 +177,7 @@ payload:
   - DOMAIN-SUFFIX,airbnb.tools
   - DOMAIN-SUFFIX,airbnb.travel
   - DOMAIN-SUFFIX,airmax360.com
+  - DOMAIN-SUFFIX,allkeyshop.com
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN-SUFFIX,appforebay.cn
   - DOMAIN-SUFFIX,appsonebay.net
@@ -231,6 +232,7 @@ payload:
   - DOMAIN-SUFFIX,besztbuy.com
   - DOMAIN-SUFFIX,betternike.com
   - DOMAIN-SUFFIX,bextbuy.com
+  - DOMAIN-SUFFIX,bfads.net
   - DOMAIN-SUFFIX,bidbay.com
   - DOMAIN-SUFFIX,bidorbuyindia.com
   - DOMAIN-SUFFIX,bienvenuechezbestbuy.ca
@@ -254,6 +256,7 @@ payload:
   - DOMAIN-SUFFIX,buyitnow.tv
   - DOMAIN-SUFFIX,buyitnowshop.net
   - DOMAIN-SUFFIX,buynikechina.com
+  - DOMAIN-SUFFIX,buyservices.com
   - DOMAIN-SUFFIX,cafr.ca
   - DOMAIN-SUFFIX,carebay.com
   - DOMAIN-SUFFIX,cargigileads.com
@@ -310,6 +313,10 @@ payload:
   - DOMAIN-SUFFIX,eachpay.net
   - DOMAIN-SUFFIX,easynike.com
   - DOMAIN-SUFFIX,ebahy.com
+  - DOMAIN-SUFFIX,ebates.ca
+  - DOMAIN-SUFFIX,ebates.kr
+  - DOMAIN-SUFFIX,ebates.sg
+  - DOMAIN-SUFFIX,ebatescanada.com
   - DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
   - DOMAIN-SUFFIX,ebay-authenticate.net
   - DOMAIN-SUFFIX,ebay-confirm.com
@@ -505,10 +512,13 @@ payload:
   - DOMAIN-SUFFIX,ebayy.com
   - DOMAIN-SUFFIX,ebuyer.com
   - DOMAIN,ecapi-pchome.cdn.hinet.net
+  - DOMAIN-SUFFIX,ecbsn.com
   - DOMAIN-SUFFIX,ecimg.tw
   - DOMAIN-SUFFIX,edisebay.com
   - DOMAIN-SUFFIX,eebay.com
   - DOMAIN-SUFFIX,eenike.com
+  - DOMAIN-SUFFIX,eneba.com
+  - DOMAIN-SUFFIX,eneba.games
   - DOMAIN-SUFFIX,epinions.com
   - DOMAIN-SUFFIX,etradebook.ru
   - DOMAIN-SUFFIX,eu-consumer-empowerment.com
@@ -523,6 +533,7 @@ payload:
   - DOMAIN-SUFFIX,farfetch.net
   - DOMAIN-SUFFIX,farfetch.net.cn
   - DOMAIN-SUFFIX,fashionnike.com
+  - DOMAIN-SUFFIX,fatwallet.com
   - DOMAIN-SUFFIX,fflnk.net
   - DOMAIN-SUFFIX,finenike.com
   - DOMAIN-SUFFIX,foampositeshoes.com
@@ -547,6 +558,7 @@ payload:
   - DOMAIN-SUFFIX,geeksquadservices.org
   - DOMAIN-SUFFIX,geeksquadwebroot.org
   - DOMAIN-SUFFIX,geobasket.ru
+  - DOMAIN-SUFFIX,gg.deals
   - DOMAIN-SUFFIX,ggsel.com
   - DOMAIN-SUFFIX,ggsel.net
   - DOMAIN-SUFFIX,gittigidiyor.net
@@ -698,6 +710,8 @@ payload:
   - DOMAIN-SUFFIX,kijijiraps.ca
   - DOMAIN-SUFFIX,kijji.ca
   - DOMAIN-SUFFIX,kijjiji.ca
+  - DOMAIN-SUFFIX,kinguin.net
+  - DOMAIN-SUFFIX,kobo.com
   - DOMAIN-SUFFIX,ladsp.com
   - DOMAIN-SUFFIX,letsmoveforabetterworld.com
   - DOMAIN-SUFFIX,liketwice.com
@@ -1007,7 +1021,10 @@ payload:
   - DOMAIN-SUFFIX,rakuten.com
   - DOMAIN-SUFFIX,rakuten.com.tw
   - DOMAIN-SUFFIX,rakuten.ne.jp
+  - DOMAIN-SUFFIX,rakuten.tv
   - DOMAIN-SUFFIX,rakuten.tw
+  - DOMAIN-SUFFIX,rakutenadvertising.com
+  - DOMAIN-SUFFIX,rakutengiftcards.ca
   - DOMAIN-SUFFIX,rakuya.com.tw
   - DOMAIN-SUFFIX,rclon.com
   - DOMAIN-SUFFIX,readmoo.com
@@ -1019,6 +1036,7 @@ payload:
   - DOMAIN-SUFFIX,rimg.com.tw
   - DOMAIN-SUFFIX,rocketfishproducts.com
   - DOMAIN-SUFFIX,rocketozon.by
+  - DOMAIN-SUFFIX,rrcbsn.com
   - DOMAIN-SUFFIX,runnike.com
   - DOMAIN-SUFFIX,runningnike.com
   - DOMAIN-SUFFIX,russoutdoor.ru
@@ -1107,9 +1125,15 @@ payload:
   - DOMAIN-SUFFIX,unbrandedproducts.com
   - DOMAIN-SUFFIX,vamo.com
   - DOMAIN-SUFFIX,vamzakaz.ru
+  - DOMAIN-SUFFIX,vbcdn.com
+  - DOMAIN-SUFFIX,vbcdn.net
   - DOMAIN-SUFFIX,velberis.ru
   - DOMAIN-SUFFIX,vendu.com
   - DOMAIN-SUFFIX,verygoodnike.com
+  - DOMAIN-SUFFIX,viber.co
+  - DOMAIN-SUFFIX,viber.com
+  - DOMAIN-SUFFIX,viber.me
+  - DOMAIN-SUFFIX,viki.com
   - DOMAIN-SUFFIX,vildberis.ru
   - DOMAIN-SUFFIX,vsemrabota.ru
   - DOMAIN-SUFFIX,w-mt.co

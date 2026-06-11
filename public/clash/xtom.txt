@@ -1,0 +1,18 @@
+# URL: https://s.nosec.me/clash/xtom.txt
+# Name: xtom
+# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Total: 12
+
+payload:
+  - DOMAIN-SUFFIX,v.ps
+  - DOMAIN-SUFFIX,vps.hosting
+  - DOMAIN-SUFFIX,xtom.au
+  - DOMAIN-SUFFIX,xtom.com
+  - DOMAIN-SUFFIX,xtom.de
+  - DOMAIN-SUFFIX,xtom.ee
+  - DOMAIN-SUFFIX,xtom.hk
+  - DOMAIN-SUFFIX,xtom.jp
+  - DOMAIN-SUFFIX,xtom.nl
+  - DOMAIN-SUFFIX,xtom.sg
+  - DOMAIN-SUFFIX,xtom.social
+  - DOMAIN-SUFFIX,xtom.us
