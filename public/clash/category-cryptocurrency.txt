@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-cryptocurrency.txt
 # Name: category-cryptocurrency
-# Updated: Thu, 11 Jun 2026 00:47:06 GMT
-# Total: 190
+# Updated: Fri, 12 Jun 2026 00:49:36 GMT
+# Total: 191
 
 payload:
   - DOMAIN-SUFFIX,1inch.io
@@ -147,6 +147,7 @@ payload:
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
   - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx.ac
   - DOMAIN-SUFFIX,okx.cab
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net

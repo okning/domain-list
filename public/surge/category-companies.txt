@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Thu, 11 Jun 2026 00:47:06 GMT
-# Total: 7782
+# Updated: Fri, 12 Jun 2026 00:49:36 GMT
+# Total: 7781
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -67,7 +67,7 @@ DOMAIN-SUFFIX,20yearsoffea.com
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
-DOMAIN,265.com
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2beatsdre.com
 DOMAIN-SUFFIX,2buybeatsbydre.com
 DOMAIN-SUFFIX,2drdrebeats.com
@@ -2108,6 +2108,7 @@ DOMAIN-SUFFIX,cozydrdrebeats.com
 DOMAIN-SUFFIX,cpedge.com
 DOMAIN-SUFFIX,cqcorea.com
 DOMAIN-SUFFIX,crankplayer.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,createwhatsnext.com
 DOMAIN-SUFFIX,creativecloud.com
@@ -3043,7 +3044,6 @@ DOMAIN-SUFFIX,find-apple.com
 DOMAIN-SUFFIX,findmybeats.com
 DOMAIN-SUFFIX,findmyipad.com
 DOMAIN-SUFFIX,fiotolia.com
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
@@ -6695,7 +6695,6 @@ DOMAIN-SUFFIX,unity3dcloud.cn
 DOMAIN-SUFFIX,universalscalablefirmware.org
 DOMAIN-SUFFIX,unlocklimitlesslearning.com
 DOMAIN-SUFFIX,unstyle.us
-DOMAIN,update.crashlytics.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,upfrontcfd.com
 DOMAIN-SUFFIX,upfrontfea.com

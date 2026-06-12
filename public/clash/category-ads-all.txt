@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Thu, 11 Jun 2026 00:47:06 GMT
-# Total: 892
+# Updated: Fri, 12 Jun 2026 00:49:36 GMT
+# Total: 899
 
 payload:
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -234,6 +234,7 @@ payload:
   - DOMAIN-SUFFIX,analytics-data.io
   - DOMAIN,analytics-stage.wildberries.ru
   - DOMAIN-SUFFIX,analytics.163.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN,analytics.google.com
   - DOMAIN,analytics.mobile.yandex.net
@@ -260,6 +261,7 @@ payload:
   - DOMAIN,api.dashlytrack.app
   - DOMAIN,api.mindbox.cloud
   - DOMAIN,api.mindbox.ru
+  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN,apilog-web.acfun.cn
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
@@ -319,6 +321,7 @@ payload:
   - DOMAIN-SUFFIX,ccs.umeng.com
   - DOMAIN-SUFFIX,cdn.banclip.com
   - DOMAIN-SUFFIX,cdn.pocoiq.cn
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,cfts1tifqr.com
   - DOMAIN-SUFFIX,china-caa.org
   - DOMAIN-SUFFIX,chinaciaf.org
@@ -344,6 +347,7 @@ payload:
   - DOMAIN-SUFFIX,cnlogs.umengcloud.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,collector.xhamster.com
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,contentabc.com
   - DOMAIN-SUFFIX,contextual.media.net
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
@@ -655,6 +659,8 @@ payload:
   - DOMAIN-SUFFIX,passport-log.youku.com
   - DOMAIN-SUFFIX,pb.i.sogou.com
   - DOMAIN-SUFFIX,pbmp.ali213.net
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
   - DOMAIN-SUFFIX,pgdt.gtimg.cn
   - DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
   - DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
@@ -680,6 +686,7 @@ payload:
   - DOMAIN-SUFFIX,pmir.3g.qq.com
   - DOMAIN-SUFFIX,policy.video.iqiyi.com
   - DOMAIN-SUFFIX,pos.baidu.com
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,presage.io
   - DOMAIN,prodvizhenie-adv.ozon.ru
   - DOMAIN-SUFFIX,pubmatic.co.jp

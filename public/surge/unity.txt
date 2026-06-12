@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/surge/unity.txt
 # Name: unity
-# Updated: Thu, 11 Jun 2026 00:47:06 GMT
-# Total: 2
+# Updated: Fri, 12 Jun 2026 00:49:36 GMT
+# Total: 3
 
+DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com

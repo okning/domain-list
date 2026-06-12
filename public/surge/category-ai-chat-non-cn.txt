@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-ai-chat-non-cn.txt
 # Name: category-ai-chat-non-cn
-# Updated: Thu, 11 Jun 2026 00:47:06 GMT
+# Updated: Fri, 12 Jun 2026 00:49:36 GMT
 # Total: 159
 
 # REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$

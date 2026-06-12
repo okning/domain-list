@@ -1,10 +1,11 @@
 # URL: https://s.nosec.me/clash/firebase.txt
 # Name: firebase
-# Updated: Thu, 11 Jun 2026 00:47:06 GMT
-# Total: 17
+# Updated: Fri, 12 Jun 2026 00:49:36 GMT
+# Total: 18
 
 payload:
-  - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN-SUFFIX,firebase.com
   - DOMAIN,firebase.google.com
   - DOMAIN,firebase.googleapis.com

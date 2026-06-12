@@ -1,14 +1,14 @@
 # URL: https://s.nosec.me/surge/google.txt
 # Name: google
-# Updated: Thu, 11 Jun 2026 00:47:06 GMT
-# Total: 869
+# Updated: Fri, 12 Jun 2026 00:49:36 GMT
+# Total: 868
 
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
-DOMAIN,265.com
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,cookiechoices.org
 DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crossmediapanel.com
 DOMAIN-SUFFIX,crr.com
 DOMAIN-SUFFIX,cs4hs.com
@@ -196,7 +197,6 @@ DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,fflick.com
 DOMAIN-SUFFIX,financeleadsonline.com
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
@@ -658,7 +658,6 @@ DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,txcloud.net
 DOMAIN-SUFFIX,txvia.com
 DOMAIN-SUFFIX,unfiltered.news
-DOMAIN,update.crashlytics.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,useplannr.com
 DOMAIN-SUFFIX,usvimosquito.com

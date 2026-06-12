@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Thu, 11 Jun 2026 00:47:06 GMT
-# Total: 25745
+# Updated: Fri, 12 Jun 2026 00:49:36 GMT
+# Total: 25746
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -376,7 +376,7 @@ DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,24hjav.com
 DOMAIN-SUFFIX,24porn.com
 DOMAIN-SUFFIX,24porn.pro
-DOMAIN,265.com
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,265sdwe3.com
 DOMAIN-SUFFIX,2789av.com
 DOMAIN-SUFFIX,27mmwmmw.top
@@ -1936,6 +1936,7 @@ DOMAIN-SUFFIX,api-extractor.com
 DOMAIN,api-p.videomarket.jp
 DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,api.news
+DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apihub-internal.cn
@@ -5816,6 +5817,8 @@ DOMAIN-SUFFIX,cqcorea.com
 DOMAIN-SUFFIX,crabporn.com
 DOMAIN-SUFFIX,craigslist.org
 DOMAIN-SUFFIX,crankplayer.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,crazy-amateurs.com
 DOMAIN-SUFFIX,crazyav.xyz
@@ -8903,8 +8906,6 @@ DOMAIN-SUFFIX,finishwin.be
 DOMAIN-SUFFIX,finlitsummit.org
 DOMAIN-SUFFIX,fiotolia.com
 DOMAIN-SUFFIX,fire-emblem-heroes.com
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebase.io
@@ -17037,6 +17038,7 @@ DOMAIN-SUFFIX,oktech.ru
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.ac
 DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,older-women-movies.com
@@ -22357,7 +22359,6 @@ DOMAIN-SUFFIX,unwire.hk
 DOMAIN-SUFFIX,uo.com
 DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,up01.cc
-DOMAIN,update.crashlytics.com
 DOMAIN-SUFFIX,updatetube.com
 DOMAIN-SUFFIX,upfrontcfd.com
 DOMAIN-SUFFIX,upfrontfea.com
