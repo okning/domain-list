@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-travel-ru.txt
 # Name: category-travel-ru
-# Updated: Fri, 12 Jun 2026 00:49:36 GMT
+# Updated: Sat, 13 Jun 2026 00:48:50 GMT
 # Total: 24
 
 DOMAIN-SUFFIX,2gis.ru

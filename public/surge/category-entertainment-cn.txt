@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Fri, 12 Jun 2026 00:49:36 GMT
-# Total: 742
+# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Total: 743
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,11222.cn
@@ -377,6 +377,7 @@ DOMAIN-SUFFIX,huoshanzhibo.cn
 DOMAIN-SUFFIX,huoshanzhibo.com
 DOMAIN-SUFFIX,huoshanzhibo.net
 DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,hypercachenode.com
 DOMAIN-SUFFIX,hzdtv.tv
 DOMAIN-SUFFIX,hzman.net
 DOMAIN-SUFFIX,i3839.com

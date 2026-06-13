@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/livejournal.txt
+# Name: livejournal
+# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,livejournal.com
+DOMAIN-SUFFIX,livejournal.net

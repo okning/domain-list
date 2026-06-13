@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/tencent-tme.txt
 # Name: tencent-tme
-# Updated: Fri, 12 Jun 2026 00:49:36 GMT
+# Updated: Sat, 13 Jun 2026 00:48:50 GMT
 # Total: 30
 
 DOMAIN-SUFFIX,97ting.com

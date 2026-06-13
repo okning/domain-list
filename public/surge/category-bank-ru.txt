@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-bank-ru.txt
 # Name: category-bank-ru
-# Updated: Fri, 12 Jun 2026 00:49:36 GMT
-# Total: 298
+# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Total: 299
 
 DOMAIN-SUFFIX,21-school.ru
 DOMAIN-SUFFIX,2gis.ae
@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,my-tbank.ru
 DOMAIN-SUFFIX,myapelsin.ru
 DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,noosferabank.ru
+DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,okkoapi.tv

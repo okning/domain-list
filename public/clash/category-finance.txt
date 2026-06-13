@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-finance.txt
 # Name: category-finance
-# Updated: Fri, 12 Jun 2026 00:49:36 GMT
-# Total: 581
+# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Total: 582
 
 payload:
   - DOMAIN-SUFFIX,114bank.co.jp
@@ -352,6 +352,7 @@ payload:
   - DOMAIN-SUFFIX,nochubank.or.jp
   - DOMAIN-SUFFIX,noosferabank.ru
   - DOMAIN-SUFFIX,nptsibinbank.com
+  - DOMAIN-SUFFIX,nspk.ru
   - DOMAIN-SUFFIX,number26.de
   - DOMAIN-SUFFIX,ogakikyoritsu.co.jp
   - DOMAIN-SUFFIX,oitabank.co.jp
