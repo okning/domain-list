@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games-non-cn.txt
 # Name: category-games-non-cn
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
-# Total: 828
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Total: 829
 
 # REGEXP,^cdn-akamai-.+\.gog-services\.com$
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
@@ -663,6 +663,7 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamugcquincy.blob.core.windows.net
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamusercontent.com

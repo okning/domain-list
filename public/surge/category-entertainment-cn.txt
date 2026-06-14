@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
-# Total: 743
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Total: 748
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,11222.cn
@@ -88,6 +88,7 @@ DOMAIN-SUFFIX,aihst8.com
 DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,aki-game2.com
 DOMAIN-SUFFIX,ali213.net
 DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,aliwx.com.cn
@@ -458,8 +459,11 @@ DOMAIN-SUFFIX,kugouvoice.com
 DOMAIN-SUFFIX,kugouyouth.com
 DOMAIN-SUFFIX,kujiang.com
 DOMAIN-SUFFIX,kumiao.com
+DOMAIN-SUFFIX,kurobbs.com
+DOMAIN-SUFFIX,kurogame.com
+DOMAIN-SUFFIX,kurogame.xyz
+DOMAIN-SUFFIX,kurogames-ads.com
 DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,kurogames.net
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kuyin123.com
 DOMAIN-SUFFIX,kuyinxiu.com
@@ -691,6 +695,7 @@ DOMAIN-SUFFIX,wohst8.com
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,wting.info
 DOMAIN-SUFFIX,wtzw.com
+DOMAIN-SUFFIX,wutheringwaves.cn
 DOMAIN-SUFFIX,xd.cn
 DOMAIN-SUFFIX,xd.com
 DOMAIN-SUFFIX,xdcdn.net

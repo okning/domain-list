@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
-# Total: 1898
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Total: 1899
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -1431,6 +1431,7 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamugcquincy.blob.core.windows.net
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamusercontent.com

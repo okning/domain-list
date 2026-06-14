@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/boc.txt
 # Name: boc
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
 # Total: 20
 
 DOMAIN-SUFFIX,bank-of-china.com

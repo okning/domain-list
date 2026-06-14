@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games-cn.txt
 # Name: category-games-cn
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
-# Total: 238
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Total: 243
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,17roco.com
@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,abdf002.com
 DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,aki-game2.com
 DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,appeeres.com
@@ -115,8 +116,11 @@ DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,jiaoyimao.cn
 DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,juequling.com
+DOMAIN-SUFFIX,kurobbs.com
+DOMAIN-SUFFIX,kurogame.com
+DOMAIN-SUFFIX,kurogame.xyz
+DOMAIN-SUFFIX,kurogames-ads.com
 DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,kurogames.net
 DOMAIN-SUFFIX,labycore.cn
 DOMAIN-SUFFIX,langrenclub.com
 DOMAIN-SUFFIX,ledu.com
@@ -218,6 +222,7 @@ DOMAIN-SUFFIX,werepository.com.cn
 DOMAIN-SUFFIX,winegame.net
 DOMAIN-SUFFIX,wmsj.cn
 DOMAIN-SUFFIX,wo1wan.com
+DOMAIN-SUFFIX,wutheringwaves.cn
 DOMAIN-SUFFIX,xd.cn
 DOMAIN-SUFFIX,xd.com
 DOMAIN-SUFFIX,xdcdn.net

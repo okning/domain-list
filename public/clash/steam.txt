@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/steam.txt
 # Name: steam
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
-# Total: 55
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Total: 56
 
 payload:
   - DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamstatic.com.8686c.com
   - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamugcquincy.blob.core.windows.net
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN,steamuserimages-a.akamaihd.net

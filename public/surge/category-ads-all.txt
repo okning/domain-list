@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
-# Total: 897
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Total: 898
 
 # REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 DOMAIN,1l-hit.mail.ru
@@ -518,6 +518,7 @@ DOMAIN-SUFFIX,juicyads.com
 DOMAIN-SUFFIX,jzt.jd.com
 DOMAIN-SUFFIX,kaprila.com
 DOMAIN-SUFFIX,kepler-37b.com
+DOMAIN-SUFFIX,kurogames-ads.com
 DOMAIN-SUFFIX,kuyun.com
 DOMAIN-SUFFIX,ladsp.com
 DOMAIN-SUFFIX,leanplum.com

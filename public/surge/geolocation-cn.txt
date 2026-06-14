@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
-# Total: 7206
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Total: 7215
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -533,6 +533,7 @@ DOMAIN-SUFFIX,aizgtc.com
 DOMAIN-SUFFIX,aizhan.com
 DOMAIN-SUFFIX,ajzq.com
 DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,aki-game2.com
 DOMAIN-SUFFIX,akikocorp.cn
 DOMAIN-SUFFIX,akspeedy.com
 DOMAIN-SUFFIX,aldwx.com
@@ -624,6 +625,7 @@ DOMAIN-SUFFIX,alizhaopin.com
 DOMAIN-SUFFIX,allawnfs.com
 DOMAIN-SUFFIX,allawno.com
 DOMAIN-SUFFIX,allawntech.com
+DOMAIN-SUFFIX,allday.work
 DOMAIN-SUFFIX,allflow.cn
 DOMAIN-SUFFIX,allhistory.com
 DOMAIN-SUFFIX,alloyteam.com
@@ -1213,6 +1215,7 @@ DOMAIN-SUFFIX,calorietech.com
 DOMAIN-SUFFIX,camcard.com
 DOMAIN-SUFFIX,camscanner.com
 DOMAIN-SUFFIX,cang.com
+DOMAIN-SUFFIX,cangpeng.com
 DOMAIN-SUFFIX,cankaoxiaoxi.com
 DOMAIN-SUFFIX,caocao.com.cn
 DOMAIN-SUFFIX,caocaokeji.cn
@@ -2374,6 +2377,7 @@ DOMAIN-SUFFIX,eolink.com
 DOMAIN-SUFFIX,er07.com
 DOMAIN-SUFFIX,erji.net
 DOMAIN-SUFFIX,erp.cn
+DOMAIN-SUFFIX,erp198.com
 DOMAIN-SUFFIX,erp321.cn
 DOMAIN-SUFFIX,erp321.com
 DOMAIN-SUFFIX,erp321.net
@@ -4012,8 +4016,11 @@ DOMAIN-SUFFIX,kunlunta.com
 DOMAIN-SUFFIX,kunlunvi.com
 DOMAIN-SUFFIX,kunlunwe.com
 DOMAIN-SUFFIX,kuqin.com
+DOMAIN-SUFFIX,kurobbs.com
+DOMAIN-SUFFIX,kurogame.com
+DOMAIN-SUFFIX,kurogame.xyz
+DOMAIN-SUFFIX,kurogames-ads.com
 DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,kurogames.net
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kuyin123.com
@@ -5575,6 +5582,7 @@ DOMAIN-SUFFIX,suningestate.com
 DOMAIN-SUFFIX,suningholdings.com
 DOMAIN-SUFFIX,sunlife-everbright.com
 DOMAIN-SUFFIX,sunlogin.net
+DOMAIN-SUFFIX,sunrocks.cn
 DOMAIN-SUFFIX,sunrtb.com
 DOMAIN-SUFFIX,supercachenet.com
 DOMAIN-SUFFIX,supercachenet.com
@@ -6548,6 +6556,7 @@ DOMAIN-SUFFIX,wuliujie.cn
 DOMAIN-SUFFIX,wuliujie.com
 DOMAIN-SUFFIX,wumii.com
 DOMAIN-SUFFIX,wuming.com
+DOMAIN-SUFFIX,wutheringwaves.cn
 DOMAIN-SUFFIX,wuuxiang.com
 DOMAIN-SUFFIX,wuximediaglobal.com
 DOMAIN-SUFFIX,wuyou.net

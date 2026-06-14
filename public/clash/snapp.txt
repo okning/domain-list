@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/snapp.txt
 # Name: snapp
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
 # Total: 18
 
 payload:

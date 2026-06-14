@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/icbc.txt
 # Name: icbc
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
 # Total: 58
 
 DOMAIN-SUFFIX,95588.com

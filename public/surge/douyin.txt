@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/douyin.txt
 # Name: douyin
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
 # Total: 67
 
 DOMAIN-SUFFIX,activity-wbsj.com

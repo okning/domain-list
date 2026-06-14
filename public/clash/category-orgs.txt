@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-orgs.txt
 # Name: category-orgs
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
 # Total: 122
 
 payload:

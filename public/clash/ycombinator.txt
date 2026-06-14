@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/ycombinator.txt
 # Name: ycombinator
-# Updated: Sat, 13 Jun 2026 00:48:50 GMT
+# Updated: Sun, 14 Jun 2026 00:48:01 GMT
 # Total: 2
 
 payload:
