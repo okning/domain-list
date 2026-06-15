@@ -1,8 +1,10 @@
 # URL: https://s.nosec.me/clash/zhihu.txt
 # Name: zhihu
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 2
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 4
 
 payload:
+  - DOMAIN-SUFFIX,laiyagushi.com
+  - DOMAIN-SUFFIX,vzuu.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhimg.com

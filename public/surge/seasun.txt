@@ -1,10 +1,12 @@
 # URL: https://s.nosec.me/surge/seasun.txt
 # Name: seasun
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 6
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 8
 
 DOMAIN-SUFFIX,cbjq.com
+DOMAIN-SUFFIX,seasungames.cn
 DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,seasunwbl.com
 DOMAIN-SUFFIX,testplus.cn
 DOMAIN-SUFFIX,xishanju.com
 DOMAIN-SUFFIX,xoyo.com

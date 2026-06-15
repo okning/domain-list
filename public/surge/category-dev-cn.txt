@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-dev-cn.txt
 # Name: category-dev-cn
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
 # Total: 136
 
 DOMAIN-SUFFIX,51changxie.com

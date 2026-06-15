@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/huawei.txt
 # Name: huawei
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 299
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 303
 
 DOMAIN-SUFFIX,26r9y.cn
 DOMAIN-SUFFIX,2gkjr.cn
@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,cdnhwczoy106.cn
 DOMAIN-SUFFIX,cdnhwczth23.com
 DOMAIN-SUFFIX,cdnhwcztu09.com
 DOMAIN-SUFFIX,cdnhwczxh101.com
+DOMAIN-SUFFIX,chaspark.com
 DOMAIN-SUFFIX,cza84.cn
 DOMAIN-SUFFIX,dbank.com
 DOMAIN-SUFFIX,dbankcdn.cn
@@ -214,6 +215,7 @@ DOMAIN-SUFFIX,huaweisre.com
 DOMAIN-SUFFIX,huaweistatic.com
 DOMAIN-SUFFIX,huaweiyun.cn
 DOMAIN-SUFFIX,huaweiyun.com
+DOMAIN-SUFFIX,hwad.net
 DOMAIN-SUFFIX,hwastro.cn
 DOMAIN-SUFFIX,hwastro.com
 DOMAIN-SUFFIX,hwccpc.cn
@@ -285,6 +287,8 @@ DOMAIN-SUFFIX,o7mu8.cn
 DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,pagescube.cn
 DOMAIN-SUFFIX,pagescube.com
+DOMAIN-SUFFIX,petalmail.com
+DOMAIN-SUFFIX,petalmaps.com
 DOMAIN-SUFFIX,powerapp.io
 DOMAIN-SUFFIX,r8zc9.cn
 DOMAIN-SUFFIX,saasops.tech

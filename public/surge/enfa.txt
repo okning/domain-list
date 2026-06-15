@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/enfa.txt
 # Name: enfa
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
 # Total: 31
 
 DOMAIN-SUFFIX,bebepremium3.com.bo

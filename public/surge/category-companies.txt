@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 7781
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 7788
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -5499,8 +5499,10 @@ DOMAIN-SUFFIX,nflhotsalejerseys.com
 DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,nheos.com
 DOMAIN-SUFFIX,nhncorp.jp
+DOMAIN-SUFFIX,nic.ru
 DOMAIN-SUFFIX,nicesrv.de
 DOMAIN-SUFFIX,nicesshop.net
+DOMAIN-SUFFIX,nichost.ru
 DOMAIN-SUFFIX,niosii.com
 DOMAIN-SUFFIX,niosii.net
 DOMAIN-SUFFIX,nomachine.com
@@ -5956,6 +5958,7 @@ DOMAIN-SUFFIX,qwant.de
 DOMAIN-SUFFIX,qwant.fr
 DOMAIN-SUFFIX,qwant.it
 DOMAIN-SUFFIX,qwapi.com
+DOMAIN-SUFFIX,r01.ru
 DOMAIN-SUFFIX,rabbitcounter.com
 DOMAIN-SUFFIX,rabota.by
 DOMAIN-SUFFIX,radeon.com
@@ -5992,6 +5995,9 @@ DOMAIN-SUFFIX,redtube.com.br
 DOMAIN-SUFFIX,redtubepremium.com
 DOMAIN-SUFFIX,redzonechannel.com
 DOMAIN-SUFFIX,reform-apple.com
+DOMAIN-SUFFIX,reg.cloud
+DOMAIN-SUFFIX,reg.com
+DOMAIN-SUFFIX,reg.ru
 DOMAIN-SUFFIX,registeridm.com
 DOMAIN-SUFFIX,relateiq.com
 DOMAIN-SUFFIX,renderingtoolkit.org
@@ -6463,6 +6469,7 @@ DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,sverigebeatsbydrdre.com
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,sway.com
+DOMAIN-SUFFIX,sweb.ru
 DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn

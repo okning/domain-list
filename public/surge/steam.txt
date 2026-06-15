@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/steam.txt
 # Name: steam
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 56
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 57
 
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN-SUFFIX,client-update.queniuqe.com
@@ -36,6 +36,7 @@ DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamconnecttest.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com

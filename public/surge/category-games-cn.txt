@@ -1,12 +1,16 @@
 # URL: https://s.nosec.me/surge/category-games-cn.txt
 # Name: category-games-cn
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 243
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 258
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
+DOMAIN-SUFFIX,37.com
+DOMAIN-SUFFIX,37.com.cn
+DOMAIN-SUFFIX,37wan.net
+DOMAIN-SUFFIX,37wanimg.com
 DOMAIN-SUFFIX,3839.com
 DOMAIN-SUFFIX,3839apk.com
 DOMAIN-SUFFIX,3839app.com
@@ -66,9 +70,12 @@ DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,brawlstars.cn
 DOMAIN-SUFFIX,buke999.com
 DOMAIN-SUFFIX,bx1k.com
+DOMAIN-SUFFIX,cbjq.com
 DOMAIN-SUFFIX,cdncl.net
+DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,codm.com
 DOMAIN-SUFFIX,cowlevel.net
+DOMAIN-SUFFIX,cy.com
 DOMAIN-SUFFIX,dobest.com
 DOMAIN-SUFFIX,edu4399.com
 DOMAIN,end-api.shallow.ink
@@ -157,6 +164,7 @@ DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
 DOMAIN-SUFFIX,nzsiteres.com
 DOMAIN-SUFFIX,phira.cn
+DOMAIN-SUFFIX,playcool.com
 DOMAIN-SUFFIX,proximabeta.com
 DOMAIN-SUFFIX,pubghelper.com
 DOMAIN-SUFFIX,pubgno1.cn
@@ -178,6 +186,9 @@ DOMAIN-SUFFIX,scescdn.cn
 DOMAIN-SUFFIX,scid.cn
 DOMAIN-SUFFIX,scsentry.cn
 DOMAIN-SUFFIX,sdo.com
+DOMAIN-SUFFIX,seasungames.cn
+DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,seasunwbl.com
 DOMAIN-SUFFIX,shengqugames.com
 DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,skydweller.cn
@@ -194,6 +205,7 @@ DOMAIN-SUFFIX,taptapdada.com
 DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,tencent-gcloud.com
 DOMAIN-SUFFIX,tencentstart.com
+DOMAIN-SUFFIX,testplus.cn
 DOMAIN-SUFFIX,texasholdemcup.cn
 DOMAIN-SUFFIX,texasholdemcup.com
 DOMAIN-SUFFIX,texasholdemcup.net
@@ -229,7 +241,10 @@ DOMAIN-SUFFIX,xdcdn.net
 DOMAIN-SUFFIX,xhlsgs.com
 DOMAIN-SUFFIX,xindong.com
 DOMAIN-SUFFIX,xinwuji.com
+DOMAIN-SUFFIX,xishanju.com
 DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
+DOMAIN-SUFFIX,xoyo.com
+DOMAIN-SUFFIX,xoyocdn.com
 DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,yokaverse.com

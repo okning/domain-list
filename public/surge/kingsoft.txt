@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/kingsoft.txt
 # Name: kingsoft
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 37
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 39
 
 DOMAIN-SUFFIX,51dzt.com
 DOMAIN-SUFFIX,cbjq.com
@@ -29,7 +29,9 @@ DOMAIN-SUFFIX,ksyungslb.com
 DOMAIN-SUFFIX,liebao.cn
 DOMAIN-SUFFIX,papocket.com
 DOMAIN-SUFFIX,qwps.cn
+DOMAIN-SUFFIX,seasungames.cn
 DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,seasunwbl.com
 DOMAIN-SUFFIX,testplus.cn
 DOMAIN-SUFFIX,wps.cn
 DOMAIN-SUFFIX,wps.com

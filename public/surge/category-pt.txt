@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-pt.txt
 # Name: category-pt
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
 # Total: 115
 
 DOMAIN-SUFFIX,1ptba.com

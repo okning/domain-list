@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-insurance-ir.txt
 # Name: category-insurance-ir
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
 # Total: 19
 
 payload:

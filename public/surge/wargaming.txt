@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/wargaming.txt
 # Name: wargaming
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
 # Total: 11
 
 DOMAIN-SUFFIX,masteroforion.com

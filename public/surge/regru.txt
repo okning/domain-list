@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/regru.txt
+# Name: regru
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,reg.cloud
+DOMAIN-SUFFIX,reg.com
+DOMAIN-SUFFIX,reg.ru

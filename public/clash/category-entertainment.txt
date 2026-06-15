@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 1899
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 1900
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -1417,6 +1417,7 @@ payload:
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
   - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamconnecttest.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamdb.info
   - DOMAIN-SUFFIX,steamdeck.com

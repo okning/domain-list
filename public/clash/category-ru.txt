@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ru.txt
 # Name: category-ru
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 763
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 765
 
 payload:
   - DOMAIN-SUFFIX,1917live.red
@@ -413,6 +413,8 @@ payload:
   - DOMAIN-SUFFIX,rabbitcounter.com
   - DOMAIN-SUFFIX,rabota.by
   - DOMAIN-SUFFIX,rbth.com
+  - DOMAIN-SUFFIX,reg.cloud
+  - DOMAIN-SUFFIX,reg.com
   - DOMAIN-SUFFIX,reso-med.com
   - DOMAIN-SUFFIX,restream-media.net
   - DOMAIN-SUFFIX,restream-media.net

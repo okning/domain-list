@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-logistics-cn.txt
 # Name: category-logistics-cn
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 156
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 157
 
 payload:
   - DOMAIN-SUFFIX,56laile.com
@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,jtjms-sa.com
   - DOMAIN-SUFFIX,kd100.com
   - DOMAIN-SUFFIX,kjwugx.com
+  - DOMAIN-SUFFIX,kuaidi.com
   - DOMAIN-SUFFIX,kuaidi100.com
   - DOMAIN-SUFFIX,kuaidilab.com
   - DOMAIN-SUFFIX,linliyz.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-entertainment-ru.txt
 # Name: category-entertainment-ru
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
 # Total: 28
 
 DOMAIN-SUFFIX,24h.tv

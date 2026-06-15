@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-social-media-cn.txt
 # Name: category-social-media-cn
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
-# Total: 61
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 63
 
 payload:
   - DOMAIN-SUFFIX,97973.com
@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,ivwen.com
   - DOMAIN-SUFFIX,jike.city
   - DOMAIN-SUFFIX,jikecdn.com
+  - DOMAIN-SUFFIX,laiyagushi.com
   - DOMAIN-SUFFIX,maimai.cn
   - DOMAIN-SUFFIX,meipian.cn
   - DOMAIN-SUFFIX,meipian.me
@@ -48,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,tieba.baidu.com
   - DOMAIN-SUFFIX,tieba.com
   - DOMAIN-SUFFIX,videoself.cn
+  - DOMAIN-SUFFIX,vzuu.com
   - DOMAIN-SUFFIX,wbimg.cn
   - DOMAIN-SUFFIX,wbimg.com
   - DOMAIN-SUFFIX,wcdn.cn

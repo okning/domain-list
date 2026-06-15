@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/safepal.txt
+# Name: safepal
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,isafepal.com
+DOMAIN-SUFFIX,safepal.com

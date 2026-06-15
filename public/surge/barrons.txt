@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/barrons.txt
 # Name: barrons
-# Updated: Sun, 14 Jun 2026 00:48:01 GMT
+# Updated: Mon, 15 Jun 2026 00:50:06 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,barrons-advisor.com
