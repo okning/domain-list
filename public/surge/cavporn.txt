@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cavporn.txt
 # Name: cavporn
-# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Updated: Tue, 16 Jun 2026 00:54:56 GMT
 # Total: 3
 
 # REGEXP,(^|\.)cav1(0[2-9]|1[0-9])\.com$

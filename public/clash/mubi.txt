@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/mubi.txt
 # Name: mubi
-# Updated: Mon, 15 Jun 2026 00:50:06 GMT
+# Updated: Tue, 16 Jun 2026 00:54:56 GMT
 # Total: 2
 
 payload:
