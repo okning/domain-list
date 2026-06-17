@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-media-ir.txt
 # Name: category-media-ir
-# Updated: Tue, 16 Jun 2026 00:54:56 GMT
-# Total: 26
+# Updated: Wed, 17 Jun 2026 00:49:30 GMT
+# Total: 28
 
 payload:
   - DOMAIN-SUFFIX,aparat.com
@@ -15,6 +15,8 @@ payload:
   - DOMAIN-SUFFIX,iribtv.ir
   - DOMAIN-SUFFIX,irinn.ir
   - DOMAIN-SUFFIX,jjtvn.ir
+  - DOMAIN-SUFFIX,melodify.app
+  - DOMAIN-SUFFIX,melodify.pw
   - DOMAIN-SUFFIX,namava.ir
   - DOMAIN-SUFFIX,qurantv.ir
   - DOMAIN-SUFFIX,radio.ir

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/supercell.txt
 # Name: supercell
-# Updated: Tue, 16 Jun 2026 00:54:56 GMT
+# Updated: Wed, 17 Jun 2026 00:49:30 GMT
 # Total: 22
 
 DOMAIN-SUFFIX,boombeach.com

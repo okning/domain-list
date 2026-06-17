@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/chinapost.txt
 # Name: chinapost
-# Updated: Tue, 16 Jun 2026 00:54:56 GMT
+# Updated: Wed, 17 Jun 2026 00:49:30 GMT
 # Total: 19
 
 DOMAIN-SUFFIX,11183.com.cn

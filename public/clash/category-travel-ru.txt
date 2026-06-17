@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-travel-ru.txt
 # Name: category-travel-ru
-# Updated: Tue, 16 Jun 2026 00:54:56 GMT
+# Updated: Wed, 17 Jun 2026 00:49:30 GMT
 # Total: 24
 
 payload:

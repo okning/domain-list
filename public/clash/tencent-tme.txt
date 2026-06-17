@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/tencent-tme.txt
 # Name: tencent-tme
-# Updated: Tue, 16 Jun 2026 00:54:56 GMT
-# Total: 30
+# Updated: Wed, 17 Jun 2026 00:49:30 GMT
+# Total: 32
 
 payload:
   - DOMAIN-SUFFIX,97ting.com
@@ -26,11 +26,13 @@ payload:
   - DOMAIN-SUFFIX,kugouyouth.com
   - DOMAIN-SUFFIX,kuwo.cn
   - DOMAIN-SUFFIX,lrts.me
+  - DOMAIN-SUFFIX,mting.info
   - DOMAIN-SUFFIX,music.qq.com
   - DOMAIN-SUFFIX,qqmusic.com
   - DOMAIN-SUFFIX,tencentmusic.com
   - DOMAIN-SUFFIX,tingmall.com
   - DOMAIN-SUFFIX,ultimatemusic.cn
+  - DOMAIN-SUFFIX,wting.info
   - DOMAIN-SUFFIX,ximalaya.com
   - DOMAIN-SUFFIX,xmcdn.com
   - DOMAIN-SUFFIX,y.qq.com

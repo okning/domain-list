@@ -1,7 +1,11 @@
 # URL: https://s.nosec.me/surge/lizhi.txt
 # Name: lizhi
-# Updated: Tue, 16 Jun 2026 00:54:56 GMT
-# Total: 2
+# Updated: Wed, 17 Jun 2026 00:49:30 GMT
+# Total: 6
 
+DOMAIN-SUFFIX,gzlzfm.com
 DOMAIN-SUFFIX,lizhi.fm
 DOMAIN-SUFFIX,lizhifm.com
+DOMAIN-SUFFIX,lizhiinc.com
+DOMAIN-SUFFIX,lz310.com
+DOMAIN-SUFFIX,lzpipi.com

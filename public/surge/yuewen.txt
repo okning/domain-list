@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/yuewen.txt
 # Name: yuewen
-# Updated: Tue, 16 Jun 2026 00:54:56 GMT
-# Total: 12
+# Updated: Wed, 17 Jun 2026 00:49:30 GMT
+# Total: 11
 
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,qdmm.com
@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,readnovel.com
 DOMAIN-SUFFIX,rongshuxia.com
 DOMAIN-SUFFIX,tingbook.com
 DOMAIN-SUFFIX,webnovel.com
-DOMAIN-SUFFIX,wting.info
 DOMAIN-SUFFIX,xs.cn
 DOMAIN-SUFFIX,xs8.cn
 DOMAIN-SUFFIX,xxsy.net

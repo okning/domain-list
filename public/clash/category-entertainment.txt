@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Tue, 16 Jun 2026 00:54:56 GMT
-# Total: 1900
+# Updated: Wed, 17 Jun 2026 00:49:30 GMT
+# Total: 1905
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -213,6 +213,7 @@ payload:
   - DOMAIN-SUFFIX,cf-vanguard.com
   - DOMAIN-SUFFIX,championshipseriesleague.com
   - DOMAIN-SUFFIX,charlotte-anime.jp
+  - DOMAIN,chatscc-hamivideo2.cdn.hinet.net
   - DOMAIN-SUFFIX,chii.in
   - DOMAIN-SUFFIX,chillingo.com
   - DOMAIN-SUFFIX,chobit.cc
@@ -687,6 +688,7 @@ payload:
   - DOMAIN-SUFFIX,historyofdota.net
   - DOMAIN-SUFFIX,historyofdota.org
   - DOMAIN,hls-amt.itunes.apple.com
+  - DOMAIN,hls-hamivideo.cdn.hinet.net
   - DOMAIN,hls.itunes.apple.com
   - DOMAIN-SUFFIX,hobbigame.com
   - DOMAIN-SUFFIX,homebox.com
@@ -1306,6 +1308,7 @@ payload:
   - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,saiganak.com
+  - DOMAIN,scc-hamivideo.cdn.hinet.net
   - DOMAIN,scc.ott.hinet.net
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,screens-lab.jp
@@ -1466,6 +1469,7 @@ payload:
   - DOMAIN-SUFFIX,swtor.com
   - DOMAIN-SUFFIX,swtor.net
   - DOMAIN-SUFFIX,syosetu.com
+  - DOMAIN,t.ssp.hinet.net
   - DOMAIN-SUFFIX,take2games.com
   - DOMAIN-SUFFIX,tarkov.com
   - DOMAIN-SUFFIX,teamneedforspeed.com
@@ -1638,6 +1642,7 @@ payload:
   - DOMAIN-SUFFIX,wbgames.com
   - DOMAIN-SUFFIX,wbinsights.com
   - DOMAIN,weblive-hamivideo.cdn.hinet.net
+  - DOMAIN,weblivea-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,webnovel.com
   - DOMAIN,webvodad-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,weverse.io
