@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Wed, 17 Jun 2026 00:49:30 GMT
-# Total: 1905
+# Updated: Thu, 18 Jun 2026 00:51:37 GMT
+# Total: 1906
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -1446,8 +1446,9 @@ DOMAIN-SUFFIX,stellasora.jp
 DOMAIN-SUFFIX,streamingdisney.net
 DOMAIN-SUFFIX,subscene.com
 DOMAIN-SUFFIX,supercell.com
-DOMAIN-SUFFIX,supercell.helpshift.com
+DOMAIN,supercell.helpshift.com
 DOMAIN-SUFFIX,supercell.net
+DOMAIN,supercell.zendesk.com
 DOMAIN-SUFFIX,supercellcreators.com
 DOMAIN-SUFFIX,supercellgames.com
 DOMAIN-SUFFIX,supercellid.com

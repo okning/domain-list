@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Wed, 17 Jun 2026 00:49:30 GMT
-# Total: 7788
+# Updated: Thu, 18 Jun 2026 00:51:37 GMT
+# Total: 7789
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -6076,6 +6076,7 @@ DOMAIN-SUFFIX,salesforcemarketingcloud.com
 DOMAIN-SUFFIX,samebags.com
 DOMAIN-SUFFIX,samsung
 DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungadhub.com
 DOMAIN-SUFFIX,samsungads.com
 DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,samsungcloud.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/samsung.txt
 # Name: samsung
-# Updated: Wed, 17 Jun 2026 00:49:30 GMT
-# Total: 23
+# Updated: Thu, 18 Jun 2026 00:51:37 GMT
+# Total: 24
 
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,galaxymobile.jp
@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,knoxemm.com
 DOMAIN-SUFFIX,ospserver.net
 DOMAIN-SUFFIX,samsung
 DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungadhub.com
 DOMAIN-SUFFIX,samsungads.com
 DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,samsungcloud.com

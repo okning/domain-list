@@ -1,17 +1,17 @@
 # URL: https://s.nosec.me/clash/jetbrains.txt
 # Name: jetbrains
-# Updated: Wed, 17 Jun 2026 00:49:30 GMT
+# Updated: Thu, 18 Jun 2026 00:51:37 GMT
 # Total: 13
 
 payload:
   - DOMAIN-SUFFIX,datalore.io
-  - DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
   - DOMAIN-SUFFIX,intellij.com
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,intellij.org
   - DOMAIN-SUFFIX,jb.gg
   - DOMAIN-SUFFIX,jetbrains.cloud
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,jetbrains.com.cn
   - DOMAIN-SUFFIX,jetbrains.net
   - DOMAIN-SUFFIX,jetbrains.space
   - DOMAIN-SUFFIX,jetbrains.team

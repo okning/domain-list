@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games-non-cn.txt
 # Name: category-games-non-cn
-# Updated: Wed, 17 Jun 2026 00:49:30 GMT
-# Total: 830
+# Updated: Thu, 18 Jun 2026 00:51:37 GMT
+# Total: 831
 
 # REGEXP,^cdn-akamai-.+\.gog-services\.com$
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
@@ -673,8 +673,9 @@ DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,stellasora.global
 DOMAIN-SUFFIX,stellasora.jp
 DOMAIN-SUFFIX,supercell.com
-DOMAIN-SUFFIX,supercell.helpshift.com
+DOMAIN,supercell.helpshift.com
 DOMAIN-SUFFIX,supercell.net
+DOMAIN,supercell.zendesk.com
 DOMAIN-SUFFIX,supercellcreators.com
 DOMAIN-SUFFIX,supercellgames.com
 DOMAIN-SUFFIX,supercellid.com

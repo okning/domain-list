@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-dev.txt
 # Name: category-dev
-# Updated: Wed, 17 Jun 2026 00:49:30 GMT
+# Updated: Thu, 18 Jun 2026 00:51:37 GMT
 # Total: 603
 
 # REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
@@ -115,7 +115,6 @@ DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,dot.net
 DOMAIN-SUFFIX,dotdeb.org
-DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,draftjs.org
 DOMAIN,dtlgalleryint.cloudapp.net
@@ -275,6 +274,7 @@ DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.com.cn
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
