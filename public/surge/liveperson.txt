@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/liveperson.txt
 # Name: liveperson
-# Updated: Thu, 18 Jun 2026 00:51:37 GMT
+# Updated: Thu, 18 Jun 2026 00:52:26 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,liveperson.net

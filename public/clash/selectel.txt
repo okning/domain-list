@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/selectel.txt
 # Name: selectel
-# Updated: Thu, 18 Jun 2026 00:51:37 GMT
+# Updated: Thu, 18 Jun 2026 00:52:26 GMT
 # Total: 24
 
 payload:

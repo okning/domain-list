@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/verisign-pki.txt
 # Name: verisign-pki
-# Updated: Thu, 18 Jun 2026 00:51:37 GMT
+# Updated: Thu, 18 Jun 2026 00:52:26 GMT
 # Total: 50
 
 DOMAIN-SUFFIX,adobe-crl.verisign.com

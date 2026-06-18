@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-hospital-cn.txt
 # Name: category-hospital-cn
-# Updated: Thu, 18 Jun 2026 00:51:37 GMT
+# Updated: Thu, 18 Jun 2026 00:52:26 GMT
 # Total: 8
 
 DOMAIN-SUFFIX,cd120.com
