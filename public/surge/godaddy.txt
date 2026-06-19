@@ -1,8 +1,10 @@
 # URL: https://s.nosec.me/surge/godaddy.txt
 # Name: godaddy
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
-# Total: 3
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
+# Total: 5
 
 DOMAIN-SUFFIX,godaddy
 DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godaddy.net
+DOMAIN-SUFFIX,wsimg.com
 DOMAIN-SUFFIX,x.co

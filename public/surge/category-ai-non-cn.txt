@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-ai-non-cn.txt
 # Name: category-ai-non-cn
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
 # Total: 159
 
 # REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$

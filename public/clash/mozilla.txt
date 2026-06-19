@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/mozilla.txt
 # Name: mozilla
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
-# Total: 63
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
+# Total: 65
 
 payload:
   - DOMAIN-SUFFIX,allizom.net
@@ -65,5 +65,7 @@ payload:
   - DOMAIN-SUFFIX,popcornjs.org
   - DOMAIN-SUFFIX,publicsuffix.org
   - DOMAIN-SUFFIX,seamonkey-project.org
+  - DOMAIN-SUFFIX,tb.pro
   - DOMAIN-SUFFIX,thunderbird.net
+  - DOMAIN-SUFFIX,thundermail.com
   - DOMAIN-SUFFIX,webmademovies.org

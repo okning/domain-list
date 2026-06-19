@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ecommerce.txt
 # Name: category-ecommerce
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
-# Total: 1259
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
+# Total: 1260
 
 DOMAIN-SUFFIX,21centuryaccess.com
 DOMAIN-SUFFIX,4ebaytraders.com
@@ -540,6 +540,7 @@ DOMAIN-SUFFIX,fout.jp
 DOMAIN-SUFFIX,fragrancebay.com
 DOMAIN-SUFFIX,francemail.com
 DOMAIN-SUFFIX,futureshop.ca
+DOMAIN-SUFFIX,gamewtb.com
 DOMAIN-SUFFIX,geek-squad-support.com
 DOMAIN-SUFFIX,geek-squad.net
 DOMAIN-SUFFIX,geek-squad.org

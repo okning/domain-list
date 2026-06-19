@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/hp.txt
 # Name: hp
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
 # Total: 158
 
 DOMAIN-SUFFIX,123-hp.com

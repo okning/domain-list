@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cloudcone.txt
 # Name: cloudcone
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,clco.cc

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
 # Total: 7275
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$

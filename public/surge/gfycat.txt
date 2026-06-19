@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/gfycat.txt
 # Name: gfycat
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,gfycat.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/umeng.txt
 # Name: umeng
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
 # Total: 11
 
 DOMAIN-SUFFIX,cnzz.com

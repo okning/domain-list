@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-bank-ir.txt
 # Name: category-bank-ir
-# Updated: Thu, 18 Jun 2026 00:52:26 GMT
+# Updated: Fri, 19 Jun 2026 00:53:59 GMT
 # Total: 32
 
 payload:
