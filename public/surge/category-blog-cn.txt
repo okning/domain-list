@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-blog-cn.txt
 # Name: category-blog-cn
-# Updated: Fri, 19 Jun 2026 00:53:59 GMT
-# Total: 14
+# Updated: Sat, 20 Jun 2026 00:44:49 GMT
+# Total: 15
 
 DOMAIN-SUFFIX,114blog.com
 DOMAIN-SUFFIX,4thworkshop.cn
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,huangyuhui.net
 DOMAIN-SUFFIX,lg3000.top
 DOMAIN-SUFFIX,mryys.cn
 DOMAIN-SUFFIX,mryys.com
+DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,skywt.cn
 DOMAIN-SUFFIX,soulteary.com
 DOMAIN-SUFFIX,tai3.cn

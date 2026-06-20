@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/nodejs.txt
 # Name: nodejs
-# Updated: Fri, 19 Jun 2026 00:53:59 GMT
+# Updated: Sat, 20 Jun 2026 00:44:49 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,nodejs.org

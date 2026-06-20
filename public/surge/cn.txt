@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Fri, 19 Jun 2026 00:53:59 GMT
-# Total: 5758
+# Updated: Sat, 20 Jun 2026 00:44:49 GMT
+# Total: 5759
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -3662,6 +3662,7 @@ DOMAIN-SUFFIX,myparallelstory.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,myshow360.net
 DOMAIN-SUFFIX,mysiteres.com
+DOMAIN-SUFFIX,mysqil.com
 DOMAIN-SUFFIX,myypark.com
 DOMAIN-SUFFIX,myyx618.com
 DOMAIN-SUFFIX,myzaker.com
