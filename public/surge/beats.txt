@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/beats.txt
 # Name: beats
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
 # Total: 716
 
 DOMAIN-SUFFIX,100beatscheap.com

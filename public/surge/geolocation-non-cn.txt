@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
-# Total: 25828
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
+# Total: 25826
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -152,16 +152,13 @@
 # REGEXP,(^|\.)zzz[1-9][0-9]\.top$
 # REGEXP,^(.+\.)*zh\.okaapps\.com$
 # REGEXP,^[0-9]+vod-adaptive\.akamaized\.net$
-# REGEXP,^cdn-akamai-.+\.gog-services\.com$
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # REGEXP,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 # REGEXP,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 # REGEXP,^epicgames-download\d\.akamaized\.net$
 # REGEXP,^ewcdn[0-9]+\.nowe\.com$
 # REGEXP,^ewcdn[0-9]+\.nowe\.com$
-# REGEXP,^gog-cdn-.+\.footprint\.net$
 # REGEXP,^hses[1-7]?\.akamaized\.net$
-# REGEXP,^images(-\d)?\.gog-statics\.com$
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 DOMAIN-SUFFIX,01.org
@@ -10136,6 +10133,7 @@ DOMAIN-SUFFIX,gofile.me
 DOMAIN-SUFFIX,gofucker.com
 DOMAIN-SUFFIX,gofuckmenow.com
 DOMAIN-SUFFIX,gofundme.com
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN,gog.qtlglb.com

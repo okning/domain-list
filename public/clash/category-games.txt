@@ -1,16 +1,13 @@
 # URL: https://s.nosec.me/clash/category-games.txt
 # Name: category-games
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
-# Total: 1087
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
+# Total: 1085
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
-  - DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
   - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
-  - DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
-  - DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
   - DOMAIN-SUFFIX,100classicbooks.com
   - DOMAIN-SUFFIX,17roco.com
   - DOMAIN-SUFFIX,2k.com
@@ -333,6 +330,7 @@ payload:
   - DOMAIN-SUFFIX,gloryofheracles.com
   - DOMAIN-SUFFIX,goblocks.com
   - DOMAIN-SUFFIX,goblox.com
+  - DOMAIN,gog-cdn-lumen.secure2.footprint.net
   - DOMAIN,gog-cdn.akamaized.net
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/sf-express.txt
 # Name: sf-express
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
 # Total: 15
 
 DOMAIN-SUFFIX,feng1.com

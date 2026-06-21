@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-media-ru.txt
 # Name: category-media-ru
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
 # Total: 135
 
 DOMAIN-SUFFIX,1917live.red

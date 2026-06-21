@@ -1,15 +1,12 @@
 # URL: https://s.nosec.me/surge/category-games.txt
 # Name: category-games
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
-# Total: 1087
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
+# Total: 1085
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
-# REGEXP,^cdn-akamai-.+\.gog-services\.com$
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # REGEXP,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 # REGEXP,^epicgames-download\d\.akamaized\.net$
-# REGEXP,^gog-cdn-.+\.footprint\.net$
-# REGEXP,^images(-\d)?\.gog-statics\.com$
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -332,6 +329,7 @@ DOMAIN-SUFFIX,giratina.com
 DOMAIN-SUFFIX,gloryofheracles.com
 DOMAIN-SUFFIX,goblocks.com
 DOMAIN-SUFFIX,goblox.com
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog-cdn.akamaized.net
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com

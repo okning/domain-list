@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
-# Total: 1906
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
+# Total: 1904
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -9,14 +9,11 @@ payload:
   - DOMAIN-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
   - DOMAIN-REGEX,(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
   - DOMAIN-REGEX,^[0-9]+vod-adaptive\.akamaized\.net$
-  - DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
   - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
   - DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$
-  - DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
   - DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
-  - DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
   - DOMAIN-SUFFIX,100classicbooks.com
   - DOMAIN-SUFFIX,112263.com
   - DOMAIN-SUFFIX,2025copy.com
@@ -596,6 +593,7 @@ payload:
   - DOMAIN-SUFFIX,go.com
   - DOMAIN-SUFFIX,goblocks.com
   - DOMAIN-SUFFIX,goblox.com
+  - DOMAIN,gog-cdn-lumen.secure2.footprint.net
   - DOMAIN,gog-cdn.akamaized.net
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bbc.txt
 # Name: bbc
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
 # Total: 28
 
 DOMAIN,aod-pod-uk-live.akamaized.net

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-media-ru-blocked.txt
 # Name: category-media-ru-blocked
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
 # Total: 131
 
 DOMAIN-SUFFIX,24.kg

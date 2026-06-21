@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-bank-ir.txt
 # Name: category-bank-ir
-# Updated: Sat, 20 Jun 2026 00:44:49 GMT
+# Updated: Sun, 21 Jun 2026 00:49:14 GMT
 # Total: 32
 
 DOMAIN-SUFFIX,agri-bank.com
