@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/vercel.txt
 # Name: vercel
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
 # Total: 27
 
 DOMAIN-SUFFIX,ai-sdk.dev

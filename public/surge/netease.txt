@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/netease.txt
 # Name: netease
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 37
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 38
 
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.link
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,youdao.com
+DOMAIN-SUFFIX,youdaoads.com
 DOMAIN-SUFFIX,yunxindns.com
 DOMAIN-SUFFIX,yunxinfw.com
 DOMAIN-SUFFIX,zhuanzfx.com

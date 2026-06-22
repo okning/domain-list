@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads.txt
 # Name: category-ads
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 847
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 849
 
 payload:
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -477,6 +477,7 @@ payload:
   - DOMAIN,informer.yandex.ru
   - DOMAIN-SUFFIX,inner-active.mobi
   - DOMAIN-SUFFIX,innovid.com
+  - DOMAIN-SUFFIX,insights-collector.gog.com
   - DOMAIN-SUFFIX,inte.sogou.com
   - DOMAIN-SUFFIX,inte.sogoucdn.com
   - DOMAIN-SUFFIX,ipinyou.com
@@ -842,6 +843,7 @@ payload:
   - DOMAIN-SUFFIX,yk-ssp.ad.youku.com
   - DOMAIN-SUFFIX,ykad-data.youku.com
   - DOMAIN-SUFFIX,ylog.hiido.com
+  - DOMAIN-SUFFIX,youdaoads.com
   - DOMAIN-SUFFIX,ysm.yahoo.com
   - DOMAIN-SUFFIX,z.gds.cnzz.com
   - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

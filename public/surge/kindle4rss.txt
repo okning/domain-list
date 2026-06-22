@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/kindle4rss.txt
 # Name: kindle4rss
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,kindle4rss.com

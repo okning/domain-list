@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/clash/petrochina.txt
+# Name: petrochina
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 4
+
+payload:
+  - DOMAIN-SUFFIX,95504.net
+  - DOMAIN-SUFFIX,95504test.com
+  - DOMAIN-SUFFIX,cnpc.com.cn
+  - DOMAIN-SUFFIX,petrochina.com.cn

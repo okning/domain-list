@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games-non-cn.txt
 # Name: category-games-non-cn
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 829
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 833
 
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # REGEXP,^epicgames-download\d-\d+\.file\.myqcloud\.com$
@@ -103,6 +103,7 @@ DOMAIN-SUFFIX,convrgencegame.com
 DOMAIN-SUFFIX,crossout.net
 DOMAIN-SUFFIX,crsed.net
 DOMAIN-SUFFIX,crysis.jp
+DOMAIN-SUFFIX,csgo.com.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,cubicmotion.com
 DOMAIN-SUFFIX,cubicodyssey.game
@@ -136,6 +137,7 @@ DOMAIN-SUFFIX,dodi-repacks.site
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
 DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,dota2.com
+DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,dragonage.com
 DOMAIN-SUFFIX,dragonagekeep.com
@@ -239,9 +241,11 @@ DOMAIN-SUFFIX,goblocks.com
 DOMAIN-SUFFIX,goblox.com
 DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,gog-services.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN,gog.qtlglb.com
+DOMAIN-SUFFIX,gogalaxy.com
 DOMAIN-SUFFIX,gooblox.com
 DOMAIN-SUFFIX,gpstatic.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com

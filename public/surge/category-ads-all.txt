@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 899
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 901
 
 # REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 DOMAIN,1l-hit.mail.ru
@@ -501,6 +501,7 @@ DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,innovid.com
+DOMAIN-SUFFIX,insights-collector.gog.com
 DOMAIN-SUFFIX,inte.sogou.com
 DOMAIN-SUFFIX,inte.sogoucdn.com
 DOMAIN-SUFFIX,ipinyou.com
@@ -893,6 +894,7 @@ DOMAIN-SUFFIX,yfanads.com
 DOMAIN-SUFFIX,yk-ssp.ad.youku.com
 DOMAIN-SUFFIX,ykad-data.youku.com
 DOMAIN-SUFFIX,ylog.hiido.com
+DOMAIN-SUFFIX,youdaoads.com
 DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

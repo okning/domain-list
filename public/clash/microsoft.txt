@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/microsoft.txt
 # Name: microsoft
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 627
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 631
 
 payload:
   - DOMAIN-SUFFIX,1drv.com
@@ -77,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,azure-dns.info
   - DOMAIN-SUFFIX,azure-dns.net
   - DOMAIN-SUFFIX,azure-dns.org
+  - DOMAIN-SUFFIX,azure-mobile.cn
   - DOMAIN-SUFFIX,azure-mobile.net
   - DOMAIN-SUFFIX,azure-sphere.com
   - DOMAIN-SUFFIX,azure-test.net
@@ -542,6 +543,10 @@ payload:
   - DOMAIN-SUFFIX,skypeassets.com
   - DOMAIN-SUFFIX,skypeassets.net
   - DOMAIN-SUFFIX,skypedata.akadns.net
+  - DOMAIN-SUFFIX,sovcloud-mx.cn
+  - DOMAIN-SUFFIX,sovcloud-static.cn
+  - DOMAIN-SUFFIX,sovcloud-usercontent.cn
+  - DOMAIN-SUFFIX,sovcloud.cn
   - DOMAIN-SUFFIX,spo-msedge.net
   - DOMAIN-SUFFIX,sprinklesapp.com
   - DOMAIN-SUFFIX,sqlserveronlinux.com
@@ -568,7 +573,6 @@ payload:
   - DOMAIN-SUFFIX,translatetheweb.com
   - DOMAIN-SUFFIX,trustcenter.cn
   - DOMAIN-SUFFIX,tryfunctions.com
-  - DOMAIN-SUFFIX,unity3dcloud.cn
   - DOMAIN-SUFFIX,unlocklimitlesslearning.com
   - DOMAIN-SUFFIX,userpxt.io
   - DOMAIN-SUFFIX,uwpcommunitytoolkit.com

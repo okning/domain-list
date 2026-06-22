@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/fonts.txt
 # Name: fonts
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
 # Total: 2
 
 payload:

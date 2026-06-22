@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/azure.txt
 # Name: azure
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 144
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 148
 
 payload:
   - DOMAIN-SUFFIX,21vbc.com
@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,azure-dns.info
   - DOMAIN-SUFFIX,azure-dns.net
   - DOMAIN-SUFFIX,azure-dns.org
+  - DOMAIN-SUFFIX,azure-mobile.cn
   - DOMAIN-SUFFIX,azure-mobile.net
   - DOMAIN-SUFFIX,azure-sphere.com
   - DOMAIN-SUFFIX,azure-test.net
@@ -140,11 +141,14 @@ payload:
   - DOMAIN-SUFFIX,playfab.com
   - DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,serverlesslibrary.net
+  - DOMAIN-SUFFIX,sovcloud-mx.cn
+  - DOMAIN-SUFFIX,sovcloud-static.cn
+  - DOMAIN-SUFFIX,sovcloud-usercontent.cn
+  - DOMAIN-SUFFIX,sovcloud.cn
   - DOMAIN-SUFFIX,trafficmanager.cn
   - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,trustcenter.cn
   - DOMAIN-SUFFIX,tryfunctions.com
-  - DOMAIN-SUFFIX,unity3dcloud.cn
   - DOMAIN-SUFFIX,windowsazure.cn
   - DOMAIN-SUFFIX,windowsazure.com
   - DOMAIN-SUFFIX,windowsazurestatus.cn

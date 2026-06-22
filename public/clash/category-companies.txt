@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 7793
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 7797
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -1167,6 +1167,7 @@ payload:
   - DOMAIN-SUFFIX,azure-dns.info
   - DOMAIN-SUFFIX,azure-dns.net
   - DOMAIN-SUFFIX,azure-dns.org
+  - DOMAIN-SUFFIX,azure-mobile.cn
   - DOMAIN-SUFFIX,azure-mobile.net
   - DOMAIN-SUFFIX,azure-sphere.com
   - DOMAIN-SUFFIX,azure-test.net
@@ -6384,6 +6385,10 @@ payload:
   - DOMAIN-SUFFIX,sonytc.co.jp
   - DOMAIN-SUFFIX,soso7778.com
   - DOMAIN-SUFFIX,sourcecraft.dev
+  - DOMAIN-SUFFIX,sovcloud-mx.cn
+  - DOMAIN-SUFFIX,sovcloud-static.cn
+  - DOMAIN-SUFFIX,sovcloud-usercontent.cn
+  - DOMAIN-SUFFIX,sovcloud.cn
   - DOMAIN-SUFFIX,sovec.net
   - DOMAIN-SUFFIX,spacemail.com
   - DOMAIN-SUFFIX,spaceship.com
@@ -6703,7 +6708,6 @@ payload:
   - DOMAIN-SUFFIX,umbrella.com
   - DOMAIN-SUFFIX,umschool.net
   - DOMAIN-SUFFIX,unfiltered.news
-  - DOMAIN-SUFFIX,unity3dcloud.cn
   - DOMAIN-SUFFIX,universalscalablefirmware.org
   - DOMAIN-SUFFIX,unlocklimitlesslearning.com
   - DOMAIN-SUFFIX,unstyle.us

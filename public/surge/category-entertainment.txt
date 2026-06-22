@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 1904
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 1908
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -242,6 +242,7 @@ DOMAIN-SUFFIX,crsed.net
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,crypton.co.jp
 DOMAIN-SUFFIX,crysis.jp
+DOMAIN-SUFFIX,csgo.com.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,cubicmotion.com
 DOMAIN-SUFFIX,cubicodyssey.game
@@ -429,6 +430,7 @@ DOMAIN-SUFFIX,dokusho-ojikan.jp
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
 DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,dota2.com
+DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN,dqd0jw5gvbchn.cloudfront.net
 DOMAIN,dqrpb9wgowsf5.cloudfront.net
@@ -594,9 +596,11 @@ DOMAIN-SUFFIX,goblocks.com
 DOMAIN-SUFFIX,goblox.com
 DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,gog-services.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN,gog.qtlglb.com
+DOMAIN-SUFFIX,gogalaxy.com
 DOMAIN-SUFFIX,gogo-load.com
 DOMAIN-SUFFIX,gogoanime.vc
 DOMAIN-SUFFIX,gogoanime.wiki

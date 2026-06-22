@@ -1,11 +1,13 @@
 # URL: https://s.nosec.me/clash/gog.txt
 # Name: gog
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 5
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 7
 
 payload:
   - DOMAIN,gog-cdn-lumen.secure2.footprint.net
   - DOMAIN,gog-cdn.akamaized.net
+  - DOMAIN-SUFFIX,gog-services.com
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN,gog.qtlglb.com
+  - DOMAIN-SUFFIX,gogalaxy.com

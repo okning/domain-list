@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/chinatelecom.txt
 # Name: chinatelecom
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 16
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 17
 
 payload:
   - DOMAIN-SUFFIX,189.cn
@@ -19,4 +19,5 @@ payload:
   - DOMAIN-SUFFIX,ctexcel.com.hk
   - DOMAIN-SUFFIX,ctexcel.fr
   - DOMAIN-SUFFIX,ctexcel.us
+  - DOMAIN-SUFFIX,dlife.cn
   - DOMAIN-SUFFIX,vnet.cn

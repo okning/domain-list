@@ -1,9 +1,11 @@
 # URL: https://s.nosec.me/surge/meituan.txt
 # Name: meituan
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 16
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 19
 
 DOMAIN-SUFFIX,100.me
+DOMAIN-SUFFIX,51ping.com
+DOMAIN-SUFFIX,baobaoaichi.cn
 DOMAIN-SUFFIX,ddcorp.net
 DOMAIN-SUFFIX,ddfresh.net
 DOMAIN-SUFFIX,ddimg.mobi
@@ -12,6 +14,7 @@ DOMAIN-SUFFIX,ddmc.mobi
 DOMAIN-SUFFIX,dduser.mobi
 DOMAIN-SUFFIX,ddxq.mobi
 DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,imaicai.mobi
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,meituan.com

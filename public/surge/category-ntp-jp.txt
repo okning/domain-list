@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-ntp-jp.txt
 # Name: category-ntp-jp
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
 # Total: 28
 
 DOMAIN-SUFFIX,ats1.e-timing.ne.jp

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-games.txt
 # Name: category-games
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 1085
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 1091
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -176,6 +176,7 @@ payload:
   - DOMAIN-SUFFIX,crossout.net
   - DOMAIN-SUFFIX,crsed.net
   - DOMAIN-SUFFIX,crysis.jp
+  - DOMAIN-SUFFIX,csgo.com.cn
   - DOMAIN-SUFFIX,cubicmotion.com
   - DOMAIN-SUFFIX,cubicodyssey.game
   - DOMAIN-SUFFIX,curseforge.com
@@ -210,6 +211,7 @@ payload:
   - DOMAIN-SUFFIX,donkeykongcountryreturns.com
   - DOMAIN-SUFFIX,doom.com
   - DOMAIN-SUFFIX,dota2.com
+  - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,dragonage.com
   - DOMAIN-SUFFIX,dragonagekeep.com
   - DOMAIN-SUFFIX,dragonagemovie.com
@@ -332,9 +334,11 @@ payload:
   - DOMAIN-SUFFIX,goblox.com
   - DOMAIN,gog-cdn-lumen.secure2.footprint.net
   - DOMAIN,gog-cdn.akamaized.net
+  - DOMAIN-SUFFIX,gog-services.com
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN,gog.qtlglb.com
+  - DOMAIN-SUFFIX,gogalaxy.com
   - DOMAIN-SUFFIX,gooblox.com
   - DOMAIN-SUFFIX,goto-game.com
   - DOMAIN-SUFFIX,goto-game.mobi
@@ -415,6 +419,7 @@ payload:
   - DOMAIN-SUFFIX,kyurem.com
   - DOMAIN-SUFFIX,labycore.cn
   - DOMAIN-SUFFIX,langrenclub.com
+  - DOMAIN-SUFFIX,laohu.com
   - DOMAIN,lazer.ppy.sh
   - DOMAIN-SUFFIX,lcsmerch.com
   - DOMAIN-SUFFIX,leaguehighschool.com
@@ -1010,6 +1015,7 @@ payload:
   - DOMAIN-SUFFIX,winegame.net
   - DOMAIN-SUFFIX,wmsj.cn
   - DOMAIN-SUFFIX,wmsjsteam.com
+  - DOMAIN-SUFFIX,wmupd.com
   - DOMAIN-SUFFIX,wo1wan.com
   - DOMAIN-SUFFIX,worldflipper.akamaized.net
   - DOMAIN-SUFFIX,worldflipper.jp

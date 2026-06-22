@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 784
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 789
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -120,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,awemeugsoul.com
   - DOMAIN-SUFFIX,awemeugwave.com
   - DOMAIN-SUFFIX,b23.tv
+  - DOMAIN-SUFFIX,b612kaji.com
   - DOMAIN-SUFFIX,baofeng.com
   - DOMAIN-SUFFIX,baofeng.net
   - DOMAIN-SUFFIX,baozou.com
@@ -490,6 +491,7 @@ payload:
   - DOMAIN-SUFFIX,kwimgs.com
   - DOMAIN-SUFFIX,labycore.cn
   - DOMAIN-SUFFIX,langrenclub.com
+  - DOMAIN-SUFFIX,laohu.com
   - DOMAIN-SUFFIX,ldmnq.com
   - DOMAIN-SUFFIX,le.com
   - DOMAIN-SUFFIX,leautolink.com
@@ -565,6 +567,7 @@ payload:
   - DOMAIN-SUFFIX,nagcloudcs.com
   - DOMAIN-SUFFIX,natfrp.com
   - DOMAIN-SUFFIX,news.yxrb.net
+  - DOMAIN-SUFFIX,newstjk.com
   - DOMAIN-SUFFIX,nextstudios.com
   - DOMAIN-SUFFIX,nextvid.net
   - DOMAIN-SUFFIX,nextworkshop.net
@@ -649,6 +652,7 @@ payload:
   - DOMAIN-SUFFIX,shuqiapi.com
   - DOMAIN-SUFFIX,shuqiread.com
   - DOMAIN-SUFFIX,shuqireader.com
+  - DOMAIN-SUFFIX,shuqistat.com
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,singworld.net
   - DOMAIN-SUFFIX,skydweller.cn
@@ -720,6 +724,7 @@ payload:
   - DOMAIN-SUFFIX,werepository.com.cn
   - DOMAIN-SUFFIX,winegame.net
   - DOMAIN-SUFFIX,wmsj.cn
+  - DOMAIN-SUFFIX,wmupd.com
   - DOMAIN-SUFFIX,wo1wan.com
   - DOMAIN-SUFFIX,woaihuoshan.com
   - DOMAIN-SUFFIX,wohst8.com

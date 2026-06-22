@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 25826
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 25834
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -2951,6 +2951,7 @@ payload:
   - DOMAIN-SUFFIX,azure-dns.info
   - DOMAIN-SUFFIX,azure-dns.net
   - DOMAIN-SUFFIX,azure-dns.org
+  - DOMAIN-SUFFIX,azure-mobile.cn
   - DOMAIN-SUFFIX,azure-mobile.net
   - DOMAIN-SUFFIX,azure-sphere.com
   - DOMAIN-SUFFIX,azure-test.net
@@ -5896,6 +5897,7 @@ payload:
   - DOMAIN-SUFFIX,cs.co
   - DOMAIN-SUFFIX,cs4hs.com
   - DOMAIN-SUFFIX,csakporno.hu
+  - DOMAIN-SUFFIX,csgo.com.cn
   - DOMAIN-SUFFIX,csgo.wmsj.cn
   - DOMAIN-SUFFIX,cshive.com
   - DOMAIN-SUFFIX,csifund.org
@@ -6864,6 +6866,7 @@ payload:
   - DOMAIN-SUFFIX,dot.net
   - DOMAIN-SUFFIX,dot.net
   - DOMAIN-SUFFIX,dota2.com
+  - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,dotcernpilot.info
   - DOMAIN-SUFFIX,dotdeb.org
@@ -10135,9 +10138,11 @@ payload:
   - DOMAIN-SUFFIX,gofuckmenow.com
   - DOMAIN-SUFFIX,gofundme.com
   - DOMAIN,gog-cdn-lumen.secure2.footprint.net
+  - DOMAIN-SUFFIX,gog-services.com
   - DOMAIN-SUFFIX,gog-statics.com
   - DOMAIN-SUFFIX,gog.com
   - DOMAIN,gog.qtlglb.com
+  - DOMAIN-SUFFIX,gogalaxy.com
   - DOMAIN-SUFFIX,gogettaxi.org
   - DOMAIN-SUFFIX,gogle.com
   - DOMAIN-SUFFIX,gogo-load.com
@@ -20705,6 +20710,10 @@ payload:
   - DOMAIN-SUFFIX,sourcingforebay.tv
   - DOMAIN-SUFFIX,south-plus.net
   - DOMAIN-SUFFIX,southfloridamini.com
+  - DOMAIN-SUFFIX,sovcloud-mx.cn
+  - DOMAIN-SUFFIX,sovcloud-static.cn
+  - DOMAIN-SUFFIX,sovcloud-usercontent.cn
+  - DOMAIN-SUFFIX,sovcloud.cn
   - DOMAIN-SUFFIX,sovcombank.ru
   - DOMAIN-SUFFIX,sovec.net
   - DOMAIN-SUFFIX,soyinyj.top
@@ -22410,7 +22419,6 @@ payload:
   - DOMAIN-SUFFIX,uniswap.org
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,unity3d.com
-  - DOMAIN-SUFFIX,unity3dcloud.cn
   - DOMAIN-SUFFIX,universalorlando.com
   - DOMAIN-SUFFIX,universalpictures.com
   - DOMAIN-SUFFIX,universalpicturesinternational.com

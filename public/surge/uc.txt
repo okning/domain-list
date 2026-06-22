@@ -1,9 +1,12 @@
 # URL: https://s.nosec.me/surge/uc.txt
 # Name: uc
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 4
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 7
 
+DOMAIN-SUFFIX,open-uc.cn
+DOMAIN-SUFFIX,uc-engine.cn
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,uc123.com
+DOMAIN-SUFFIX,ucfly.com
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uczzd.cn

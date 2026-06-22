@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/iflytek.txt
 # Name: iflytek
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
-# Total: 10
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
+# Total: 11
 
 DOMAIN-SUFFIX,changyan.com
 DOMAIN-SUFFIX,ets100.com
@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,iflyink.com
 DOMAIN-SUFFIX,iflyrec.com
 DOMAIN-SUFFIX,iflysec.com
 DOMAIN-SUFFIX,iflytek.com
+DOMAIN-SUFFIX,voicecloud.cn
 DOMAIN-SUFFIX,xfyun.cn
 DOMAIN-SUFFIX,xunfei.cn
 DOMAIN-SUFFIX,xunfeixxj.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-social-media-cn.txt
 # Name: category-social-media-cn
-# Updated: Sun, 21 Jun 2026 00:49:14 GMT
+# Updated: Mon, 22 Jun 2026 00:48:58 GMT
 # Total: 66
 
 DOMAIN-SUFFIX,97973.com
