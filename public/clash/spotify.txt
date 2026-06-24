@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/spotify.txt
 # Name: spotify
-# Updated: Tue, 23 Jun 2026 00:44:00 GMT
-# Total: 23
+# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Total: 25
 
 payload:
   - DOMAIN,audio-ak-spotify-com.akamaized.net
@@ -10,6 +10,7 @@ payload:
   - DOMAIN,cdn-spotify-experiments.conductrics.com
   - DOMAIN,heads-ak-spotify-com.akamaized.net
   - DOMAIN,heads4-ak-spotify-com.akamaized.net
+  - DOMAIN-SUFFIX,lifeatspotify.com
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spoti.fi
@@ -25,5 +26,6 @@ payload:
   - DOMAIN-SUFFIX,spotifycharts.com
   - DOMAIN-SUFFIX,spotifycodes.com
   - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,tospotify.com

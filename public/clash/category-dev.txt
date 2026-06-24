@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-dev.txt
 # Name: category-dev
-# Updated: Tue, 23 Jun 2026 00:44:00 GMT
-# Total: 603
+# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Total: 611
 
 payload:
   - DOMAIN-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,acpica.com
   - DOMAIN-SUFFIX,adaptivecards.io
   - DOMAIN-SUFFIX,adventofcode.com
+  - DOMAIN-SUFFIX,almalinux.org
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN,amp.akamaized.net
   - DOMAIN-SUFFIX,amp.dev
@@ -60,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,buck.build
   - DOMAIN-SUFFIX,buckbuild.com
   - DOMAIN-SUFFIX,bugsnag.com
+  - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,calendarserver.org
   - DOMAIN-SUFFIX,canonical.com
   - DOMAIN-SUFFIX,carekit.org
@@ -217,6 +219,7 @@ payload:
   - DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.career
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.community
   - DOMAIN-SUFFIX,github.dev
@@ -312,6 +315,7 @@ payload:
   - DOMAIN-SUFFIX,macruby.net
   - DOMAIN-SUFFIX,macruby.org
   - DOMAIN-SUFFIX,makeitopen.com
+  - DOMAIN-SUFFIX,manjaro.org
   - DOMAIN-SUFFIX,mariadb.org
   - DOMAIN-SUFFIX,mate-desktop.org
   - DOMAIN-SUFFIX,mathoverflow.net
@@ -476,6 +480,7 @@ payload:
   - DOMAIN-SUFFIX,rocksdb.com
   - DOMAIN-SUFFIX,rocksdb.net
   - DOMAIN-SUFFIX,rocksdb.org
+  - DOMAIN-SUFFIX,rockylinux.org
   - DOMAIN-SUFFIX,rpmfusion.org
   - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,rubygems.org
@@ -575,9 +580,12 @@ payload:
   - DOMAIN,vscode-sync-insiders.trafficmanager.net
   - DOMAIN,vscode-sync.trafficmanager.net
   - DOMAIN-SUFFIX,vscode-unpkg.net
+  - DOMAIN-SUFFIX,vscode-webview.net
   - DOMAIN,vscode.blob.core.windows.net
   - DOMAIN-SUFFIX,vscode.dev
   - DOMAIN,vscode.search.windows.net
+  - DOMAIN-SUFFIX,vscodeedu.app
+  - DOMAIN-SUFFIX,vscodeedu.com
   - DOMAIN,vsmarketplacebadge.apphb.com
   - DOMAIN-SUFFIX,w.org
   - DOMAIN-SUFFIX,wapm.io

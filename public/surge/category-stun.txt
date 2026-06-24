@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-stun.txt
 # Name: category-stun
-# Updated: Tue, 23 Jun 2026 00:44:00 GMT
-# Total: 362
+# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Total: 361
 
 DOMAIN,iphone-stun.strato-iphone.de
 DOMAIN-SUFFIX,metered.live
@@ -233,7 +233,6 @@ DOMAIN,stun.root-1.de
 DOMAIN,stun.rounds.com
 DOMAIN,stun.ru-brides.com
 DOMAIN,stun.rynga.com
-DOMAIN,stun.samsungsmartcam.com
 DOMAIN,stun.schlund.de
 DOMAIN,stun.schulinformatik.at
 DOMAIN,stun.services.mozilla.com

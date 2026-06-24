@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/microsoft-dev.txt
 # Name: microsoft-dev
-# Updated: Tue, 23 Jun 2026 00:44:00 GMT
-# Total: 71
+# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Total: 74
 
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,api-extractor.com
@@ -69,8 +69,11 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN,vscode.blob.core.windows.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN,vscode.search.windows.net
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,xamarin.com

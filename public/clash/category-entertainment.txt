@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Tue, 23 Jun 2026 00:44:00 GMT
-# Total: 1908
+# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Total: 1910
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -830,6 +830,7 @@ payload:
   - DOMAIN-SUFFIX,legendofzelda.cn
   - DOMAIN-SUFFIX,legendofzelda.com.cn
   - DOMAIN,lgcscc-hamivideo2.cdn.hinet.net
+  - DOMAIN-SUFFIX,lifeatspotify.com
   - DOMAIN,linear-abematv.akamaized.net
   - DOMAIN-SUFFIX,linetv.tw
   - DOMAIN-SUFFIX,litbus-anime.com
@@ -1376,6 +1377,7 @@ payload:
   - DOMAIN-SUFFIX,spotifycharts.com
   - DOMAIN-SUFFIX,spotifycodes.com
   - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,spyjinx.com
   - DOMAIN-SUFFIX,sqool.net

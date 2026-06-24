@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Tue, 23 Jun 2026 00:44:00 GMT
-# Total: 7797
+# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Total: 7804
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -2196,7 +2196,6 @@ payload:
   - DOMAIN-SUFFIX,deepfreeze.net
   - DOMAIN-SUFFIX,deepfreeze.tech
   - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN,default.exp-tas.com
   - DOMAIN-SUFFIX,del.com
   - DOMAIN-SUFFIX,del.com.br
   - DOMAIN-SUFFIX,delcam-ams.com
@@ -2682,6 +2681,7 @@ payload:
   - DOMAIN-SUFFIX,eworld.com
   - DOMAIN-SUFFIX,exacttarget.com
   - DOMAIN-SUFFIX,exascale-tech.com
+  - DOMAIN-SUFFIX,exp-tas.com
   - DOMAIN-SUFFIX,experience-vmware.com
   - DOMAIN-SUFFIX,exploreintel.com
   - DOMAIN-SUFFIX,expresswifi.com
@@ -3253,6 +3253,7 @@ payload:
   - DOMAIN,github-api.arkoselabs.com
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.career
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.community
   - DOMAIN-SUFFIX,github.dev
@@ -6079,15 +6080,18 @@ payload:
   - DOMAIN-SUFFIX,samebags.com
   - DOMAIN-SUFFIX,samsung
   - DOMAIN-SUFFIX,samsung.com
+  - DOMAIN-SUFFIX,samsung.com.cn
   - DOMAIN-SUFFIX,samsungadhub.com
   - DOMAIN-SUFFIX,samsungads.com
   - DOMAIN-SUFFIX,samsungapps.com
   - DOMAIN-SUFFIX,samsungcloud.com
+  - DOMAIN-SUFFIX,samsungcloudcn.com
   - DOMAIN-SUFFIX,samsungconsent.com
   - DOMAIN-SUFFIX,samsungdm.com
   - DOMAIN-SUFFIX,samsungeshop.com.cn
   - DOMAIN-SUFFIX,samsunggalaxyfriends.com
   - DOMAIN-SUFFIX,samsunghealth.com
+  - DOMAIN-SUFFIX,samsunghealthcn.com
   - DOMAIN-SUFFIX,samsungiotcloud.com
   - DOMAIN-SUFFIX,samsungiots.com
   - DOMAIN-SUFFIX,samsungknox.com
@@ -6933,7 +6937,10 @@ payload:
   - DOMAIN-SUFFIX,vscale.ru
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,vscode-unpkg.net
+  - DOMAIN-SUFFIX,vscode-webview.net
   - DOMAIN-SUFFIX,vscode.dev
+  - DOMAIN-SUFFIX,vscodeedu.app
+  - DOMAIN-SUFFIX,vscodeedu.com
   - DOMAIN,vsmarketplacebadge.apphb.com
   - DOMAIN-SUFFIX,vsphere.com
   - DOMAIN-SUFFIX,vsphere.net

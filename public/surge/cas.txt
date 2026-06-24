@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cas.txt
 # Name: cas
-# Updated: Tue, 23 Jun 2026 00:44:00 GMT
+# Updated: Wed, 24 Jun 2026 00:39:05 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,csdl.ac.cn

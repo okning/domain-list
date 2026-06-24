@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/github.txt
 # Name: github
-# Updated: Tue, 23 Jun 2026 00:44:00 GMT
-# Total: 57
+# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Total: 58
 
 DOMAIN-SUFFIX,atom.io
 DOMAIN,copilotprodattachments.blob.core.windows.net
@@ -19,6 +19,7 @@ DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
