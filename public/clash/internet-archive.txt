@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/internet-archive.txt
 # Name: internet-archive
-# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Updated: Thu, 25 Jun 2026 00:44:04 GMT
 # Total: 3
 
 payload:

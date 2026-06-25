@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/oup.txt
 # Name: oup
-# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Updated: Thu, 25 Jun 2026 00:44:04 GMT
 # Total: 29
 
 DOMAIN-SUFFIX,amamanualofstyle.com

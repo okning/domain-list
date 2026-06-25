@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/gfycat.txt
 # Name: gfycat
-# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Updated: Thu, 25 Jun 2026 00:44:04 GMT
 # Total: 1
 
 payload:

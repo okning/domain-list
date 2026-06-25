@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/4plebs.txt
 # Name: 4plebs
-# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Updated: Thu, 25 Jun 2026 00:44:04 GMT
 # Total: 2
 
 payload:

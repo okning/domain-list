@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-gov-ir.txt
 # Name: category-gov-ir
-# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Updated: Thu, 25 Jun 2026 00:44:04 GMT
 # Total: 29
 
 payload:

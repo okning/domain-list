@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/onekey.txt
 # Name: onekey
-# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Updated: Thu, 25 Jun 2026 00:44:04 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,onekey-asset.com

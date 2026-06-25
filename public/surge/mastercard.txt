@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/mastercard.txt
 # Name: mastercard
-# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Updated: Thu, 25 Jun 2026 00:44:04 GMT
 # Total: 186
 
 DOMAIN-SUFFIX,53world.com

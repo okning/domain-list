@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/fansta.txt
 # Name: fansta
-# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Updated: Thu, 25 Jun 2026 00:44:04 GMT
 # Total: 5
 
 DOMAIN-SUFFIX,2023aga.oen.tw

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/gamesplanet.txt
 # Name: gamesplanet
-# Updated: Wed, 24 Jun 2026 00:39:05 GMT
+# Updated: Thu, 25 Jun 2026 00:44:04 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,gamesplanet.com
