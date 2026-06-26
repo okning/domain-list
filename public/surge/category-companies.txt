@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Thu, 25 Jun 2026 00:44:04 GMT
+# Updated: Fri, 26 Jun 2026 00:45:22 GMT
 # Total: 7804
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$

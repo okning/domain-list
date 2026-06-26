@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/epochmediagroup.txt
 # Name: epochmediagroup
-# Updated: Thu, 25 Jun 2026 00:44:04 GMT
+# Updated: Fri, 26 Jun 2026 00:45:22 GMT
 # Total: 68
 
 DOMAIN-SUFFIX,dajiyuan.com

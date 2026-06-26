@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/landian.txt
 # Name: landian
-# Updated: Thu, 25 Jun 2026 00:44:04 GMT
+# Updated: Fri, 26 Jun 2026 00:45:22 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,lancdn.com

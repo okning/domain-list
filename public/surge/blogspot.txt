@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/blogspot.txt
 # Name: blogspot
-# Updated: Thu, 25 Jun 2026 00:44:04 GMT
+# Updated: Fri, 26 Jun 2026 00:45:22 GMT
 # Total: 76
 
 DOMAIN-SUFFIX,blogblog.com

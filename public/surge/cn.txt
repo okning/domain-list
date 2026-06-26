@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Thu, 25 Jun 2026 00:44:04 GMT
-# Total: 5812
+# Updated: Fri, 26 Jun 2026 00:45:22 GMT
+# Total: 5817
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -372,6 +372,7 @@ DOMAIN-SUFFIX,abdf002.com
 DOMAIN-SUFFIX,abhouses.com
 DOMAIN-SUFFIX,ac.fun
 DOMAIN-SUFFIX,acadn.com
+DOMAIN,account-cn.alibabacloud.com
 DOMAIN-SUFFIX,acctdns.com
 DOMAIN-SUFFIX,acctdns.net
 DOMAIN-SUFFIX,accxiaoheihe.com
@@ -398,7 +399,6 @@ DOMAIN-SUFFIX,activity05.com
 DOMAIN-SUFFIX,activitybyte.com
 DOMAIN-SUFFIX,acwifi.net
 DOMAIN-SUFFIX,acwing.com
-DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adkwai.com
@@ -596,6 +596,7 @@ DOMAIN-SUFFIX,apdcdn.com
 DOMAIN-SUFFIX,apdcdn.net
 DOMAIN-SUFFIX,api-building.fun
 DOMAIN-SUFFIX,api-building.fun
+DOMAIN,api.alibabacloud.com
 DOMAIN-SUFFIX,apifox.com
 DOMAIN-SUFFIX,apigwtencent.com
 DOMAIN-SUFFIX,apimkt.net
@@ -1364,6 +1365,9 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cmpay.com
 DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
+DOMAIN,cn.alibabacloud.com
 DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,cnanzhi.com
 DOMAIN-SUFFIX,cnb.cool
@@ -4436,6 +4440,7 @@ DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,statickksmg.com
+DOMAIN,status.alibabacloud.com
 DOMAIN-SUFFIX,statuslarkoffice.com
 DOMAIN-SUFFIX,stcn.com
 DOMAIN-SUFFIX,steam302.xyz

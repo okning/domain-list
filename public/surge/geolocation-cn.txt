@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Thu, 25 Jun 2026 00:44:04 GMT
-# Total: 7359
+# Updated: Fri, 26 Jun 2026 00:45:22 GMT
+# Total: 7364
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -459,6 +459,7 @@ DOMAIN-SUFFIX,abhouses.com
 DOMAIN-SUFFIX,ac.fun
 DOMAIN-SUFFIX,acadn.cn
 DOMAIN-SUFFIX,acadn.com
+DOMAIN,account-cn.alibabacloud.com
 DOMAIN-SUFFIX,acctdns.com
 DOMAIN-SUFFIX,acctdns.net
 DOMAIN-SUFFIX,accuratead.cn
@@ -490,7 +491,6 @@ DOMAIN-SUFFIX,activity05.com
 DOMAIN-SUFFIX,activitybyte.com
 DOMAIN-SUFFIX,acwifi.net
 DOMAIN-SUFFIX,acwing.com
-DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adkwai.com
@@ -724,6 +724,7 @@ DOMAIN-SUFFIX,apdcdn.com
 DOMAIN-SUFFIX,apdcdn.net
 DOMAIN-SUFFIX,api-building.fun
 DOMAIN-SUFFIX,api-building.fun
+DOMAIN,api.alibabacloud.com
 DOMAIN-SUFFIX,apifox.cn
 DOMAIN-SUFFIX,apifox.com
 DOMAIN-SUFFIX,apigwtencent.com
@@ -1748,6 +1749,9 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cmpay.com
 DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
+DOMAIN,cn.alibabacloud.com
 DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,cnanzhi.com
 DOMAIN-SUFFIX,cnb.cool
@@ -5663,6 +5667,7 @@ DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,statickksmg.com
+DOMAIN,status.alibabacloud.com
 DOMAIN-SUFFIX,statusfeishu.cn
 DOMAIN-SUFFIX,statuslarkoffice.com
 DOMAIN-SUFFIX,stcn.com

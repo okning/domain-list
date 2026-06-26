@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/dslreports.txt
 # Name: dslreports
-# Updated: Thu, 25 Jun 2026 00:44:04 GMT
+# Updated: Fri, 26 Jun 2026 00:45:22 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,broadbandreports.com
