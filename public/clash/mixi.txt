@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/mixi.txt
 # Name: mixi
-# Updated: Fri, 26 Jun 2026 00:45:22 GMT
+# Updated: Sat, 27 Jun 2026 00:42:49 GMT
 # Total: 3
 
 payload:

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/azure.txt
 # Name: azure
-# Updated: Fri, 26 Jun 2026 00:45:22 GMT
+# Updated: Sat, 27 Jun 2026 00:42:49 GMT
 # Total: 148
 
 DOMAIN-SUFFIX,21vbc.com

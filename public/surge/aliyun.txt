@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/aliyun.txt
 # Name: aliyun
-# Updated: Fri, 26 Jun 2026 00:45:22 GMT
+# Updated: Sat, 27 Jun 2026 00:42:49 GMT
 # Total: 73
 
 DOMAIN-SUFFIX,adash.man.aliyuncs.com

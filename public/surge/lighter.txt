@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/lighter.txt
 # Name: lighter
-# Updated: Fri, 26 Jun 2026 00:45:22 GMT
+# Updated: Sat, 27 Jun 2026 00:42:49 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,lighter.exchange

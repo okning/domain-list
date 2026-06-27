@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/disney.txt
 # Name: disney
-# Updated: Fri, 26 Jun 2026 00:45:22 GMT
+# Updated: Sat, 27 Jun 2026 00:42:49 GMT
 # Total: 157
 
 # REGEXP,^hses[1-7]?\.akamaized\.net$
