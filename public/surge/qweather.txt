@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/surge/qweather.txt
 # Name: qweather
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
-# Total: 4
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 5
 
 DOMAIN-SUFFIX,hecdn.net
 DOMAIN-SUFFIX,heweather.net
 DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,qweather.net
+DOMAIN-SUFFIX,qweatherapi.com

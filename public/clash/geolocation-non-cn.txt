@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
-# Total: 25850
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 25860
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -2015,6 +2015,7 @@ payload:
   - DOMAIN-SUFFIX,apple-livephotoskit.com
   - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple-maps.cn
   - DOMAIN-SUFFIX,apple-online.com
   - DOMAIN-SUFFIX,apple-pay.com
@@ -2259,6 +2260,7 @@ payload:
   - DOMAIN-SUFFIX,applereach.com
   - DOMAIN-SUFFIX,applereach.net
   - DOMAIN-SUFFIX,apples-msk.ru
+  - DOMAIN-SUFFIX,appleschoolcontent.com
   - DOMAIN-SUFFIX,applescreensavers.com
   - DOMAIN-SUFFIX,applescript.info
   - DOMAIN-SUFFIX,appleshare.info
@@ -2356,6 +2358,7 @@ payload:
   - DOMAIN-SUFFIX,aptoide.com
   - DOMAIN-SUFFIX,apture.com
   - DOMAIN-SUFFIX,apyle.com
+  - DOMAIN-SUFFIX,apzones.com
   - DOMAIN-SUFFIX,aqdlt.net
   - DOMAIN-SUFFIX,arabianchicks.com
   - DOMAIN-SUFFIX,arabicrt.ru
@@ -2889,6 +2892,7 @@ payload:
   - DOMAIN-SUFFIX,axbdoll.com.tw
   - DOMAIN-SUFFIX,axept.io
   - DOMAIN-SUFFIX,axios.com
+  - DOMAIN-SUFFIX,axm-usercontent-apple.com
   - DOMAIN-SUFFIX,ayabank.com
   - DOMAIN-SUFFIX,ayshdade.info
   - DOMAIN-SUFFIX,ayshdee.xyz
@@ -5338,6 +5342,7 @@ payload:
   - DOMAIN-SUFFIX,chromebook.com
   - DOMAIN-SUFFIX,chromecast.com
   - DOMAIN-SUFFIX,chromeos.dev
+  - DOMAIN-SUFFIX,chromestatus.com
   - DOMAIN-SUFFIX,chromium.org
   - DOMAIN-SUFFIX,chromium.org
   - DOMAIN-SUFFIX,chronicle.security
@@ -6057,6 +6062,8 @@ payload:
   - DOMAIN-SUFFIX,damduc.org
   - DOMAIN-SUFFIX,damplips.com
   - DOMAIN-SUFFIX,dandalinvoa.com
+  - DOMAIN-SUFFIX,dandanplay.com
+  - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,dandanzan.cc
   - DOMAIN-SUFFIX,danemarket.com
   - DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
@@ -11737,6 +11744,7 @@ payload:
   - DOMAIN-SUFFIX,ichineseporn.com
   - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud-content.com.cn
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
@@ -22063,6 +22071,7 @@ payload:
   - DOMAIN-SUFFIX,trikepatrol.com
   - DOMAIN-SUFFIX,triokini.com
   - DOMAIN-SUFFIX,triokini.com
+  - DOMAIN-SUFFIX,tripo3d.ai
   - DOMAIN-SUFFIX,tristatebmw.com
   - DOMAIN-SUFFIX,trithucvn.net
   - DOMAIN-SUFFIX,trithucvn.net
@@ -22444,6 +22453,7 @@ payload:
   - DOMAIN-SUFFIX,unraveltwo.com
   - DOMAIN-SUFFIX,unrealengine.com
   - DOMAIN-SUFFIX,unrealtournament.com
+  - DOMAIN-SUFFIX,unsplash.com
   - DOMAIN-SUFFIX,unstyle.us
   - DOMAIN-SUFFIX,unusualporn.net
   - DOMAIN-SUFFIX,unwire.hk

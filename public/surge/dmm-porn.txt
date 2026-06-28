@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/dmm-porn.txt
 # Name: dmm-porn
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,dmm.co.jp

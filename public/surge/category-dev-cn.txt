@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-dev-cn.txt
 # Name: category-dev-cn
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
-# Total: 138
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 139
 
 DOMAIN-SUFFIX,51changxie.com
 DOMAIN-SUFFIX,51jianxie.cn
@@ -83,6 +83,7 @@ DOMAIN-SUFFIX,linyaps.org.cn
 DOMAIN-SUFFIX,mindspore.cn
 DOMAIN-SUFFIX,mysxl.cn
 DOMAIN-SUFFIX,nnthink.com
+DOMAIN-SUFFIX,oend.net
 DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,openmidas.com
 DOMAIN-SUFFIX,openvela.com

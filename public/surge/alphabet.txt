@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/alphabet.txt
 # Name: alphabet
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
-# Total: 878
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 879
 
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromebook.com
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromeos.dev
+DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chronicle.security
 DOMAIN-SUFFIX,chroniclesec.com

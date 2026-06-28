@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
-# Total: 1910
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 1913
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -281,6 +281,8 @@ DOMAIN,d6d4ismr40iw.cloudfront.net
 DOMAIN,d6tizftlrpuof.cloudfront.net
 DOMAIN-SUFFIX,da-files.com
 DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dandanplay.com
+DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,daoc.net
 DOMAIN-SUFFIX,darkageofcamelot.com
@@ -1594,6 +1596,7 @@ DOMAIN-SUFFIX,unravel2.com
 DOMAIN-SUFFIX,unraveltwo.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
+DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,uo.com
 DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,uplay.com

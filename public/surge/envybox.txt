@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/envybox.txt
 # Name: envybox
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
 # Total: 21
 
 DOMAIN-SUFFIX,bananacall.ru

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-scholar-ir.txt
 # Name: category-scholar-ir
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
 # Total: 8
 
 DOMAIN-SUFFIX,ac.ir

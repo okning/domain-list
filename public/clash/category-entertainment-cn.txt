@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
-# Total: 789
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 787
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -82,7 +82,6 @@ payload:
   - DOMAIN-SUFFIX,acfunchina.net
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
-  - DOMAIN-SUFFIX,acplay.net
   - DOMAIN-SUFFIX,activity-wbsj.com
   - DOMAIN-SUFFIX,activity-zhendingtech.com
   - DOMAIN-SUFFIX,adbkwai.com
@@ -199,7 +198,6 @@ payload:
   - DOMAIN-SUFFIX,cookicut.com
   - DOMAIN-SUFFIX,cowlevel.net
   - DOMAIN-SUFFIX,cy.com
-  - DOMAIN-SUFFIX,dandanplay.com
   - DOMAIN-SUFFIX,dataeye.com
   - DOMAIN-SUFFIX,ddmogo.com
   - DOMAIN-SUFFIX,debugmode.cn

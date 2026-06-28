@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-education-ir.txt
 # Name: category-education-ir
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
-# Total: 8
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 10
 
 DOMAIN-SUFFIX,done.ir
 DOMAIN-SUFFIX,faradars.org
@@ -9,5 +9,7 @@ DOMAIN-SUFFIX,git.ir
 DOMAIN-SUFFIX,iranlms.org
 DOMAIN-SUFFIX,learnby.ir
 DOMAIN-SUFFIX,maktabkhooneh.org
+DOMAIN-SUFFIX,melotar.com
+DOMAIN-SUFFIX,newdars.com
 DOMAIN-SUFFIX,toplearn.com
 DOMAIN-SUFFIX,webinarplus.online

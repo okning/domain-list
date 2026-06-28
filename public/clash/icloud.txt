@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/icloud.txt
 # Name: icloud
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
-# Total: 52
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 53
 
 payload:
   - DOMAIN-SUFFIX,apple-icloud.cn
@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud-content.com.cn
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch

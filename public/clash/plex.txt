@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/plex.txt
 # Name: plex
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
 # Total: 4
 
 payload:

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/gitlab.txt
 # Name: gitlab
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
 # Total: 5
 
 DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com

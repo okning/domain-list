@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/qt.txt
 # Name: qt
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,qt-project.org

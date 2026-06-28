@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/intel.txt
 # Name: intel
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
 # Total: 289
 
 payload:

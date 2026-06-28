@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/dandanplay.txt
+# Name: dandanplay
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,dandanplay.com
+DOMAIN-SUFFIX,dandanplay.net

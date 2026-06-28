@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ir.txt
 # Name: category-ir
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
-# Total: 188
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Total: 190
 
 DOMAIN-SUFFIX,7sobh.com
 DOMAIN-SUFFIX,abanbroker.com
@@ -100,12 +100,14 @@ DOMAIN-SUFFIX,mellatbroker.com
 DOMAIN-SUFFIX,mellatinsurance.com
 DOMAIN-SUFFIX,melodify.app
 DOMAIN-SUFFIX,melodify.pw
+DOMAIN-SUFFIX,melotar.com
 DOMAIN-SUFFIX,mihanwebhost.com
 DOMAIN-SUFFIX,mofidonline.com
 DOMAIN-SUFFIX,mrbilit.com
 DOMAIN-SUFFIX,mydigipay.com
 DOMAIN-SUFFIX,najva.com
 DOMAIN-SUFFIX,neshan.org
+DOMAIN-SUFFIX,newdars.com
 DOMAIN-SUFFIX,niniban.com
 DOMAIN-SUFFIX,ninisite.com
 DOMAIN-SUFFIX,niniweblog.com

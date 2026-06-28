@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/kugou.txt
 # Name: kugou
-# Updated: Sat, 27 Jun 2026 00:42:49 GMT
+# Updated: Sun, 28 Jun 2026 00:44:01 GMT
 # Total: 16
 
 DOMAIN-SUFFIX,fanxingliveshow.com
