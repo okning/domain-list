@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/apple-intelligence.txt
 # Name: apple-intelligence
-# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Updated: Mon, 29 Jun 2026 00:45:18 GMT
 # Total: 5
 
 DOMAIN,apple-relay.apple.com

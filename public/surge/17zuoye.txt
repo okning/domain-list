@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/17zuoye.txt
 # Name: 17zuoye
-# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Updated: Mon, 29 Jun 2026 00:45:18 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,17zuoye.cn

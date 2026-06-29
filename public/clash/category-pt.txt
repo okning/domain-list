@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/category-pt.txt
 # Name: category-pt
-# Updated: Sun, 28 Jun 2026 00:44:01 GMT
-# Total: 115
+# Updated: Mon, 29 Jun 2026 00:45:18 GMT
+# Total: 123
 
 payload:
   - DOMAIN-SUFFIX,1ptba.com
   - DOMAIN-SUFFIX,52pt.site
+  - DOMAIN-SUFFIX,animebytes.tv
   - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,avistaz.to
   - DOMAIN-SUFFIX,beitai.pt
@@ -24,12 +25,14 @@ payload:
   - DOMAIN-SUFFIX,cinemaz.to
   - DOMAIN-SUFFIX,cyanbug.net
   - DOMAIN-SUFFIX,dicmusic.com
+  - DOMAIN-SUFFIX,digitalcore.club
   - DOMAIN-SUFFIX,dmhy.best
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,eastgame.org
   - DOMAIN-SUFFIX,et8.org
   - DOMAIN-SUFFIX,exoticaz.to
   - DOMAIN-SUFFIX,filelist.io
+  - DOMAIN-SUFFIX,gazellegames.net
   - DOMAIN-SUFFIX,greatposterwall.com
   - DOMAIN-SUFFIX,haidan.video
   - DOMAIN-SUFFIX,hdarea.club
@@ -80,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,nicept.net
   - DOMAIN-SUFFIX,npupt.com
   - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,orpheus.network
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,pandapt.net
   - DOMAIN-SUFFIX,passthepopcorn.me
@@ -103,14 +107,18 @@ payload:
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,pttime.top
   - DOMAIN-SUFFIX,rainbowisland.co
+  - DOMAIN-SUFFIX,redacted.sh
   - DOMAIN-SUFFIX,rousi.zip
   - DOMAIN-SUFFIX,share.ilolicon.com
   - DOMAIN-SUFFIX,sharkpt.net
   - DOMAIN-SUFFIX,skyey2.com
   - DOMAIN-SUFFIX,skyeysnow.com
+  - DOMAIN-SUFFIX,sportscult.org
   - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,superbits.org
   - DOMAIN-SUFFIX,tju.pt
   - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,torrentleech.cc
   - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,ubits.club

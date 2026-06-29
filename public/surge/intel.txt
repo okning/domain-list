@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/intel.txt
 # Name: intel
-# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Updated: Mon, 29 Jun 2026 00:45:18 GMT
 # Total: 289
 
 DOMAIN-SUFFIX,01.org

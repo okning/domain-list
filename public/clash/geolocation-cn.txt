@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Updated: Mon, 29 Jun 2026 00:45:18 GMT
 # Total: 7380
 
 payload:
@@ -3969,6 +3969,7 @@ payload:
   - DOMAIN-SUFFIX,kimg.cn
   - DOMAIN-SUFFIX,kimi.com
   - DOMAIN-SUFFIX,kimiss.com
+  - DOMAIN-SUFFIX,kimxz.com
   - DOMAIN-SUFFIX,kingdee.com
   - DOMAIN-SUFFIX,kinghomechina.com
   - DOMAIN-SUFFIX,kingsoft-office-service.com
@@ -4015,7 +4016,6 @@ payload:
   - DOMAIN-SUFFIX,ks-cdn1.com
   - DOMAIN-SUFFIX,ks-live.com
   - DOMAIN-SUFFIX,ksapisrv.com
-  - DOMAIN-SUFFIX,kscord.com
   - DOMAIN-SUFFIX,kshbank.cn
   - DOMAIN-SUFFIX,kskwai.com
   - DOMAIN-SUFFIX,ksmobile.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/wps.txt
 # Name: wps
-# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Updated: Mon, 29 Jun 2026 00:45:18 GMT
 # Total: 13
 
 payload:
@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,docer.com
   - DOMAIN-SUFFIX,iciba.com
   - DOMAIN-SUFFIX,kdocs.cn
-  - DOMAIN-SUFFIX,kscord.com
+  - DOMAIN-SUFFIX,kimxz.com
   - DOMAIN-SUFFIX,papocket.com
   - DOMAIN-SUFFIX,qwps.cn
   - DOMAIN-SUFFIX,wps.cn

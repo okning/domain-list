@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Updated: Mon, 29 Jun 2026 00:45:18 GMT
 # Total: 5833
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -3108,6 +3108,7 @@ DOMAIN-SUFFIX,kgimg.com
 DOMAIN-SUFFIX,kidsccshow.com
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,kimiss.com
+DOMAIN-SUFFIX,kimxz.com
 DOMAIN-SUFFIX,kingdee.com
 DOMAIN-SUFFIX,kinghomechina.com
 DOMAIN-SUFFIX,kingsoft-office-service.com
@@ -3140,7 +3141,6 @@ DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ks-cdn1.com
 DOMAIN-SUFFIX,ks-live.com
 DOMAIN-SUFFIX,ksapisrv.com
-DOMAIN-SUFFIX,kscord.com
 DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ksord.com

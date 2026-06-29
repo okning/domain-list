@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/rossiyasegodnya.txt
 # Name: rossiyasegodnya
-# Updated: Sun, 28 Jun 2026 00:44:01 GMT
+# Updated: Mon, 29 Jun 2026 00:45:18 GMT
 # Total: 17
 
 DOMAIN-SUFFIX,1prime.ru
