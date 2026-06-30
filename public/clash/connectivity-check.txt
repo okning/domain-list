@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/connectivity-check.txt
 # Name: connectivity-check
-# Updated: Mon, 29 Jun 2026 00:45:18 GMT
+# Updated: Tue, 30 Jun 2026 00:43:20 GMT
 # Total: 27
 
 payload:

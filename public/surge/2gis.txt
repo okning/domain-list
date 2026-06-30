@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/2gis.txt
 # Name: 2gis
-# Updated: Mon, 29 Jun 2026 00:45:18 GMT
+# Updated: Tue, 30 Jun 2026 00:43:20 GMT
 # Total: 14
 
 DOMAIN-SUFFIX,2gis.ae

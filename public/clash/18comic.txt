@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/18comic.txt
 # Name: 18comic
-# Updated: Mon, 29 Jun 2026 00:45:18 GMT
+# Updated: Tue, 30 Jun 2026 00:43:20 GMT
 # Total: 51
 
 payload:
