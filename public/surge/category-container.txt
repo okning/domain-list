@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-container.txt
 # Name: category-container
-# Updated: Tue, 30 Jun 2026 00:43:20 GMT
+# Updated: Wed, 01 Jul 2026 00:45:52 GMT
 # Total: 10
 
 # REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$

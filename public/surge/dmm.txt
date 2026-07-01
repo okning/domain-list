@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/dmm.txt
 # Name: dmm
-# Updated: Tue, 30 Jun 2026 00:43:20 GMT
+# Updated: Wed, 01 Jul 2026 00:45:52 GMT
 # Total: 16
 
 DOMAIN,api-p.videomarket.jp

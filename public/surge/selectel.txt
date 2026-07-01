@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/selectel.txt
 # Name: selectel
-# Updated: Tue, 30 Jun 2026 00:43:20 GMT
+# Updated: Wed, 01 Jul 2026 00:45:52 GMT
 # Total: 24
 
 DOMAIN-SUFFIX,chipcore.com

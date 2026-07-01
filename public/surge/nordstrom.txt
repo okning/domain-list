@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/nordstrom.txt
 # Name: nordstrom
-# Updated: Tue, 30 Jun 2026 00:43:20 GMT
+# Updated: Wed, 01 Jul 2026 00:45:52 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,nordstrom.com
