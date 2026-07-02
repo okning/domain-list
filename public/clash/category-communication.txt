@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-communication.txt
 # Name: category-communication
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 148
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 149
 
 payload:
   - DOMAIN-SUFFIX,adsgram.ai
@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,airhornbot.com
   - DOMAIN-SUFFIX,arewereadyyet.com
   - DOMAIN-SUFFIX,bigbeans.solutions
+  - DOMAIN-SUFFIX,botim.me
   - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,cinny.in
   - DOMAIN-SUFFIX,clubhouse.com

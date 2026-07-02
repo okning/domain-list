@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-education-cn.txt
 # Name: category-education-cn
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 165
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 167
 
 payload:
   - DOMAIN-SUFFIX,100tal.com
@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,baydn.com
   - DOMAIN-SUFFIX,bczcdn.com
   - DOMAIN-SUFFIX,bczeducation.cn
+  - DOMAIN-SUFFIX,beie.org
   - DOMAIN-SUFFIX,biyehome.net
   - DOMAIN-SUFFIX,burningvocabulary.cn
   - DOMAIN-SUFFIX,burningvocabulary.com
@@ -67,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,gfbzb.gov.cn
   - DOMAIN-SUFFIX,gfbzb.net
   - DOMAIN-SUFFIX,gk100.com
+  - DOMAIN-SUFFIX,guojibk.com
   - DOMAIN-SUFFIX,haofenshu.com
   - DOMAIN-SUFFIX,hjapi.com
   - DOMAIN-SUFFIX,hjfile.cn

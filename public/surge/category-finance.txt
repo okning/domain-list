@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-finance.txt
 # Name: category-finance
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 598
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 599
 
 DOMAIN-SUFFIX,114bank.co.jp
 DOMAIN-SUFFIX,21-school.ru
@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,bcs.ru
 DOMAIN-SUFFIX,bfa.ru
 DOMAIN-SUFFIX,bim.ir
 DOMAIN-SUFFIX,bk.mufg.jp
+DOMAIN-SUFFIX,blanc.ru
 DOMAIN-SUFFIX,blubank.com
 DOMAIN-SUFFIX,bm-bank.ru
 DOMAIN-SUFFIX,bmi.ir

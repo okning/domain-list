@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-dev-cn.txt
 # Name: category-dev-cn
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 139
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 140
 
 payload:
   - DOMAIN-SUFFIX,51changxie.com
@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,chinauos.com
   - DOMAIN-SUFFIX,cnb.cool
   - DOMAIN-SUFFIX,cnblogs.com
+  - DOMAIN-SUFFIX,cnblogs.vip
   - DOMAIN-SUFFIX,cnitblog.com
   - DOMAIN-SUFFIX,cnweblog.com
   - DOMAIN-SUFFIX,cocos.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-media-cn.txt
 # Name: category-media-cn
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 338
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 343
 
 payload:
   - DOMAIN-SUFFIX,0033.cn
@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,6655.com
   - DOMAIN-SUFFIX,71shi.net
   - DOMAIN-SUFFIX,72whys.com
+  - DOMAIN-SUFFIX,81.cn
   - DOMAIN-SUFFIX,8531.cn
   - DOMAIN-SUFFIX,admin5.com
   - DOMAIN-SUFFIX,ahcaijing.com
@@ -108,6 +109,7 @@ payload:
   - DOMAIN-SUFFIX,dzng.com
   - DOMAIN-SUFFIX,dzwww.com
   - DOMAIN-SUFFIX,eastday.com
+  - DOMAIN-SUFFIX,ebrun.com
   - DOMAIN-SUFFIX,ecns.cn
   - DOMAIN-SUFFIX,eeo.com.cn
   - DOMAIN-SUFFIX,evolife.cn
@@ -195,6 +197,7 @@ payload:
   - DOMAIN-SUFFIX,jztvnews.com
   - DOMAIN-SUFFIX,kankanews.com
   - DOMAIN-SUFFIX,kankannews.com
+  - DOMAIN-SUFFIX,kjrb.com.cn
   - DOMAIN-SUFFIX,kksmg.com
   - DOMAIN-SUFFIX,knewsmart.com
   - DOMAIN-SUFFIX,lancdn.com
@@ -272,6 +275,7 @@ payload:
   - DOMAIN-SUFFIX,sspai.com
   - DOMAIN-SUFFIX,statickksmg.com
   - DOMAIN-SUFFIX,stcn.com
+  - DOMAIN-SUFFIX,stdaily.com
   - DOMAIN-SUFFIX,stockstar.com
   - DOMAIN-SUFFIX,sxtvs.com
   - DOMAIN-SUFFIX,szhk.com
@@ -302,6 +306,7 @@ payload:
   - DOMAIN-SUFFIX,wfdata.club
   - DOMAIN-SUFFIX,win7china.com
   - DOMAIN-SUFFIX,win8china.com
+  - DOMAIN-SUFFIX,workercn.cn
   - DOMAIN-SUFFIX,woshipm.com
   - DOMAIN-SUFFIX,wsoso.com
   - DOMAIN-SUFFIX,xhby.net

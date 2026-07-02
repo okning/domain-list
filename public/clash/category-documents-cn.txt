@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-documents-cn.txt
 # Name: category-documents-cn
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 22
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 24
 
 payload:
   - DOMAIN-SUFFIX,1ppt.com
@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,51pptmoban.com
   - DOMAIN-SUFFIX,51wendang.com
   - DOMAIN-SUFFIX,52ppt.com
+  - DOMAIN-SUFFIX,777ppt.com
   - DOMAIN-SUFFIX,badou.com
   - DOMAIN-SUFFIX,book118.com
   - DOMAIN-SUFFIX,daodoc.com
@@ -18,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,goldhoe.com
   - DOMAIN-SUFFIX,haohaodoc.com
   - DOMAIN-SUFFIX,jinchutou.com
+  - DOMAIN-SUFFIX,keniu.com
   - DOMAIN-SUFFIX,lazyer.net
   - DOMAIN-SUFFIX,renrendoc.com
   - DOMAIN-SUFFIX,safewk.com

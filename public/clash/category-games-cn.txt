@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-games-cn.txt
 # Name: category-games-cn
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 260
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 265
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,5054399.com
   - DOMAIN-SUFFIX,5054399.net
   - DOMAIN-SUFFIX,5wyxi.com
+  - DOMAIN-SUFFIX,66rpg.com
   - DOMAIN-SUFFIX,71acg.com
   - DOMAIN-SUFFIX,71acg.net
   - DOMAIN-SUFFIX,7k7k.com
@@ -73,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,bx1k.com
   - DOMAIN-SUFFIX,cbjq.com
   - DOMAIN-SUFFIX,cdncl.net
+  - DOMAIN-SUFFIX,cgyouxi.com
   - DOMAIN-SUFFIX,changyou.com
   - DOMAIN-SUFFIX,codm.com
   - DOMAIN-SUFFIX,cowlevel.net
@@ -162,6 +164,7 @@ payload:
   - DOMAIN-SUFFIX,my4399.com
   - DOMAIN-SUFFIX,mysiteres.com
   - DOMAIN-SUFFIX,nagcloudcs.com
+  - DOMAIN-SUFFIX,nalrer.cn
   - DOMAIN-SUFFIX,nextstudios.com
   - DOMAIN-SUFFIX,nextworkshop.net
   - DOMAIN-SUFFIX,nzsiteres.com
@@ -250,6 +253,7 @@ payload:
   - DOMAIN-SUFFIX,xoyocdn.com
   - DOMAIN-SUFFIX,ycgame.com
   - DOMAIN-SUFFIX,yingxiong.com
+  - DOMAIN-SUFFIX,yjwujian.cn
   - DOMAIN-SUFFIX,yokaverse.com
   - DOMAIN-SUFFIX,youba.com
   - DOMAIN-SUFFIX,yuanshen.com
@@ -259,6 +263,7 @@ payload:
   - DOMAIN-SUFFIX,yxhimg.com
   - DOMAIN-SUFFIX,yximg.cn
   - DOMAIN-SUFFIX,yxwsgame.com
+  - DOMAIN-SUFFIX,yysls.cn
   - DOMAIN-SUFFIX,yzyxgame.com
   - DOMAIN-SUFFIX,zcjbgame.com
   - DOMAIN-SUFFIX,zhuoyou.com

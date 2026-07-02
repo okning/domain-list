@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/douyin.txt
 # Name: douyin
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 67
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 68
 
 DOMAIN-SUFFIX,activity-wbsj.com
 DOMAIN-SUFFIX,aihst8.com
@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,ihuoshanvod.com
 DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,kolbuyer.cn
 DOMAIN-SUFFIX,nextvid.net
+DOMAIN-SUFFIX,open-douyin.com
 DOMAIN-SUFFIX,ppkankan01.com
 DOMAIN-SUFFIX,qishui.cn
 DOMAIN-SUFFIX,qishui.com

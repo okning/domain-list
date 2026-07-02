@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/bytedance.txt
 # Name: bytedance
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 759
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 761
 
 DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,99uri.cn
@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,byteq5k.com
 DOMAIN-SUFFIX,byteq8u.net
 DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytespeech.com
 DOMAIN-SUFFIX,bytesslb.net
 DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,bytetech.info
@@ -450,6 +451,7 @@ DOMAIN-SUFFIX,okr.cn
 DOMAIN-SUFFIX,okr.com
 DOMAIN-SUFFIX,okr.com.cn
 DOMAIN-SUFFIX,oortgslb.com
+DOMAIN-SUFFIX,open-douyin.com
 DOMAIN-SUFFIX,openbcs.com
 DOMAIN-SUFFIX,openve.cn
 DOMAIN-SUFFIX,originalimg.com

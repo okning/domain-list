@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-game-platforms-download.txt
 # Name: category-game-platforms-download
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
 # Total: 474
 
 payload:

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 787
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 804
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,11222.cn
@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,51zmt.top
 DOMAIN-SUFFIX,5wyxi.com
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,61.com
+DOMAIN-SUFFIX,66rpg.com
 DOMAIN-SUFFIX,6rooms.com
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71acg.com
@@ -92,6 +93,7 @@ DOMAIN,ads5-normal.zijieapi.com
 DOMAIN-SUFFIX,adukwai.com
 DOMAIN-SUFFIX,aichongzoo.cn
 DOMAIN-SUFFIX,aihst8.com
+DOMAIN-SUFFIX,aireads.cn
 DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,aki-game.com
@@ -186,9 +188,18 @@ DOMAIN-SUFFIX,ccw.site
 DOMAIN-SUFFIX,cdkeynogap.com
 DOMAIN-SUFFIX,cdncl.net
 DOMAIN-SUFFIX,cgames.com
+DOMAIN-SUFFIX,cgyouxi.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,chat.top
+DOMAIN-SUFFIX,chatdrama.cn
+DOMAIN-SUFFIX,chatdrama.net
+DOMAIN-SUFFIX,chatqidian.cn
+DOMAIN-SUFFIX,chatqidian.net
+DOMAIN-SUFFIX,chattext.cn
+DOMAIN-SUFFIX,chatwrite.net
+DOMAIN-SUFFIX,chatxiaoxiang.com
+DOMAIN-SUFFIX,chatyuewen.cn
 DOMAIN-SUFFIX,chuapp.com
 DOMAIN-SUFFIX,cibn.cc
 DOMAIN-SUFFIX,cibntv.net
@@ -200,6 +211,7 @@ DOMAIN-SUFFIX,cy.com
 DOMAIN-SUFFIX,dataeye.com
 DOMAIN-SUFFIX,ddmogo.com
 DOMAIN-SUFFIX,debugmode.cn
+DOMAIN-SUFFIX,dishu3.com
 DOMAIN-SUFFIX,diyring.cc
 DOMAIN-SUFFIX,dmhmusic.com
 DOMAIN-SUFFIX,dmzj.com
@@ -562,6 +574,7 @@ DOMAIN-SUFFIX,my4399.com
 DOMAIN-SUFFIX,mysiteres.com
 DOMAIN-SUFFIX,nadianshi.com
 DOMAIN-SUFFIX,nagcloudcs.com
+DOMAIN-SUFFIX,nalrer.cn
 DOMAIN-SUFFIX,natfrp.com
 DOMAIN-SUFFIX,news.yxrb.net
 DOMAIN-SUFFIX,newstjk.com
@@ -573,6 +586,7 @@ DOMAIN-SUFFIX,novelfmpic.com
 DOMAIN-SUFFIX,novelfmstatic.com
 DOMAIN-SUFFIX,novelfmvod.com
 DOMAIN-SUFFIX,nzsiteres.com
+DOMAIN-SUFFIX,open-douyin.com
 DOMAIN,p3-ad-sign.byteimg.com
 DOMAIN,p3-novel.byteimg.com
 DOMAIN,p6-ad-sign.byteimg.com
@@ -748,6 +762,7 @@ DOMAIN-SUFFIX,xoyocdn.com
 DOMAIN-SUFFIX,xs.cn
 DOMAIN-SUFFIX,xs8.cn
 DOMAIN-SUFFIX,xxsy.net
+DOMAIN-SUFFIX,xxsypro.com
 DOMAIN-SUFFIX,xyys.com
 DOMAIN-SUFFIX,xyzcdn.net
 DOMAIN-SUFFIX,xyzfm.link
@@ -758,6 +773,7 @@ DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,yiyouliao.com
+DOMAIN-SUFFIX,yjwujian.cn
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,yo9.com
 DOMAIN-SUFFIX,yokaverse.com
@@ -778,6 +794,7 @@ DOMAIN-SUFFIX,yximg.cn
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yysls.cn
 DOMAIN-SUFFIX,yystatic.com
 DOMAIN-SUFFIX,yystv.cn
 DOMAIN-SUFFIX,yzyxgame.com

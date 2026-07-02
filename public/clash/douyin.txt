@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/douyin.txt
 # Name: douyin
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 67
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 68
 
 payload:
   - DOMAIN-SUFFIX,activity-wbsj.com
@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,kesong.co
   - DOMAIN-SUFFIX,kolbuyer.cn
   - DOMAIN-SUFFIX,nextvid.net
+  - DOMAIN-SUFFIX,open-douyin.com
   - DOMAIN-SUFFIX,ppkankan01.com
   - DOMAIN-SUFFIX,qishui.cn
   - DOMAIN-SUFFIX,qishui.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-blog-cn.txt
 # Name: category-blog-cn
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 20
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 21
 
 payload:
   - DOMAIN-SUFFIX,114blog.com
@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,mryys.com
   - DOMAIN-SUFFIX,mysqil.com
   - DOMAIN-SUFFIX,pljzy.top
+  - DOMAIN-SUFFIX,runningcheese.com
   - DOMAIN-SUFFIX,skywt.cn
   - DOMAIN-SUFFIX,soulteary.com
   - DOMAIN-SUFFIX,tai3.cn

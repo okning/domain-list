@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/t2-ru.txt
 # Name: t2-ru
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
 # Total: 3
 
 payload:

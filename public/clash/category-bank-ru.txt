@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-bank-ru.txt
 # Name: category-bank-ru
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 299
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 300
 
 payload:
   - DOMAIN-SUFFIX,21-school.ru
@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,bcs-bank.ru
   - DOMAIN-SUFFIX,bcs.ru
   - DOMAIN-SUFFIX,bfa.ru
+  - DOMAIN-SUFFIX,blanc.ru
   - DOMAIN-SUFFIX,bm-bank.ru
   - DOMAIN-SUFFIX,booking-tec.ru
   - DOMAIN-SUFFIX,bps-sberbank.by

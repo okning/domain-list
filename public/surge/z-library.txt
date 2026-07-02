@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/z-library.txt
 # Name: z-library
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
 # Total: 48
 
 DOMAIN-SUFFIX,1lib.cloud

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-gov-ir.txt
 # Name: category-gov-ir
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
 # Total: 29
 
 DOMAIN-SUFFIX,adliran.ir

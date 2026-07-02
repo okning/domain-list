@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-bank-cn.txt
 # Name: category-bank-cn
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
 # Total: 133
 
 DOMAIN-SUFFIX,8008205555.cn

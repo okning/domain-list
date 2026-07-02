@@ -1,8 +1,18 @@
 # URL: https://s.nosec.me/surge/yuewen.txt
 # Name: yuewen
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 11
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 22
 
+DOMAIN-SUFFIX,aireads.cn
+DOMAIN-SUFFIX,chatdrama.cn
+DOMAIN-SUFFIX,chatdrama.net
+DOMAIN-SUFFIX,chatqidian.cn
+DOMAIN-SUFFIX,chatqidian.net
+DOMAIN-SUFFIX,chattext.cn
+DOMAIN-SUFFIX,chatwrite.net
+DOMAIN-SUFFIX,chatxiaoxiang.com
+DOMAIN-SUFFIX,chatyuewen.cn
+DOMAIN-SUFFIX,dishu3.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,qdmm.com
 DOMAIN-SUFFIX,qidian.com
@@ -13,4 +23,5 @@ DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,xs.cn
 DOMAIN-SUFFIX,xs8.cn
 DOMAIN-SUFFIX,xxsy.net
+DOMAIN-SUFFIX,xxsypro.com
 DOMAIN-SUFFIX,yuewen.com

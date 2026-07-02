@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-netdisk-cn.txt
 # Name: category-netdisk-cn
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 89
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 90
 
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,cowtransfer.com
 DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,feimaoyun.com
 DOMAIN-SUFFIX,filez.com
+DOMAIN-SUFFIX,guangyacdn.com
 DOMAIN-SUFFIX,guangyapan.com
 DOMAIN-SUFFIX,ilanzou.com
 DOMAIN-SUFFIX,jianguoyun.com

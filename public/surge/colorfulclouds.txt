@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/colorfulclouds.txt
 # Name: colorfulclouds
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,caiyunai.com

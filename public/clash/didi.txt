@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/didi.txt
 # Name: didi
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
-# Total: 11
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Total: 12
 
 payload:
   - DOMAIN-SUFFIX,didi-food.com
@@ -13,5 +13,6 @@ payload:
   - DOMAIN-SUFFIX,didimobility.co.jp
   - DOMAIN-SUFFIX,didistatic.com
   - DOMAIN-SUFFIX,diditaxi.com.cn
+  - DOMAIN-SUFFIX,hongyibo.com.cn
   - DOMAIN-SUFFIX,udache.com
   - DOMAIN-SUFFIX,xiaojukeji.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/digicert.txt
 # Name: digicert
-# Updated: Wed, 01 Jul 2026 00:45:52 GMT
+# Updated: Thu, 02 Jul 2026 00:43:04 GMT
 # Total: 74
 
 DOMAIN-SUFFIX,adobe-crl.verisign.com
