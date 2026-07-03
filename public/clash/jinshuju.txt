@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/clash/jinshuju.txt
 # Name: jinshuju
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
-# Total: 2
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Total: 3
 
 payload:
   - DOMAIN-SUFFIX,jinshuju.net
   - DOMAIN-SUFFIX,jinshujucdn.com
+  - DOMAIN-SUFFIX,jsj.top

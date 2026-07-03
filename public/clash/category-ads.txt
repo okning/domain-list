@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads.txt
 # Name: category-ads
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
-# Total: 849
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Total: 850
 
 payload:
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -599,6 +599,7 @@ payload:
   - DOMAIN-SUFFIX,oc.umeng.com
   - DOMAIN-SUFFIX,oct.pocoiq.cn
   - DOMAIN-SUFFIX,onesignal.com
+  - DOMAIN,openai.qualtrics.com
   - DOMAIN-SUFFIX,optaim.com
   - DOMAIN-SUFFIX,optimus-ads.amap.com
   - DOMAIN-SUFFIX,p-log.ykimg.com

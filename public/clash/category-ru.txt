@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ru.txt
 # Name: category-ru
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
-# Total: 765
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Total: 770
 
 payload:
   - DOMAIN-SUFFIX,1917live.red
@@ -160,6 +160,7 @@ payload:
   - DOMAIN-SUFFIX,flomni.com
   - DOMAIN-SUFFIX,fon.bet
   - DOMAIN-SUFFIX,fon.promo
+  - DOMAIN-SUFFIX,foto-planeta.com
   - DOMAIN-SUFFIX,freeassange.tech
   - DOMAIN-SUFFIX,freede.tech
   - DOMAIN-SUFFIX,freedert.online
@@ -407,11 +408,13 @@ payload:
   - DOMAIN-SUFFIX,prodcontest.com
   - DOMAIN-SUFFIX,promodj.com
   - DOMAIN-SUFFIX,psk
+  - DOMAIN-SUFFIX,ptsecurity.com
   - DOMAIN-SUFFIX,pushgrow.io
   - DOMAIN-SUFFIX,pvubank.com
   - DOMAIN-SUFFIX,pz.help
   - DOMAIN-SUFFIX,rabbitcounter.com
   - DOMAIN-SUFFIX,rabota.by
+  - DOMAIN-SUFFIX,randomgodbot.com
   - DOMAIN-SUFFIX,rbth.com
   - DOMAIN-SUFFIX,reg.cloud
   - DOMAIN-SUFFIX,reg.com
@@ -508,6 +511,7 @@ payload:
   - DOMAIN-SUFFIX,selectel.live
   - DOMAIN-SUFFIX,servercore.com
   - DOMAIN-SUFFIX,servercore.live
+  - DOMAIN-SUFFIX,servicepipe.tech
   - DOMAIN-SUFFIX,shedevrum.ai
   - DOMAIN-SUFFIX,shop-rt.com
   - DOMAIN-SUFFIX,sistema-capital.com
@@ -529,6 +533,7 @@ payload:
   - DOMAIN-SUFFIX,sputnikmediabank.com
   - DOMAIN-SUFFIX,sputniknews.com
   - DOMAIN-SUFFIX,srv-hub.org
+  - DOMAIN-SUFFIX,standoff365.com
   - DOMAIN-SUFFIX,static-storage.net
   - DOMAIN-SUFFIX,staticmy.com
   - DOMAIN-SUFFIX,su

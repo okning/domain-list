@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-cdn-cn.txt
 # Name: category-cdn-cn
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
 # Total: 92
 
 DOMAIN-SUFFIX,51cdn.com

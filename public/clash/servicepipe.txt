@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/servicepipe.txt
+# Name: servicepipe
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Total: 2
+
+payload:
+  - DOMAIN-SUFFIX,servicepipe.ru
+  - DOMAIN-SUFFIX,servicepipe.tech

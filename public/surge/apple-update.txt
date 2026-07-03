@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/apple-update.txt
 # Name: apple-update
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
 # Total: 21
 
 DOMAIN-SUFFIX,appldnld.apple.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/bing.txt
 # Name: bing
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
-# Total: 31
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Total: 32
 
 DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,bluehatnights.com
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,dictate.ms
 DOMAIN-SUFFIX,ditu.live.com

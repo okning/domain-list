@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
-# Total: 7810
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Total: 7811
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -2091,6 +2091,7 @@ DOMAIN-SUFFIX,coolmonster.net
 DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,coreduo.com
 DOMAIN-SUFFIX,coreextreme.com
 DOMAIN-SUFFIX,corel.com

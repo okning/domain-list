@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/alphabet.txt
 # Name: alphabet
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
 # Total: 879
 
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$

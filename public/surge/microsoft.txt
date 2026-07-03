@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/microsoft.txt
 # Name: microsoft
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
-# Total: 635
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Total: 636
 
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
@@ -161,6 +161,7 @@ DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,codethemicrobit.com
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,cortanaanalytics.com
 DOMAIN-SUFFIX,cortanaskills.com
 DOMAIN-SUFFIX,cosmosdb.info

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Thu, 02 Jul 2026 00:43:04 GMT
-# Total: 25870
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Total: 25873
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -5781,6 +5781,8 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,copilot.com
+  - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copro.pw
   - DOMAIN-SUFFIX,copy-manga.com
   - DOMAIN-SUFFIX,copy20.com
@@ -17252,6 +17254,7 @@ payload:
   - DOMAIN-SUFFIX,op7979.com
   - DOMAIN-SUFFIX,opac-project.eu
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN,openai.qualtrics.com
   - DOMAIN-SUFFIX,openamt.com
   - DOMAIN-SUFFIX,openapiplatform.com
   - DOMAIN-SUFFIX,openapiservice.com

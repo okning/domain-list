@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/positive-technologies.txt
+# Name: positive-technologies
+# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Total: 3
+
+payload:
+  - DOMAIN-SUFFIX,ptcloud.ru
+  - DOMAIN-SUFFIX,ptsecurity.com
+  - DOMAIN-SUFFIX,standoff365.com
