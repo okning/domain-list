@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/mediachinesegroup.txt
 # Name: mediachinesegroup
-# Updated: Fri, 03 Jul 2026 00:36:02 GMT
+# Updated: Sat, 04 Jul 2026 00:34:47 GMT
 # Total: 21
 
 payload:
