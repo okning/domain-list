@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Sat, 04 Jul 2026 00:34:47 GMT
-# Total: 7811
+# Updated: Sun, 05 Jul 2026 00:37:01 GMT
+# Total: 7814
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -536,6 +536,7 @@ payload:
   - DOMAIN-SUFFIX,apple-store.cn
   - DOMAIN-SUFFIX,apple-store.net
   - DOMAIN-SUFFIX,apple-store.wang
+  - DOMAIN-SUFFIX,apple-studies.com
   - DOMAIN-SUFFIX,apple-usa.net
   - DOMAIN-SUFFIX,apple-watch.com.ru
   - DOMAIN-SUFFIX,apple.ae
@@ -892,6 +893,7 @@ payload:
   - DOMAIN-SUFFIX,atlassian-dev.net
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,atlassian.net
+  - DOMAIN-SUFFIX,atmeta.com
   - DOMAIN-SUFFIX,atokara.jp
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,atscaleconference.com
@@ -1148,6 +1150,7 @@ payload:
   - DOMAIN-SUFFIX,aztask.cn
   - DOMAIN-SUFFIX,azure
   - DOMAIN-SUFFIX,azure-api.cn
+  - DOMAIN-SUFFIX,azure-api.net
   - DOMAIN-SUFFIX,azure-apihub.cn
   - DOMAIN-SUFFIX,azure-automation.cn
   - DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
@@ -1211,6 +1214,7 @@ payload:
   - DOMAIN-SUFFIX,azureserviceprofiler.com
   - DOMAIN-SUFFIX,azuresmartspaces.net
   - DOMAIN-SUFFIX,azurestackvalidation.com
+  - DOMAIN-SUFFIX,azurestaticapps.net
   - DOMAIN-SUFFIX,azurewebsites.net
   - DOMAIN-SUFFIX,b2c-digest.ru
   - DOMAIN-SUFFIX,b2clogin.cn
@@ -4141,7 +4145,6 @@ payload:
   - DOMAIN-SUFFIX,infoq.jp
   - DOMAIN-SUFFIX,infraworks.com
   - DOMAIN-SUFFIX,ingads.com
-  - DOMAIN,ingest.apple-studies.com
   - DOMAIN-SUFFIX,inkchoice.com
   - DOMAIN-SUFFIX,inlethd.com
   - DOMAIN-SUFFIX,inplat.ru

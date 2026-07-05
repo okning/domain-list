@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/itunes.txt
 # Name: itunes
-# Updated: Sat, 04 Jul 2026 00:34:47 GMT
-# Total: 52
+# Updated: Sun, 05 Jul 2026 00:37:01 GMT
+# Total: 58
 
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
@@ -20,12 +20,16 @@ DOMAIN-SUFFIX,12diasderegalosdeitunes.hn
 DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
 DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
 DOMAIN-SUFFIX,apple-itunes.cn
+DOMAIN,iosapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,itunbes.com
 DOMAIN-SUFFIX,ituneas.com
 DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-radio.net
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,itunes.ca
 DOMAIN-SUFFIX,itunes.co
 DOMAIN-SUFFIX,itunes.co.th
@@ -37,6 +41,7 @@ DOMAIN-SUFFIX,itunes.rio
 DOMAIN-SUFFIX,itunes.us
 DOMAIN-SUFFIX,itunes12days.com
 DOMAIN-SUFFIX,itunesapple.cn
+DOMAIN,itunesconnect.apple.com
 DOMAIN-SUFFIX,itunesessentials.com
 DOMAIN-SUFFIX,itunesfestivals.com
 DOMAIN-SUFFIX,itunesiradio.com
@@ -54,4 +59,5 @@ DOMAIN-SUFFIX,itunesstore.co
 DOMAIN-SUFFIX,itunesu.com
 DOMAIN-SUFFIX,itunesu.net
 DOMAIN-SUFFIX,iutunes.com
+DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,wwwitunes.com

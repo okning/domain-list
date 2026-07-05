@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-social-media-cn.txt
 # Name: category-social-media-cn
-# Updated: Sat, 04 Jul 2026 00:34:47 GMT
-# Total: 66
+# Updated: Sun, 05 Jul 2026 00:37:01 GMT
+# Total: 69
 
 DOMAIN-SUFFIX,97973.com
 DOMAIN-SUFFIX,askdiandian.com
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,procg.cn
 DOMAIN-SUFFIX,redelight.cn
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,shihuo.cn
+DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
@@ -54,6 +55,7 @@ DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,wbimg.cn
 DOMAIN-SUFFIX,wbimg.com
 DOMAIN-SUFFIX,wcdn.cn
+DOMAIN-SUFFIX,weibo
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.com.cn
@@ -66,6 +68,7 @@ DOMAIN-SUFFIX,xhslink.com
 DOMAIN-SUFFIX,xhsrcdn.com
 DOMAIN-SUFFIX,xiaochuankeji.cn
 DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xn--9krt00a
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zsxq.com

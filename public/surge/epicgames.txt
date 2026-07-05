@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/epicgames.txt
 # Name: epicgames
-# Updated: Sat, 04 Jul 2026 00:34:47 GMT
+# Updated: Sun, 05 Jul 2026 00:37:01 GMT
 # Total: 32
 
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Sat, 04 Jul 2026 00:34:47 GMT
-# Total: 7446
+# Updated: Sun, 05 Jul 2026 00:37:01 GMT
+# Total: 7453
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -701,6 +701,7 @@ DOMAIN-SUFFIX,ankerwork.cn
 DOMAIN-SUFFIX,anlaiye.com
 DOMAIN-SUFFIX,anlaiye.com.cn
 DOMAIN-SUFFIX,anmo.com
+DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anquanke.com
 DOMAIN-SUFFIX,anruan.com
@@ -5557,6 +5558,7 @@ DOMAIN-SUFFIX,shopoppo.cn
 DOMAIN-SUFFIX,shopoppo.com.cn
 DOMAIN-SUFFIX,shoppingads.cn
 DOMAIN-SUFFIX,shopss.com
+DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,shoujihuifu.com
 DOMAIN-SUFFIX,shouqianba.com
 DOMAIN-SUFFIX,shoutanjjj.com
@@ -5593,6 +5595,7 @@ DOMAIN-SUFFIX,sichuanair.com
 DOMAIN-SUFFIX,sifou.com
 DOMAIN-SUFFIX,simei8.com
 DOMAIN-SUFFIX,simuwang.com
+DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
@@ -6612,6 +6615,7 @@ DOMAIN-SUFFIX,wegamedeveloper.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,wegobank.cn
+DOMAIN-SUFFIX,weibo
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.com.cn
@@ -6883,6 +6887,7 @@ DOMAIN-SUFFIX,xiguashipin.cn
 DOMAIN-SUFFIX,xiguashipin.net
 DOMAIN-SUFFIX,xiguavideo.cn
 DOMAIN-SUFFIX,xiguavideo.net
+DOMAIN-SUFFIX,xihuan
 DOMAIN-SUFFIX,xilu.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,ximalaya.com
@@ -6927,6 +6932,7 @@ DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,xmhouse.com
 DOMAIN-SUFFIX,xn--8y0a063a
+DOMAIN-SUFFIX,xn--9krt00a
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
 DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
@@ -7175,6 +7181,7 @@ DOMAIN-SUFFIX,yufuid.com.cn
 DOMAIN-SUFFIX,yufuid.net
 DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,yumchina.com
+DOMAIN-SUFFIX,yun
 DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,yunba.io
 DOMAIN-SUFFIX,yunda56.com

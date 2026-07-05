@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/58tongcheng.txt
 # Name: 58tongcheng
-# Updated: Sat, 04 Jul 2026 00:34:47 GMT
+# Updated: Sun, 05 Jul 2026 00:37:01 GMT
 # Total: 43
 
 DOMAIN-SUFFIX,58.com

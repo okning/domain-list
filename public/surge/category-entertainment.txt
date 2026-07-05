@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Sat, 04 Jul 2026 00:34:47 GMT
-# Total: 1913
+# Updated: Sun, 05 Jul 2026 00:37:01 GMT
+# Total: 1964
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -15,6 +15,22 @@
 # REGEXP,^hses[1-7]?\.akamaized\.net$
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,112263.com
+DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
+DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
+DOMAIN-SUFFIX,12diasderegalosdeitunes.co
+DOMAIN-SUFFIX,12diasderegalosdeitunes.co.cr
+DOMAIN-SUFFIX,12diasderegalosdeitunes.co.ni
+DOMAIN-SUFFIX,12diasderegalosdeitunes.co.ve
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com.co
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com.hn
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com.ni
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com.ve
+DOMAIN-SUFFIX,12diasderegalosdeitunes.cr
+DOMAIN-SUFFIX,12diasderegalosdeitunes.gt
+DOMAIN-SUFFIX,12diasderegalosdeitunes.hn
+DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
+DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
 DOMAIN-SUFFIX,2025copy.com
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
@@ -77,7 +93,6 @@ DOMAIN-SUFFIX,amebaowndme.com
 DOMAIN-SUFFIX,ameblo.jp
 DOMAIN-SUFFIX,amediateka.ru
 DOMAIN-SUFFIX,amiibo.com
-DOMAIN-SUFFIX,amp-api.podcast.apple.com
 DOMAIN-SUFFIX,angelbeats.jp
 DOMAIN-SUFFIX,anigema.jp
 DOMAIN-SUFFIX,animedao-tv.com
@@ -87,6 +102,7 @@ DOMAIN-SUFFIX,ao3.org
 DOMAIN-SUFFIX,apexlegends.com
 DOMAIN,apl-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,appget.com
+DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN,apple-tv-plus-press.apple.com
 DOMAIN-SUFFIX,appmedia.jp
 DOMAIN-SUFFIX,archiveofourown.com
@@ -111,7 +127,6 @@ DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,ayudanintendo.com
 DOMAIN-SUFFIX,babble.com
 DOMAIN-SUFFIX,babyzone.com
-DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN-SUFFIX,bahamut.akamaized.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,bamgrid.com
@@ -166,7 +181,6 @@ DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
 DOMAIN-SUFFIX,bohemia.net
-DOMAIN-SUFFIX,bookeeper.itunes.apple.com
 DOMAIN-SUFFIX,boombeach.com
 DOMAIN-SUFFIX,boomerang.com
 DOMAIN-SUFFIX,booth.pm
@@ -690,9 +704,7 @@ DOMAIN-SUFFIX,hikosen.co.jp
 DOMAIN-SUFFIX,historyofdota.com
 DOMAIN-SUFFIX,historyofdota.net
 DOMAIN-SUFFIX,historyofdota.org
-DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,hls-hamivideo.cdn.hinet.net
-DOMAIN,hls.itunes.apple.com
 DOMAIN-SUFFIX,hobbigame.com
 DOMAIN-SUFFIX,homebox.com
 DOMAIN-SUFFIX,homeboxoffice.com
@@ -763,8 +775,47 @@ DOMAIN-SUFFIX,inside-games.jp
 DOMAIN-SUFFIX,instituteofwar.org
 DOMAIN-SUFFIX,internationalsaimoe.com
 DOMAIN-SUFFIX,iole.tv
+DOMAIN,iosapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
+DOMAIN-SUFFIX,itun.es
+DOMAIN-SUFFIX,itunbes.com
+DOMAIN-SUFFIX,ituneas.com
+DOMAIN-SUFFIX,itunes-apple.cn
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,itunes-radio.net
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN-SUFFIX,itunes.ca
+DOMAIN-SUFFIX,itunes.co
+DOMAIN-SUFFIX,itunes.co.th
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.hk
+DOMAIN-SUFFIX,itunes.mx
+DOMAIN-SUFFIX,itunes.org
+DOMAIN-SUFFIX,itunes.rio
+DOMAIN-SUFFIX,itunes.us
+DOMAIN-SUFFIX,itunes12days.com
+DOMAIN-SUFFIX,itunesapple.cn
+DOMAIN,itunesconnect.apple.com
+DOMAIN-SUFFIX,itunesessentials.com
+DOMAIN-SUFFIX,itunesfestivals.com
+DOMAIN-SUFFIX,itunesiradio.com
+DOMAIN-SUFFIX,ituneslatino.com
+DOMAIN-SUFFIX,ituneslogin.net
+DOMAIN-SUFFIX,itunesmatch.com
+DOMAIN-SUFFIX,itunesparty.com
+DOMAIN-SUFFIX,itunesradio.cn
+DOMAIN-SUFFIX,itunesradio.com
+DOMAIN-SUFFIX,itunesradio.com.cn
+DOMAIN-SUFFIX,itunesradio.rio
+DOMAIN-SUFFIX,itunesradio.tv
+DOMAIN-SUFFIX,itunesradio.tw
+DOMAIN-SUFFIX,itunesstore.co
+DOMAIN-SUFFIX,itunesu.com
+DOMAIN-SUFFIX,itunesu.net
+DOMAIN-SUFFIX,iutunes.com
 DOMAIN-SUFFIX,ivi.ru
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,joinmaidez.com
@@ -1075,7 +1126,6 @@ DOMAIN-SUFFIX,now.com.hk
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,noxygames.com
-DOMAIN,np-edge.itunes.apple.com
 DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
 DOMAIN,ntdfreepc-tgc.cdn.hinet.net
 DOMAIN,ntdfreetv-tgc.cdn.hinet.net
@@ -1114,6 +1164,7 @@ DOMAIN-SUFFIX,origin.tv
 DOMAIN-SUFFIX,originalhulu.com
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN,osu.ppy.sh
+DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,our-notes.jp
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN,p16-tiktokcdn-com.akamaized.net
@@ -1137,7 +1188,6 @@ DOMAIN-SUFFIX,pixivision.net
 DOMAIN-SUFFIX,pjsekai.sega.jp
 DOMAIN-SUFFIX,planetminecraft.com
 DOMAIN-SUFFIX,plantsvszombies2.com
-DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,playartifact.com
@@ -1158,6 +1208,7 @@ DOMAIN-SUFFIX,playwarcraft3.com
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutotv.net
 DOMAIN-SUFFIX,pocketcasts.com
+DOMAIN-SUFFIX,podcast.apple.com
 DOMAIN-SUFFIX,pogo.com
 DOMAIN-SUFFIX,pogobeta.com
 DOMAIN-SUFFIX,pokedex3d.com
@@ -1600,7 +1651,6 @@ DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,uo.com
 DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,uplay.com
-DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,vhx.tv
@@ -1690,6 +1740,7 @@ DOMAIN-SUFFIX,wwe9.com
 DOMAIN-SUFFIX,wwr-stardom.com
 DOMAIN-SUFFIX,wwtbam.com
 DOMAIN-SUFFIX,wwwhuluplus.com
+DOMAIN-SUFFIX,wwwitunes.com
 DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,xbox.co
 DOMAIN-SUFFIX,xbox.com

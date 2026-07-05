@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/apple.txt
 # Name: apple
-# Updated: Sat, 04 Jul 2026 00:34:47 GMT
+# Updated: Sun, 05 Jul 2026 00:37:01 GMT
 # Total: 1569
 
 DOMAIN-SUFFIX,100beatscheap.com
@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,apple-pay.wang
 DOMAIN-SUFFIX,apple-store.cn
 DOMAIN-SUFFIX,apple-store.net
 DOMAIN-SUFFIX,apple-store.wang
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple-watch.com.ru
 DOMAIN-SUFFIX,apple.ae
@@ -1079,7 +1080,6 @@ DOMAIN-SUFFIX,imoviegallery.com
 DOMAIN-SUFFIX,imoviestage.com
 DOMAIN-SUFFIX,incentivetravelgifts.com
 DOMAIN-SUFFIX,indiaipad.com
-DOMAIN,ingest.apple-studies.com
 DOMAIN-SUFFIX,insidear.cn
 DOMAIN-SUFFIX,insidemacintosh.com
 DOMAIN-SUFFIX,ioffergift.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/meta.txt
 # Name: meta
-# Updated: Sat, 04 Jul 2026 00:34:47 GMT
-# Total: 547
+# Updated: Sun, 05 Jul 2026 00:37:01 GMT
+# Total: 548
 
 payload:
   - DOMAIN-SUFFIX,aboutfacebook.com
@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,atdmt2.com
   - DOMAIN-SUFFIX,atlasdmt.com
   - DOMAIN-SUFFIX,atlasonepoint.com
+  - DOMAIN-SUFFIX,atmeta.com
   - DOMAIN-SUFFIX,atscaleconference.com
   - DOMAIN-SUFFIX,binoculus.com
   - DOMAIN-SUFFIX,bookstagram.com
