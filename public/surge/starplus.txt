@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/starplus.txt
 # Name: starplus
-# Updated: Sun, 05 Jul 2026 00:37:01 GMT
+# Updated: Mon, 06 Jul 2026 00:37:23 GMT
 # Total: 6
 
 DOMAIN-SUFFIX,star.api.edge.bamgrid.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/jetbrains.txt
 # Name: jetbrains
-# Updated: Sun, 05 Jul 2026 00:37:01 GMT
+# Updated: Mon, 06 Jul 2026 00:37:23 GMT
 # Total: 13
 
 payload:

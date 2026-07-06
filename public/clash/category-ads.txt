@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads.txt
 # Name: category-ads
-# Updated: Sun, 05 Jul 2026 00:37:01 GMT
-# Total: 850
+# Updated: Mon, 06 Jul 2026 00:37:23 GMT
+# Total: 851
 
 payload:
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -653,6 +653,7 @@ payload:
   - DOMAIN-SUFFIX,pos.baidu.com
   - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN,prodvizhenie-adv.ozon.ru
+  - DOMAIN-SUFFIX,pub.network
   - DOMAIN-SUFFIX,push.qq.com
   - DOMAIN-SUFFIX,pv.hd.sohu.com
   - DOMAIN-SUFFIX,pv.sohu.com

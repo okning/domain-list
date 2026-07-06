@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cnbeta.txt
 # Name: cnbeta
-# Updated: Sun, 05 Jul 2026 00:37:01 GMT
+# Updated: Mon, 06 Jul 2026 00:37:23 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,cnbeta.com
