@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/9news.txt
 # Name: 9news
-# Updated: Mon, 06 Jul 2026 00:37:23 GMT
+# Updated: Tue, 07 Jul 2026 00:37:48 GMT
 # Total: 14
 
 DOMAIN-SUFFIX,9cdn.net

@@ -1,0 +1,7 @@
+# URL: https://s.nosec.me/surge/pawchive.txt
+# Name: pawchive
+# Updated: Tue, 07 Jul 2026 00:37:48 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,pawchive.pw
+DOMAIN-SUFFIX,pawchive.st

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-porn.txt
 # Name: category-porn
-# Updated: Mon, 06 Jul 2026 00:37:23 GMT
-# Total: 6674
+# Updated: Tue, 07 Jul 2026 00:37:48 GMT
+# Total: 6676
 
 # REGEXP,(^|\.)[1-5]gaoap\.com$
 # REGEXP,(^|\.)[1-9]+aipai\.(com|net)$
@@ -4255,6 +4255,8 @@ DOMAIN-SUFFIX,paradisehill.cc
 DOMAIN-SUFFIX,pasionmujeres.com
 DOMAIN-SUFFIX,passion-hd.com
 DOMAIN-SUFFIX,passion.com
+DOMAIN-SUFFIX,pawchive.pw
+DOMAIN-SUFFIX,pawchive.st
 DOMAIN-SUFFIX,payserve.com
 DOMAIN-SUFFIX,paysitesreviews.net
 DOMAIN-SUFFIX,pbabes.com

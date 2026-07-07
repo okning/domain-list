@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Mon, 06 Jul 2026 00:37:23 GMT
-# Total: 25927
+# Updated: Tue, 07 Jul 2026 00:37:48 GMT
+# Total: 25929
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -17602,6 +17602,8 @@ payload:
   - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN-SUFFIX,paulsimon-music.com
   - DOMAIN-SUFFIX,pavpal.com
+  - DOMAIN-SUFFIX,pawchive.pw
+  - DOMAIN-SUFFIX,pawchive.st
   - DOMAIN-SUFFIX,pawoo.net
   - DOMAIN-SUFFIX,paxful.com
   - DOMAIN-SUFFIX,paxlicense.org
