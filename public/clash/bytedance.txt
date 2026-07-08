@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/bytedance.txt
 # Name: bytedance
-# Updated: Tue, 07 Jul 2026 00:37:48 GMT
-# Total: 891
+# Updated: Wed, 08 Jul 2026 00:31:23 GMT
+# Total: 892
 
 payload:
   - DOMAIN-SUFFIX,365yg.com
@@ -893,5 +893,6 @@ payload:
   - DOMAIN-SUFFIX,zjgslb.com
   - DOMAIN-SUFFIX,zjytxd.cn
   - DOMAIN-SUFFIX,zjytxp.cn
+  - DOMAIN-SUFFIX,zlinkurl.cn
   - DOMAIN-SUFFIX,zml81.cn
   - DOMAIN-SUFFIX,zvip.cn

@@ -1,13 +1,14 @@
 # URL: https://s.nosec.me/clash/category-ai-cn.txt
 # Name: category-ai-cn
-# Updated: Tue, 07 Jul 2026 00:37:48 GMT
-# Total: 105
+# Updated: Wed, 08 Jul 2026 00:31:23 GMT
+# Total: 109
 
 payload:
   - DOMAIN,ai.zhaomi.cn
   - DOMAIN-SUFFIX,aispeech.com
   - DOMAIN-SUFFIX,antafu.com
   - DOMAIN-SUFFIX,antaq.com
+  - DOMAIN-SUFFIX,aorizon.cn
   - DOMAIN-SUFFIX,api-building.fun
   - DOMAIN-SUFFIX,askdiandian.com
   - DOMAIN-SUFFIX,baichuan-ai.com
@@ -47,6 +48,8 @@ payload:
   - DOMAIN-SUFFIX,dumate.cn
   - DOMAIN-SUFFIX,faxingbao.com
   - DOMAIN-SUFFIX,hailuoai.com
+  - DOMAIN-SUFFIX,happyhorse.cn
+  - DOMAIN-SUFFIX,happyshrimp.cn
   - DOMAIN-SUFFIX,hi-butterfly.cn
   - DOMAIN-SUFFIX,hunyuan.tencent.com
   - DOMAIN-SUFFIX,instreet.com
@@ -88,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,rwkv.com
   - DOMAIN-SUFFIX,safeskill.cn
   - DOMAIN-SUFFIX,skillhub.cn
+  - DOMAIN-SUFFIX,sleeplesshorizon.cn
   - DOMAIN-SUFFIX,tapnow.top
   - DOMAIN-SUFFIX,tcwqqdy.guru
   - DOMAIN-SUFFIX,tiangong.cn

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/alibaba.txt
 # Name: alibaba
-# Updated: Tue, 07 Jul 2026 00:37:48 GMT
-# Total: 353
+# Updated: Wed, 08 Jul 2026 00:31:23 GMT
+# Total: 354
 
 payload:
   - DOMAIN-SUFFIX,11222.cn
@@ -226,6 +226,7 @@ payload:
   - DOMAIN-SUFFIX,liangxinyao.com
   - DOMAIN-SUFFIX,lingshoujia.com
   - DOMAIN-SUFFIX,lingxigames.com
+  - DOMAIN-SUFFIX,log-global.aliyuncs.com
   - DOMAIN-SUFFIX,lwurl.to
   - DOMAIN-SUFFIX,lydaas.cn
   - DOMAIN-SUFFIX,lydaas.com

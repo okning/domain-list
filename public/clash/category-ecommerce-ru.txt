@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ecommerce-ru.txt
 # Name: category-ecommerce-ru
-# Updated: Tue, 07 Jul 2026 00:37:48 GMT
-# Total: 142
+# Updated: Wed, 08 Jul 2026 00:31:23 GMT
+# Total: 147
 
 payload:
   - DOMAIN-SUFFIX,avito.ru
@@ -10,6 +10,10 @@ payload:
   - DOMAIN-SUFFIX,digitalwb.ru
   - DOMAIN-SUFFIX,etradebook.ru
   - DOMAIN-SUFFIX,ewisdom.us.kg
+  - DOMAIN-SUFFIX,flowwow-images.com
+  - DOMAIN-SUFFIX,flowwow.com
+  - DOMAIN-SUFFIX,funpay.com
+  - DOMAIN-SUFFIX,funpay.ru
   - DOMAIN-SUFFIX,geobasket.ru
   - DOMAIN-SUFFIX,mp.world
   - DOMAIN-SUFFIX,o-courier.ru
@@ -58,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX,rwbautomation.ru
   - DOMAIN-SUFFIX,rwbautomation.tech
   - DOMAIN-SUFFIX,rwbgeo.ru
+  - DOMAIN-SUFFIX,sfunpay.com
   - DOMAIN-SUFFIX,vamzakaz.ru
   - DOMAIN-SUFFIX,velberis.ru
   - DOMAIN-SUFFIX,vildberis.ru

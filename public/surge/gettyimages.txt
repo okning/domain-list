@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/gettyimages.txt
 # Name: gettyimages
-# Updated: Tue, 07 Jul 2026 00:37:48 GMT
+# Updated: Wed, 08 Jul 2026 00:31:23 GMT
 # Total: 25
 
 DOMAIN-SUFFIX,gettyimages.ae

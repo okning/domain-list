@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-dev.txt
 # Name: category-dev
-# Updated: Tue, 07 Jul 2026 00:37:48 GMT
-# Total: 611
+# Updated: Wed, 08 Jul 2026 00:31:23 GMT
+# Total: 612
 
 # REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
@@ -545,6 +545,7 @@ DOMAIN-SUFFIX,tilda.ru
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,timelinestoryteller.com
 DOMAIN-SUFFIX,timestamp.apple.com
 DOMAIN-SUFFIX,topcoder.com
