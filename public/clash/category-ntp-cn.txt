@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-ntp-cn.txt
 # Name: category-ntp-cn
-# Updated: Wed, 08 Jul 2026 00:31:23 GMT
+# Updated: Thu, 09 Jul 2026 00:35:01 GMT
 # Total: 23
 
 payload:

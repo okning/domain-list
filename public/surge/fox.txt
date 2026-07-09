@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/fox.txt
 # Name: fox
-# Updated: Wed, 08 Jul 2026 00:31:23 GMT
+# Updated: Thu, 09 Jul 2026 00:35:01 GMT
 # Total: 247
 
 DOMAIN-SUFFIX,afewmomentswith.com

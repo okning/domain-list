@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/broadcom.txt
 # Name: broadcom
-# Updated: Wed, 08 Jul 2026 00:31:23 GMT
+# Updated: Thu, 09 Jul 2026 00:35:01 GMT
 # Total: 105
 
 payload:

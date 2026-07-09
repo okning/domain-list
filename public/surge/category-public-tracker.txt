@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-public-tracker.txt
 # Name: category-public-tracker
-# Updated: Wed, 08 Jul 2026 00:31:23 GMT
+# Updated: Thu, 09 Jul 2026 00:35:01 GMT
 # Total: 424
 
 DOMAIN,0123456789nonexistent.com
