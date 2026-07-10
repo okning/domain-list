@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Thu, 09 Jul 2026 00:35:01 GMT
-# Total: 1964
+# Updated: Fri, 10 Jul 2026 00:37:02 GMT
+# Total: 1978
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -105,6 +105,15 @@ payload:
   - DOMAIN-SUFFIX,appget.com
   - DOMAIN-SUFFIX,apple-itunes.cn
   - DOMAIN,apple-tv-plus-press.apple.com
+  - DOMAIN-SUFFIX,applemusic.berlin
+  - DOMAIN-SUFFIX,applemusic.co
+  - DOMAIN-SUFFIX,applemusic.com
+  - DOMAIN-SUFFIX,applemusic.com.au
+  - DOMAIN-SUFFIX,applemusic.hamburg
+  - DOMAIN-SUFFIX,applemusic.wang
+  - DOMAIN-SUFFIX,applemusicconnect.com
+  - DOMAIN-SUFFIX,applemusicfestival.com
+  - DOMAIN-SUFFIX,applepodcasts.com
   - DOMAIN-SUFFIX,appmedia.jp
   - DOMAIN-SUFFIX,archiveofourown.com
   - DOMAIN-SUFFIX,archiveofourown.net
@@ -990,7 +999,10 @@ payload:
   - DOMAIN-SUFFIX,mudvod.tv
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,mushymush.tv
+  - DOMAIN-SUFFIX,music.apple.com
+  - DOMAIN,music.apple.com
   - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,musickit.net
   - DOMAIN-SUFFIX,muvluv-girls-garden.com
   - DOMAIN-SUFFIX,myhulu.com
   - DOMAIN-SUFFIX,mynavi.jp
@@ -1210,6 +1222,8 @@ payload:
   - DOMAIN-SUFFIX,plutotv.net
   - DOMAIN-SUFFIX,pocketcasts.com
   - DOMAIN-SUFFIX,podcast.apple.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
+  - DOMAIN,podcasts.apple.com
   - DOMAIN-SUFFIX,pogo.com
   - DOMAIN-SUFFIX,pogobeta.com
   - DOMAIN-SUFFIX,pokedex3d.com
@@ -1595,7 +1609,6 @@ payload:
   - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,ttwstatic.com
   - DOMAIN-SUFFIX,tv.apple.com
-  - DOMAIN,tv.applemusic.com
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
   - DOMAIN-SUFFIX,tver.co.jp
@@ -1740,6 +1753,7 @@ payload:
   - DOMAIN-SUFFIX,wwe9.com
   - DOMAIN-SUFFIX,wwr-stardom.com
   - DOMAIN-SUFFIX,wwtbam.com
+  - DOMAIN-SUFFIX,wwwapplemusic.com
   - DOMAIN-SUFFIX,wwwhuluplus.com
   - DOMAIN-SUFFIX,wwwitunes.com
   - DOMAIN-SUFFIX,xbox

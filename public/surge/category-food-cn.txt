@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-food-cn.txt
 # Name: category-food-cn
-# Updated: Thu, 09 Jul 2026 00:35:01 GMT
-# Total: 56
+# Updated: Fri, 10 Jul 2026 00:37:02 GMT
+# Total: 57
 
 DOMAIN-SUFFIX,3songshu.com
 DOMAIN-SUFFIX,4008-517-517.cn
@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,mcdonalds.com.cn
 DOMAIN-SUFFIX,meican.com
 DOMAIN-SUFFIX,meicanstatic.com
 DOMAIN-SUFFIX,mengniu.com.cn
+DOMAIN-SUFFIX,micun.com
 DOMAIN-SUFFIX,mxbc.com
 DOMAIN-SUFFIX,mxbc.net
 DOMAIN-SUFFIX,nongfuspring.com

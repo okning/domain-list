@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Thu, 09 Jul 2026 00:35:01 GMT
-# Total: 25935
+# Updated: Fri, 10 Jul 2026 00:37:02 GMT
+# Total: 25946
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -2222,12 +2222,20 @@ payload:
   - DOMAIN-SUFFIX,applemalaysia.com.my
   - DOMAIN-SUFFIX,applemasters.info
   - DOMAIN-SUFFIX,applemusic.berlin
+  - DOMAIN-SUFFIX,applemusic.berlin
+  - DOMAIN-SUFFIX,applemusic.co
   - DOMAIN-SUFFIX,applemusic.co
   - DOMAIN-SUFFIX,applemusic.com
+  - DOMAIN-SUFFIX,applemusic.com
+  - DOMAIN-SUFFIX,applemusic.com.au
   - DOMAIN-SUFFIX,applemusic.com.au
   - DOMAIN-SUFFIX,applemusic.hamburg
+  - DOMAIN-SUFFIX,applemusic.hamburg
+  - DOMAIN-SUFFIX,applemusic.wang
   - DOMAIN-SUFFIX,applemusic.wang
   - DOMAIN-SUFFIX,applemusicconnect.com
+  - DOMAIN-SUFFIX,applemusicconnect.com
+  - DOMAIN-SUFFIX,applemusicfestival.com
   - DOMAIN-SUFFIX,applemusicfestival.com
   - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,applenews.berlin
@@ -2272,6 +2280,7 @@ payload:
   - DOMAIN-SUFFIX,applepaysupplies.net
   - DOMAIN-SUFFIX,applepaysupplies.tv
   - DOMAIN-SUFFIX,applepencil.net
+  - DOMAIN-SUFFIX,applepodcasts.com
   - DOMAIN-SUFFIX,applepodcasts.com
   - DOMAIN-SUFFIX,applepremiumreseller.com.au
   - DOMAIN-SUFFIX,applepremiumresellers.com.au
@@ -15857,6 +15866,7 @@ payload:
   - DOMAIN-SUFFIX,musicbay.net
   - DOMAIN-SUFFIX,musicbrainz.org
   - DOMAIN-SUFFIX,musickit.net
+  - DOMAIN-SUFFIX,musickit.net
   - DOMAIN-SUFFIX,musixmatch.com
   - DOMAIN-SUFFIX,mut.ch
   - DOMAIN-SUFFIX,muthead.com
@@ -24196,6 +24206,7 @@ payload:
   - DOMAIN-SUFFIX,www8-hp.com
   - DOMAIN-SUFFIX,wwwapple.com
   - DOMAIN-SUFFIX,wwwapple.net
+  - DOMAIN-SUFFIX,wwwapplemusic.com
   - DOMAIN-SUFFIX,wwwapplemusic.com
   - DOMAIN-SUFFIX,wwwdecide.com
   - DOMAIN-SUFFIX,wwwebay.com

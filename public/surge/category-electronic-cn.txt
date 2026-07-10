@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-electronic-cn.txt
 # Name: category-electronic-cn
-# Updated: Thu, 09 Jul 2026 00:35:01 GMT
-# Total: 76
+# Updated: Fri, 10 Jul 2026 00:37:02 GMT
+# Total: 77
 
 DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,arrow.cn
@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,jlcsj.com
 DOMAIN-SUFFIX,jlcsmt.com
 DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,lckfb.com
+DOMAIN-SUFFIX,listenai.com
 DOMAIN-SUFFIX,maixhub.com
 DOMAIN-SUFFIX,oshwhub.com
 DOMAIN-SUFFIX,quecmall.cn

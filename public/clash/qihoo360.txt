@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/qihoo360.txt
 # Name: qihoo360
-# Updated: Thu, 09 Jul 2026 00:35:01 GMT
+# Updated: Fri, 10 Jul 2026 00:37:02 GMT
 # Total: 104
 
 payload:

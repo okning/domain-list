@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-netdisk-cn.txt
 # Name: category-netdisk-cn
-# Updated: Thu, 09 Jul 2026 00:35:01 GMT
-# Total: 90
+# Updated: Fri, 10 Jul 2026 00:37:02 GMT
+# Total: 91
 
 payload:
   - DOMAIN-SUFFIX,115.com
@@ -76,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,pan.baidu.com
   - DOMAIN-SUFFIX,pan.quark.cn
   - DOMAIN-SUFFIX,pan.xunlei.com
+  - DOMAIN-SUFFIX,share123.top
   - DOMAIN-SUFFIX,sq.cc
   - DOMAIN-SUFFIX,weiyun.com
   - DOMAIN-SUFFIX,wenshushu.cn

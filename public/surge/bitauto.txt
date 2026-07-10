@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bitauto.txt
 # Name: bitauto
-# Updated: Thu, 09 Jul 2026 00:35:01 GMT
+# Updated: Fri, 10 Jul 2026 00:37:02 GMT
 # Total: 5
 
 DOMAIN-SUFFIX,bitauto.com

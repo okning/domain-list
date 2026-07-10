@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-education-cn.txt
 # Name: category-education-cn
-# Updated: Thu, 09 Jul 2026 00:35:01 GMT
-# Total: 167
+# Updated: Fri, 10 Jul 2026 00:37:02 GMT
+# Total: 168
 
 payload:
   - DOMAIN-SUFFIX,100tal.com
@@ -45,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,chsi.com.cn
   - DOMAIN-SUFFIX,cnmooc.org
   - DOMAIN-SUFFIX,cugbonline.cn
+  - DOMAIN-SUFFIX,dcshfu.com
   - DOMAIN-SUFFIX,dearedu.com
   - DOMAIN-SUFFIX,dgjy.net
   - DOMAIN-SUFFIX,dict.cn
