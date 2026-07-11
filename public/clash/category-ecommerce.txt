@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ecommerce.txt
 # Name: category-ecommerce
-# Updated: Fri, 10 Jul 2026 00:37:02 GMT
-# Total: 1265
+# Updated: Sat, 11 Jul 2026 00:29:47 GMT
+# Total: 1266
 
 payload:
   - DOMAIN-SUFFIX,21centuryaccess.com
@@ -1111,6 +1111,7 @@ payload:
   - DOMAIN-SUFFIX,technogym.su
   - DOMAIN-SUFFIX,telebay.com
   - DOMAIN-SUFFIX,telesell.com
+  - DOMAIN-SUFFIX,templatemonster.com
   - DOMAIN-SUFFIX,terapeack.com
   - DOMAIN-SUFFIX,terapeak.ca
   - DOMAIN-SUFFIX,terapeak.cn

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-dev.txt
 # Name: category-dev
-# Updated: Fri, 10 Jul 2026 00:37:02 GMT
-# Total: 612
+# Updated: Sat, 11 Jul 2026 00:29:47 GMT
+# Total: 614
 
 payload:
   - DOMAIN-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
@@ -84,6 +84,7 @@ payload:
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,crocoblock.com
   - DOMAIN-SUFFIX,cups.org
   - DOMAIN-SUFFIX,cve.org
   - DOMAIN-SUFFIX,cygwin.com
@@ -345,6 +346,7 @@ payload:
   - DOMAIN-SUFFIX,mongodb.com
   - DOMAIN-SUFFIX,mongodb.org
   - DOMAIN-SUFFIX,mono-project.com
+  - DOMAIN-SUFFIX,motocms.com
   - DOMAIN-SUFFIX,motopress.com
   - DOMAIN-SUFFIX,mpv.io
   - DOMAIN-SUFFIX,msdn.com

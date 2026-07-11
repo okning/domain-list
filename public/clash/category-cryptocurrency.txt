@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-cryptocurrency.txt
 # Name: category-cryptocurrency
-# Updated: Fri, 10 Jul 2026 00:37:02 GMT
-# Total: 223
+# Updated: Sat, 11 Jul 2026 00:29:47 GMT
+# Total: 232
 
 payload:
   - DOMAIN-SUFFIX,1inch.io
@@ -9,6 +9,9 @@ payload:
   - DOMAIN-SUFFIX,asproex.com
   - DOMAIN-SUFFIX,asproexapi.com
   - DOMAIN-SUFFIX,base.org
+  - DOMAIN-SUFFIX,bestchange.com
+  - DOMAIN-SUFFIX,bestchange.net
+  - DOMAIN-SUFFIX,bestchange.ru
   - DOMAIN-SUFFIX,binance.cc
   - DOMAIN-SUFFIX,binance.charity
   - DOMAIN-SUFFIX,binance.cloud
@@ -104,6 +107,7 @@ payload:
   - DOMAIN-SUFFIX,cyberx.com
   - DOMAIN,d3r7nsslvs6aaf.cloudfront.net
   - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-SUFFIX,delets.online
   - DOMAIN,deribit.cdn.prismic.io
   - DOMAIN-SUFFIX,deribit.com
   - DOMAIN-SUFFIX,devcon.org
@@ -177,12 +181,17 @@ payload:
   - DOMAIN-SUFFIX,onekey.so
   - DOMAIN,onekey.zendesk.com
   - DOMAIN-SUFFIX,onekeycn.com
+  - DOMAIN-SUFFIX,onemoment.cc
   - DOMAIN-SUFFIX,onfinality.io
   - DOMAIN-SUFFIX,opensea.io
   - DOMAIN-SUFFIX,osl.com
   - DOMAIN-SUFFIX,paxful.com
+  - DOMAIN-SUFFIX,payget.pro
+  - DOMAIN-SUFFIX,platov.co
   - DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
   - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-SUFFIX,ramon.cash
+  - DOMAIN-SUFFIX,ramon.money
   - DOMAIN-SUFFIX,redotpay.com
   - DOMAIN-SUFFIX,redotpay.zendesk.com
   - DOMAIN-SUFFIX,ripple.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Fri, 10 Jul 2026 00:37:02 GMT
-# Total: 7652
+# Updated: Sat, 11 Jul 2026 00:29:47 GMT
+# Total: 7653
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -499,6 +499,7 @@ payload:
   - DOMAIN-SUFFIX,activitybyte.com
   - DOMAIN-SUFFIX,acwifi.net
   - DOMAIN-SUFFIX,acwing.com
+  - DOMAIN-SUFFIX,adacpp.com
   - DOMAIN-SUFFIX,adash.man.aliyuncs.com
   - DOMAIN-SUFFIX,adbkwai.com
   - DOMAIN-SUFFIX,adkwai.com

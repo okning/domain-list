@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bytedance.txt
 # Name: bytedance
-# Updated: Fri, 10 Jul 2026 00:37:02 GMT
+# Updated: Sat, 11 Jul 2026 00:29:47 GMT
 # Total: 892
 
 DOMAIN-SUFFIX,365yg.com

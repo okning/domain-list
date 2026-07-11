@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/surge/bestchange.txt
+# Name: bestchange
+# Updated: Sat, 11 Jul 2026 00:29:47 GMT
+# Total: 3
+
+DOMAIN-SUFFIX,bestchange.com
+DOMAIN-SUFFIX,bestchange.net
+DOMAIN-SUFFIX,bestchange.ru
