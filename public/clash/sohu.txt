@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/sohu.txt
 # Name: sohu
-# Updated: Sat, 11 Jul 2026 00:29:47 GMT
-# Total: 15
+# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Total: 16
 
 payload:
   - DOMAIN-SUFFIX,17173.com
@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,focus-img.cn
   - DOMAIN-SUFFIX,focus.cn
   - DOMAIN-SUFFIX,itc.cn
+  - DOMAIN-SUFFIX,kuaizhan.com
   - DOMAIN-SUFFIX,playcool.com
   - DOMAIN-SUFFIX,sohu
   - DOMAIN-SUFFIX,sohu.com

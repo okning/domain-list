@@ -1,8 +1,10 @@
 # URL: https://s.nosec.me/clash/sentry.txt
 # Name: sentry
-# Updated: Sat, 11 Jul 2026 00:29:47 GMT
-# Total: 2
+# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Total: 4
 
 payload:
+  - DOMAIN-SUFFIX,getsentry.com
   - DOMAIN-SUFFIX,sentry-cdn.com
+  - DOMAIN-SUFFIX,sentry.dev
   - DOMAIN-SUFFIX,sentry.io

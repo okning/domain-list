@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/apple-tvplus.txt
 # Name: apple-tvplus
-# Updated: Sat, 11 Jul 2026 00:29:47 GMT
+# Updated: Sun, 12 Jul 2026 00:32:02 GMT
 # Total: 8
 
 DOMAIN,apple-tv-plus-press.apple.com

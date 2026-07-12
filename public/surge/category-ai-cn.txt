@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ai-cn.txt
 # Name: category-ai-cn
-# Updated: Sat, 11 Jul 2026 00:29:47 GMT
-# Total: 109
+# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Total: 111
 
 DOMAIN,ai.zhaomi.cn
 DOMAIN-SUFFIX,aispeech.com
@@ -52,7 +52,9 @@ DOMAIN-SUFFIX,happyshrimp.cn
 DOMAIN-SUFFIX,hi-butterfly.cn
 DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,instreet.com
+DOMAIN-SUFFIX,kechuangai.com
 DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,kling-ai.com
 DOMAIN-SUFFIX,klingai.com
 DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,liblib.cloud

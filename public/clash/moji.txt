@@ -1,8 +1,12 @@
 # URL: https://s.nosec.me/clash/moji.txt
 # Name: moji
-# Updated: Sat, 11 Jul 2026 00:29:47 GMT
-# Total: 2
+# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Total: 6
 
 payload:
+  - DOMAIN-SUFFIX,airnut.com
   - DOMAIN-SUFFIX,moji.com
+  - DOMAIN-SUFFIX,moji001.com
+  - DOMAIN-SUFFIX,moji002.com
+  - DOMAIN-SUFFIX,mojicdn.com
   - DOMAIN-SUFFIX,mojichina.com

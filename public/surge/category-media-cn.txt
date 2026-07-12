@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-media-cn.txt
 # Name: category-media-cn
-# Updated: Sat, 11 Jul 2026 00:29:47 GMT
-# Total: 350
+# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Total: 362
 
 DOMAIN-SUFFIX,0033.cn
 DOMAIN-SUFFIX,10jqka.com.cn
@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,chaindd.com
 DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,cheaa.com
 DOMAIN-SUFFIX,checkzeit.com
+DOMAIN-SUFFIX,chenshipin.com
 DOMAIN-SUFFIX,chinaaet.com
 DOMAIN-SUFFIX,chinabyte.com
 DOMAIN-SUFFIX,chinadevelopment.com.cn
@@ -66,11 +67,13 @@ DOMAIN-SUFFIX,chinanews.com.cn
 DOMAIN-SUFFIX,chinaott.com
 DOMAIN-SUFFIX,chinaqw.com
 DOMAIN-SUFFIX,chinastarmarket.cn
+DOMAIN-SUFFIX,chuanbaoguancha.cn
 DOMAIN-SUFFIX,citv.net.cn
 DOMAIN-SUFFIX,ckxx.net
 DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,cnfol.com
 DOMAIN-SUFFIX,cnfolimg.com
+DOMAIN-SUFFIX,cnhubei.com
 DOMAIN-SUFFIX,cnms.net.cn
 DOMAIN-SUFFIX,cnr.cn
 DOMAIN-SUFFIX,cns.com.cn
@@ -125,6 +128,7 @@ DOMAIN-SUFFIX,fjsen.com
 DOMAIN-SUFFIX,focus-img.cn
 DOMAIN-SUFFIX,focus.cn
 DOMAIN-SUFFIX,freebuf.com
+DOMAIN-SUFFIX,fromgeek.com
 DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,geekpark.net
 DOMAIN-SUFFIX,gfan.com
@@ -151,6 +155,7 @@ DOMAIN-SUFFIX,hnol.net
 DOMAIN-SUFFIX,hntv.tv
 DOMAIN-SUFFIX,huanqiu.com
 DOMAIN-SUFFIX,huanqiucdn.cn
+DOMAIN-SUFFIX,hubeidaily.net
 DOMAIN-SUFFIX,huxiu.com
 DOMAIN-SUFFIX,huxiucdn.com
 DOMAIN-SUFFIX,hxnews.com
@@ -203,6 +208,7 @@ DOMAIN-SUFFIX,kankannews.com
 DOMAIN-SUFFIX,kjrb.com.cn
 DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,knewsmart.com
+DOMAIN-SUFFIX,kuaizhan.com
 DOMAIN-SUFFIX,lancdn.com
 DOMAIN-SUFFIX,landian.news
 DOMAIN-SUFFIX,landian.vip
@@ -255,18 +261,23 @@ DOMAIN-SUFFIX,qiluyidian.net
 DOMAIN-SUFFIX,qingdaochina.org
 DOMAIN-SUFFIX,qingdaonews.com
 DOMAIN-SUFFIX,ql1d.com
+DOMAIN-SUFFIX,qzwb.com
 DOMAIN-SUFFIX,rednet.cn
 DOMAIN-SUFFIX,ruanmei.com
 DOMAIN-SUFFIX,saayaa.com
+DOMAIN-SUFFIX,scdaily.cn
 DOMAIN-SUFFIX,scgchc.com
+DOMAIN-SUFFIX,scol.com.cn
 DOMAIN-SUFFIX,scsjb.cn
 DOMAIN-SUFFIX,sctv-tf.com
 DOMAIN-SUFFIX,sctv.com
 DOMAIN-SUFFIX,secrss.com
 DOMAIN-SUFFIX,sfccn.com
 DOMAIN-SUFFIX,shangyexinzhi.com
+DOMAIN-SUFFIX,shedunews.net
 DOMAIN-SUFFIX,shobserver.com
 DOMAIN-SUFFIX,snowballsecurities.com
+DOMAIN-SUFFIX,snxw.com
 DOMAIN-SUFFIX,sohu
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
@@ -327,6 +338,7 @@ DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
 DOMAIN-SUFFIX,xueqiu.com
+DOMAIN-SUFFIX,xxcb.cn
 DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,ycwb.com
 DOMAIN-SUFFIX,yesky.com

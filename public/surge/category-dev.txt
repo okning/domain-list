@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-dev.txt
 # Name: category-dev
-# Updated: Sat, 11 Jul 2026 00:29:47 GMT
-# Total: 614
+# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Total: 616
 
 # REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
@@ -200,6 +200,7 @@ DOMAIN-SUFFIX,getbootstrap.com
 DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getfedora.org
 DOMAIN-SUFFIX,getpaint.net
+DOMAIN-SUFFIX,getsentry.com
 DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
@@ -493,6 +494,7 @@ DOMAIN-SUFFIX,scala-sbt.org
 DOMAIN-SUFFIX,scientificlinux.org
 DOMAIN-SUFFIX,scoop.sh
 DOMAIN-SUFFIX,sentry-cdn.com
+DOMAIN-SUFFIX,sentry.dev
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,serverfault.com
 DOMAIN-SUFFIX,servicetalk.io

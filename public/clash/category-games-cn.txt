@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-games-cn.txt
 # Name: category-games-cn
-# Updated: Sat, 11 Jul 2026 00:29:47 GMT
-# Total: 277
+# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Total: 283
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -82,6 +82,9 @@ payload:
   - DOMAIN-SUFFIX,cowlevel.net
   - DOMAIN-SUFFIX,cy.com
   - DOMAIN-SUFFIX,dobest.com
+  - DOMAIN-SUFFIX,duoyi.com
+  - DOMAIN-SUFFIX,duoyigroup.cn
+  - DOMAIN-SUFFIX,duoyiwangluo.com
   - DOMAIN-SUFFIX,edu4399.com
   - DOMAIN,end-api.shallow.ink
   - DOMAIN,end.shallow.ink
@@ -111,6 +114,7 @@ payload:
   - DOMAIN-SUFFIX,gtgres.com
   - DOMAIN-SUFFIX,guoping123.com
   - DOMAIN-SUFFIX,haohaowan.net
+  - DOMAIN-SUFFIX,happyelements.com
   - DOMAIN-SUFFIX,happyhlddz.com
   - DOMAIN-SUFFIX,haydaypop.cn
   - DOMAIN-SUFFIX,hdyxgame.com
@@ -137,6 +141,7 @@ payload:
   - DOMAIN-SUFFIX,langrenclub.com
   - DOMAIN-SUFFIX,laohu.com
   - DOMAIN-SUFFIX,ledu.com
+  - DOMAIN-SUFFIX,leyuansu.com
   - DOMAIN-SUFFIX,lingxigames.com
   - DOMAIN-SUFFIX,longtugame.com
   - DOMAIN-SUFFIX,ludosuperstar.cn
@@ -263,6 +268,7 @@ payload:
   - DOMAIN-SUFFIX,ycgame.com
   - DOMAIN-SUFFIX,yeyou.com
   - DOMAIN-SUFFIX,yeyoucdn.com
+  - DOMAIN-SUFFIX,ygduoyi.com
   - DOMAIN-SUFFIX,yingxiong.com
   - DOMAIN-SUFFIX,yjwujian.cn
   - DOMAIN-SUFFIX,yokaverse.com

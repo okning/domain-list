@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/chinatelecom.txt
 # Name: chinatelecom
-# Updated: Sat, 11 Jul 2026 00:29:47 GMT
-# Total: 17
+# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Total: 18
 
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,189smarthome.com
@@ -19,4 +19,5 @@ DOMAIN-SUFFIX,ctexcel.com.hk
 DOMAIN-SUFFIX,ctexcel.fr
 DOMAIN-SUFFIX,ctexcel.us
 DOMAIN-SUFFIX,dlife.cn
+DOMAIN-SUFFIX,play.cn
 DOMAIN-SUFFIX,vnet.cn
