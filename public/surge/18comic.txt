@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/18comic.txt
 # Name: 18comic
-# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Updated: Mon, 13 Jul 2026 00:31:45 GMT
 # Total: 51
 
 DOMAIN-SUFFIX,18comic-god.cc

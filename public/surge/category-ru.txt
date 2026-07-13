@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ru.txt
 # Name: category-ru
-# Updated: Sun, 12 Jul 2026 00:32:02 GMT
-# Total: 782
+# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Total: 783
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,24h.tv
@@ -668,6 +668,7 @@ DOMAIN-SUFFIX,wb.am
 DOMAIN-SUFFIX,wb.kg
 DOMAIN-SUFFIX,wb.kz
 DOMAIN-SUFFIX,wbautomation.tech
+DOMAIN-SUFFIX,wbcontent.net
 DOMAIN-SUFFIX,wbr.by
 DOMAIN-SUFFIX,wbstatic.net
 DOMAIN-SUFFIX,wbwh.tech

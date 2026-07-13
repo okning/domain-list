@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Sun, 12 Jul 2026 00:32:02 GMT
-# Total: 25962
+# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Total: 25963
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -23736,6 +23736,7 @@ payload:
   - DOMAIN-SUFFIX,wbautomation.ru
   - DOMAIN-SUFFIX,wbautomation.tech
   - DOMAIN-SUFFIX,wbbasket.ru
+  - DOMAIN-SUFFIX,wbcontent.net
   - DOMAIN-SUFFIX,wbd.ms
   - DOMAIN-SUFFIX,wbdnbo.net
   - DOMAIN-SUFFIX,wbdubna.ru

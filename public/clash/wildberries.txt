@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/wildberries.txt
 # Name: wildberries
-# Updated: Sun, 12 Jul 2026 00:32:02 GMT
-# Total: 98
+# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Total: 99
 
 payload:
   - DOMAIN-SUFFIX,digital-wb.ru
@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,wbautomation.ru
   - DOMAIN-SUFFIX,wbautomation.tech
   - DOMAIN-SUFFIX,wbbasket.ru
+  - DOMAIN-SUFFIX,wbcontent.net
   - DOMAIN-SUFFIX,wbdubna.ru
   - DOMAIN-SUFFIX,wbkids.ru
   - DOMAIN-SUFFIX,wbmail.ru

@@ -1,8 +1,12 @@
 # URL: https://s.nosec.me/surge/espressif.txt
 # Name: espressif
-# Updated: Sun, 12 Jul 2026 00:32:02 GMT
-# Total: 3
+# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Total: 7
 
 DOMAIN-SUFFIX,esp32.com
+DOMAIN-SUFFIX,esp8266.cn
 DOMAIN-SUFFIX,esp8266.com
+DOMAIN-SUFFIX,esp8266.com.cn
+DOMAIN-SUFFIX,espressif.cn
 DOMAIN-SUFFIX,espressif.com
+DOMAIN-SUFFIX,espressif.com.cn

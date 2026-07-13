@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-cryptocurrency.txt
 # Name: category-cryptocurrency
-# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Updated: Mon, 13 Jul 2026 00:31:45 GMT
 # Total: 232
 
 DOMAIN-SUFFIX,1inch.io

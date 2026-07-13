@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-olympiad-in-informatics.txt
 # Name: category-olympiad-in-informatics
-# Updated: Sun, 12 Jul 2026 00:32:02 GMT
+# Updated: Mon, 13 Jul 2026 00:31:45 GMT
 # Total: 17
 
 DOMAIN-SUFFIX,51nod.com
