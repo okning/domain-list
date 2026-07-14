@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-finance.txt
 # Name: category-finance
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 599
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 598
 
 payload:
   - DOMAIN-SUFFIX,114bank.co.jp
@@ -39,7 +39,6 @@ payload:
   - DOMAIN-SUFFIX,akita-bank.co.jp
   - DOMAIN-SUFFIX,alefbank.com
   - DOMAIN-SUFFIX,alfa.me
-  - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,alfadirect.ru

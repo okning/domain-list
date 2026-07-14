@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/westerndigital.txt
 # Name: westerndigital
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
 # Total: 23
 
 payload:

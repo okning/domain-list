@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-retail-ru.txt
 # Name: category-retail-ru
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
 # Total: 75
 
 payload:

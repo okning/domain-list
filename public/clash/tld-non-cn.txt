@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/tld-non-cn.txt
 # Name: tld-non-cn
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 832
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 830
 
 payload:
   - DOMAIN-SUFFIX,aaa
@@ -272,7 +272,6 @@ payload:
   - DOMAIN-SUFFIX,gn
   - DOMAIN-SUFFIX,godaddy
   - DOMAIN-SUFFIX,goldpoint
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goodyear
   - DOMAIN-SUFFIX,goog
   - DOMAIN-SUFFIX,google
@@ -774,7 +773,6 @@ payload:
   - DOMAIN-SUFFIX,xn--mgb9awbf
   - DOMAIN-SUFFIX,xn--mgba3a3ejt
   - DOMAIN-SUFFIX,xn--mgba3a4f16a
-  - DOMAIN-SUFFIX,xn--mgba3a4fra
   - DOMAIN-SUFFIX,xn--mgba7c0bbn0a
   - DOMAIN-SUFFIX,xn--mgbaam7a8h
   - DOMAIN-SUFFIX,xn--mgbah1a3hjkrd

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
 # Total: 1978
 
 payload:
@@ -837,6 +837,7 @@ payload:
   - DOMAIN-SUFFIX,kamisama-maeda-lab.com
   - DOMAIN-SUFFIX,kfs.io
   - DOMAIN-SUFFIX,kgisystems.com
+  - DOMAIN-SUFFIX,kick.com
   - DOMAIN-SUFFIX,kingkong.com.tw
   - DOMAIN-SUFFIX,kingkongapp.com
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
@@ -853,7 +854,6 @@ payload:
   - DOMAIN-SUFFIX,kktv.com.tw
   - DOMAIN-SUFFIX,kktv.me
   - DOMAIN-SUFFIX,kktv.me
-  - DOMAIN-SUFFIX,konami
   - DOMAIN-SUFFIX,konami-igaming.online
   - DOMAIN-SUFFIX,konami.co.jp
   - DOMAIN-SUFFIX,konami.com

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 7707
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 7709
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -2416,6 +2416,7 @@ payload:
   - DOMAIN-SUFFIX,duiopen.com
   - DOMAIN-SUFFIX,duiou.com.cn
   - DOMAIN-SUFFIX,duitang.com
+  - DOMAIN-SUFFIX,dulupay.com
   - DOMAIN-SUFFIX,dumate.cn
   - DOMAIN-SUFFIX,duoduocdn.com
   - DOMAIN-SUFFIX,duokan.com
@@ -7486,6 +7487,7 @@ payload:
   - DOMAIN-SUFFIX,yystv.cn
   - DOMAIN-SUFFIX,yytcdn.com
   - DOMAIN-SUFFIX,yzcdn.cn
+  - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,yzwb.net
   - DOMAIN-SUFFIX,yzyxgame.com
   - DOMAIN-SUFFIX,yzyxgame.com

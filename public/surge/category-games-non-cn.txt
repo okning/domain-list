@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-games-non-cn.txt
 # Name: category-games-non-cn
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 833
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 832
 
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # REGEXP,^epicgames-download\d-\d+\.file\.myqcloud\.com$
@@ -277,7 +277,6 @@ DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kirbysepicyarn.com
 DOMAIN-SUFFIX,kirbysuperstarultra.com
 DOMAIN-SUFFIX,kiwi.jp
-DOMAIN-SUFFIX,konami
 DOMAIN-SUFFIX,konami-igaming.online
 DOMAIN-SUFFIX,konami.co.jp
 DOMAIN-SUFFIX,konami.com

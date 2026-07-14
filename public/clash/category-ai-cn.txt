@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ai-cn.txt
 # Name: category-ai-cn
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 111
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 112
 
 payload:
   - DOMAIN,ai.zhaomi.cn
@@ -111,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,yoma.cn
   - DOMAIN-SUFFIX,yuanbao.tencent.com
   - DOMAIN-SUFFIX,yuanqi.tencent.com
+  - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN-SUFFIX,zhiexa.com
   - DOMAIN-SUFFIX,zhipuai.cn

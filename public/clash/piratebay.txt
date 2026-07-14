@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/piratebay.txt
 # Name: piratebay
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
 # Total: 4
 
 payload:

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/google-registry-tld.txt
 # Name: google-registry-tld
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
 # Total: 20
 
 DOMAIN-SUFFIX,app

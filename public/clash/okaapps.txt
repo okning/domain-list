@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/okaapps.txt
 # Name: okaapps
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
 # Total: 2
 
 payload:

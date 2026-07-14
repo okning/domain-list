@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/afdian.txt
 # Name: afdian
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,afdian.com

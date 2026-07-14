@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-gov-ru.txt
 # Name: category-gov-ru
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 128
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 127
 
 DOMAIN-SUFFIX,adygeya.ru
 DOMAIN-SUFFIX,altai.ru
@@ -83,7 +83,6 @@ DOMAIN-SUFFIX,orb.ru
 DOMAIN-SUFFIX,oryol.ru
 DOMAIN-SUFFIX,penza.ru
 DOMAIN-SUFFIX,perm.ru
-DOMAIN-SUFFIX,psk
 DOMAIN-SUFFIX,psk.ru
 DOMAIN-SUFFIX,pskov.ru
 DOMAIN-SUFFIX,ptz.ru

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/alphabet.txt
 # Name: alphabet
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 879
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 878
 
 payload:
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
@@ -252,7 +252,6 @@ payload:
   - DOMAIN-SUFFIX,gonglchuangl.net
   - DOMAIN,gonglchuangl.net
   - DOMAIN,gongyichuangyi.net
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,goog
   - DOMAIN-SUFFIX,googel.com

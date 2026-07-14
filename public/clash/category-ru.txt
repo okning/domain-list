@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ru.txt
 # Name: category-ru
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 783
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 781
 
 payload:
   - DOMAIN-SUFFIX,1917live.red
@@ -30,7 +30,6 @@ payload:
   - DOMAIN-SUFFIX,ahilesva.info
   - DOMAIN-SUFFIX,alefbank.com
   - DOMAIN-SUFFIX,alfa.me
-  - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,algoritmika.org
   - DOMAIN-SUFFIX,antiphishing.nl
@@ -414,7 +413,6 @@ payload:
   - DOMAIN-SUFFIX,prod-my.games
   - DOMAIN-SUFFIX,prodcontest.com
   - DOMAIN-SUFFIX,promodj.com
-  - DOMAIN-SUFFIX,psk
   - DOMAIN-SUFFIX,ptsecurity.com
   - DOMAIN-SUFFIX,pushgrow.io
   - DOMAIN-SUFFIX,pvubank.com

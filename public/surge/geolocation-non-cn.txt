@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 25963
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 25957
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -1441,7 +1441,6 @@ DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
 DOMAIN-SUFFIX,alexanderstreet.com
 DOMAIN-SUFFIX,alfa.me
-DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
@@ -5235,6 +5234,7 @@ DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chatgptvideo.xyz
 DOMAIN-SUFFIX,chatgptvideob.buzz
 DOMAIN-SUFFIX,chatsex.xxx
@@ -10231,7 +10231,6 @@ DOMAIN,gongyichuangyi.net
 DOMAIN-SUFFIX,gonike.com
 DOMAIN-SUFFIX,gonzo-movies.com
 DOMAIN-SUFFIX,gonzo.com
-DOMAIN-SUFFIX,goo
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,gooblox.com
 DOMAIN-SUFFIX,good-apps.jp
@@ -12412,7 +12411,6 @@ DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intc.com
 DOMAIN-SUFFIX,integral7.com
-DOMAIN-SUFFIX,intel
 DOMAIN-SUFFIX,intel-research.net
 DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intel.ac
@@ -13608,6 +13606,7 @@ DOMAIN-SUFFIX,khanacademy.org
 DOMAIN-SUFFIX,khangar.net
 DOMAIN-SUFFIX,khotruyentranhx.com
 DOMAIN-SUFFIX,kichikuou.com
+DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kickporn.com
 DOMAIN-SUFFIX,kickshatchannel.com
 DOMAIN-SUFFIX,kicksnike1.com
@@ -13730,7 +13729,6 @@ DOMAIN-SUFFIX,kompoz2.com
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,konachan.net
 DOMAIN-SUFFIX,konachan.wjcodes.com
-DOMAIN-SUFFIX,konami
 DOMAIN-SUFFIX,konami-igaming.online
 DOMAIN-SUFFIX,konami.co.jp
 DOMAIN-SUFFIX,konami.com
@@ -18650,10 +18648,6 @@ DOMAIN-SUFFIX,practicalmoneyskills.ca
 DOMAIN-SUFFIX,practicalmoneyskills.cn
 DOMAIN-SUFFIX,practicalmoneyskills.com.cn
 DOMAIN-SUFFIX,practicalmoneyskills.jp
-DOMAIN,practivate.adobe
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN-SUFFIX,prastitutki.ru
 DOMAIN-SUFFIX,prcm.jp
 DOMAIN-SUFFIX,pre-bmwgroup.jobs

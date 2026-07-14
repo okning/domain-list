@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/baidu.txt
 # Name: baidu
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
 # Total: 85
 
 payload:

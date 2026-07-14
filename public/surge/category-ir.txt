@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ir.txt
 # Name: category-ir
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 190
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 189
 
 DOMAIN-SUFFIX,7sobh.com
 DOMAIN-SUFFIX,abanbroker.com
@@ -188,7 +188,6 @@ DOMAIN-SUFFIX,virasty.com
 DOMAIN-SUFFIX,webinarplus.online
 DOMAIN-SUFFIX,weswap.digital
 DOMAIN-SUFFIX,xn--mgba3a4f16a
-DOMAIN-SUFFIX,xn--mgba3a4fra
 DOMAIN-SUFFIX,yasdl.com
 DOMAIN-SUFFIX,yektanet.com
 DOMAIN-SUFFIX,zarinpal.com

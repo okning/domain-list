@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/openai.txt
 # Name: openai
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 22
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 23
 
 payload:
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN,o33249.ingest.sentry.io

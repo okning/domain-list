@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/adobe.txt
 # Name: adobe
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 132
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 128
 
 DOMAIN-SUFFIX,10xfotolia.com
 DOMAIN-SUFFIX,2o7.net
@@ -118,10 +118,6 @@ DOMAIN-SUFFIX,pdf.new
 DOMAIN-SUFFIX,photolia.net
 DOMAIN-SUFFIX,photoshop.com
 DOMAIN-SUFFIX,placesdocs.com
-DOMAIN,practivate.adobe
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN-SUFFIX,revenue-performance-management.com
 DOMAIN-SUFFIX,s2stagehance.com
 DOMAIN-SUFFIX,scene7.com

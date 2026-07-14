@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 7814
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 7808
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -3357,7 +3357,6 @@ DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,gonglchuangl.net
 DOMAIN,gonglchuangl.net
 DOMAIN,gongyichuangyi.net
-DOMAIN-SUFFIX,goo
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,good-apps.jp
 DOMAIN-SUFFIX,goodsdunk.net
@@ -4208,7 +4207,6 @@ DOMAIN-SUFFIX,instgram.com
 DOMAIN-SUFFIX,intagram.com
 DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intc.com
-DOMAIN-SUFFIX,intel
 DOMAIN-SUFFIX,intel-research.net
 DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intel.ac
@@ -5859,10 +5857,6 @@ DOMAIN-SUFFIX,powershape.com
 DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,powersrv.de
 DOMAIN-SUFFIX,powersunitedvr.com
-DOMAIN,practivate.adobe
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN-SUFFIX,prcm.jp
 DOMAIN-SUFFIX,pricesearch.jp
 DOMAIN-SUFFIX,prime-video.com

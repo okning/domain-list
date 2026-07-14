@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 6086
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 6088
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -1862,6 +1862,7 @@ DOMAIN-SUFFIX,dui88.com
 DOMAIN-SUFFIX,duifene.com
 DOMAIN-SUFFIX,duiopen.com
 DOMAIN-SUFFIX,duitang.com
+DOMAIN-SUFFIX,dulupay.com
 DOMAIN-SUFFIX,duoduocdn.com
 DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,duokanbox.com
@@ -5920,6 +5921,7 @@ DOMAIN-SUFFIX,yyds.co
 DOMAIN-SUFFIX,yyshub.top
 DOMAIN-SUFFIX,yystatic.com
 DOMAIN-SUFFIX,yytcdn.com
+DOMAIN-SUFFIX,yzsgo.com
 DOMAIN-SUFFIX,yzwb.net
 DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,yzyxgame.com

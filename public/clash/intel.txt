@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/intel.txt
 # Name: intel
-# Updated: Mon, 13 Jul 2026 00:31:45 GMT
-# Total: 289
+# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Total: 288
 
 payload:
   - DOMAIN-SUFFIX,01.org
@@ -39,7 +39,6 @@ payload:
   - DOMAIN-SUFFIX,insidefilms.com
   - DOMAIN-SUFFIX,insight.tech
   - DOMAIN-SUFFIX,intc.com
-  - DOMAIN-SUFFIX,intel
   - DOMAIN-SUFFIX,intel-research.net
   - DOMAIN-SUFFIX,intel-university-collaboration.net
   - DOMAIN-SUFFIX,intel.ac
