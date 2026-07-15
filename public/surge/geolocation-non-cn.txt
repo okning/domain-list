@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
-# Total: 25957
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Total: 25973
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -1161,6 +1161,7 @@ DOMAIN-SUFFIX,afpforum.com
 DOMAIN-SUFFIX,afriboyz.com
 DOMAIN-SUFFIX,aga-expo.com
 DOMAIN-SUFFIX,agag.tw
+DOMAIN,agb9r0ad.qllfkl.com
 DOMAIN-SUFFIX,agdbank.com
 DOMAIN-SUFFIX,age.tv
 DOMAIN-SUFFIX,agedm.app
@@ -4411,6 +4412,7 @@ DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnef.com
 DOMAIN-SUFFIX,bnext.com.tw
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnxz.net
 DOMAIN-SUFFIX,boboporn.com
 DOMAIN-SUFFIX,boboporn.net
 DOMAIN-SUFFIX,bobovip.cc
@@ -4820,6 +4822,7 @@ DOMAIN-SUFFIX,byjhd.com
 DOMAIN-SUFFIX,bymj.io
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,bystys.tech
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,bytick.com
@@ -10811,6 +10814,7 @@ DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
 DOMAIN-SUFFIX,hayya.ae
+DOMAIN,hb4bbbbb.pmhcjk.com
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,hbo
@@ -13975,7 +13979,14 @@ DOMAIN-SUFFIX,lightxxxtube.com
 DOMAIN-SUFFIX,lih.kg
 DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,lihksnap.com
+DOMAIN-SUFFIX,like-video.com
 DOMAIN-SUFFIX,like.com
+DOMAIN-SUFFIX,like.video
+DOMAIN-SUFFIX,likee.com
+DOMAIN-SUFFIX,likee.video
+DOMAIN-SUFFIX,likeeapp.ru
+DOMAIN-SUFFIX,likeevideo.com
+DOMAIN-SUFFIX,likeevideo.ru
 DOMAIN-SUFFIX,likeseiyu.com
 DOMAIN-SUFFIX,liketruyen.net
 DOMAIN-SUFFIX,liketwice.com
@@ -16165,6 +16176,7 @@ DOMAIN-SUFFIX,navisworks.net
 DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,nbabot.net
 DOMAIN-SUFFIX,nbabot.net
+DOMAIN,nbbb1bb7.pmhcjk.com
 DOMAIN-SUFFIX,nbc.co
 DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nbcnews.com
@@ -17471,6 +17483,7 @@ DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,overleaf.com
 DOMAIN-SUFFIX,overthumbs.com
 DOMAIN-SUFFIX,ovid.com
+DOMAIN-SUFFIX,owxd.xyz
 DOMAIN-SUFFIX,oxfordaasc.com
 DOMAIN-SUFFIX,oxfordartonline.com
 DOMAIN-SUFFIX,oxfordbibliographies.com
@@ -18880,6 +18893,7 @@ DOMAIN-SUFFIX,pzhanfor.today
 DOMAIN-SUFFIX,q10.jp
 DOMAIN-SUFFIX,q13.com
 DOMAIN-SUFFIX,q13fox.com
+DOMAIN,q676790b.pmhcjk.com
 DOMAIN-SUFFIX,qatarescortsvip.com
 DOMAIN-SUFFIX,qattdh.cc
 DOMAIN-SUFFIX,qattdh.top
@@ -22634,6 +22648,7 @@ DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
 DOMAIN-SUFFIX,uxthemes.com
+DOMAIN-SUFFIX,uxzw.club
 DOMAIN-SUFFIX,v-av.com
 DOMAIN-SUFFIX,v-has.com
 DOMAIN-SUFFIX,v.gd
@@ -25748,6 +25763,7 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,yuanming.net
 DOMAIN-SUFFIX,yuanming.net
+DOMAIN-SUFFIX,yucf.top
 DOMAIN-SUFFIX,yuenuge113.xyz
 DOMAIN-SUFFIX,yuenuge18.cc
 DOMAIN-SUFFIX,yugioh-card.com

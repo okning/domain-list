@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/xunlei.txt
 # Name: xunlei
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
 # Total: 13
 
 DOMAIN-SUFFIX,00cdn.com

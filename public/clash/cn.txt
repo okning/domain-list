@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/cn.txt
 # Name: cn
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
-# Total: 6088
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Total: 6095
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -2253,6 +2253,7 @@ payload:
   - DOMAIN-SUFFIX,ganjistatic1.com
   - DOMAIN-SUFFIX,gaode.com
   - DOMAIN-SUFFIX,gaodun.com
+  - DOMAIN-SUFFIX,gaojidata.com
   - DOMAIN-SUFFIX,gaokao.com
   - DOMAIN-SUFFIX,gaoshouyou.com
   - DOMAIN-SUFFIX,gaoxiaojob.com
@@ -2407,6 +2408,7 @@ payload:
   - DOMAIN-SUFFIX,gxairlines.com
   - DOMAIN-SUFFIX,gxb.io
   - DOMAIN-SUFFIX,gxxmt.com
+  - DOMAIN-SUFFIX,gzasc.com
   - DOMAIN-SUFFIX,gzcqs.com
   - DOMAIN-SUFFIX,gzlzfm.com
   - DOMAIN-SUFFIX,gztv.com
@@ -4297,6 +4299,8 @@ payload:
   - DOMAIN-SUFFIX,qunjielong.com
   - DOMAIN-SUFFIX,qunliao.info
   - DOMAIN-SUFFIX,quyaoya.com
+  - DOMAIN-SUFFIX,qwapp.top
+  - DOMAIN-SUFFIX,qwdjapp.com
   - DOMAIN-SUFFIX,qweather.com
   - DOMAIN-SUFFIX,qweather.net
   - DOMAIN-SUFFIX,qweatherapi.com
@@ -4349,6 +4353,7 @@ payload:
   - DOMAIN-SUFFIX,rongshuxia.com
   - DOMAIN-SUFFIX,routewize.com
   - DOMAIN-SUFFIX,rrmj.plus
+  - DOMAIN-SUFFIX,rrsp.app
   - DOMAIN-SUFFIX,rtbasia.com
   - DOMAIN-SUFFIX,ruan8.com
   - DOMAIN-SUFFIX,ruanmei.com
@@ -5379,6 +5384,7 @@ payload:
   - DOMAIN-SUFFIX,webank.com
   - DOMAIN-SUFFIX,webankcdn.net
   - DOMAIN-SUFFIX,webgame163.com
+  - DOMAIN-SUFFIX,weboss.hk
   - DOMAIN-SUFFIX,webportal.top
   - DOMAIN-SUFFIX,webterren.com
   - DOMAIN-SUFFIX,wechat.com
@@ -5759,6 +5765,7 @@ payload:
   - DOMAIN-SUFFIX,yhd.com
   - DOMAIN-SUFFIX,yicai.com
   - DOMAIN-SUFFIX,yiche.com
+  - DOMAIN-SUFFIX,yichengwlkj.com
   - DOMAIN-SUFFIX,yidianliulan.com
   - DOMAIN-SUFFIX,yigao.com
   - DOMAIN-SUFFIX,yigoonet.com

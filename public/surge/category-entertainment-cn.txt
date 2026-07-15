@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
-# Total: 822
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Total: 828
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,11222.cn
@@ -636,6 +636,8 @@ DOMAIN-SUFFIX,qqgameapp.com
 DOMAIN-SUFFIX,qqmusic.com
 DOMAIN-SUFFIX,qtfm.cn
 DOMAIN-SUFFIX,quehu.com
+DOMAIN-SUFFIX,qwapp.top
+DOMAIN-SUFFIX,qwdjapp.com
 DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,qznovel.com
 DOMAIN-SUFFIX,qznovelpic.com
@@ -650,6 +652,9 @@ DOMAIN-SUFFIX,roblox.qq.com
 DOMAIN-SUFFIX,robloxdev.cn
 DOMAIN-SUFFIX,roco.qq.com
 DOMAIN-SUFFIX,rongshuxia.com
+DOMAIN-SUFFIX,rrmj.plus
+DOMAIN-SUFFIX,rrsp.app
+DOMAIN-SUFFIX,rrsp.com.cn
 DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,sao.cn
 DOMAIN-SUFFIX,saolife.com
@@ -788,6 +793,7 @@ DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,yeyou.com
 DOMAIN-SUFFIX,yeyoucdn.com
 DOMAIN-SUFFIX,ygduoyi.com
+DOMAIN-SUFFIX,yichengwlkj.com
 DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,yiyouliao.com
 DOMAIN-SUFFIX,yjwujian.cn

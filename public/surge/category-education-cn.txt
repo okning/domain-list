@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-education-cn.txt
 # Name: category-education-cn
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
-# Total: 168
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Total: 170
 
 DOMAIN-SUFFIX,100tal.com
 DOMAIN-SUFFIX,17zuoye.cn
@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,fenbike.cn
 DOMAIN-SUFFIX,fenbike.com
 DOMAIN-SUFFIX,fenbilantian.cn
 DOMAIN-SUFFIX,fenbilantian.com
+DOMAIN-SUFFIX,gaojidata.com
 DOMAIN-SUFFIX,gaokao.com
 DOMAIN-SUFFIX,gatzs.com.cn
 DOMAIN-SUFFIX,gfbzb.cn
@@ -69,6 +70,7 @@ DOMAIN-SUFFIX,gfbzb.gov.cn
 DOMAIN-SUFFIX,gfbzb.net
 DOMAIN-SUFFIX,gk100.com
 DOMAIN-SUFFIX,guojibk.com
+DOMAIN-SUFFIX,gzasc.com
 DOMAIN-SUFFIX,haofenshu.com
 DOMAIN-SUFFIX,hjapi.com
 DOMAIN-SUFFIX,hjfile.cn

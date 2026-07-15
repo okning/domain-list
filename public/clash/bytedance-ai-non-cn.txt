@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/bytedance-ai-non-cn.txt
 # Name: bytedance-ai-non-cn
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
 # Total: 7
 
 payload:

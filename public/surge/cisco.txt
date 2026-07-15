@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cisco.txt
 # Name: cisco
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
 # Total: 121
 
 DOMAIN-SUFFIX,academynetriders.com

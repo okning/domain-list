@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/ozon.txt
 # Name: ozon
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
 # Total: 42
 
 DOMAIN-SUFFIX,ewisdom.us.kg

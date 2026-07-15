@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
-# Total: 7709
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Total: 7717
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -2883,6 +2883,7 @@ DOMAIN-SUFFIX,ganjiangvpn.com
 DOMAIN-SUFFIX,ganjistatic1.com
 DOMAIN-SUFFIX,gaode.com
 DOMAIN-SUFFIX,gaodun.com
+DOMAIN-SUFFIX,gaojidata.com
 DOMAIN-SUFFIX,gaokao.com
 DOMAIN-SUFFIX,gaoshouyou.com
 DOMAIN-SUFFIX,gaoxiaojob.com
@@ -3100,6 +3101,7 @@ DOMAIN-SUFFIX,gxb.io
 DOMAIN-SUFFIX,gxtv.cn
 DOMAIN-SUFFIX,gxxmt.com
 DOMAIN-SUFFIX,gyzq.com.cn
+DOMAIN-SUFFIX,gzasc.com
 DOMAIN-SUFFIX,gzcqs.com
 DOMAIN-SUFFIX,gzctyiptv.cn
 DOMAIN-SUFFIX,gzlzfm.com
@@ -5475,6 +5477,8 @@ DOMAIN-SUFFIX,qunarzz.com
 DOMAIN-SUFFIX,qunjielong.com
 DOMAIN-SUFFIX,qunliao.info
 DOMAIN-SUFFIX,quyaoya.com
+DOMAIN-SUFFIX,qwapp.top
+DOMAIN-SUFFIX,qwdjapp.com
 DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,qweather.net
 DOMAIN-SUFFIX,qweatherapi.com
@@ -5542,6 +5546,8 @@ DOMAIN-SUFFIX,route53.cn
 DOMAIN-SUFFIX,routewize.com
 DOMAIN-SUFFIX,rqnoj.cn
 DOMAIN-SUFFIX,rrmj.plus
+DOMAIN-SUFFIX,rrsp.app
+DOMAIN-SUFFIX,rrsp.com.cn
 DOMAIN-SUFFIX,rsproxy.cn
 DOMAIN-SUFFIX,rsscc.cn
 DOMAIN-SUFFIX,rt-mart.com.cn
@@ -6841,6 +6847,7 @@ DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,webankcdn.net
 DOMAIN-SUFFIX,webgame163.com
 DOMAIN-SUFFIX,webmasterhome.cn
+DOMAIN-SUFFIX,weboss.hk
 DOMAIN-SUFFIX,webportal.top
 DOMAIN-SUFFIX,webterren.com
 DOMAIN-SUFFIX,wechat.com
@@ -7284,6 +7291,7 @@ DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,yhfund.com.cn
 DOMAIN-SUFFIX,yicai.com
 DOMAIN-SUFFIX,yiche.com
+DOMAIN-SUFFIX,yichengwlkj.com
 DOMAIN-SUFFIX,yidianliulan.cn
 DOMAIN-SUFFIX,yidianliulan.com
 DOMAIN-SUFFIX,yigao.com

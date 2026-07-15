@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/openwrt.txt
 # Name: openwrt
-# Updated: Tue, 14 Jul 2026 00:28:22 GMT
+# Updated: Wed, 15 Jul 2026 00:25:49 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,lede-project.org
