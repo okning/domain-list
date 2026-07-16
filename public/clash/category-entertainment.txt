@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
-# Total: 2013
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
+# Total: 2014
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -990,6 +990,7 @@ payload:
   - DOMAIN-SUFFIX,metacritic.com
   - DOMAIN-SUFFIX,mgo-images.com
   - DOMAIN-SUFFIX,mgo.com
+  - DOMAIN-SUFFIX,mhgui.com
   - DOMAIN-SUFFIX,mickey.tv
   - DOMAIN-SUFFIX,miitomo.com
   - DOMAIN-SUFFIX,miitomo.com.cn

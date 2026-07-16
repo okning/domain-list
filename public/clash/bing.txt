@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/bing.txt
 # Name: bing
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
-# Total: 33
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
+# Total: 34
 
 payload:
   - DOMAIN-SUFFIX,bing
@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   - DOMAIN-SUFFIX,bluehatnights.com
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com

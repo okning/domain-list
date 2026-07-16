@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/twitter.txt
 # Name: twitter
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
 # Total: 24
 
 DOMAIN-SUFFIX,ads-twitter.com

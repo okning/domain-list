@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ai-non-cn.txt
 # Name: category-ai-non-cn
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
-# Total: 165
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
+# Total: 167
 
 payload:
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,comfyci.org
   - DOMAIN-SUFFIX,comfyregistry.org
   - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
@@ -80,6 +81,7 @@ payload:
   - DOMAIN-SUFFIX,envato-static.com
   - DOMAIN-SUFFIX,envato.com
   - DOMAIN-SUFFIX,envatousercontent.com
+  - DOMAIN-SUFFIX,flow.google
   - DOMAIN-SUFFIX,gateway.ai.cloudflare.com
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google

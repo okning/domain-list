@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/huawei.txt
 # Name: huawei
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
 # Total: 303
 
 DOMAIN-SUFFIX,26r9y.cn

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
-# Total: 7808
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
+# Total: 7811
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -1199,6 +1199,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
   - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azureedge.us
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azurehdinsight.cn
   - DOMAIN-SUFFIX,azureiotcentral.com
@@ -2096,6 +2097,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,coreduo.com
   - DOMAIN-SUFFIX,coreextreme.com
@@ -6424,6 +6426,7 @@ payload:
   - DOMAIN-SUFFIX,st.com
   - DOMAIN-SUFFIX,stadia.dev
   - DOMAIN-SUFFIX,staffhub.ms
+  - DOMAIN-SUFFIX,starlink.com
   - DOMAIN-SUFFIX,starship-ent.com
   - DOMAIN-SUFFIX,start.com
   - DOMAIN-SUFFIX,static-cisco.com

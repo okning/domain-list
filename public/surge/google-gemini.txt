@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/google-gemini.txt
 # Name: google-gemini
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
-# Total: 39
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
+# Total: 40
 
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,ai.studio
@@ -21,6 +21,7 @@ DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,flow.google
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com

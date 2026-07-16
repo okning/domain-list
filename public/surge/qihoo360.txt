@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/qihoo360.txt
 # Name: qihoo360
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
 # Total: 104
 
 DOMAIN-SUFFIX,360-api.cn

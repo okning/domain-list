@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/manhuagui.txt
 # Name: manhuagui
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
-# Total: 1
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
+# Total: 2
 
 payload:
   - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,mhgui.com

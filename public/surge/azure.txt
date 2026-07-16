@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/azure.txt
 # Name: azure
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
-# Total: 150
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
+# Total: 151
 
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureedge.us
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azurehdinsight.cn
 DOMAIN-SUFFIX,azureiotcentral.com

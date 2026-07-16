@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/viu.txt
 # Name: viu
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
 # Total: 7
 
 # REGEXP,^ewcdn[0-9]+\.nowe\.com$

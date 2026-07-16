@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/airwick.txt
 # Name: airwick
-# Updated: Wed, 15 Jul 2026 00:25:49 GMT
+# Updated: Thu, 16 Jul 2026 00:29:24 GMT
 # Total: 40
 
 payload:
