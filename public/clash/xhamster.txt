@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/clash/xhamster.txt
 # Name: xhamster
-# Updated: Thu, 16 Jul 2026 00:29:24 GMT
-# Total: 17
+# Updated: Fri, 17 Jul 2026 00:31:20 GMT
+# Total: 18
 
 payload:
   - DOMAIN-SUFFIX,freexh.blog
   - DOMAIN-SUFFIX,freexh.live
+  - DOMAIN-SUFFIX,netxh.blog
   - DOMAIN,widgets.stripst.com
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamster.desi

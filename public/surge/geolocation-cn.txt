@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Thu, 16 Jul 2026 00:29:24 GMT
-# Total: 7717
+# Updated: Fri, 17 Jul 2026 00:31:20 GMT
+# Total: 7719
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -748,6 +748,7 @@ DOMAIN-SUFFIX,apdcdn.net
 DOMAIN-SUFFIX,api-building.fun
 DOMAIN-SUFFIX,api-building.fun
 DOMAIN,api.alibabacloud.com
+DOMAIN,api.blipsandchitz.me
 DOMAIN-SUFFIX,apifox.cn
 DOMAIN-SUFFIX,apifox.com
 DOMAIN-SUFFIX,apigwtencent.com
@@ -3313,6 +3314,7 @@ DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,hqpcb.com
 DOMAIN-SUFFIX,hr-welink.com
 DOMAIN-SUFFIX,hrsec.com.cn
+DOMAIN-SUFFIX,hrsecn.com
 DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbcinsurance.com.cn

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Thu, 16 Jul 2026 00:29:24 GMT
-# Total: 6095
+# Updated: Fri, 17 Jul 2026 00:31:20 GMT
+# Total: 6097
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -614,6 +614,7 @@ DOMAIN-SUFFIX,apdcdn.net
 DOMAIN-SUFFIX,api-building.fun
 DOMAIN-SUFFIX,api-building.fun
 DOMAIN,api.alibabacloud.com
+DOMAIN,api.blipsandchitz.me
 DOMAIN-SUFFIX,apifox.com
 DOMAIN-SUFFIX,apigwtencent.com
 DOMAIN-SUFFIX,apimkt.net
@@ -2577,6 +2578,7 @@ DOMAIN-SUFFIX,hqchip.com
 DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,hqpcb.com
 DOMAIN-SUFFIX,hr-welink.com
+DOMAIN-SUFFIX,hrsecn.com
 DOMAIN-SUFFIX,hsfund.com
 DOMAIN-SUFFIX,hsqh.net
 DOMAIN-SUFFIX,htcases.com

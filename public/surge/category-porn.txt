@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-porn.txt
 # Name: category-porn
-# Updated: Thu, 16 Jul 2026 00:29:24 GMT
-# Total: 6676
+# Updated: Fri, 17 Jul 2026 00:31:20 GMT
+# Total: 6677
 
 # REGEXP,(^|\.)[1-5]gaoap\.com$
 # REGEXP,(^|\.)[1-9]+aipai\.(com|net)$
@@ -4005,6 +4005,7 @@ DOMAIN-SUFFIX,netflav5.com
 DOMAIN-SUFFIX,netpornsex.com
 DOMAIN-SUFFIX,netpornsex.net
 DOMAIN-SUFFIX,netvideogirls.com
+DOMAIN-SUFFIX,netxh.blog
 DOMAIN-SUFFIX,neuerporno.com
 DOMAIN-SUFFIX,new-akiba.com
 DOMAIN-SUFFIX,new-jero.net

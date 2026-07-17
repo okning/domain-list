@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/tld-non-cn.txt
 # Name: tld-non-cn
-# Updated: Thu, 16 Jul 2026 00:29:24 GMT
+# Updated: Fri, 17 Jul 2026 00:31:20 GMT
 # Total: 830
 
 payload:

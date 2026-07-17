@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/nike.txt
 # Name: nike
-# Updated: Thu, 16 Jul 2026 00:29:24 GMT
+# Updated: Fri, 17 Jul 2026 00:31:20 GMT
 # Total: 196
 
 DOMAIN-SUFFIX,air-nike-shoes.com

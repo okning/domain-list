@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Thu, 16 Jul 2026 00:29:24 GMT
-# Total: 25976
+# Updated: Fri, 17 Jul 2026 00:31:20 GMT
+# Total: 25977
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -16293,6 +16293,7 @@ payload:
   - DOMAIN-SUFFIX,netvideogirls.com
   - DOMAIN-SUFFIX,netvigator.com
   - DOMAIN-SUFFIX,network-auth.cn
+  - DOMAIN-SUFFIX,netxh.blog
   - DOMAIN-SUFFIX,netzerobuildings.com
   - DOMAIN-SUFFIX,netzerobuildingstudio.com
   - DOMAIN-SUFFIX,neuerporno.com
