@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Fri, 17 Jul 2026 00:31:20 GMT
-# Total: 7811
+# Updated: Sat, 18 Jul 2026 00:28:46 GMT
+# Total: 7813
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -5401,6 +5401,7 @@ DOMAIN-SUFFIX,mybeatsbydreuk.com
 DOMAIN-SUFFIX,mybeatscheapbydre.com
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,myciscobenefits.com
+DOMAIN-SUFFIX,mycloudnas.com
 DOMAIN-SUFFIX,mydirectgroove.com
 DOMAIN-SUFFIX,mydirectvchannels.com
 DOMAIN-SUFFIX,mydirtyhobby.com
@@ -5911,6 +5912,7 @@ DOMAIN-SUFFIX,qlink.to
 DOMAIN-SUFFIX,qlinkto.cn
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,qnap.com.cn
+DOMAIN-SUFFIX,qnapsupport.net
 DOMAIN-SUFFIX,qprize.com
 DOMAIN,qpx.googleflights.net
 DOMAIN-SUFFIX,qualcomm-email.com

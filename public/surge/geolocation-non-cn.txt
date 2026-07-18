@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Fri, 17 Jul 2026 00:31:20 GMT
-# Total: 25977
+# Updated: Sat, 18 Jul 2026 00:28:46 GMT
+# Total: 25979
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -15957,6 +15957,7 @@ DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,myciscobenefits.com
 DOMAIN-SUFFIX,myclitgames.com
+DOMAIN-SUFFIX,mycloudnas.com
 DOMAIN-SUFFIX,mycomicsxxx.com
 DOMAIN-SUFFIX,myconstructionworld.net
 DOMAIN-SUFFIX,mydirectgroove.com
@@ -18924,6 +18925,7 @@ DOMAIN-SUFFIX,qmov.net
 DOMAIN-SUFFIX,qmttqg3k.me
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,qnap.com.cn
+DOMAIN-SUFFIX,qnapsupport.net
 DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,qoder.com
 DOMAIN-SUFFIX,qombol.com

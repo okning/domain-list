@@ -1,12 +1,14 @@
 # URL: https://s.nosec.me/clash/qnap.txt
 # Name: qnap
-# Updated: Fri, 17 Jul 2026 00:31:20 GMT
-# Total: 6
+# Updated: Sat, 18 Jul 2026 00:28:46 GMT
+# Total: 8
 
 payload:
+  - DOMAIN-SUFFIX,mycloudnas.com
   - DOMAIN-SUFFIX,myqnapcloud.cn
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,qlink.to
   - DOMAIN-SUFFIX,qlinkto.cn
   - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,qnap.com.cn
+  - DOMAIN-SUFFIX,qnapsupport.net

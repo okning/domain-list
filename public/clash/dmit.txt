@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/dmit.txt
 # Name: dmit
-# Updated: Fri, 17 Jul 2026 00:31:20 GMT
+# Updated: Sat, 18 Jul 2026 00:28:46 GMT
 # Total: 2
 
 payload:

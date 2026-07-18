@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Fri, 17 Jul 2026 00:31:20 GMT
-# Total: 25977
+# Updated: Sat, 18 Jul 2026 00:28:46 GMT
+# Total: 25979
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -15958,6 +15958,7 @@ payload:
   - DOMAIN-SUFFIX,mycdn.me
   - DOMAIN-SUFFIX,myciscobenefits.com
   - DOMAIN-SUFFIX,myclitgames.com
+  - DOMAIN-SUFFIX,mycloudnas.com
   - DOMAIN-SUFFIX,mycomicsxxx.com
   - DOMAIN-SUFFIX,myconstructionworld.net
   - DOMAIN-SUFFIX,mydirectgroove.com
@@ -18925,6 +18926,7 @@ payload:
   - DOMAIN-SUFFIX,qmttqg3k.me
   - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,qnap.com.cn
+  - DOMAIN-SUFFIX,qnapsupport.net
   - DOMAIN-SUFFIX,qobuz.com
   - DOMAIN-SUFFIX,qoder.com
   - DOMAIN-SUFFIX,qombol.com
