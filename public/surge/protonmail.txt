@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/protonmail.txt
 # Name: protonmail
-# Updated: Sat, 18 Jul 2026 00:28:46 GMT
+# Updated: Sun, 19 Jul 2026 00:31:38 GMT
 # Total: 9
 
 DOMAIN-SUFFIX,pm.me

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/anexia.txt
 # Name: anexia
-# Updated: Sat, 18 Jul 2026 00:28:46 GMT
+# Updated: Sun, 19 Jul 2026 00:31:38 GMT
 # Total: 33
 
 DOMAIN-SUFFIX,anexia-engine.com

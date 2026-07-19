@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-logistics-cn.txt
 # Name: category-logistics-cn
-# Updated: Sat, 18 Jul 2026 00:28:46 GMT
+# Updated: Sun, 19 Jul 2026 00:31:38 GMT
 # Total: 157
 
 DOMAIN-SUFFIX,56laile.com
