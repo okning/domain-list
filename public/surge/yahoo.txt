@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/yahoo.txt
 # Name: yahoo
-# Updated: Sun, 19 Jul 2026 00:31:38 GMT
+# Updated: Mon, 20 Jul 2026 02:59:19 GMT
 # Total: 172
 
 DOMAIN,cdn.js7k.com

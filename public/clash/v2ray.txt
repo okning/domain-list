@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/v2ray.txt
 # Name: v2ray
-# Updated: Sun, 19 Jul 2026 00:31:38 GMT
+# Updated: Mon, 20 Jul 2026 02:59:19 GMT
 # Total: 3
 
 payload:

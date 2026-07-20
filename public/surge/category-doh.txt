@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-doh.txt
 # Name: category-doh
-# Updated: Sun, 19 Jul 2026 00:31:38 GMT
+# Updated: Mon, 20 Jul 2026 02:59:19 GMT
 # Total: 93
 
 DOMAIN,ada.openbld.net
