@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/bilibili-cdn.txt
 # Name: bilibili-cdn
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
 # Total: 14
 
 DOMAIN-SUFFIX,bilicdn1.com

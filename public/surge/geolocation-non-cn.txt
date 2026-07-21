@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
-# Total: 25979
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Total: 25987
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -3543,6 +3543,7 @@ DOMAIN-SUFFIX,berkanawireless.com
 DOMAIN-SUFFIX,berkeley.edu
 DOMAIN-SUFFIX,berlincompanions.com
 DOMAIN-SUFFIX,best-sex-games.com
+DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,best4bim.com
 DOMAIN-SUFFIX,bestbeats4u.com
 DOMAIN-SUFFIX,bestbhy.com
@@ -5491,6 +5492,7 @@ DOMAIN-SUFFIX,clashmini.com
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyale.com
 DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,clasporno.org
 DOMAIN-SUFFIX,classicnike.com
 DOMAIN-SUFFIX,classymomsex.com
@@ -8037,6 +8039,8 @@ DOMAIN-SUFFIX,f-dro1d.org
 DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f-secure.com
+DOMAIN-SUFFIX,f1.com
+DOMAIN-SUFFIX,f1tv.com
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
 DOMAIN-SUFFIX,f5pf.com
 DOMAIN-SUFFIX,f6.dev
@@ -9135,6 +9139,7 @@ DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,forhertube.com
 DOMAIN-SUFFIX,formit360.com
 DOMAIN-SUFFIX,formitfactory.com
+DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,forpojie.pics
 DOMAIN-SUFFIX,forshtadt.ru
 DOMAIN-SUFFIX,fortawesome.com
@@ -11706,6 +11711,7 @@ DOMAIN-SUFFIX,hussiepass.com
 DOMAIN-SUFFIX,hustler.com
 DOMAIN-SUFFIX,hutao.cloud
 DOMAIN-SUFFIX,hutpromos.com
+DOMAIN-SUFFIX,hva.im
 DOMAIN-SUFFIX,hwgo.com
 DOMAIN-SUFFIX,hwslabs.com
 DOMAIN-SUFFIX,hxcsxs.pro
@@ -19124,8 +19130,10 @@ DOMAIN-SUFFIX,rbmavericks.com
 DOMAIN-SUFFIX,rbnainternational.com
 DOMAIN-SUFFIX,rbplc.com
 DOMAIN-SUFFIX,rbrandlibrary.com
+DOMAIN-SUFFIX,rbsgate.com
 DOMAIN-SUFFIX,rbsgr.com
 DOMAIN-SUFFIX,rbspeakup.com
+DOMAIN-SUFFIX,rbsuat.com
 DOMAIN-SUFFIX,rbth.com
 DOMAIN-SUFFIX,rbx.com
 DOMAIN-SUFFIX,rbxcdn.com

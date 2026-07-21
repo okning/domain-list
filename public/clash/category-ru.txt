@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ru.txt
 # Name: category-ru
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
-# Total: 781
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Total: 787
 
 payload:
   - DOMAIN-SUFFIX,1917live.red
@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,bargipsy.com
   - DOMAIN-SUFFIX,beeline.tv
   - DOMAIN-SUFFIX,beget.com
+  - DOMAIN-SUFFIX,best2pay.net
   - DOMAIN-SUFFIX,bizmrg.com
   - DOMAIN-SUFFIX,bk6bba-resources.com
   - DOMAIN-SUFFIX,book1917.live
@@ -208,6 +209,7 @@ payload:
   - DOMAIN-SUFFIX,hayya.ae
   - DOMAIN-SUFFIX,hh.by
   - DOMAIN-SUFFIX,hh.kz
+  - DOMAIN-SUFFIX,hva.im
   - DOMAIN-SUFFIX,icq-download.com
   - DOMAIN-SUFFIX,icq-mobile.com
   - DOMAIN-SUFFIX,icq-online.com
@@ -317,6 +319,7 @@ payload:
   - DOMAIN-SUFFIX,magnit.com
   - DOMAIN-SUFFIX,mail-carrotquest.io
   - DOMAIN-SUFFIX,mailicq.org
+  - DOMAIN-SUFFIX,mcc250.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,mcs.st
   - DOMAIN-SUFFIX,medsi.com
   - DOMAIN-SUFFIX,medsi.pro
@@ -420,7 +423,10 @@ payload:
   - DOMAIN-SUFFIX,rabbitcounter.com
   - DOMAIN-SUFFIX,rabota.by
   - DOMAIN-SUFFIX,randomgodbot.com
+  - DOMAIN-SUFFIX,rbsgate.com
+  - DOMAIN-SUFFIX,rbsuat.com
   - DOMAIN-SUFFIX,rbth.com
+  - DOMAIN-SUFFIX,reaviz.com
   - DOMAIN-SUFFIX,reg.cloud
   - DOMAIN-SUFFIX,reg.com
   - DOMAIN-SUFFIX,reso-med.com

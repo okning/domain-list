@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-finance.txt
 # Name: category-finance
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
-# Total: 598
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Total: 602
 
 DOMAIN-SUFFIX,114bank.co.jp
 DOMAIN-SUFFIX,21-school.ru
@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,banksepah.ir
 DOMAIN-SUFFIX,bbr.ru
 DOMAIN-SUFFIX,bcs-bank.ru
 DOMAIN-SUFFIX,bcs.ru
+DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,bfa.ru
 DOMAIN-SUFFIX,bim.ir
 DOMAIN-SUFFIX,bk.mufg.jp
@@ -218,6 +219,7 @@ DOMAIN-SUFFIX,hsbcnet.com
 DOMAIN-SUFFIX,hsbcprivatebank.com
 DOMAIN-SUFFIX,hsbcqh.com.cn
 DOMAIN-SUFFIX,hsbctrinkaus.de
+DOMAIN-SUFFIX,hva.im
 DOMAIN-SUFFIX,hyakugo.co.jp
 DOMAIN-SUFFIX,ibamoscow.ru
 DOMAIN-SUFFIX,ibkr.ca
@@ -398,6 +400,8 @@ DOMAIN-SUFFIX,rakuten-bank.co.jp
 DOMAIN-SUFFIX,rb24.ir
 DOMAIN-SUFFIX,rbcollect.ru
 DOMAIN-SUFFIX,rbcredit.ru
+DOMAIN-SUFFIX,rbsgate.com
+DOMAIN-SUFFIX,rbsuat.com
 DOMAIN-SUFFIX,refah-bank.ir
 DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,rencredit.ru

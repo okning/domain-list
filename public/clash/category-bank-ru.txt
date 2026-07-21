@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-bank-ru.txt
 # Name: category-bank-ru
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
-# Total: 299
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Total: 303
 
 payload:
   - DOMAIN-SUFFIX,21-school.ru
@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,bbr.ru
   - DOMAIN-SUFFIX,bcs-bank.ru
   - DOMAIN-SUFFIX,bcs.ru
+  - DOMAIN-SUFFIX,best2pay.net
   - DOMAIN-SUFFIX,bfa.ru
   - DOMAIN-SUFFIX,blanc.ru
   - DOMAIN-SUFFIX,bm-bank.ru
@@ -97,6 +98,7 @@ payload:
   - DOMAIN-SUFFIX,gosdolgi.ru
   - DOMAIN-SUFFIX,gpb.ru
   - DOMAIN-SUFFIX,homecredit.ru
+  - DOMAIN-SUFFIX,hva.im
   - DOMAIN-SUFFIX,ibamoscow.ru
   - DOMAIN-SUFFIX,id.ru
   - DOMAIN-SUFFIX,it-katok.ru
@@ -170,6 +172,8 @@ payload:
   - DOMAIN-SUFFIX,raiffeisen.ru
   - DOMAIN-SUFFIX,rbcollect.ru
   - DOMAIN-SUFFIX,rbcredit.ru
+  - DOMAIN-SUFFIX,rbsgate.com
+  - DOMAIN-SUFFIX,rbsuat.com
   - DOMAIN-SUFFIX,rencapbank.ru
   - DOMAIN-SUFFIX,rencredit.ru
   - DOMAIN-SUFFIX,restnproducts.ru

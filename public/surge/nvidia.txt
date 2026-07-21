@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/nvidia.txt
 # Name: nvidia
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
 # Total: 62
 
 DOMAIN-SUFFIX,geforce.cn

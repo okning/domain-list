@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
-# Total: 2014
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Total: 2017
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -554,6 +554,8 @@ payload:
   - DOMAIN-SUFFIX,esports.gg
   - DOMAIN-SUFFIX,excitebots.com
   - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,f1.com
+  - DOMAIN-SUFFIX,f1tv.com
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
   - DOMAIN-SUFFIX,fab.com
   - DOMAIN-SUFFIX,fabricmc.net
@@ -584,6 +586,7 @@ payload:
   - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,flipnotestudio.com
   - DOMAIN-SUFFIX,forgecdn.net
+  - DOMAIN-SUFFIX,formula1.com
   - DOMAIN-SUFFIX,forthethrone.com
   - DOMAIN-SUFFIX,fortnite-vod.akamaized.net
   - DOMAIN-SUFFIX,fortnite.com

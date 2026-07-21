@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/sina.txt
 # Name: sina
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
 # Total: 27
 
 DOMAIN-SUFFIX,97973.com

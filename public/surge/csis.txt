@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/csis.txt
 # Name: csis
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
 # Total: 2
 
 DOMAIN,csis-prod.s3.amazonaws.com

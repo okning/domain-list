@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-medicine-ru.txt
 # Name: category-medicine-ru
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
-# Total: 20
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Total: 22
 
 payload:
   - DOMAIN-SUFFIX,emias.info
@@ -18,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,mosgorzdrav.ru
   - DOMAIN-SUFFIX,oms.karelia.ru
   - DOMAIN-SUFFIX,polyclinika.ru
+  - DOMAIN-SUFFIX,reaviz.com
+  - DOMAIN-SUFFIX,reaviz.ru
   - DOMAIN-SUFFIX,reso-med.com
   - DOMAIN-SUFFIX,reso-med.ru
   - DOMAIN-SUFFIX,smartmed.pro

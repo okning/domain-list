@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-games-non-cn.txt
 # Name: category-games-non-cn
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
 # Total: 832
 
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$

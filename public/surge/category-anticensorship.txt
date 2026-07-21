@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-anticensorship.txt
 # Name: category-anticensorship
-# Updated: Mon, 20 Jul 2026 02:59:19 GMT
-# Total: 97
+# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Total: 98
 
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,ahmia.fi
@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,dat.foundation
@@ -81,7 +82,7 @@ DOMAIN-SUFFIX,stunnel.org
 DOMAIN-SUFFIX,telex.cc
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tribler.org
-DOMAIN-SUFFIX,trojan-gfw.github.io
+DOMAIN,trojan-gfw.github.io
 DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,turkeyblocks.org
 DOMAIN-SUFFIX,twister.net.co
@@ -98,5 +99,5 @@ DOMAIN-SUFFIX,whonix.org
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,wireguard.com
-DOMAIN-SUFFIX,xtls.github.io
+DOMAIN,xtls.github.io
 DOMAIN-SUFFIX,zeronet.io
