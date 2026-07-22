@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/lenovo.txt
 # Name: lenovo
-# Updated: Tue, 21 Jul 2026 00:31:08 GMT
-# Total: 57
+# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Total: 58
 
 DOMAIN-SUFFIX,baiying.cn
 DOMAIN-SUFFIX,baiying.com.cn
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,jhwan.com.cn
 DOMAIN-SUFFIX,juhuiwan.com
 DOMAIN-SUFFIX,juhuiwan.com.cn
 DOMAIN-SUFFIX,juhuiwan.net
+DOMAIN-SUFFIX,lecoo.com
 DOMAIN-SUFFIX,lenauth.com
 DOMAIN-SUFFIX,lenovo.cn
 DOMAIN-SUFFIX,lenovo.com

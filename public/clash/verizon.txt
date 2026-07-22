@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/verizon.txt
 # Name: verizon
-# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Updated: Wed, 22 Jul 2026 00:29:28 GMT
 # Total: 187
 
 payload:

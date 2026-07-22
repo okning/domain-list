@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/dewu.txt
 # Name: dewu
-# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Updated: Wed, 22 Jul 2026 00:29:28 GMT
 # Total: 45
 
 DOMAIN-SUFFIX,dewu-inc.com

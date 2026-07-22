@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-media-ru.txt
 # Name: category-media-ru
-# Updated: Tue, 21 Jul 2026 00:31:08 GMT
+# Updated: Wed, 22 Jul 2026 00:29:28 GMT
 # Total: 135
 
 payload:

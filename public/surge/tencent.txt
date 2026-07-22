@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/tencent.txt
 # Name: tencent
-# Updated: Tue, 21 Jul 2026 00:31:08 GMT
-# Total: 545
+# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Total: 546
 
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,97ting.com
@@ -217,6 +217,7 @@ DOMAIN-SUFFIX,mszdld.cn
 DOMAIN-SUFFIX,mszdld.com
 DOMAIN-SUFFIX,mszdld.net
 DOMAIN-SUFFIX,mting.info
+DOMAIN-SUFFIX,my-imcloud.com
 DOMAIN-SUFFIX,my-qcloud.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myelasticsearch.com

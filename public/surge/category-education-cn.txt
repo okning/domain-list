@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-education-cn.txt
 # Name: category-education-cn
-# Updated: Tue, 21 Jul 2026 00:31:08 GMT
-# Total: 170
+# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Total: 177
 
 DOMAIN-SUFFIX,100tal.com
 DOMAIN-SUFFIX,17zuoye.cn
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,cctalk.com
 DOMAIN-SUFFIX,cedf.cn
 DOMAIN-SUFFIX,cedf.org.cn
 DOMAIN-SUFFIX,centuryenglish.com
+DOMAIN-SUFFIX,cepsp.cn
 DOMAIN-SUFFIX,chdi.com.cn
 DOMAIN-SUFFIX,chei.com.cn
 DOMAIN-SUFFIX,chesicc.cn
@@ -53,7 +54,9 @@ DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,eduei.com
 DOMAIN-SUFFIX,eduu.com
 DOMAIN-SUFFIX,eduuu.com
+DOMAIN-SUFFIX,eduyun.cn
 DOMAIN-SUFFIX,eoffcn.com
+DOMAIN-SUFFIX,eol.cn
 DOMAIN-SUFFIX,fbstatic.cn
 DOMAIN-SUFFIX,fenbi.com
 DOMAIN-SUFFIX,fenbike.cn
@@ -120,7 +123,10 @@ DOMAIN-SUFFIX,qgzb.com.cn
 DOMAIN-SUFFIX,qgzb.gov.cn
 DOMAIN-SUFFIX,qgzb.net
 DOMAIN-SUFFIX,qingtingai.net
+DOMAIN-SUFFIX,quyixian.com
 DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,rongdeji.cn
+DOMAIN-SUFFIX,rudder.com.cn
 DOMAIN-SUFFIX,saduck.top
 DOMAIN-SUFFIX,schoopia.com
 DOMAIN-SUFFIX,shanbay.com
@@ -130,6 +136,7 @@ DOMAIN-SUFFIX,speiyou.com
 DOMAIN,study.163.com
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,tal.com
+DOMAIN-SUFFIX,tesoon.com
 DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,unipus.cn
 DOMAIN-SUFFIX,weilaiyunxiao.com

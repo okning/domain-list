@@ -1,9 +1,10 @@
 # URL: https://s.nosec.me/surge/category-hospital-cn.txt
 # Name: category-hospital-cn
-# Updated: Tue, 21 Jul 2026 00:31:08 GMT
-# Total: 8
+# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Total: 9
 
 DOMAIN-SUFFIX,cd120.com
+DOMAIN-SUFFIX,cd120.info
 DOMAIN-SUFFIX,fuwai.com
 DOMAIN,hospital.pku.edu.cn
 DOMAIN-SUFFIX,pkuh6.cn

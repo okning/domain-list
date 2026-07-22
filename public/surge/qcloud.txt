@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/qcloud.txt
 # Name: qcloud
-# Updated: Tue, 21 Jul 2026 00:31:08 GMT
-# Total: 284
+# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Total: 285
 
 DOMAIN-SUFFIX,acctdns.com
 DOMAIN-SUFFIX,acctdns.net
@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,m1.run
 DOMAIN-SUFFIX,m6.run
 DOMAIN-SUFFIX,m9.run
 DOMAIN-SUFFIX,ma.run
+DOMAIN-SUFFIX,my-imcloud.com
 DOMAIN-SUFFIX,my-qcloud.com
 DOMAIN-SUFFIX,myelasticsearch.com
 DOMAIN-SUFFIX,myqcloud.com
