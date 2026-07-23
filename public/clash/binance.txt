@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/binance.txt
 # Name: binance
-# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Updated: Thu, 23 Jul 2026 00:31:25 GMT
 # Total: 45
 
 payload:

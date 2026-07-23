@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/globo.txt
 # Name: globo
-# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Updated: Thu, 23 Jul 2026 00:31:25 GMT
 # Total: 40
 
 DOMAIN-SUFFIX,autoesporte.com

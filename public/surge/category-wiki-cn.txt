@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-wiki-cn.txt
 # Name: category-wiki-cn
-# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Updated: Thu, 23 Jul 2026 00:31:25 GMT
 # Total: 15
 
 DOMAIN-SUFFIX,allhistory.com

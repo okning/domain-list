@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-proxy-tunnels.txt
 # Name: category-proxy-tunnels
-# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Updated: Thu, 23 Jul 2026 00:31:25 GMT
 # Total: 16
 
 DOMAIN-SUFFIX,equinox.io

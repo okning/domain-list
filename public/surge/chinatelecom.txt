@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/chinatelecom.txt
 # Name: chinatelecom
-# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Updated: Thu, 23 Jul 2026 00:31:25 GMT
 # Total: 18
 
 DOMAIN-SUFFIX,189.cn

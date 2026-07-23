@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-enterprise-query-platform-cn.txt
 # Name: category-enterprise-query-platform-cn
-# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Updated: Thu, 23 Jul 2026 00:31:25 GMT
 # Total: 13
 
 DOMAIN-SUFFIX,aiqicha.baidu.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cursor.txt
 # Name: cursor
-# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Updated: Thu, 23 Jul 2026 00:31:25 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,cursor-cdn.com

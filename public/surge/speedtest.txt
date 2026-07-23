@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/speedtest.txt
 # Name: speedtest
-# Updated: Wed, 22 Jul 2026 00:29:28 GMT
+# Updated: Thu, 23 Jul 2026 00:31:25 GMT
 # Total: 14
 
 # REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
