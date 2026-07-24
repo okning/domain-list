@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/hku.txt
 # Name: hku
-# Updated: Thu, 23 Jul 2026 00:31:25 GMT
+# Updated: Fri, 24 Jul 2026 00:28:25 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,hku.edu.hk

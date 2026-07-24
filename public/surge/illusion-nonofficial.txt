@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/illusion-nonofficial.txt
 # Name: illusion-nonofficial
-# Updated: Thu, 23 Jul 2026 00:31:25 GMT
+# Updated: Fri, 24 Jul 2026 00:28:25 GMT
 # Total: 29
 
 DOMAIN-SUFFIX,acgcf.com
