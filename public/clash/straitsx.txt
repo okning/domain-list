@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/straitsx.txt
 # Name: straitsx
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 3
 
 payload:

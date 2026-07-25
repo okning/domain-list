@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/wildberries.txt
 # Name: wildberries
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 99
 
 payload:

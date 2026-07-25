@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-shopping-ir.txt
 # Name: category-shopping-ir
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 15
 
 DOMAIN-SUFFIX,digi-kala.com

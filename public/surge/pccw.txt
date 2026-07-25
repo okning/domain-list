@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/pccw.txt
 # Name: pccw
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 28
 
 # REGEXP,^ewcdn[0-9]+\.nowe\.com$

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-anticensorship.txt
 # Name: category-anticensorship
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
-# Total: 98
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
+# Total: 101
 
 payload:
   - DOMAIN-SUFFIX,4everland.io
@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,crustwebsites.net
   - DOMAIN-SUFFIX,dat.foundation
   - DOMAIN-SUFFIX,democracy.earth
+  - DOMAIN-SUFFIX,docs.rw
   - DOMAIN-SUFFIX,dweb.link
   - DOMAIN-SUFFIX,eff.org
   - DOMAIN-SUFFIX,epicbrowser.com
@@ -58,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,jitsi.org
   - DOMAIN-SUFFIX,jorropo.net
   - DOMAIN-SUFFIX,lantern.io
+  - DOMAIN-SUFFIX,log.rw
   - DOMAIN-SUFFIX,lokinet.org
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,nftstorage.link
@@ -84,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,tribler.org
   - DOMAIN,trojan-gfw.github.io
+  - DOMAIN-SUFFIX,try.rw
   - DOMAIN-SUFFIX,tunsafe.com
   - DOMAIN-SUFFIX,turkeyblocks.org
   - DOMAIN-SUFFIX,twister.net.co

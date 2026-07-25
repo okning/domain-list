@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/xiaomi.txt
 # Name: xiaomi
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 51
 
 DOMAIN-SUFFIX,airstarfinance.net

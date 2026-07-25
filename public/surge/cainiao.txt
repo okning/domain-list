@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cainiao.txt
 # Name: cainiao
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 9
 
 DOMAIN-SUFFIX,56xiniao.com

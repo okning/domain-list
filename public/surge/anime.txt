@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/anime.txt
 # Name: anime
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 21
 
 DOMAIN-SUFFIX,9anime.cz

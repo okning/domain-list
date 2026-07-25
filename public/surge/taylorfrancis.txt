@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/taylorfrancis.txt
 # Name: taylorfrancis
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,tandf.co.uk

@@ -1,0 +1,9 @@
+# URL: https://s.nosec.me/clash/remnawave.txt
+# Name: remnawave
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
+# Total: 3
+
+payload:
+  - DOMAIN-SUFFIX,docs.rw
+  - DOMAIN-SUFFIX,log.rw
+  - DOMAIN-SUFFIX,try.rw

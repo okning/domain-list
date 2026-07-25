@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-games-cn.txt
 # Name: category-games-cn
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 283
 
 # REGEXP,^.+-mihayo\.akamaized\.net$

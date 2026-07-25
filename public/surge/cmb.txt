@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/cmb.txt
 # Name: cmb
-# Updated: Fri, 24 Jul 2026 00:28:25 GMT
+# Updated: Sat, 25 Jul 2026 00:32:49 GMT
 # Total: 22
 
 DOMAIN-SUFFIX,8008205555.cn
