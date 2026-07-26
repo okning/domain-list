@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-bank-ru.txt
 # Name: category-bank-ru
-# Updated: Sat, 25 Jul 2026 00:32:49 GMT
+# Updated: Sun, 26 Jul 2026 00:34:21 GMT
 # Total: 303
 
 payload:

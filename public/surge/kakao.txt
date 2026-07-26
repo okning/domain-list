@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/kakao.txt
 # Name: kakao
-# Updated: Sat, 25 Jul 2026 00:32:49 GMT
+# Updated: Sun, 26 Jul 2026 00:34:21 GMT
 # Total: 57
 
 DOMAIN-SUFFIX,1thek.com

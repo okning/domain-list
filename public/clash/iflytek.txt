@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/iflytek.txt
 # Name: iflytek
-# Updated: Sat, 25 Jul 2026 00:32:49 GMT
+# Updated: Sun, 26 Jul 2026 00:34:21 GMT
 # Total: 11
 
 payload:

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/adobe-activation.txt
 # Name: adobe-activation
-# Updated: Sat, 25 Jul 2026 00:32:49 GMT
+# Updated: Sun, 26 Jul 2026 00:34:21 GMT
 # Total: 124
 
 DOMAIN,3dns-1.adobe.com

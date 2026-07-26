@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/straitsx.txt
 # Name: straitsx
-# Updated: Sat, 25 Jul 2026 00:32:49 GMT
+# Updated: Sun, 26 Jul 2026 00:34:21 GMT
 # Total: 3
 
 DOMAIN,d3r7nsslvs6aaf.cloudfront.net
