@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-game-platforms-download.txt
 # Name: category-game-platforms-download
-# Updated: Sun, 26 Jul 2026 00:34:21 GMT
+# Updated: Mon, 27 Jul 2026 00:33:47 GMT
 # Total: 474
 
 DOMAIN,akamai.cdn.steampipe.steamcontent.com

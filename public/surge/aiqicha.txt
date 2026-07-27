@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/aiqicha.txt
 # Name: aiqicha
-# Updated: Sun, 26 Jul 2026 00:34:21 GMT
+# Updated: Mon, 27 Jul 2026 00:33:47 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,aiqicha.baidu.com

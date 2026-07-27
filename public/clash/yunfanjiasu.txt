@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/yunfanjiasu.txt
 # Name: yunfanjiasu
-# Updated: Sun, 26 Jul 2026 00:34:21 GMT
+# Updated: Mon, 27 Jul 2026 00:33:47 GMT
 # Total: 8
 
 payload:
