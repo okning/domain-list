@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Mon, 27 Jul 2026 00:33:47 GMT
+# Updated: Tue, 28 Jul 2026 00:30:47 GMT
 # Total: 834
 
 # REGEXP,^.+-mihayo\.akamaized\.net$

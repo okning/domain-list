@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/github.txt
 # Name: github
-# Updated: Mon, 27 Jul 2026 00:33:47 GMT
-# Total: 58
+# Updated: Tue, 28 Jul 2026 00:30:47 GMT
+# Total: 59
 
 payload:
   - DOMAIN-SUFFIX,atom.io
@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,githubsupport.com
   - DOMAIN-SUFFIX,githubuniverse.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,myoctocat.com

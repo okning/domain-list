@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/microsoft.txt
 # Name: microsoft
-# Updated: Mon, 27 Jul 2026 00:33:47 GMT
-# Total: 640
+# Updated: Tue, 28 Jul 2026 00:30:47 GMT
+# Total: 641
 
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
@@ -229,6 +229,7 @@ DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubsupport.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gotcosmos.com

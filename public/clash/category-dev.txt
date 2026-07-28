@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-dev.txt
 # Name: category-dev
-# Updated: Mon, 27 Jul 2026 00:33:47 GMT
-# Total: 616
+# Updated: Tue, 28 Jul 2026 00:30:47 GMT
+# Total: 617
 
 payload:
   - DOMAIN-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
@@ -234,6 +234,7 @@ payload:
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,githubsupport.com
   - DOMAIN-SUFFIX,githubuniverse.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com

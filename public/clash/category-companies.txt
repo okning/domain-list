@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Mon, 27 Jul 2026 00:33:47 GMT
-# Total: 7813
+# Updated: Tue, 28 Jul 2026 00:30:47 GMT
+# Total: 7814
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -3277,6 +3277,7 @@ payload:
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,githubsupport.com
   - DOMAIN-SUFFIX,githubuniverse.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gitstar.com

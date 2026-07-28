@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/hkgolden.txt
 # Name: hkgolden
-# Updated: Mon, 27 Jul 2026 00:33:47 GMT
+# Updated: Tue, 28 Jul 2026 00:30:47 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,hkgolden.com
