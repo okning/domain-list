@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/clash/x.txt
 # Name: x
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 26
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 27
 
 payload:
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,t.co

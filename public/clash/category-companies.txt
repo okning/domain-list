@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 7814
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 7815
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -1654,6 +1654,7 @@ payload:
   - DOMAIN-SUFFIX,bluehatnights.com
   - DOMAIN-SUFFIX,bluemix.com
   - DOMAIN-SUFFIX,bluemix.net
+  - DOMAIN-SUFFIX,blurams.app
   - DOMAIN-SUFFIX,blurams.com
   - DOMAIN-SUFFIX,bookonsky.net
   - DOMAIN-SUFFIX,bookstagram.com

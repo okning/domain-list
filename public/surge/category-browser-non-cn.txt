@@ -1,12 +1,13 @@
 # URL: https://s.nosec.me/surge/category-browser-non-cn.txt
 # Name: category-browser-non-cn
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 33
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 34
 
 DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bromite.org
 DOMAIN-SUFFIX,browser.kagi.com
+DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,chrome.com

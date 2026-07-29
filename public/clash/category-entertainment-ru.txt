@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment-ru.txt
 # Name: category-entertainment-ru
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 28
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 30
 
 payload:
   - DOMAIN-SUFFIX,24h.tv
@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,cdnvideo.ru
   - DOMAIN-SUFFIX,cdnvideohub.com
   - DOMAIN-SUFFIX,ivi.ru
+  - DOMAIN-SUFFIX,ivicdn.tv
+  - DOMAIN-SUFFIX,kinescopecdn.net
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
   - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,kinorium.com

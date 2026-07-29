@@ -1,8 +1,9 @@
 # URL: https://s.nosec.me/surge/xai.txt
 # Name: xai
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 3
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 4
 
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,x.ai

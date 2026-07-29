@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-tech-ir.txt
 # Name: category-tech-ir
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 44
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 45
 
 payload:
   - DOMAIN-SUFFIX,abrha.net
@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,p30download.ir
   - DOMAIN-SUFFIX,parsonline.com
   - DOMAIN-SUFFIX,parspack.com
+  - DOMAIN-SUFFIX,pazhnetwork.com
   - DOMAIN-SUFFIX,picofile.com
   - DOMAIN-SUFFIX,pishgaman.net
   - DOMAIN-SUFFIX,rightel.ir

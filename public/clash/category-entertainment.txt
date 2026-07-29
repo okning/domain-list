@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 2017
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 2019
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -853,6 +853,7 @@ payload:
   - DOMAIN-SUFFIX,itunesu.net
   - DOMAIN-SUFFIX,iutunes.com
   - DOMAIN-SUFFIX,ivi.ru
+  - DOMAIN-SUFFIX,ivicdn.tv
   - DOMAIN-SUFFIX,iyf.tv
   - DOMAIN-SUFFIX,joinmaidez.com
   - DOMAIN-SUFFIX,joinsquad.com
@@ -864,6 +865,7 @@ payload:
   - DOMAIN-SUFFIX,kfs.io
   - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kick.com
+  - DOMAIN-SUFFIX,kinescopecdn.net
   - DOMAIN-SUFFIX,kingkong.com.tw
   - DOMAIN-SUFFIX,kingkongapp.com
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net

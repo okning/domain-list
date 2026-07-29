@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-enhance-gaming.txt
 # Name: category-enhance-gaming
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
 # Total: 18
 
 payload:

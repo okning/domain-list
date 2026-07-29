@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-media-ru.txt
 # Name: category-media-ru
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 135
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 137
 
 payload:
   - DOMAIN-SUFFIX,1917live.red
@@ -49,6 +49,8 @@ payload:
   - DOMAIN-SUFFIX,green-box-tv.com
   - DOMAIN-SUFFIX,gw2ru.com
   - DOMAIN-SUFFIX,inosmi.ru
+  - DOMAIN-SUFFIX,ixbt.com
+  - DOMAIN-SUFFIX,ixbt.site
   - DOMAIN-SUFFIX,jinrieluosi.cn
   - DOMAIN-SUFFIX,kanzlerdaddy.ru
   - DOMAIN-SUFFIX,khangar.net

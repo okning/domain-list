@@ -1,7 +1,8 @@
 # URL: https://s.nosec.me/clash/blurams.txt
 # Name: blurams
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 1
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 2
 
 payload:
+  - DOMAIN-SUFFIX,blurams.app
   - DOMAIN-SUFFIX,blurams.com

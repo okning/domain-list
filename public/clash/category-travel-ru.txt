@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-travel-ru.txt
 # Name: category-travel-ru
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 24
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 25
 
 payload:
   - DOMAIN-SUFFIX,2gis.ru
@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,blablacar.ru
   - DOMAIN-SUFFIX,fasten.ru
   - DOMAIN-SUFFIX,gorodpay.ru
+  - DOMAIN-SUFFIX,greywallpass.com
   - DOMAIN,metro.spb.ru
   - DOMAIN,mos.transport.vtb.ru
   - DOMAIN-SUFFIX,mosmetro.ru

@@ -1,0 +1,10 @@
+# URL: https://s.nosec.me/surge/netcraze.txt
+# Name: netcraze
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,crazedns.ru
+DOMAIN-SUFFIX,netcraze.club
+DOMAIN-SUFFIX,netcraze.link
+DOMAIN-SUFFIX,netcraze.pro
+DOMAIN-SUFFIX,netcraze.ru

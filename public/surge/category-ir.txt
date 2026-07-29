@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ir.txt
 # Name: category-ir
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 189
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 190
 
 DOMAIN-SUFFIX,7sobh.com
 DOMAIN-SUFFIX,abanbroker.com
@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,parsian-bank.com
 DOMAIN-SUFFIX,parsine.com
 DOMAIN-SUFFIX,parsonline.com
 DOMAIN-SUFFIX,parspack.com
+DOMAIN-SUFFIX,pazhnetwork.com
 DOMAIN-SUFFIX,picofile.com
 DOMAIN-SUFFIX,pishgaman.net
 DOMAIN-SUFFIX,podro.com

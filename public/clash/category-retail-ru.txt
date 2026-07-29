@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-retail-ru.txt
 # Name: category-retail-ru
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 75
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 76
 
 payload:
   - DOMAIN-SUFFIX,5ka.ru
@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,okolo.app
   - DOMAIN-SUFFIX,oskelly.co
   - DOMAIN-SUFFIX,oskelly.ru
+  - DOMAIN-SUFFIX,ostin.com
   - DOMAIN-SUFFIX,perekrestok.com
   - DOMAIN-SUFFIX,perekrestok.ru
   - DOMAIN-SUFFIX,regard.ru

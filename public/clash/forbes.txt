@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/forbes.txt
 # Name: forbes
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
 # Total: 2
 
 payload:

@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-finance.txt
 # Name: category-finance
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 602
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 603
 
 payload:
   - DOMAIN-SUFFIX,114bank.co.jp
@@ -435,6 +435,7 @@ payload:
   - DOMAIN-SUFFIX,sber.ru
   - DOMAIN-SUFFIX,sberauto.com
   - DOMAIN-SUFFIX,sberbank-insurance.ru
+  - DOMAIN-SUFFIX,sberbank-tele.com
   - DOMAIN-SUFFIX,sberbank.com
   - DOMAIN-SUFFIX,sberbank.ru
   - DOMAIN-SUFFIX,sberbankaktivno.ru

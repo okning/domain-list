@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ip-geo-detect.txt
 # Name: category-ip-geo-detect
-# Updated: Tue, 28 Jul 2026 00:30:47 GMT
-# Total: 162
+# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Total: 165
 
 payload:
   - DOMAIN-SUFFIX,2ip.io
@@ -105,6 +105,7 @@ payload:
   - DOMAIN-SUFFIX,ipquery.io
   - DOMAIN-SUFFIX,ipregistry.co
   - DOMAIN-SUFFIX,iproyal.com
+  - DOMAIN-SUFFIX,ipsimple.org
   - DOMAIN-SUFFIX,ipstack.com
   - DOMAIN,ipv4-check-perf.radar.cloudflare.com
   - DOMAIN-SUFFIX,ipv4-internet.yandex.net
@@ -125,6 +126,7 @@ payload:
   - DOMAIN-SUFFIX,my.ipinfo.app
   - DOMAIN-SUFFIX,myexternalip.com
   - DOMAIN-SUFFIX,myip.com
+  - DOMAIN,myip.dnsomatic.com
   - DOMAIN-SUFFIX,myip.expert
   - DOMAIN-SUFFIX,myip.la
   - DOMAIN-SUFFIX,myip.link
@@ -135,6 +137,7 @@ payload:
   - DOMAIN-SUFFIX,myiplookup.com
   - DOMAIN-SUFFIX,mylocation.org
   - DOMAIN-SUFFIX,nodedata.io
+  - DOMAIN-SUFFIX,nossl.sh
   - DOMAIN-SUFFIX,osint.sh
   - DOMAIN-SUFFIX,proxycheck.io
   - DOMAIN-SUFFIX,realip.cc
