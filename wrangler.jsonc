@@ -17,8 +17,20 @@
   "compatibility_flags": ["nodejs_compat"],
   "routes": [
     {
-      "pattern": "s.nosec.me",
-      "custom_domain": true,
+      "pattern": "s.nosec.me/surge",
+      "zone_name": "nosec.me",
+    },
+    {
+      "pattern": "s.nosec.me/surge/*",
+      "zone_name": "nosec.me",
+    },
+    {
+      "pattern": "s.nosec.me/clash",
+      "zone_name": "nosec.me",
+    },
+    {
+      "pattern": "s.nosec.me/clash/*",
+      "zone_name": "nosec.me",
     },
   ],
 }
