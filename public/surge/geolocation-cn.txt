@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Wed, 29 Jul 2026 00:28:54 GMT
-# Total: 7786
+# Updated: Thu, 30 Jul 2026 00:29:15 GMT
+# Total: 7787
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -4533,6 +4533,7 @@ DOMAIN-SUFFIX,ls66.cn
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,lu.com
 DOMAIN-SUFFIX,lu1da.cn
+DOMAIN-SUFFIX,lubiao.wiki
 DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,luckyair.net
 DOMAIN-SUFFIX,luckysf.net

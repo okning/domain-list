@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-scholar-hk.txt
 # Name: category-scholar-hk
-# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Updated: Thu, 30 Jul 2026 00:29:15 GMT
 # Total: 32
 
 DOMAIN-SUFFIX,cityu.hk

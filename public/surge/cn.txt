@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/cn.txt
 # Name: cn
-# Updated: Wed, 29 Jul 2026 00:28:54 GMT
-# Total: 6138
+# Updated: Thu, 30 Jul 2026 00:29:15 GMT
+# Total: 6139
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -3562,6 +3562,7 @@ DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,lu.com
+DOMAIN-SUFFIX,lubiao.wiki
 DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,luckyair.net
 DOMAIN-SUFFIX,luckysf.net

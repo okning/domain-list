@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/voanews.txt
 # Name: voanews
-# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Updated: Thu, 30 Jul 2026 00:29:15 GMT
 # Total: 48
 
 payload:

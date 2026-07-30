@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/intsig.txt
 # Name: intsig
-# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Updated: Thu, 30 Jul 2026 00:29:15 GMT
 # Total: 5
 
 DOMAIN-SUFFIX,camcard.com

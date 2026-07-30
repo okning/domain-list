@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Wed, 29 Jul 2026 00:28:54 GMT
-# Total: 7786
+# Updated: Thu, 30 Jul 2026 00:29:15 GMT
+# Total: 7787
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -4534,6 +4534,7 @@ payload:
   - DOMAIN-SUFFIX,lsplayer.com
   - DOMAIN-SUFFIX,lu.com
   - DOMAIN-SUFFIX,lu1da.cn
+  - DOMAIN-SUFFIX,lubiao.wiki
   - DOMAIN-SUFFIX,luckincoffeecdn.com
   - DOMAIN-SUFFIX,luckyair.net
   - DOMAIN-SUFFIX,luckysf.net

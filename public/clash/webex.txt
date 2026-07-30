@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/webex.txt
 # Name: webex
-# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Updated: Thu, 30 Jul 2026 00:29:15 GMT
 # Total: 16
 
 payload:

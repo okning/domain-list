@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/iqiyi.txt
 # Name: iqiyi
-# Updated: Wed, 29 Jul 2026 00:28:54 GMT
+# Updated: Thu, 30 Jul 2026 00:29:15 GMT
 # Total: 10
 
 DOMAIN-SUFFIX,71.am
