@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/spotify.txt
 # Name: spotify
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
 # Total: 25
 
 DOMAIN,audio-ak-spotify-com.akamaized.net

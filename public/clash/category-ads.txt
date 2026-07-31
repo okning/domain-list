@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads.txt
 # Name: category-ads
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 851
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 853
 
 payload:
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -345,6 +345,7 @@ payload:
   - DOMAIN-SUFFIX,crash2.zhihu.com
   - DOMAIN-SUFFIX,crashlytics.163.com
   - DOMAIN-SUFFIX,cretgate.com
+  - DOMAIN-SUFFIX,csjplatform.com
   - DOMAIN-SUFFIX,cstm.baidu.com
   - DOMAIN-SUFFIX,ctobsnssdk.com
   - DOMAIN-SUFFIX,cupid.iqiyi.com
@@ -609,6 +610,7 @@ payload:
   - DOMAIN,p6-ad-sign.byteimg.com
   - DOMAIN,p9-ad-sign.byteimg.com
   - DOMAIN-SUFFIX,pagead.l.google.com
+  - DOMAIN-SUFFIX,pangle.cn
   - DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
   - DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
   - DOMAIN-SUFFIX,pangolin-hl.snssdk.com

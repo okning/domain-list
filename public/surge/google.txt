@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/google.txt
 # Name: google
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
 # Total: 868
 
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$

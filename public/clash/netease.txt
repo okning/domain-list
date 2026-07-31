@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/netease.txt
 # Name: netease
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 41
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 42
 
 payload:
   - DOMAIN-SUFFIX,126.com
@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,easebar.com
   - DOMAIN-SUFFIX,haowu.link
   - DOMAIN-SUFFIX,icourse163.org
+  - DOMAIN-SUFFIX,kada.com
   - DOMAIN-SUFFIX,lf126.net
   - DOMAIN-SUFFIX,lf127.net
   - DOMAIN-SUFFIX,lofter.com

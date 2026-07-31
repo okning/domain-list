@@ -1,13 +1,13 @@
 # URL: https://s.nosec.me/surge/youku.txt
 # Name: youku
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
 # Total: 10
 
 DOMAIN-SUFFIX,9xsecndns.cn
 DOMAIN-SUFFIX,kumiao.com
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
+DOMAIN,ykimg.alicdn.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,youku.tv

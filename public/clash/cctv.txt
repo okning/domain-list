@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/cctv.txt
 # Name: cctv
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 42
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 43
 
 payload:
   - DOMAIN-SUFFIX,cctv.cn
@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,cntv.cn
   - DOMAIN-SUFFIX,cntv.com.cn
   - DOMAIN-SUFFIX,cntvwb.cn
+  - DOMAIN-SUFFIX,cri.cn
   - DOMAIN-SUFFIX,gjgbdszt.cn
   - DOMAIN-SUFFIX,gjgbdszt.com.cn
   - DOMAIN-SUFFIX,gjgbdszt.net.cn

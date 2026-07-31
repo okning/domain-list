@@ -1,11 +1,12 @@
 # URL: https://s.nosec.me/surge/category-medicine-ru.txt
 # Name: category-medicine-ru
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 33
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 34
 
 DOMAIN-SUFFIX,apteka-april.ru
 DOMAIN-SUFFIX,apteka.ru
 DOMAIN-SUFFIX,aptekiplus.ru
+DOMAIN-SUFFIX,b17.ru
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,emias.mos.ru
 DOMAIN-SUFFIX,emias.ru

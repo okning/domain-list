@@ -1,0 +1,16 @@
+# URL: https://s.nosec.me/clash/manhuaren.txt
+# Name: manhuaren
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 10
+
+payload:
+  - DOMAIN-SUFFIX,1kkk.com
+  - DOMAIN-SUFFIX,cdndm5.com
+  - DOMAIN-SUFFIX,dm5.cn
+  - DOMAIN-SUFFIX,dm5.com
+  - DOMAIN-SUFFIX,dm9.com
+  - DOMAIN-SUFFIX,gmanhua.com
+  - DOMAIN-SUFFIX,hkmanga.com
+  - DOMAIN-SUFFIX,manben.com
+  - DOMAIN-SUFFIX,manbenapi.com
+  - DOMAIN-SUFFIX,manhuaren.com

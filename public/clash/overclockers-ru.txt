@@ -1,0 +1,18 @@
+# URL: https://s.nosec.me/clash/overclockers-ru.txt
+# Name: overclockers-ru
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 12
+
+payload:
+  - DOMAIN-SUFFIX,ovcl.ru
+  - DOMAIN-SUFFIX,overclock.ru
+  - DOMAIN-SUFFIX,overclocker.ru
+  - DOMAIN-SUFFIX,overclockers.ru
+  - DOMAIN-SUFFIX,overclocking.ru
+  - DOMAIN-SUFFIX,overi.ru
+  - DOMAIN-SUFFIX,xn--80AGLFYFK.xn--p1ai
+  - DOMAIN-SUFFIX,xn--80aglzei.xn--p1ai
+  - DOMAIN-SUFFIX,xn--b1agatafrepfl.xn--p1ai
+  - DOMAIN-SUFFIX,xn--b1agpaeoen.xn--p1ai
+  - DOMAIN-SUFFIX,xn--b1agzk.xn--p1ai
+  - DOMAIN-SUFFIX,xn--b1agzk9c.xn--p1ai

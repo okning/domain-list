@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/firefox.txt
 # Name: firefox
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 6
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 7
 
 DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,firefox.com
@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net

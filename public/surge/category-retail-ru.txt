@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-retail-ru.txt
 # Name: category-retail-ru
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 76
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 79
 
 DOMAIN-SUFFIX,5ka.ru
 DOMAIN-SUFFIX,5post.market
@@ -12,11 +12,14 @@ DOMAIN-SUFFIX,audiohead.ru
 DOMAIN-SUFFIX,av.ru
 DOMAIN-SUFFIX,bristol.ru
 DOMAIN-SUFFIX,chizhik.club
+DOMAIN-SUFFIX,citilink.ru
 DOMAIN-SUFFIX,clubx5.ru
 DOMAIN-SUFFIX,coolera.ru
 DOMAIN-SUFFIX,detmir.ru
 DOMAIN-SUFFIX,dialogx5.ru
 DOMAIN-SUFFIX,dixy.ru
+DOMAIN-SUFFIX,dns-com.ru
+DOMAIN-SUFFIX,dns-shop.ru
 DOMAIN-SUFFIX,doctorhead.ru
 DOMAIN-SUFFIX,dodois.com
 DOMAIN-SUFFIX,dodois.io

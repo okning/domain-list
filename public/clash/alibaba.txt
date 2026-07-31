@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/alibaba.txt
 # Name: alibaba
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 355
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 366
 
 payload:
   - DOMAIN-SUFFIX,11222.cn
@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibabacapital.com
   - DOMAIN-SUFFIX,alibabachengdun.com
+  - DOMAIN-SUFFIX,alibabachengdun.net
   - DOMAIN-SUFFIX,alibabacloud.co.in
   - DOMAIN-SUFFIX,alibabacloud.com
   - DOMAIN-SUFFIX,alibabacloud.com.au
@@ -41,6 +42,8 @@ payload:
   - DOMAIN-SUFFIX,alibabadesign.com
   - DOMAIN-SUFFIX,alibabadns.com
   - DOMAIN-SUFFIX,alibabadoctor.com
+  - DOMAIN-SUFFIX,alibabafonts.com
+  - DOMAIN-SUFFIX,alibabafoundation.com
   - DOMAIN-SUFFIX,alibabafuturehotel.com
   - DOMAIN-SUFFIX,alibabagroup.com
   - DOMAIN-SUFFIX,alibabapictures.com
@@ -111,6 +114,7 @@ payload:
   - DOMAIN-SUFFIX,aliyunpds.com
   - DOMAIN-SUFFIX,alizhaopin.com
   - DOMAIN-SUFFIX,alyms.cn
+  - DOMAIN-SUFFIX,alysm.cn
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,amap.net
   - DOMAIN-SUFFIX,amapauto.com
@@ -171,6 +175,7 @@ payload:
   - DOMAIN-SUFFIX,fcapp.run
   - DOMAIN-SUFFIX,feizhu.cn
   - DOMAIN-SUFFIX,feizhu.com
+  - DOMAIN-SUFFIX,fengniaojipei.net
   - DOMAIN-SUFFIX,fliggy.com
   - DOMAIN-SUFFIX,fliggy.hk
   - DOMAIN-SUFFIX,freshhema.com
@@ -185,6 +190,8 @@ payload:
   - DOMAIN-SUFFIX,hemashare.cn
   - DOMAIN-SUFFIX,hichina.com
   - DOMAIN-SUFFIX,hupan.com
+  - DOMAIN-SUFFIX,hzchengdun.com
+  - DOMAIN-SUFFIX,hzchengdun.net
   - DOMAIN-SUFFIX,ialicdn.com
   - DOMAIN-SUFFIX,ica-alliance.org
   - DOMAIN-SUFFIX,iconfont.cn
@@ -313,6 +320,7 @@ payload:
   - DOMAIN-SUFFIX,taobaocdn.com
   - DOMAIN-SUFFIX,taobizhong.com
   - DOMAIN-SUFFIX,taopiaopiao.com
+  - DOMAIN-SUFFIX,taotian.com
   - DOMAIN-SUFFIX,tb.cn
   - DOMAIN-SUFFIX,tbcache.com
   - DOMAIN-SUFFIX,tbcdn.cn
@@ -322,6 +330,7 @@ payload:
   - DOMAIN-SUFFIX,teambitionapis.com
   - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,tmall.com
+  - DOMAIN-SUFFIX,tmall.hk
   - DOMAIN-SUFFIX,tmall.ru
   - DOMAIN-SUFFIX,tmalltv.com
   - DOMAIN-SUFFIX,tmjl.ai
@@ -346,6 +355,8 @@ payload:
   - DOMAIN-SUFFIX,xiami.net
   - DOMAIN-SUFFIX,xin.xin
   - DOMAIN-SUFFIX,xinlingshou.cn
+  - DOMAIN-SUFFIX,xixikf.cn
+  - DOMAIN-SUFFIX,yisou.com
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,youku.tv

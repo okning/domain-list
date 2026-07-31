@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-browser-non-cn.txt
 # Name: category-browser-non-cn
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 34
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 35
 
 DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,brave.com
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,kmeleonbrowser.org
 DOMAIN-SUFFIX,librewolf.net
 DOMAIN-SUFFIX,minbrowser.org
 DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net
 DOMAIN-SUFFIX,netsurf-browser.org
 DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,palemoon.org

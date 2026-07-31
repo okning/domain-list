@@ -1,0 +1,8 @@
+# URL: https://s.nosec.me/clash/chesscom.txt
+# Name: chesscom
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 2
+
+payload:
+  - DOMAIN-SUFFIX,chess.com
+  - DOMAIN-SUFFIX,chesscomfiles.com

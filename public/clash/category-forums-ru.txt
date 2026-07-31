@@ -1,0 +1,16 @@
+# URL: https://s.nosec.me/clash/category-forums-ru.txt
+# Name: category-forums-ru
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 10
+
+payload:
+  - DOMAIN-SUFFIX,dtf.ru
+  - DOMAIN-SUFFIX,opennet.dev
+  - DOMAIN-SUFFIX,opennet.ru
+  - DOMAIN-SUFFIX,pikabu.ru
+  - DOMAIN-SUFFIX,prodota.ru
+  - DOMAIN-SUFFIX,tischenko.su
+  - DOMAIN-SUFFIX,vc.ru
+  - DOMAIN-SUFFIX,yap.ru
+  - DOMAIN-SUFFIX,yapfiles.ru
+  - DOMAIN-SUFFIX,yaplakal.com

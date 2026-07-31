@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 2019
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 2021
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -236,6 +236,8 @@ DOMAIN-SUFFIX,cf-vanguard.com
 DOMAIN-SUFFIX,championshipseriesleague.com
 DOMAIN-SUFFIX,charlotte-anime.jp
 DOMAIN,chatscc-hamivideo2.cdn.hinet.net
+DOMAIN-SUFFIX,chess.com
+DOMAIN-SUFFIX,chesscomfiles.com
 DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chillingo.com
 DOMAIN-SUFFIX,chobit.cc

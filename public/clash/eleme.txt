@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/eleme.txt
 # Name: eleme
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 8
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 9
 
 payload:
   - DOMAIN-SUFFIX,doservice.com
@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,elemecdn.cn
   - DOMAIN-SUFFIX,elemecdn.com
   - DOMAIN-SUFFIX,elenet.me
+  - DOMAIN-SUFFIX,fengniaojipei.net

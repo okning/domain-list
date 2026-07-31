@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/yandex.txt
 # Name: yandex
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
-# Total: 96
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Total: 98
 
 payload:
   - DOMAIN-SUFFIX,adfox.ru
@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,meteum.ai
   - DOMAIN-SUFFIX,my-manager-account.com
   - DOMAIN-SUFFIX,naydex.net
+  - DOMAIN-SUFFIX,realtyverif.ru
   - DOMAIN,report.ap.yandex-net.ru
   - DOMAIN-SUFFIX,rostaxi.org
   - DOMAIN-SUFFIX,shedevrum.ai
@@ -100,3 +101,4 @@ payload:
   - DOMAIN-SUFFIX,yastatic-net.ru
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,yccdn.ru
+  - DOMAIN-SUFFIX,yndx.net

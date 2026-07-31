@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/yy.txt
 # Name: yy
-# Updated: Thu, 30 Jul 2026 00:29:15 GMT
+# Updated: Fri, 31 Jul 2026 00:32:48 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,duowan.com
