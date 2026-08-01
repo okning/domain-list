@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/dola.txt
 # Name: dola
-# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Updated: Sat, 01 Aug 2026 00:31:41 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,cici.com

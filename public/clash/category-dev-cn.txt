@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-dev-cn.txt
 # Name: category-dev-cn
-# Updated: Fri, 31 Jul 2026 00:32:48 GMT
-# Total: 141
+# Updated: Sat, 01 Aug 2026 00:31:41 GMT
+# Total: 139
 
 payload:
   - DOMAIN-SUFFIX,51changxie.com
@@ -51,8 +51,6 @@ payload:
   - DOMAIN-SUFFIX,gitcode.com
   - DOMAIN-SUFFIX,gitcode.net
   - DOMAIN-SUFFIX,gitee.com
-  - DOMAIN-SUFFIX,gitee.com
-  - DOMAIN-SUFFIX,gitee.io
   - DOMAIN-SUFFIX,gitee.io
   - DOMAIN-SUFFIX,gneec.com
   - DOMAIN-SUFFIX,gneec.com.cn

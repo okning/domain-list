@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-porn.txt
 # Name: category-porn
-# Updated: Fri, 31 Jul 2026 00:32:48 GMT
-# Total: 6677
+# Updated: Sat, 01 Aug 2026 00:31:41 GMT
+# Total: 6668
 
 # REGEXP,(^|\.)[1-5]gaoap\.com$
 # REGEXP,(^|\.)[1-9]+aipai\.(com|net)$
@@ -2271,7 +2271,6 @@ DOMAIN-SUFFIX,gaystream.pw
 DOMAIN-SUFFIX,gaythebest.com
 DOMAIN-SUFFIX,gaytopcams.com
 DOMAIN-SUFFIX,gaytube.com
-DOMAIN-SUFFIX,gaytube.com
 DOMAIN-SUFFIX,gayvl.net
 DOMAIN-SUFFIX,gazounabi.com
 DOMAIN-SUFFIX,gbluebooks.blogspot.com
@@ -4297,10 +4296,8 @@ DOMAIN-SUFFIX,phimsexhentai.me
 DOMAIN-SUFFIX,phimsexkhongche.cyou
 DOMAIN-SUFFIX,phimsexnhanh.club
 DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,photo-image.monster
 DOMAIN-SUFFIX,photos18.com
-DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,phun.org
 DOMAIN-SUFFIX,physicalexam.info
@@ -4486,7 +4483,6 @@ DOMAIN-SUFFIX,porngo.tube
 DOMAIN-SUFFIX,porngogo.supertop-100.com
 DOMAIN-SUFFIX,porngrabbz.com
 DOMAIN-SUFFIX,porngub.com
-DOMAIN-SUFFIX,porngub.com
 DOMAIN-SUFFIX,pornguide.blog
 DOMAIN-SUFFIX,pornguz.com
 DOMAIN-SUFFIX,pornhail.com
@@ -4506,18 +4502,13 @@ DOMAIN-SUFFIX,pornhoho.com
 DOMAIN-SUFFIX,pornhost.com
 DOMAIN-SUFFIX,pornhub-deutsch.info
 DOMAIN-SUFFIX,pornhub-deutsch.net
-DOMAIN-SUFFIX,pornhub-deutsch.net
 DOMAIN-SUFFIX,pornhub-german.com
 DOMAIN-SUFFIX,pornhub-sexfilme.net
 DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,pornhub00.com
 DOMAIN-SUFFIX,pornhubapparel.com
-DOMAIN-SUFFIX,pornhubapparel.com
 DOMAIN-SUFFIX,pornhubdeutsch.net
-DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,pornhubs.video
 DOMAIN-SUFFIX,pornhubselect.com

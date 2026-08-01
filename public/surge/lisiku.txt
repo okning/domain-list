@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/lisiku.txt
 # Name: lisiku
-# Updated: Fri, 31 Jul 2026 00:32:48 GMT
+# Updated: Sat, 01 Aug 2026 00:31:41 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,lisiku.com
