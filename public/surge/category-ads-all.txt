@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
-# Total: 906
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
+# Total: 907
 
 # REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 DOMAIN,1l-hit.mail.ru
@@ -262,6 +262,7 @@ DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
 DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN,apilog-web.acfun.cn
+DOMAIN-SUFFIX,app-ads-services.com
 DOMAIN-SUFFIX,app-analytics-services-att.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-measurement-cn.com

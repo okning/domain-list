@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/group-ib.txt
 # Name: group-ib
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
 # Total: 30
 
 DOMAIN-SUFFIX,antiphishing.nl

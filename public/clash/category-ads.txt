@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-ads.txt
 # Name: category-ads
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
-# Total: 853
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
+# Total: 854
 
 payload:
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
@@ -251,6 +251,7 @@ payload:
   - DOMAIN,api.mindbox.ru
   - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN,apilog-web.acfun.cn
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-measurement-cn.com

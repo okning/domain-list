@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-number-verification-cn.txt
 # Name: category-number-verification-cn
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
 # Total: 7
 
 # REGEXP,^nis.+\.10010\.com$

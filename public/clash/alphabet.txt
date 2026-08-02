@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/alphabet.txt
 # Name: alphabet
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
-# Total: 878
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
+# Total: 881
 
 payload:
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
@@ -16,6 +16,7 @@ payload:
   - DOMAIN,2mdn.net
   - DOMAIN-SUFFIX,466453.com
   - DOMAIN-SUFFIX,abc.xyz
+  - DOMAIN-SUFFIX,actifio.com
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,admeld.com
   - DOMAIN-SUFFIX,admob-cn.com
@@ -36,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,angulardart.org
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,apigee.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN,app-analytics-services.com
@@ -602,6 +604,7 @@ payload:
   - DOMAIN-SUFFIX,opensourceinsights.dev
   - DOMAIN-SUFFIX,openthread.io
   - DOMAIN-SUFFIX,openweave.io
+  - DOMAIN-SUFFIX,openxla.org
   - DOMAIN-SUFFIX,orbitera.com
   - DOMAIN-SUFFIX,page.link
   - DOMAIN-SUFFIX,pagespeedmobilizer.com

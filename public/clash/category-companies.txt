@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
-# Total: 7821
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
+# Total: 7824
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -159,6 +159,7 @@ payload:
   - DOMAIN-SUFFIX,acmvalidationsaws.com
   - DOMAIN-SUFFIX,acpica.com
   - DOMAIN-SUFFIX,acrobat.com
+  - DOMAIN-SUFFIX,actifio.com
   - DOMAIN-SUFFIX,adam.jp
   - DOMAIN-SUFFIX,adaptivecards.io
   - DOMAIN-SUFFIX,adbecrsl.com
@@ -477,6 +478,7 @@ payload:
   - DOMAIN-SUFFIX,aplestore.com
   - DOMAIN-SUFFIX,aplleipods.com
   - DOMAIN-SUFFIX,apole.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN,app-analytics-services.com
@@ -5716,6 +5718,7 @@ payload:
   - DOMAIN-SUFFIX,openweather.co.uk
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,openweave.io
+  - DOMAIN-SUFFIX,openxla.org
   - DOMAIN-SUFFIX,optanedifference.com
   - DOMAIN-SUFFIX,opticore.com
   - DOMAIN-SUFFIX,opticsforthecloud.net

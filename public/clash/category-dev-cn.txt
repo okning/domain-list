@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/category-dev-cn.txt
 # Name: category-dev-cn
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
 # Total: 139
 
 payload:

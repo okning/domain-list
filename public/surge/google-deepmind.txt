@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/google-deepmind.txt
 # Name: google-deepmind
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
-# Total: 40
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
+# Total: 41
 
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,ai.studio
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com

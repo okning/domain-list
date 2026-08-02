@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/snk.txt
 # Name: snk
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
 # Total: 3
 
 payload:

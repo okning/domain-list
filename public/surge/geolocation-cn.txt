@@ -1,7 +1,7 @@
 # URL: https://s.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
-# Total: 7950
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
+# Total: 7951
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -2014,6 +2014,7 @@ DOMAIN-SUFFIX,cqliving.com
 DOMAIN-SUFFIX,cqn.com.cn
 DOMAIN-SUFFIX,cqnews.net
 DOMAIN-SUFFIX,cqsjb.com
+DOMAIN-SUFFIX,cqtk.com.cn
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,cr-cts.com
 DOMAIN-SUFFIX,cr173.com

@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/iflytek.txt
 # Name: iflytek
-# Updated: Sat, 01 Aug 2026 00:31:41 GMT
+# Updated: Sun, 02 Aug 2026 00:33:08 GMT
 # Total: 11
 
 DOMAIN-SUFFIX,changyan.com
