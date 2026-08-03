@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/category-news-ir.txt
 # Name: category-news-ir
-# Updated: Sun, 02 Aug 2026 00:33:08 GMT
+# Updated: Mon, 03 Aug 2026 00:32:47 GMT
 # Total: 55
 
 DOMAIN-SUFFIX,7sobh.com

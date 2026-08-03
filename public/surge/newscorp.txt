@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/newscorp.txt
 # Name: newscorp
-# Updated: Sun, 02 Aug 2026 00:33:08 GMT
+# Updated: Mon, 03 Aug 2026 00:32:47 GMT
 # Total: 152
 
 DOMAIN-SUFFIX,1degree.com.au

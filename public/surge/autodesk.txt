@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/autodesk.txt
 # Name: autodesk
-# Updated: Sun, 02 Aug 2026 00:33:08 GMT
+# Updated: Mon, 03 Aug 2026 00:32:47 GMT
 # Total: 558
 
 DOMAIN-SUFFIX,123dapp.com
