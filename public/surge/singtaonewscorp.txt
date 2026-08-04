@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/singtaonewscorp.txt
 # Name: singtaonewscorp
-# Updated: Mon, 03 Aug 2026 00:32:47 GMT
+# Updated: Tue, 04 Aug 2026 00:32:10 GMT
 # Total: 18
 
 DOMAIN-SUFFIX,bastillepost.com

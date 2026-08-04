@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/hkbn.txt
 # Name: hkbn
-# Updated: Mon, 03 Aug 2026 00:32:47 GMT
+# Updated: Tue, 04 Aug 2026 00:32:10 GMT
 # Total: 6
 
 DOMAIN-SUFFIX,csifund.org

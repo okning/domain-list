@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/clash/canonical.txt
 # Name: canonical
-# Updated: Mon, 03 Aug 2026 00:32:47 GMT
+# Updated: Tue, 04 Aug 2026 00:32:10 GMT
 # Total: 12
 
 payload:

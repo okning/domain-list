@@ -1,6 +1,6 @@
 # URL: https://s.nosec.me/surge/facebook.txt
 # Name: facebook
-# Updated: Mon, 03 Aug 2026 00:32:47 GMT
+# Updated: Tue, 04 Aug 2026 00:32:10 GMT
 # Total: 395
 
 DOMAIN-SUFFIX,aboutfacebook.com
