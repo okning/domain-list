@@ -1,7 +1,7 @@
-# URL: https://s.nosec.me/clash/category-ai-non-cn.txt
+# URL: https://domain-list.nosec.me/clash/category-ai-non-cn.txt
 # Name: category-ai-non-cn
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
-# Total: 172
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Total: 174
 
 payload:
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
@@ -70,6 +70,8 @@ payload:
   - DOMAIN,daily-cloudcode-pa.googleapis.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,deepwiki.com
+  - DOMAIN-SUFFIX,deepwiki.org
   - DOMAIN-SUFFIX,devin.ai
   - DOMAIN-SUFFIX,diabrowser.com
   - DOMAIN-SUFFIX,diabrowser.engineering

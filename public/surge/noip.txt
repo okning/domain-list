@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/noip.txt
+# URL: https://domain-list.nosec.me/surge/noip.txt
 # Name: noip
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 83
 
 DOMAIN-SUFFIX,3utilities.com

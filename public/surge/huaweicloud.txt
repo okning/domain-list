@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/huaweicloud.txt
+# URL: https://domain-list.nosec.me/surge/huaweicloud.txt
 # Name: huaweicloud
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 249
 
 DOMAIN-SUFFIX,26r9y.cn

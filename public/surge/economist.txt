@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/economist.txt
+# URL: https://domain-list.nosec.me/surge/economist.txt
 # Name: economist
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,economist.com

@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/qualcomm.txt
+# URL: https://domain-list.nosec.me/surge/qualcomm.txt
 # Name: qualcomm
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 49
 
 DOMAIN-SUFFIX,airgonetworks.com

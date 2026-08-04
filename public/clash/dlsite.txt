@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/clash/dlsite.txt
+# URL: https://domain-list.nosec.me/clash/dlsite.txt
 # Name: dlsite
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 10
 
 payload:

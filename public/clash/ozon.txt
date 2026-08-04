@@ -1,7 +1,7 @@
-# URL: https://s.nosec.me/clash/ozon.txt
+# URL: https://domain-list.nosec.me/clash/ozon.txt
 # Name: ozon
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
-# Total: 42
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Total: 45
 
 payload:
   - DOMAIN-SUFFIX,ewisdom.us.kg
@@ -13,14 +13,17 @@ payload:
   - DOMAIN-SUFFIX,ozon-credit.ru
   - DOMAIN-SUFFIX,ozon-dostavka.ru
   - DOMAIN-SUFFIX,ozon-tech.ru
+  - DOMAIN-SUFFIX,ozon.app
   - DOMAIN-SUFFIX,ozon.by
   - DOMAIN-SUFFIX,ozon.com
   - DOMAIN-SUFFIX,ozon.com.by
   - DOMAIN-SUFFIX,ozon.com.kz
   - DOMAIN-SUFFIX,ozon.dev
   - DOMAIN-SUFFIX,ozon.express
+  - DOMAIN-SUFFIX,ozon.global
   - DOMAIN-SUFFIX,ozon.kz
   - DOMAIN-SUFFIX,ozon.li
+  - DOMAIN-SUFFIX,ozon.market
   - DOMAIN-SUFFIX,ozon.ru
   - DOMAIN-SUFFIX,ozon.tech
   - DOMAIN-SUFFIX,ozon.tm

@@ -1,9 +1,10 @@
-# URL: https://s.nosec.me/clash/rutube.txt
+# URL: https://domain-list.nosec.me/clash/rutube.txt
 # Name: rutube
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
-# Total: 3
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Total: 4
 
 payload:
   - DOMAIN-SUFFIX,rtbcdn.ru
   - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru

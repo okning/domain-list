@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/clash/lenovo.txt
+# URL: https://domain-list.nosec.me/clash/lenovo.txt
 # Name: lenovo
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 58
 
 payload:

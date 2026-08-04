@@ -1,7 +1,7 @@
-# URL: https://s.nosec.me/clash/category-entertainment-ru.txt
+# URL: https://domain-list.nosec.me/clash/category-entertainment-ru.txt
 # Name: category-entertainment-ru
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
-# Total: 30
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Total: 31
 
 payload:
   - DOMAIN-SUFFIX,24h.tv
@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,restream.ru
   - DOMAIN-SUFFIX,rtbcdn.ru
   - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,smotreshka.tv
   - DOMAIN-SUFFIX,start.ru

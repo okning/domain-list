@@ -1,0 +1,9 @@
+# URL: https://domain-list.nosec.me/clash/flyio.txt
+# Name: flyio
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Total: 3
+
+payload:
+  - DOMAIN-SUFFIX,fly.dev
+  - DOMAIN-SUFFIX,fly.io
+  - DOMAIN-SUFFIX,flyio.net

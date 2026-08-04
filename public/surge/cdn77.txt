@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/cdn77.txt
+# URL: https://domain-list.nosec.me/surge/cdn77.txt
 # Name: cdn77
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,cdn77.com

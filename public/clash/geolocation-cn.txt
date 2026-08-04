@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/clash/geolocation-cn.txt
+# URL: https://domain-list.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 7951
 
 payload:
@@ -1350,6 +1350,7 @@ payload:
   - DOMAIN-SUFFIX,cbinews.com
   - DOMAIN-SUFFIX,cbjq.com
   - DOMAIN-SUFFIX,cbjq.com
+  - DOMAIN-SUFFIX,cbn.cn
   - DOMAIN-SUFFIX,cc-pay.cn
   - DOMAIN-SUFFIX,ccb-life.com.cn
   - DOMAIN-SUFFIX,ccb.cn
@@ -1695,7 +1696,6 @@ payload:
   - DOMAIN-SUFFIX,chinazns.com
   - DOMAIN-SUFFIX,chinesemooc.org
   - DOMAIN-SUFFIX,chiphell.com
-  - DOMAIN-SUFFIX,chn.cn
   - DOMAIN-SUFFIX,chndoi.org
   - DOMAIN-SUFFIX,chnppmuseum.com
   - DOMAIN-SUFFIX,chntel.com

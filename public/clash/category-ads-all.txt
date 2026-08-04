@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/clash/category-ads-all.txt
+# URL: https://domain-list.nosec.me/clash/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 907
 
 payload:

@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/clash/group-ib.txt
+# URL: https://domain-list.nosec.me/clash/group-ib.txt
 # Name: group-ib
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 30
 
 payload:

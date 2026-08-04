@@ -1,7 +1,7 @@
-# URL: https://s.nosec.me/surge/category-ru.txt
+# URL: https://domain-list.nosec.me/surge/category-ru.txt
 # Name: category-ru
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
-# Total: 824
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Total: 828
 
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,24h.tv
@@ -409,14 +409,17 @@ DOMAIN-SUFFIX,okolo.app
 DOMAIN-SUFFIX,opennet.dev
 DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,ostin.com
+DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,ozon.express
+DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,ozon.li
+DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,ozon.tech
 DOMAIN-SUFFIX,ozon.tm
 DOMAIN-SUFFIX,ozon.travel
@@ -532,6 +535,7 @@ DOMAIN-SUFFIX,russiatoday.tv
 DOMAIN-SUFFIX,russieactuelle.fr
 DOMAIN-SUFFIX,rustore.team
 DOMAIN-SUFFIX,rustore.tv
+DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,rwbautomation.tech
 DOMAIN-SUFFIX,saas-support.com
 DOMAIN-SUFFIX,safeliner.tech

@@ -1,7 +1,7 @@
-# URL: https://s.nosec.me/clash/category-entertainment.txt
+# URL: https://domain-list.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
-# Total: 2021
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Total: 2022
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -1416,6 +1416,7 @@ payload:
   - DOMAIN-SUFFIX,rtbcdn.ru
   - DOMAIN-SUFFIX,ruinedking.com
   - DOMAIN-SUFFIX,rutube.ru
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,saiganak.com

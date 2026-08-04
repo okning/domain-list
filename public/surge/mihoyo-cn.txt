@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/mihoyo-cn.txt
+# URL: https://domain-list.nosec.me/surge/mihoyo-cn.txt
 # Name: mihoyo-cn
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 16
 
 # REGEXP,^.+-mihayo\.akamaized\.net$

@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/unitychina.txt
+# URL: https://domain-list.nosec.me/surge/unitychina.txt
 # Name: unitychina
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,u3d.cn

@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/clash/scaleflex.txt
+# URL: https://domain-list.nosec.me/clash/scaleflex.txt
 # Name: scaleflex
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 3
 
 payload:

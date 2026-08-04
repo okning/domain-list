@@ -1,6 +1,6 @@
-# URL: https://s.nosec.me/surge/netflix.txt
+# URL: https://domain-list.nosec.me/surge/netflix.txt
 # Name: netflix
-# Updated: Tue, 04 Aug 2026 00:32:10 GMT
+# Updated: Tue, 04 Aug 2026 07:54:26 GMT
 # Total: 28
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
