@@ -4,10 +4,10 @@ A list of domains applicable to surge and clash, generated based on [v2fly/domai
 
 ## Usage
 
-- https://s.nosec.me/surge/{name}.txt
-- https://s.nosec.me/clash/{name}.txt
+- https://domain-list.nosec.me/surge/{name}.txt
+- https://domain-list.nosec.me/clash/{name}.txt
 
 ## Examples
 
-- https://s.nosec.me/surge/github.txt
-- https://s.nosec.me/clash/github.txt
+- https://domain-list.nosec.me/surge/github.txt
+- https://domain-list.nosec.me/clash/github.txt

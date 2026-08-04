@@ -3,7 +3,7 @@ import fs from "fs";
 
 const SOURCE_BASE_PATH = path.resolve("domain-list-community/data");
 const TARGET_BASE_PATH = path.resolve("public");
-const BASE_URL = "https://s.nosec.me";
+const BASE_URL = "https://domain-list.nosec.me";
 
 const EntryType = {
   DOMAIN: "domain",
