@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/category-bank-cn.txt
 # Name: category-bank-cn
-# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Updated: Wed, 05 Aug 2026 00:30:53 GMT
 # Total: 133
 
 payload:

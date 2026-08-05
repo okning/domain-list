@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Tue, 04 Aug 2026 07:54:26 GMT
-# Total: 2022
+# Updated: Wed, 05 Aug 2026 00:30:53 GMT
+# Total: 2028
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -642,6 +642,7 @@ payload:
   - DOMAIN-SUFFIX,gimy.to
   - DOMAIN-SUFFIX,gimy.tv
   - DOMAIN-SUFFIX,giratina.com
+  - DOMAIN-SUFFIX,glitchwave.com
   - DOMAIN-SUFFIX,gloryofheracles.com
   - DOMAIN-SUFFIX,go-disneyworldgo.com
   - DOMAIN-SUFFIX,go.com
@@ -1329,6 +1330,7 @@ payload:
   - DOMAIN-SUFFIX,radgametools.com
   - DOMAIN-SUFFIX,radiko-cf.com
   - DOMAIN-SUFFIX,radiko.jp
+  - DOMAIN-SUFFIX,rateyourmusic.com
   - DOMAIN-SUFFIX,ravm.tv
   - DOMAIN-SUFFIX,rayark.download
   - DOMAIN-SUFFIX,rayark.net
@@ -1418,6 +1420,7 @@ payload:
   - DOMAIN-SUFFIX,rutube.ru
   - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,rutubelist.ru
+  - DOMAIN-SUFFIX,rym.fm
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,saiganak.com
   - DOMAIN,scc-hamivideo.cdn.hinet.net
@@ -1452,7 +1455,10 @@ payload:
   - DOMAIN-SUFFIX,snk-corp.co.jp
   - DOMAIN-SUFFIX,snk-corp.info
   - DOMAIN-SUFFIX,snkplaymore.info
+  - DOMAIN-SUFFIX,snmc.io
   - DOMAIN-SUFFIX,snowmiku.com
+  - DOMAIN-SUFFIX,sonematic.net
+  - DOMAIN-SUFFIX,sonemic.com
   - DOMAIN-SUFFIX,sonyclassics.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,sonypictures.com

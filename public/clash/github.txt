@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/github.txt
 # Name: github
-# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Updated: Wed, 05 Aug 2026 00:30:53 GMT
 # Total: 59
 
 payload:

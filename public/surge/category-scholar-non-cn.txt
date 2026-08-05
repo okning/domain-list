@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-scholar-non-cn.txt
 # Name: category-scholar-non-cn
-# Updated: Tue, 04 Aug 2026 07:54:26 GMT
+# Updated: Wed, 05 Aug 2026 00:30:53 GMT
 # Total: 474
 
 DOMAIN-SUFFIX,1lib.cloud
