@@ -1,12 +1,16 @@
 # URL: https://domain-list.nosec.me/clash/category-forums.txt
 # Name: category-forums
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 101
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 105
 
 payload:
   - DOMAIN-SUFFIX,18p2p.com
   - DOMAIN-SUFFIX,22112211.xyz
+  - DOMAIN-SUFFIX,2ch.hk
+  - DOMAIN-SUFFIX,2ch.life
   - DOMAIN-SUFFIX,2ch.net
+  - DOMAIN-SUFFIX,2ch.org
+  - DOMAIN-SUFFIX,2ch.su
   - DOMAIN-SUFFIX,4cdn.org
   - DOMAIN-SUFFIX,4chan.org
   - DOMAIN-SUFFIX,4channel.org

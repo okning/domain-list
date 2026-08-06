@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/ea.txt
 # Name: ea
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 169
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 163
 
 payload:
   - DOMAIN-SUFFIX,anthemgame.com
@@ -32,13 +32,11 @@ payload:
   - DOMAIN,cloudsync-prod.s3.amazonaws.com
   - DOMAIN-SUFFIX,cncrivals.com
   - DOMAIN-SUFFIX,commandandconquer.com
-  - DOMAIN-SUFFIX,commandandconquer.com
   - DOMAIN-SUFFIX,conquerwithcharacter.com
   - DOMAIN-SUFFIX,crysis.jp
   - DOMAIN-SUFFIX,daoc.net
   - DOMAIN-SUFFIX,darkageofcamelot.com
   - DOMAIN-SUFFIX,darkness-risen.com
-  - DOMAIN-SUFFIX,dawngate.com
   - DOMAIN-SUFFIX,dawngate.com
   - DOMAIN-SUFFIX,dawngatechronicles.com
   - DOMAIN-SUFFIX,deadspacegame.com
@@ -131,15 +129,12 @@ payload:
   - DOMAIN-SUFFIX,pogobeta.com
   - DOMAIN-SUFFIX,popcap.com
   - DOMAIN-SUFFIX,projectapex.com
-  - DOMAIN-SUFFIX,projectapex.com
   - DOMAIN-SUFFIX,pvzgw2.com
-  - DOMAIN-SUFFIX,pvzheroes.com
   - DOMAIN-SUFFIX,pvzheroes.com
   - DOMAIN-SUFFIX,seaofsolitude.com
   - DOMAIN-SUFFIX,simcity-buildit.com
   - DOMAIN-SUFFIX,simcity.com
   - DOMAIN-SUFFIX,skate2.com
-  - DOMAIN-SUFFIX,spearhead.kr
   - DOMAIN-SUFFIX,spearhead.kr
   - DOMAIN-SUFFIX,speedhunters.com
   - DOMAIN-SUFFIX,spore.com
@@ -159,7 +154,6 @@ payload:
   - DOMAIN-SUFFIX,thesims3.com
   - DOMAIN-SUFFIX,thesims4.com
   - DOMAIN-SUFFIX,thesimssocial.com
-  - DOMAIN-SUFFIX,tiberiumalliances.com
   - DOMAIN-SUFFIX,tiberiumalliances.com
   - DOMAIN-SUFFIX,tiburon.com
   - DOMAIN-SUFFIX,titanfall.com

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-scholar-non-cn.txt
 # Name: category-scholar-non-cn
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 474
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 475
 
 DOMAIN-SUFFIX,1lib.cloud
 DOMAIN-SUFFIX,1lib.cz
@@ -245,6 +245,7 @@ DOMAIN-SUFFIX,mtt.org
 DOMAIN,muse.jhu.edu
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,naturemag.org
+DOMAIN-SUFFIX,ncbi.nlm.nih.gov
 DOMAIN-SUFFIX,ncl.edu.tw
 DOMAIN-SUFFIX,nejm.org
 DOMAIN-SUFFIX,neurology.org

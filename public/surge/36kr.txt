@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/36kr.txt
 # Name: 36kr
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,36dianping.com

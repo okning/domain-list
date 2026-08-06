@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-social-media-non-cn.txt
 # Name: category-social-media-non-cn
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 606
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 605
 
 payload:
   - DOMAIN-SUFFIX,9ineverse.com
@@ -525,7 +525,6 @@ payload:
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,reachtheworldonfacebook.com
   - DOMAIN-SUFFIX,redkix.com
-  - DOMAIN-SUFFIX,rocksdb.org
   - DOMAIN-SUFFIX,shopfacebook.com
   - DOMAIN-SUFFIX,sportsfacebook.com
   - DOMAIN-SUFFIX,sportstream.com

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-cas.txt
 # Name: category-cas
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 251
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 249
 
 payload:
   - DOMAIN-SUFFIX,accv.es
@@ -48,8 +48,6 @@ payload:
   - DOMAIN-SUFFIX,csc3-2010-aia.verisign.com
   - DOMAIN-SUFFIX,csc3-2010-crl.verisign.com
   - DOMAIN-SUFFIX,cybertrust.co.jp
-  - DOMAIN-SUFFIX,cybertrust.co.jp
-  - DOMAIN-SUFFIX,cybertrust.ne.jp
   - DOMAIN-SUFFIX,cybertrust.ne.jp
   - DOMAIN-SUFFIX,d-trust.net
   - DOMAIN-SUFFIX,dcocsp.cn

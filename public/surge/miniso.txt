@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/miniso.txt
 # Name: miniso
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
 # Total: 36
 
 DOMAIN-SUFFIX,loveminiso.com.br

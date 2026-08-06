@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-ads-all.txt
 # Name: category-ads-all
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 907
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 892
 
 # REGEXP,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 DOMAIN,1l-hit.mail.ru
@@ -72,6 +72,8 @@ DOMAIN-SUFFIX,adbox.sina.com.cn
 DOMAIN-SUFFIX,adbutter.net
 DOMAIN-SUFFIX,adc.hpplay.cn
 DOMAIN-SUFFIX,adcolony.com
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,adeng.hpplay.cn
 DOMAIN,adeventtracker.spotify.com
@@ -99,7 +101,6 @@ DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,adping.qq.com
 DOMAIN-SUFFIX,adpm.app.qq.com
-DOMAIN-SUFFIX,adq.chinaso.com
 DOMAIN-SUFFIX,ads-api.duolingo.com
 DOMAIN,ads-gate.wildberries.ru
 DOMAIN,ads-img.mozilla.org
@@ -122,7 +123,6 @@ DOMAIN-SUFFIX,ads.sber.ru
 DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,ads.sina.com
 DOMAIN-SUFFIX,ads.sohu.com
-DOMAIN-SUFFIX,ads.trafficjunky.net
 DOMAIN-SUFFIX,ads.trafficjunky.net
 DOMAIN-SUFFIX,ads.uc.cn
 DOMAIN-SUFFIX,ads.union.jd.com
@@ -320,7 +320,6 @@ DOMAIN-SUFFIX,cb.baidu.com
 DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,ccs.umeng.com
 DOMAIN-SUFFIX,cdn.banclip.com
-DOMAIN-SUFFIX,cdn.pocoiq.cn
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,cfts1tifqr.com
 DOMAIN-SUFFIX,china-caa.org
@@ -369,7 +368,6 @@ DOMAIN-SUFFIX,cupid.iqiyi.com
 DOMAIN-SUFFIX,cxhub.ru
 DOMAIN-SUFFIX,da.hunantv.com
 DOMAIN-SUFFIX,da.mgtv.com
-DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
@@ -380,7 +378,6 @@ DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,decide.mixpanel.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,dig.bdurl.net
-DOMAIN-SUFFIX,dn-growing.qbox.me
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.cn
 DOMAIN-SUFFIX,doubleclick.com
@@ -625,7 +622,6 @@ DOMAIN-SUFFIX,nsclick.baidu.com
 DOMAIN-SUFFIX,nsclickvideo.baidu.com
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,oc.umeng.com
-DOMAIN-SUFFIX,oct.pocoiq.cn
 DOMAIN-SUFFIX,ogury.co
 DOMAIN-SUFFIX,ogury.com
 DOMAIN-SUFFIX,onesignal.com
@@ -668,16 +664,6 @@ DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pimlog.baidu.com
-DOMAIN,pinggai0.caixin.com
-DOMAIN,pinggai1.caixin.com
-DOMAIN,pinggai2.caixin.com
-DOMAIN,pinggai3.caixin.com
-DOMAIN,pinggai4.caixin.com
-DOMAIN,pinggai5.caixin.com
-DOMAIN,pinggai6.caixin.com
-DOMAIN,pinggai7.caixin.com
-DOMAIN,pinggai8.caixin.com
-DOMAIN,pinggai9.caixin.com
 DOMAIN-SUFFIX,pingjs.qq.com
 DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN,pixel.rustore.ru
@@ -785,7 +771,6 @@ DOMAIN-SUFFIX,ssacdn.com
 DOMAIN-SUFFIX,ssp.api.tappx.com
 DOMAIN,stacks.vk-portal.net
 DOMAIN-SUFFIX,starbucks.com.cn
-DOMAIN-SUFFIX,stat.chinaso.com
 DOMAIN-SUFFIX,stat.m.jd.com
 DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,stat.youku.com

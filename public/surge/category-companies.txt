@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 7824
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 7822
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -528,7 +528,6 @@ DOMAIN-SUFFIX,apple-inc.net
 DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-maps.cn
 DOMAIN-SUFFIX,apple-online.com
 DOMAIN-SUFFIX,apple-pay.com
@@ -939,6 +938,7 @@ DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attuverseoffers.com
 DOMAIN-SUFFIX,attuverseonline.com
 DOMAIN-SUFFIX,attvoip.com
+DOMAIN-SUFFIX,attwatchtv.com
 DOMAIN-SUFFIX,attwifi.com
 DOMAIN-SUFFIX,attwirelessinternet.com
 DOMAIN-SUFFIX,attwirelessonline.com
@@ -2600,6 +2600,7 @@ DOMAIN-SUFFIX,dsmynas.net
 DOMAIN-SUFFIX,dsmynas.org
 DOMAIN-SUFFIX,dtsell.com
 DOMAIN-SUFFIX,dtv2009offers.com
+DOMAIN-SUFFIX,dtvce.com
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,dvdstudiopro.biz
@@ -4674,7 +4675,6 @@ DOMAIN-SUFFIX,kaspersky.com.au
 DOMAIN-SUFFIX,kaspersky.com.br
 DOMAIN-SUFFIX,kaspersky.com.cn
 DOMAIN-SUFFIX,kaspersky.com.hk
-DOMAIN-SUFFIX,kaspersky.com.hk
 DOMAIN-SUFFIX,kaspersky.com.pl
 DOMAIN-SUFFIX,kaspersky.com.tr
 DOMAIN-SUFFIX,kaspersky.com.tw
@@ -5702,7 +5702,6 @@ DOMAIN-SUFFIX,opencas.io
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,opendroneid.org
-DOMAIN-SUFFIX,opendroneid.org
 DOMAIN-SUFFIX,opengraphprotocol.com
 DOMAIN-SUFFIX,opengraphprotocol.org
 DOMAIN-SUFFIX,openreality.com
@@ -6052,7 +6051,6 @@ DOMAIN-SUFFIX,robobat.com
 DOMAIN-SUFFIX,robotoffice.com
 DOMAIN-SUFFIX,rocksdb.com
 DOMAIN-SUFFIX,rocksdb.net
-DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,rostelecom.ru

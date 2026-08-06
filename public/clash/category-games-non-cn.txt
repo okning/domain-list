@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-games-non-cn.txt
 # Name: category-games-non-cn
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 832
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 827
 
 payload:
   - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,arma3.com
   - DOMAIN-SUFFIX,armaplatform.com
   - DOMAIN-SUFFIX,artstation.com
+  - DOMAIN-SUFFIX,artstationmedia.com
   - DOMAIN-SUFFIX,artstorm.com
   - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN,assets.ppy.sh
@@ -98,7 +99,6 @@ payload:
   - DOMAIN,cloudsync-prod.s3.amazonaws.com
   - DOMAIN-SUFFIX,cncrivals.com
   - DOMAIN-SUFFIX,commandandconquer.com
-  - DOMAIN-SUFFIX,commandandconquer.com
   - DOMAIN-SUFFIX,conquerwithcharacter.com
   - DOMAIN-SUFFIX,convrgencegame.com
   - DOMAIN-SUFFIX,crossout.net
@@ -116,7 +116,6 @@ payload:
   - DOMAIN-SUFFIX,darkageofcamelot.com
   - DOMAIN-SUFFIX,darkness-risen.com
   - DOMAIN,datarouter.apps.netherrealm.com
-  - DOMAIN-SUFFIX,dawngate.com
   - DOMAIN-SUFFIX,dawngate.com
   - DOMAIN-SUFFIX,dawngatechronicles.com
   - DOMAIN-SUFFIX,dayz.com
@@ -508,14 +507,12 @@ payload:
   - DOMAIN-SUFFIX,prismlauncher.org
   - DOMAIN,prodforza.blob.core.windows.net
   - DOMAIN-SUFFIX,projectapex.com
-  - DOMAIN-SUFFIX,projectapex.com
   - DOMAIN-SUFFIX,protondb.com
   - DOMAIN-SUFFIX,pubg.com
   - DOMAIN,pubg1.battleye.com
   - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,pvp.tv
   - DOMAIN-SUFFIX,pvzgw2.com
-  - DOMAIN-SUFFIX,pvzheroes.com
   - DOMAIN-SUFFIX,pvzheroes.com
   - DOMAIN-SUFFIX,quiltmc.org
   - DOMAIN-SUFFIX,quixel.com
@@ -608,7 +605,6 @@ payload:
   - DOMAIN-SUFFIX,snk-corp.info
   - DOMAIN-SUFFIX,snkplaymore.info
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-  - DOMAIN-SUFFIX,spearhead.kr
   - DOMAIN-SUFFIX,spearhead.kr
   - DOMAIN,spectator.ppy.sh
   - DOMAIN-SUFFIX,speedhunters.com
@@ -708,7 +704,6 @@ payload:
   - DOMAIN-SUFFIX,thesims4.com
   - DOMAIN-SUFFIX,thesimssocial.com
   - DOMAIN-SUFFIX,thewonderful101.com
-  - DOMAIN-SUFFIX,tiberiumalliances.com
   - DOMAIN-SUFFIX,tiberiumalliances.com
   - DOMAIN-SUFFIX,tiburon.com
   - DOMAIN-SUFFIX,titanfall.com

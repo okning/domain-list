@@ -1,7 +1,0 @@
-# URL: https://domain-list.nosec.me/surge/hkopentv.txt
-# Name: hkopentv
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 2
-
-DOMAIN-SUFFIX,fantv.hk
-DOMAIN-SUFFIX,hkopentv.com

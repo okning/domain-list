@@ -1,9 +1,10 @@
 # URL: https://domain-list.nosec.me/clash/abc.txt
 # Name: abc
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 3
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 4
 
 payload:
   - DOMAIN-SUFFIX,abc-studios.com
   - DOMAIN-SUFFIX,abc.com
+  - DOMAIN-SUFFIX,abcnews.com
   - DOMAIN-SUFFIX,edgedatg.com

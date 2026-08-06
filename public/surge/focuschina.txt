@@ -1,0 +1,10 @@
+# URL: https://domain-list.nosec.me/surge/focuschina.txt
+# Name: focuschina
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 5
+
+DOMAIN-SUFFIX,focuschina.com
+DOMAIN-SUFFIX,made-in-china.com
+DOMAIN-SUFFIX,micstatic.com
+DOMAIN-SUFFIX,trademessenger.com
+DOMAIN-SUFFIX,vemic.com

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/apple.txt
 # Name: apple
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 1569
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 1568
 
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
@@ -91,7 +91,6 @@ DOMAIN-SUFFIX,apple-imac.com
 DOMAIN-SUFFIX,apple-inc.net
 DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN-SUFFIX,apple-livephotoskit.com
-DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-maps.cn
 DOMAIN-SUFFIX,apple-online.com

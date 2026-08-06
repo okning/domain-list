@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-porn.txt
 # Name: category-porn
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 6668
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 6667
 
 # REGEXP,(^|\.)[1-5]gaoap\.com$
 # REGEXP,(^|\.)[1-9]+aipai\.(com|net)$
@@ -252,7 +252,6 @@ DOMAIN-SUFFIX,27mmwmmw.top
 DOMAIN-SUFFIX,2adultflashgames.com
 DOMAIN-SUFFIX,2beeg.me
 DOMAIN-SUFFIX,2bit8.com
-DOMAIN-SUFFIX,2ch.hk
 DOMAIN-SUFFIX,2chav.com
 DOMAIN-SUFFIX,2dgen.com
 DOMAIN-SUFFIX,2gayboys.com

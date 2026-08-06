@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-antivirus.txt
 # Name: category-antivirus
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 70
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 69
 
 DOMAIN-SUFFIX,avast.com
 DOMAIN-SUFFIX,avg.com
@@ -44,7 +44,6 @@ DOMAIN-SUFFIX,kaspersky.com
 DOMAIN-SUFFIX,kaspersky.com.au
 DOMAIN-SUFFIX,kaspersky.com.br
 DOMAIN-SUFFIX,kaspersky.com.cn
-DOMAIN-SUFFIX,kaspersky.com.hk
 DOMAIN-SUFFIX,kaspersky.com.hk
 DOMAIN-SUFFIX,kaspersky.com.pl
 DOMAIN-SUFFIX,kaspersky.com.tr

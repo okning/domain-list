@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/kkbox.txt
 # Name: kkbox
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 7
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 5
 
 payload:
   - DOMAIN-SUFFIX,kfs.io
@@ -9,5 +9,3 @@ payload:
   - DOMAIN-SUFFIX,kkbox.com
   - DOMAIN-SUFFIX,kkbox.com.tw
   - DOMAIN-SUFFIX,kktix.com
-  - DOMAIN-SUFFIX,kktv.com.tw
-  - DOMAIN-SUFFIX,kktv.me

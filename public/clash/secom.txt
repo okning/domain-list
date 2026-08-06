@@ -1,11 +1,9 @@
 # URL: https://domain-list.nosec.me/clash/secom.txt
 # Name: secom
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 5
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 3
 
 payload:
-  - DOMAIN-SUFFIX,cybertrust.co.jp
-  - DOMAIN-SUFFIX,cybertrust.ne.jp
   - DOMAIN-SUFFIX,managedpki.ne.jp
   - DOMAIN-SUFFIX,secom.co.jp
   - DOMAIN-SUFFIX,secomtrust.net

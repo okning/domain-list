@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/meta.txt
 # Name: meta
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 548
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 547
 
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -512,7 +512,6 @@ DOMAIN-SUFFIX,recoiljs.org
 DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,rocksdb.com
 DOMAIN-SUFFIX,rocksdb.net
-DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,shopfacebook.com
 DOMAIN-SUFFIX,sportsfacebook.com

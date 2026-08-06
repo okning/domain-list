@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/intel.txt
 # Name: intel
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 288
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 287
 
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,acpica.com
@@ -243,7 +243,6 @@ DOMAIN-SUFFIX,oneapi.com
 DOMAIN-SUFFIX,oneapi.io
 DOMAIN-SUFFIX,openamt.com
 DOMAIN-SUFFIX,opencas.io
-DOMAIN-SUFFIX,opendroneid.org
 DOMAIN-SUFFIX,opendroneid.org
 DOMAIN-SUFFIX,openvino.ai
 DOMAIN-SUFFIX,openvinotoolkit.org

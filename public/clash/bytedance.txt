@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/bytedance.txt
 # Name: bytedance
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 899
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 900
 
 payload:
   - DOMAIN-SUFFIX,365yg.com
@@ -185,7 +185,6 @@ payload:
   - DOMAIN-SUFFIX,byteorg.com
   - DOMAIN-SUFFIX,byteorge.com
   - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,byteoversea.net
   - DOMAIN-SUFFIX,byteplus-api-test.com
   - DOMAIN-SUFFIX,byteplus-api-test.com.cn
@@ -222,6 +221,8 @@ payload:
   - DOMAIN-SUFFIX,bytexservice.com
   - DOMAIN-SUFFIX,cache4ever.com
   - DOMAIN-SUFFIX,cache666.com
+  - DOMAIN-SUFFIX,capcut.com
+  - DOMAIN-SUFFIX,capcutcdn-us.com
   - DOMAIN-SUFFIX,cdnbuild.com
   - DOMAIN-SUFFIX,cdnbuild.net
   - DOMAIN-SUFFIX,cdndns1.com

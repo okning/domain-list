@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/cloudflare.txt
 # Name: cloudflare
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 74
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 76
 
 payload:
   - DOMAIN-SUFFIX,argotunnel.com
@@ -27,9 +27,11 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-quic.com
   - DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
+  - DOMAIN-SUFFIX,cloudflare.app
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare.dev
   - DOMAIN-SUFFIX,cloudflare.net
+  - DOMAIN-SUFFIX,cloudflare.pay
   - DOMAIN-SUFFIX,cloudflare.tv
   - DOMAIN-SUFFIX,cloudflareaccess.com
   - DOMAIN-SUFFIX,cloudflareanycast.net

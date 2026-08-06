@@ -1,11 +1,10 @@
 # URL: https://domain-list.nosec.me/surge/otpbank.txt
 # Name: otpbank
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 13
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 12
 
 DOMAIN-SUFFIX,ckb.me
 DOMAIN-SUFFIX,dskbank.bg
-DOMAIN-SUFFIX,ipotekabank.uz
 DOMAIN-SUFFIX,ipotekabank.uz
 DOMAIN-SUFFIX,mobiasbanca.md
 DOMAIN-SUFFIX,otpbank.al

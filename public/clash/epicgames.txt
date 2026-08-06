@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/epicgames.txt
 # Name: epicgames
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 32
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 33
 
 payload:
   - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
@@ -9,6 +9,7 @@ payload:
   - DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
   - DOMAIN-SUFFIX,3lateral.com
   - DOMAIN-SUFFIX,artstation.com
+  - DOMAIN-SUFFIX,artstationmedia.com
   - DOMAIN-SUFFIX,battlebreakers.com
   - DOMAIN-SUFFIX,capturingreality.com
   - DOMAIN-SUFFIX,cubicmotion.com

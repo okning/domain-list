@@ -1,13 +1,13 @@
 # URL: https://domain-list.nosec.me/surge/tvb.txt
 # Name: tvb
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
 # Total: 14
 
 DOMAIN-SUFFIX,bigbigchannel.com.hk
 DOMAIN-SUFFIX,bigbigshop.com
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,neigbuy.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tvb.com.au
 DOMAIN-SUFFIX,tvbanywhere.com

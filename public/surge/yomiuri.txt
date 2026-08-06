@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/yomiuri.txt
 # Name: yomiuri
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 14
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 13
 
 DOMAIN-SUFFIX,chuokoron.jp
 DOMAIN-SUFFIX,fujinkoron.jp
@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,the-japan-news.com
 DOMAIN-SUFFIX,ync.ne.jp
 DOMAIN-SUFFIX,yomikyo.or.jp
 DOMAIN-SUFFIX,yomilogi.com
-DOMAIN-SUFFIX,yomiuri-johkai.co.jp
 DOMAIN-SUFFIX,yomiuri-johkai.co.jp
 DOMAIN-SUFFIX,yomiuri-ryokou.co.jp
 DOMAIN-SUFFIX,yomiuri-shimbun.pressreader.com

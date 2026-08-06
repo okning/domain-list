@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/mastercard.txt
 # Name: mastercard
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 186
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 184
 
 payload:
   - DOMAIN-SUFFIX,53world.com
@@ -130,9 +130,7 @@ payload:
   - DOMAIN-SUFFIX,myaccountglobalcash.com
   - DOMAIN-SUFFIX,mycardbenefits.com
   - DOMAIN-SUFFIX,nab.com.au
-  - DOMAIN,nab.demdex.net
   - DOMAIN-SUFFIX,nabtravellercard.com.au
-  - DOMAIN,nationalaustraliaban.tt.omtrdc.net
   - DOMAIN-SUFFIX,onedinesfree.com
   - DOMAIN-SUFFIX,pahabicilemezsurprizler.com
   - DOMAIN-SUFFIX,paypass.net

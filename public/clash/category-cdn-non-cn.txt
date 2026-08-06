@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-cdn-non-cn.txt
 # Name: category-cdn-non-cn
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 194
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 195
 
 payload:
   - DOMAIN-SUFFIX,accdn.com.cn
@@ -103,9 +103,11 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-quic.com
   - DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
+  - DOMAIN-SUFFIX,cloudflare.app
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare.dev
   - DOMAIN-SUFFIX,cloudflare.net
+  - DOMAIN-SUFFIX,cloudflare.pay
   - DOMAIN-SUFFIX,cloudflare.tv
   - DOMAIN-SUFFIX,cloudflareaccess.com
   - DOMAIN-SUFFIX,cloudflareanycast.net
@@ -197,4 +199,3 @@ payload:
   - DOMAIN-SUFFIX,vrcdn.video
   - DOMAIN-SUFFIX,warp.plus
   - DOMAIN-SUFFIX,workers.dev
-  - DOMAIN-SUFFIX,zencdn.net

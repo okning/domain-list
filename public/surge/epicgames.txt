@@ -1,13 +1,14 @@
 # URL: https://domain-list.nosec.me/surge/epicgames.txt
 # Name: epicgames
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 32
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 33
 
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 # REGEXP,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 # REGEXP,^epicgames-download\d\.akamaized\.net$
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,battlebreakers.com
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,cubicmotion.com

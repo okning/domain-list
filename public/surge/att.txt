@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/att.txt
 # Name: att
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 133
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 135
 
 DOMAIN-SUFFIX,accbusiness.com
 DOMAIN-SUFFIX,atandt.com
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attuverseoffers.com
 DOMAIN-SUFFIX,attuverseonline.com
 DOMAIN-SUFFIX,attvoip.com
+DOMAIN-SUFFIX,attwatchtv.com
 DOMAIN-SUFFIX,attwifi.com
 DOMAIN-SUFFIX,attwirelessinternet.com
 DOMAIN-SUFFIX,attwirelessonline.com
@@ -109,6 +110,7 @@ DOMAIN-SUFFIX,direectv.com
 DOMAIN-SUFFIX,diretv.com
 DOMAIN-SUFFIX,dkrecttv.com
 DOMAIN-SUFFIX,dtv2009offers.com
+DOMAIN-SUFFIX,dtvce.com
 DOMAIN-SUFFIX,enterprisepaging.com
 DOMAIN-SUFFIX,freedirecttvspecial.com
 DOMAIN-SUFFIX,getdirect.tv

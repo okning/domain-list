@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-media.txt
 # Name: category-media
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 1588
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 1583
 
 payload:
   - DOMAIN-SUFFIX,1917live.red
@@ -419,7 +419,6 @@ payload:
   - DOMAIN-SUFFIX,falungong.club
   - DOMAIN-SUFFIX,faluninfo.net
   - DOMAIN-SUFFIX,fantv.hk
-  - DOMAIN-SUFFIX,fantv.hk
   - DOMAIN-SUFFIX,fawanghuihui.org
   - DOMAIN-SUFFIX,fayuanbooks.com
   - DOMAIN-SUFFIX,fdiintelligence.com
@@ -616,8 +615,6 @@ payload:
   - DOMAIN-SUFFIX,fundfire.com
   - DOMAIN-SUFFIX,funnyordie.com
   - DOMAIN-SUFFIX,fxn.ws
-  - DOMAIN-SUFFIX,fxnetwork.com
-  - DOMAIN-SUFFIX,fxnetworks.com
   - DOMAIN-SUFFIX,g-tvapp.com
   - DOMAIN-SUFFIX,g1.com.br
   - DOMAIN-SUFFIX,ganjing.com
@@ -698,7 +695,6 @@ payload:
   - DOMAIN-SUFFIX,hketgroup.com
   - DOMAIN-SUFFIX,hkgpao.com
   - DOMAIN-SUFFIX,hkheadline.com
-  - DOMAIN-SUFFIX,hkopentv.com
   - DOMAIN-SUFFIX,hkopentv.com
   - DOMAIN-SUFFIX,hochi.news
   - DOMAIN-SUFFIX,hometrack.com.au
@@ -913,6 +909,7 @@ payload:
   - DOMAIN-SUFFIX,nbcuni.com
   - DOMAIN-SUFFIX,nbcuni.com
   - DOMAIN-SUFFIX,nbcuniversal.com
+  - DOMAIN-SUFFIX,neigbuy.com
   - DOMAIN-SUFFIX,neow.in
   - DOMAIN-SUFFIX,neowin.net
   - DOMAIN-SUFFIX,newcastlenewslocal.com.au
@@ -1410,7 +1407,6 @@ payload:
   - DOMAIN-SUFFIX,tubitv.com
   - DOMAIN-SUFFIX,tuidang.org
   - DOMAIN-SUFFIX,tvb.com
-  - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-SUFFIX,tvb.com.au
   - DOMAIN-SUFFIX,tvbanywhere.com
   - DOMAIN-SUFFIX,tvbanywhere.com.sg
@@ -1562,7 +1558,6 @@ payload:
   - DOMAIN-SUFFIX,yo1health.com
   - DOMAIN-SUFFIX,yomikyo.or.jp
   - DOMAIN-SUFFIX,yomilogi.com
-  - DOMAIN-SUFFIX,yomiuri-johkai.co.jp
   - DOMAIN-SUFFIX,yomiuri-johkai.co.jp
   - DOMAIN-SUFFIX,yomiuri-ryokou.co.jp
   - DOMAIN-SUFFIX,yomiuri-shimbun.pressreader.com

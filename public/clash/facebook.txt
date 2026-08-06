@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/facebook.txt
 # Name: facebook
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 395
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 394
 
 payload:
   - DOMAIN-SUFFIX,aboutfacebook.com
@@ -378,7 +378,6 @@ payload:
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,reachtheworldonfacebook.com
   - DOMAIN-SUFFIX,redkix.com
-  - DOMAIN-SUFFIX,rocksdb.org
   - DOMAIN-SUFFIX,shopfacebook.com
   - DOMAIN-SUFFIX,sportsfacebook.com
   - DOMAIN-SUFFIX,sportstream.com

@@ -1,9 +1,10 @@
 # URL: https://domain-list.nosec.me/clash/category-doh.txt
 # Name: category-doh
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 93
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 99
 
 payload:
+  - DOMAIN,5u35p8m9i7.cloudflare-gateway.com
   - DOMAIN,ada.openbld.net
   - DOMAIN,antivirus.bebasid.com
   - DOMAIN,basic.rethinkdns.com
@@ -17,6 +18,7 @@ payload:
   - DOMAIN,dns.adguard.com
   - DOMAIN,dns.alidns.com
   - DOMAIN,dns.arapurayil.com
+  - DOMAIN,dns.astracat.ru
   - DOMAIN,dns.bebasid.com
   - DOMAIN,dns.caliph.dev
   - DOMAIN,dns.cfiec.net
@@ -25,8 +27,11 @@ payload:
   - DOMAIN,dns.decloudus.com
   - DOMAIN,dns.digitale-gesellschaft.ch
   - DOMAIN,dns.dnswarden.com
+  - DOMAIN,dns.geohide.ru
   - DOMAIN,dns.google
   - DOMAIN,dns.jupitrdns.com
+  - DOMAIN,dns.mafioznik.xyz
+  - DOMAIN,dns.malw.link
   - DOMAIN,dns.marbledfennec.net
   - DOMAIN,dns.mullvad.net
   - DOMAIN,dns.oszx.co
@@ -96,4 +101,5 @@ payload:
   - DOMAIN,unfiltered.joindns4.eu
   - DOMAIN,v.recipes
   - DOMAIN,wikimedia-dns.org
+  - DOMAIN,xbox-dns.ru
   - DOMAIN,zero.dns0.eu

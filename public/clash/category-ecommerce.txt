@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-ecommerce.txt
 # Name: category-ecommerce
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 1284
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 1283
 
 payload:
   - DOMAIN-SUFFIX,21centuryaccess.com
@@ -412,7 +412,6 @@ payload:
   - DOMAIN-SUFFIX,ebayclassifieds.info
   - DOMAIN-SUFFIX,ebayclassifieds.org
   - DOMAIN-SUFFIX,ebayclassifieds.tv
-  - DOMAIN-SUFFIX,ebayclassifiedsgroup.com
   - DOMAIN-SUFFIX,ebayclassifiedsgroup.com
   - DOMAIN-SUFFIX,ebayclassifiedsgroup.info
   - DOMAIN-SUFFIX,ebayclassifiedsgroup.org

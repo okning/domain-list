@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-games.txt
 # Name: category-games
-# Updated: Wed, 05 Aug 2026 00:30:53 GMT
-# Total: 1113
+# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Total: 1108
 
 # REGEXP,^.+-mihayo\.akamaized\.net$
 # REGEXP,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
@@ -83,6 +83,7 @@ DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,arma3.com
 DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstorm.com
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN,assets.ppy.sh
@@ -172,7 +173,6 @@ DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,cncrivals.com
 DOMAIN-SUFFIX,codm.com
 DOMAIN-SUFFIX,commandandconquer.com
-DOMAIN-SUFFIX,commandandconquer.com
 DOMAIN-SUFFIX,conquerwithcharacter.com
 DOMAIN-SUFFIX,convrgencegame.com
 DOMAIN-SUFFIX,cowlevel.net
@@ -191,7 +191,6 @@ DOMAIN-SUFFIX,daoc.net
 DOMAIN-SUFFIX,darkageofcamelot.com
 DOMAIN-SUFFIX,darkness-risen.com
 DOMAIN,datarouter.apps.netherrealm.com
-DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,dawngatechronicles.com
 DOMAIN-SUFFIX,dayz.com
@@ -682,7 +681,6 @@ DOMAIN-SUFFIX,priconne-redive.jp
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN-SUFFIX,projectapex.com
-DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,protondb.com
 DOMAIN-SUFFIX,proximabeta.com
 DOMAIN-SUFFIX,pubg.com
@@ -693,7 +691,6 @@ DOMAIN-SUFFIX,pubgtool.com
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,pvp.tv
 DOMAIN-SUFFIX,pvzgw2.com
-DOMAIN-SUFFIX,pvzheroes.com
 DOMAIN-SUFFIX,pvzheroes.com
 DOMAIN-SUFFIX,qq163.com
 DOMAIN-SUFFIX,qq163.net
@@ -810,7 +807,6 @@ DOMAIN-SUFFIX,snk-corp.co.jp
 DOMAIN-SUFFIX,snk-corp.info
 DOMAIN-SUFFIX,snkplaymore.info
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,spearhead.kr
 DOMAIN,spectator.ppy.sh
 DOMAIN-SUFFIX,speedhunters.com
@@ -932,7 +928,6 @@ DOMAIN-SUFFIX,thesimssocial.com
 DOMAIN-SUFFIX,thewonderful101.com
 DOMAIN-SUFFIX,tiancity.com
 DOMAIN-SUFFIX,tiancitycdn.com
-DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,tiburon.com
 DOMAIN-SUFFIX,timibase.com
