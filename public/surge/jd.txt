@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/jd.txt
 # Name: jd
-# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Updated: Fri, 07 Aug 2026 01:13:15 GMT
 # Total: 235
 
 DOMAIN-SUFFIX,1huizhan.com

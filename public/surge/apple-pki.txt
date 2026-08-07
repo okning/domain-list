@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/apple-pki.txt
 # Name: apple-pki
-# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Updated: Fri, 07 Aug 2026 01:13:15 GMT
 # Total: 8
 
 DOMAIN,certs-lb.apple.com.akadns.net

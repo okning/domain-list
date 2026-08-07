@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/test-ipv6.txt
 # Name: test-ipv6
-# Updated: Thu, 06 Aug 2026 00:27:18 GMT
+# Updated: Fri, 07 Aug 2026 01:13:15 GMT
 # Total: 25
 
 DOMAIN-SUFFIX,sixte.st
