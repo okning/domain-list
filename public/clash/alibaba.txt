@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/alibaba.txt
 # Name: alibaba
-# Updated: Fri, 07 Aug 2026 01:13:15 GMT
-# Total: 366
+# Updated: Sat, 08 Aug 2026 00:16:05 GMT
+# Total: 372
 
 payload:
   - DOMAIN-SUFFIX,11222.cn
@@ -139,7 +139,11 @@ payload:
   - DOMAIN-SUFFIX,cdngslb.com
   - DOMAIN-SUFFIX,cheng.xin
   - DOMAIN-SUFFIX,cloudeagle.cn
+  - DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
   - DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com
   - DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
   - DOMAIN-SUFFIX,cnzz.com
   - DOMAIN-SUFFIX,cueme.cn
@@ -189,6 +193,7 @@ payload:
   - DOMAIN-SUFFIX,hemaos.com
   - DOMAIN-SUFFIX,hemashare.cn
   - DOMAIN-SUFFIX,hichina.com
+  - DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
   - DOMAIN-SUFFIX,hupan.com
   - DOMAIN-SUFFIX,hzchengdun.com
   - DOMAIN-SUFFIX,hzchengdun.net
@@ -296,6 +301,7 @@ payload:
   - DOMAIN-SUFFIX,puata.info
   - DOMAIN-SUFFIX,qingtingtrip.com
   - DOMAIN-SUFFIX,quark.cn
+  - DOMAIN-SUFFIX,registry.aliyuncs.com
   - DOMAIN-SUFFIX,rexpos.cn
   - DOMAIN-SUFFIX,saee.org.cn
   - DOMAIN-SUFFIX,shejijia.com

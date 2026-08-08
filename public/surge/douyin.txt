@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/douyin.txt
 # Name: douyin
-# Updated: Fri, 07 Aug 2026 01:13:15 GMT
-# Total: 68
+# Updated: Sat, 08 Aug 2026 00:16:05 GMT
+# Total: 71
 
 DOMAIN-SUFFIX,activity-wbsj.com
 DOMAIN-SUFFIX,aihst8.com
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyinact.com
 DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,douyinpay.com
@@ -58,6 +59,7 @@ DOMAIN-SUFFIX,ihuoshanstatic.com
 DOMAIN-SUFFIX,ihuoshanvod.com
 DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,kolbuyer.cn
+DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,nextvid.net
 DOMAIN-SUFFIX,open-douyin.com
 DOMAIN-SUFFIX,ppkankan01.com
@@ -68,6 +70,7 @@ DOMAIN-SUFFIX,qishuimusic.cn
 DOMAIN-SUFFIX,qishuimusic.com.cn
 DOMAIN-SUFFIX,supercachenet.com
 DOMAIN-SUFFIX,supercachenode.com
+DOMAIN-SUFFIX,ulpay.com
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com

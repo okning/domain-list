@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/9to5.txt
 # Name: 9to5
-# Updated: Fri, 07 Aug 2026 01:13:15 GMT
+# Updated: Sat, 08 Aug 2026 00:16:05 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,9to5google.com

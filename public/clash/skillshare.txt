@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/skillshare.txt
 # Name: skillshare
-# Updated: Fri, 07 Aug 2026 01:13:15 GMT
+# Updated: Sat, 08 Aug 2026 00:16:05 GMT
 # Total: 1
 
 payload:

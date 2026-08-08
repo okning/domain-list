@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/aliyun.txt
 # Name: aliyun
-# Updated: Fri, 07 Aug 2026 01:13:15 GMT
-# Total: 74
+# Updated: Sat, 08 Aug 2026 00:16:05 GMT
+# Total: 80
 
 payload:
   - DOMAIN-SUFFIX,adash.man.aliyuncs.com
@@ -23,10 +23,15 @@ payload:
   - DOMAIN-SUFFIX,aliyunpds.com
   - DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
   - DOMAIN-SUFFIX,cdngslb.com
+  - DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
   - DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com
   - DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
   - DOMAIN-SUFFIX,fcapp.run
   - DOMAIN-SUFFIX,hichina.com
+  - DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
   - DOMAIN-SUFFIX,ica-alliance.org
   - DOMAIN-SUFFIX,kunlunaq.com
   - DOMAIN-SUFFIX,kunlunar.com
@@ -78,3 +83,4 @@ payload:
   - DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+  - DOMAIN-SUFFIX,registry.aliyuncs.com

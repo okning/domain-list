@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/bytedance.txt
 # Name: bytedance
-# Updated: Fri, 07 Aug 2026 01:13:15 GMT
-# Total: 900
+# Updated: Sat, 08 Aug 2026 00:16:05 GMT
+# Total: 911
 
 payload:
   - DOMAIN-SUFFIX,365yg.com
@@ -86,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,building.fun
   - DOMAIN-SUFFIX,butterfly-static.cn
   - DOMAIN-SUFFIX,butterflyai.cn
+  - DOMAIN-SUFFIX,buydouke.com
   - DOMAIN-SUFFIX,bvfcdn.com
   - DOMAIN-SUFFIX,bvfcdn2.com
   - DOMAIN-SUFFIX,bvfcdn3.com
@@ -207,6 +208,7 @@ payload:
   - DOMAIN-SUFFIX,bytetraffic.net
   - DOMAIN-SUFFIX,bytetstatic.com
   - DOMAIN-SUFFIX,bytetstatic.net
+  - DOMAIN-SUFFIX,byteurl.cn
   - DOMAIN-SUFFIX,bytevalk.com
   - DOMAIN-SUFFIX,bytevcloudapi.com
   - DOMAIN-SUFFIX,bytevcloudvod.com
@@ -221,6 +223,7 @@ payload:
   - DOMAIN-SUFFIX,bytexservice.com
   - DOMAIN-SUFFIX,cache4ever.com
   - DOMAIN-SUFFIX,cache666.com
+  - DOMAIN-SUFFIX,capcut.cn
   - DOMAIN-SUFFIX,capcut.com
   - DOMAIN-SUFFIX,capcutcdn-us.com
   - DOMAIN-SUFFIX,cdnbuild.com
@@ -257,6 +260,7 @@ payload:
   - DOMAIN-SUFFIX,cozetest3.cn
   - DOMAIN-SUFFIX,csjplatform.com
   - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOMAIN-SUFFIX,dailygn.com
   - DOMAIN-SUFFIX,datawindexmarket.com
   - DOMAIN-SUFFIX,dbbuilding.fun
   - DOMAIN-SUFFIX,dcarapi.com
@@ -293,10 +297,13 @@ payload:
   - DOMAIN-SUFFIX,dycloud.run
   - DOMAIN-SUFFIX,dycloudbk.com
   - DOMAIN-SUFFIX,ecombdapi.com
+  - DOMAIN-SUFFIX,ecombdimg.com
   - DOMAIN-SUFFIX,ecombdstatic.com
+  - DOMAIN-SUFFIX,ecombdvod.com
   - DOMAIN-SUFFIX,edgeceler.com
   - DOMAIN-SUFFIX,emr-volces.com
   - DOMAIN-SUFFIX,faceu.com
+  - DOMAIN-SUFFIX,faceu.mobi
   - DOMAIN-SUFFIX,falconsending.com
   - DOMAIN-SUFFIX,fanqiecopyright.com
   - DOMAIN-SUFFIX,fanqienovel.com
@@ -471,6 +478,7 @@ payload:
   - DOMAIN-SUFFIX,larksuiteimg-pre.com
   - DOMAIN-SUFFIX,larksuiteimg.com
   - DOMAIN-SUFFIX,larkvc.com
+  - DOMAIN-SUFFIX,lifexue.com
   - DOMAIN-SUFFIX,livecdnstatic.com
   - DOMAIN-SUFFIX,livesaascdn.com
   - DOMAIN-SUFFIX,livesaasvolccdn.com
@@ -503,9 +511,11 @@ payload:
   - DOMAIN-SUFFIX,novelfmpic.com
   - DOMAIN-SUFFIX,novelfmstatic.com
   - DOMAIN-SUFFIX,novelfmvod.com
+  - DOMAIN-SUFFIX,nvsgames.cn
   - DOMAIN-SUFFIX,obriccloud.com
   - DOMAIN-SUFFIX,obricclouddw.com
   - DOMAIN-SUFFIX,oceancloudapi.com
+  - DOMAIN-SUFFIX,oceanengine.com
   - DOMAIN-SUFFIX,okr.cn
   - DOMAIN-SUFFIX,okr.com
   - DOMAIN-SUFFIX,okr.com.cn
@@ -668,6 +678,7 @@ payload:
   - DOMAIN-SUFFIX,ttwstatic.com
   - DOMAIN-SUFFIX,ugshare-img.com
   - DOMAIN-SUFFIX,ulikecam.com
+  - DOMAIN-SUFFIX,ulpay.com
   - DOMAIN-SUFFIX,ultracachenode.com
   - DOMAIN-SUFFIX,v2ig.cn
   - DOMAIN-SUFFIX,v2mg.cn

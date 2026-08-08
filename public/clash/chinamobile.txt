@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/chinamobile.txt
 # Name: chinamobile
-# Updated: Fri, 07 Aug 2026 01:13:15 GMT
-# Total: 25
+# Updated: Sat, 08 Aug 2026 00:16:05 GMT
+# Total: 30
 
 payload:
   - DOMAIN-SUFFIX,10086.cn
@@ -9,8 +9,10 @@ payload:
   - DOMAIN-SUFFIX,andfx.cn
   - DOMAIN-SUFFIX,andfx.net
   - DOMAIN-SUFFIX,chinamobile.com
+  - DOMAIN-SUFFIX,chinamobiledevice.com
   - DOMAIN-SUFFIX,chinamobileltd.com
   - DOMAIN-SUFFIX,cmcc-cs.cn
+  - DOMAIN-SUFFIX,cmdcxls.com
   - DOMAIN-SUFFIX,cmft.com.cn
   - DOMAIN-SUFFIX,cmicapm.com
   - DOMAIN-SUFFIX,cmicrwx.cn
@@ -19,9 +21,11 @@ payload:
   - DOMAIN-SUFFIX,cmpay.com
   - DOMAIN-SUFFIX,cmread.com
   - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,cxzx10086.cn
   - DOMAIN-SUFFIX,cytxl.com.cn
   - DOMAIN-SUFFIX,fetion-portal.com
   - DOMAIN-SUFFIX,fetionpic.com
+  - DOMAIN-SUFFIX,fxltsbl.com
   - DOMAIN-SUFFIX,migu.cn
   - DOMAIN-SUFFIX,migucloud.com
   - DOMAIN-SUFFIX,migufun.com
@@ -29,3 +33,4 @@ payload:
   - DOMAIN-SUFFIX,mmarket.com
   - DOMAIN-SUFFIX,mmarket6.com
   - DOMAIN-SUFFIX,online-cmcc.cn
+  - DOMAIN-SUFFIX,zdsdp.com
