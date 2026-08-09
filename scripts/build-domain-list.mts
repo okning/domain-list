@@ -23,12 +23,20 @@ interface Entry {
   plain: string;
 }
 
+interface RuleManifestEntry {
+  name: string;
+  clash: string;
+  surge: string;
+}
+
 class Processor {
   private parsed: Map<string, Entry[]> = new Map();
   private final: Map<string, Entry[]> = new Map();
 
   public dump() {
-    const date = new Date().toUTCString();
+    const generatedAt = new Date();
+    const date = generatedAt.toUTCString();
+    const rules: RuleManifestEntry[] = [];
 
     fs.mkdirSync(path.join(TARGET_BASE_PATH, "surge"), { recursive: true });
     fs.mkdirSync(path.join(TARGET_BASE_PATH, "clash"), { recursive: true });
@@ -37,7 +45,14 @@ class Processor {
       const newName = name.replace("!", "non-");
       this.dumpSurge(newName, date, entries);
       this.dumpClash(newName, date, entries);
+      rules.push({
+        name: newName,
+        clash: `/clash/${newName}.txt`,
+        surge: `/surge/${newName}.txt`,
+      });
     }
+
+    this.dumpManifest(generatedAt, rules);
   }
 
   public load(source: string) {
@@ -98,6 +113,20 @@ class Processor {
     }
 
     fs.writeFileSync(path.join(TARGET_BASE_PATH, "clash", `${name}.txt`), lines.join("\n"));
+  }
+
+  private dumpManifest(generatedAt: Date, rules: RuleManifestEntry[]) {
+    const manifest = {
+      schemaVersion: 1,
+      generatedAt: generatedAt.toISOString(),
+      baseUrl: BASE_URL,
+      rules: rules.sort((left, right) => left.name.localeCompare(right.name)),
+    };
+
+    fs.writeFileSync(
+      path.join(TARGET_BASE_PATH, "manifest.json"),
+      `${JSON.stringify(manifest, null, 2)}\n`
+    );
   }
 
   private header(app: string, name: string, date: string, total: number): string[] {

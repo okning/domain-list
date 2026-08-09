@@ -6,6 +6,7 @@ A list of domains applicable to surge and clash, generated based on [v2fly/domai
 
 - https://domain-list.nosec.me/surge/{name}.txt
 - https://domain-list.nosec.me/clash/{name}.txt
+- https://domain-list.nosec.me/manifest.json
 
 ## Examples
 
