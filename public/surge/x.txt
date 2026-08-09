@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/x.txt
 # Name: x
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 27
 
 DOMAIN-SUFFIX,ads-twitter.com

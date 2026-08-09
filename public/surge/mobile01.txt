@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/mobile01.txt
 # Name: mobile01
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,5i01.com

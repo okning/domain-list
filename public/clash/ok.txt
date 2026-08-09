@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/ok.txt
 # Name: ok
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 19
 
 payload:

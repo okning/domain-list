@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/ucoz.txt
 # Name: ucoz
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 37
 
 DOMAIN-SUFFIX,at.ua

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/apple.txt
 # Name: apple
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 1568
 
 DOMAIN-SUFFIX,100beatscheap.com

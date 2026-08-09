@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-doh.txt
 # Name: category-doh
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 99
 
 DOMAIN,5u35p8m9i7.cloudflare-gateway.com

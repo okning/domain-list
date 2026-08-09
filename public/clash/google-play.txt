@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/google-play.txt
 # Name: google-play
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 9
 
 payload:

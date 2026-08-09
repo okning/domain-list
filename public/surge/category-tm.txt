@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-tm.txt
 # Name: category-tm
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 72
 
 DOMAIN-SUFFIX,100haryt.com

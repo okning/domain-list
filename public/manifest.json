@@ -1,0 +1,7672 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T21:38:01.253Z",
+  "baseUrl": "https://domain-list.nosec.me",
+  "rules": [
+    {
+      "name": "0x0",
+      "clash": "/clash/0x0.txt",
+      "surge": "/surge/0x0.txt"
+    },
+    {
+      "name": "115",
+      "clash": "/clash/115.txt",
+      "surge": "/surge/115.txt"
+    },
+    {
+      "name": "1337x",
+      "clash": "/clash/1337x.txt",
+      "surge": "/surge/1337x.txt"
+    },
+    {
+      "name": "17zuoye",
+      "clash": "/clash/17zuoye.txt",
+      "surge": "/surge/17zuoye.txt"
+    },
+    {
+      "name": "18comic",
+      "clash": "/clash/18comic.txt",
+      "surge": "/surge/18comic.txt"
+    },
+    {
+      "name": "2ch",
+      "clash": "/clash/2ch.txt",
+      "surge": "/surge/2ch.txt"
+    },
+    {
+      "name": "2gis",
+      "clash": "/clash/2gis.txt",
+      "surge": "/surge/2gis.txt"
+    },
+    {
+      "name": "2kgames",
+      "clash": "/clash/2kgames.txt",
+      "surge": "/surge/2kgames.txt"
+    },
+    {
+      "name": "36kr",
+      "clash": "/clash/36kr.txt",
+      "surge": "/surge/36kr.txt"
+    },
+    {
+      "name": "4399",
+      "clash": "/clash/4399.txt",
+      "surge": "/surge/4399.txt"
+    },
+    {
+      "name": "4chan",
+      "clash": "/clash/4chan.txt",
+      "surge": "/surge/4chan.txt"
+    },
+    {
+      "name": "4pda",
+      "clash": "/clash/4pda.txt",
+      "surge": "/surge/4pda.txt"
+    },
+    {
+      "name": "4plebs",
+      "clash": "/clash/4plebs.txt",
+      "surge": "/surge/4plebs.txt"
+    },
+    {
+      "name": "51job",
+      "clash": "/clash/51job.txt",
+      "surge": "/surge/51job.txt"
+    },
+    {
+      "name": "54647",
+      "clash": "/clash/54647.txt",
+      "surge": "/surge/54647.txt"
+    },
+    {
+      "name": "58tongcheng",
+      "clash": "/clash/58tongcheng.txt",
+      "surge": "/surge/58tongcheng.txt"
+    },
+    {
+      "name": "5ch",
+      "clash": "/clash/5ch.txt",
+      "surge": "/surge/5ch.txt"
+    },
+    {
+      "name": "6park",
+      "clash": "/clash/6park.txt",
+      "surge": "/surge/6park.txt"
+    },
+    {
+      "name": "7tv",
+      "clash": "/clash/7tv.txt",
+      "surge": "/surge/7tv.txt"
+    },
+    {
+      "name": "800best",
+      "clash": "/clash/800best.txt",
+      "surge": "/surge/800best.txt"
+    },
+    {
+      "name": "8btc",
+      "clash": "/clash/8btc.txt",
+      "surge": "/surge/8btc.txt"
+    },
+    {
+      "name": "928plus",
+      "clash": "/clash/928plus.txt",
+      "surge": "/surge/928plus.txt"
+    },
+    {
+      "name": "9news",
+      "clash": "/clash/9news.txt",
+      "surge": "/surge/9news.txt"
+    },
+    {
+      "name": "9to5",
+      "clash": "/clash/9to5.txt",
+      "surge": "/surge/9to5.txt"
+    },
+    {
+      "name": "aamgame",
+      "clash": "/clash/aamgame.txt",
+      "surge": "/surge/aamgame.txt"
+    },
+    {
+      "name": "abc",
+      "clash": "/clash/abc.txt",
+      "surge": "/surge/abc.txt"
+    },
+    {
+      "name": "abema",
+      "clash": "/clash/abema.txt",
+      "surge": "/surge/abema.txt"
+    },
+    {
+      "name": "accuweather",
+      "clash": "/clash/accuweather.txt",
+      "surge": "/surge/accuweather.txt"
+    },
+    {
+      "name": "acer",
+      "clash": "/clash/acer.txt",
+      "surge": "/surge/acer.txt"
+    },
+    {
+      "name": "acfun",
+      "clash": "/clash/acfun.txt",
+      "surge": "/surge/acfun.txt"
+    },
+    {
+      "name": "actalis",
+      "clash": "/clash/actalis.txt",
+      "surge": "/surge/actalis.txt"
+    },
+    {
+      "name": "adblock",
+      "clash": "/clash/adblock.txt",
+      "surge": "/surge/adblock.txt"
+    },
+    {
+      "name": "adblockplus",
+      "clash": "/clash/adblockplus.txt",
+      "surge": "/surge/adblockplus.txt"
+    },
+    {
+      "name": "addthis",
+      "clash": "/clash/addthis.txt",
+      "surge": "/surge/addthis.txt"
+    },
+    {
+      "name": "addtoany",
+      "clash": "/clash/addtoany.txt",
+      "surge": "/surge/addtoany.txt"
+    },
+    {
+      "name": "adguard",
+      "clash": "/clash/adguard.txt",
+      "surge": "/surge/adguard.txt"
+    },
+    {
+      "name": "adidas",
+      "clash": "/clash/adidas.txt",
+      "surge": "/surge/adidas.txt"
+    },
+    {
+      "name": "adjust",
+      "clash": "/clash/adjust.txt",
+      "surge": "/surge/adjust.txt"
+    },
+    {
+      "name": "adobe",
+      "clash": "/clash/adobe.txt",
+      "surge": "/surge/adobe.txt"
+    },
+    {
+      "name": "adobe-activation",
+      "clash": "/clash/adobe-activation.txt",
+      "surge": "/surge/adobe-activation.txt"
+    },
+    {
+      "name": "aerogard",
+      "clash": "/clash/aerogard.txt",
+      "surge": "/surge/aerogard.txt"
+    },
+    {
+      "name": "afdian",
+      "clash": "/clash/afdian.txt",
+      "surge": "/surge/afdian.txt"
+    },
+    {
+      "name": "afp",
+      "clash": "/clash/afp.txt",
+      "surge": "/surge/afp.txt"
+    },
+    {
+      "name": "agilebits",
+      "clash": "/clash/agilebits.txt",
+      "surge": "/surge/agilebits.txt"
+    },
+    {
+      "name": "agora",
+      "clash": "/clash/agora.txt",
+      "surge": "/surge/agora.txt"
+    },
+    {
+      "name": "aiqicha",
+      "clash": "/clash/aiqicha.txt",
+      "surge": "/surge/aiqicha.txt"
+    },
+    {
+      "name": "airbnb",
+      "clash": "/clash/airbnb.txt",
+      "surge": "/surge/airbnb.txt"
+    },
+    {
+      "name": "airchina",
+      "clash": "/clash/airchina.txt",
+      "surge": "/surge/airchina.txt"
+    },
+    {
+      "name": "airwick",
+      "clash": "/clash/airwick.txt",
+      "surge": "/surge/airwick.txt"
+    },
+    {
+      "name": "aisiku",
+      "clash": "/clash/aisiku.txt",
+      "surge": "/surge/aisiku.txt"
+    },
+    {
+      "name": "aixcoder",
+      "clash": "/clash/aixcoder.txt",
+      "surge": "/surge/aixcoder.txt"
+    },
+    {
+      "name": "akamai",
+      "clash": "/clash/akamai.txt",
+      "surge": "/surge/akamai.txt"
+    },
+    {
+      "name": "akiko",
+      "clash": "/clash/akiko.txt",
+      "surge": "/surge/akiko.txt"
+    },
+    {
+      "name": "alibaba",
+      "clash": "/clash/alibaba.txt",
+      "surge": "/surge/alibaba.txt"
+    },
+    {
+      "name": "alibabacloud",
+      "clash": "/clash/alibabacloud.txt",
+      "surge": "/surge/alibabacloud.txt"
+    },
+    {
+      "name": "aligames",
+      "clash": "/clash/aligames.txt",
+      "surge": "/surge/aligames.txt"
+    },
+    {
+      "name": "aliyun",
+      "clash": "/clash/aliyun.txt",
+      "surge": "/surge/aliyun.txt"
+    },
+    {
+      "name": "aliyun-drive",
+      "clash": "/clash/aliyun-drive.txt",
+      "surge": "/surge/aliyun-drive.txt"
+    },
+    {
+      "name": "aljazeera",
+      "clash": "/clash/aljazeera.txt",
+      "surge": "/surge/aljazeera.txt"
+    },
+    {
+      "name": "alphabet",
+      "clash": "/clash/alphabet.txt",
+      "surge": "/surge/alphabet.txt"
+    },
+    {
+      "name": "amap",
+      "clash": "/clash/amap.txt",
+      "surge": "/surge/amap.txt"
+    },
+    {
+      "name": "amazon",
+      "clash": "/clash/amazon.txt",
+      "surge": "/surge/amazon.txt"
+    },
+    {
+      "name": "amazontrust",
+      "clash": "/clash/amazontrust.txt",
+      "surge": "/surge/amazontrust.txt"
+    },
+    {
+      "name": "amc",
+      "clash": "/clash/amc.txt",
+      "surge": "/surge/amc.txt"
+    },
+    {
+      "name": "amd",
+      "clash": "/clash/amd.txt",
+      "surge": "/surge/amd.txt"
+    },
+    {
+      "name": "amp",
+      "clash": "/clash/amp.txt",
+      "surge": "/surge/amp.txt"
+    },
+    {
+      "name": "anaconda",
+      "clash": "/clash/anaconda.txt",
+      "surge": "/surge/anaconda.txt"
+    },
+    {
+      "name": "anandtech",
+      "clash": "/clash/anandtech.txt",
+      "surge": "/surge/anandtech.txt"
+    },
+    {
+      "name": "android",
+      "clash": "/clash/android.txt",
+      "surge": "/surge/android.txt"
+    },
+    {
+      "name": "anexia",
+      "clash": "/clash/anexia.txt",
+      "surge": "/surge/anexia.txt"
+    },
+    {
+      "name": "anime",
+      "clash": "/clash/anime.txt",
+      "surge": "/surge/anime.txt"
+    },
+    {
+      "name": "anker",
+      "clash": "/clash/anker.txt",
+      "surge": "/surge/anker.txt"
+    },
+    {
+      "name": "annas-archive",
+      "clash": "/clash/annas-archive.txt",
+      "surge": "/surge/annas-archive.txt"
+    },
+    {
+      "name": "anon-v",
+      "clash": "/clash/anon-v.txt",
+      "surge": "/surge/anon-v.txt"
+    },
+    {
+      "name": "anthropic",
+      "clash": "/clash/anthropic.txt",
+      "surge": "/surge/anthropic.txt"
+    },
+    {
+      "name": "ap",
+      "clash": "/clash/ap.txt",
+      "surge": "/surge/ap.txt"
+    },
+    {
+      "name": "apa",
+      "clash": "/clash/apa.txt",
+      "surge": "/surge/apa.txt"
+    },
+    {
+      "name": "aparat",
+      "clash": "/clash/aparat.txt",
+      "surge": "/surge/aparat.txt"
+    },
+    {
+      "name": "apifox",
+      "clash": "/clash/apifox.txt",
+      "surge": "/surge/apifox.txt"
+    },
+    {
+      "name": "apipost",
+      "clash": "/clash/apipost.txt",
+      "surge": "/surge/apipost.txt"
+    },
+    {
+      "name": "apkcombo",
+      "clash": "/clash/apkcombo.txt",
+      "surge": "/surge/apkcombo.txt"
+    },
+    {
+      "name": "apkmirror",
+      "clash": "/clash/apkmirror.txt",
+      "surge": "/surge/apkmirror.txt"
+    },
+    {
+      "name": "apkpure",
+      "clash": "/clash/apkpure.txt",
+      "surge": "/surge/apkpure.txt"
+    },
+    {
+      "name": "apple",
+      "clash": "/clash/apple.txt",
+      "surge": "/surge/apple.txt"
+    },
+    {
+      "name": "apple-dev",
+      "clash": "/clash/apple-dev.txt",
+      "surge": "/surge/apple-dev.txt"
+    },
+    {
+      "name": "apple-intelligence",
+      "clash": "/clash/apple-intelligence.txt",
+      "surge": "/surge/apple-intelligence.txt"
+    },
+    {
+      "name": "apple-music",
+      "clash": "/clash/apple-music.txt",
+      "surge": "/surge/apple-music.txt"
+    },
+    {
+      "name": "apple-pki",
+      "clash": "/clash/apple-pki.txt",
+      "surge": "/surge/apple-pki.txt"
+    },
+    {
+      "name": "apple-podcasts",
+      "clash": "/clash/apple-podcasts.txt",
+      "surge": "/surge/apple-podcasts.txt"
+    },
+    {
+      "name": "apple-tvplus",
+      "clash": "/clash/apple-tvplus.txt",
+      "surge": "/surge/apple-tvplus.txt"
+    },
+    {
+      "name": "apple-update",
+      "clash": "/clash/apple-update.txt",
+      "surge": "/surge/apple-update.txt"
+    },
+    {
+      "name": "appledaily",
+      "clash": "/clash/appledaily.txt",
+      "surge": "/surge/appledaily.txt"
+    },
+    {
+      "name": "applysquare",
+      "clash": "/clash/applysquare.txt",
+      "surge": "/surge/applysquare.txt"
+    },
+    {
+      "name": "aptoide",
+      "clash": "/clash/aptoide.txt",
+      "surge": "/surge/aptoide.txt"
+    },
+    {
+      "name": "archive",
+      "clash": "/clash/archive.txt",
+      "surge": "/surge/archive.txt"
+    },
+    {
+      "name": "archiveofourown",
+      "clash": "/clash/archiveofourown.txt",
+      "surge": "/surge/archiveofourown.txt"
+    },
+    {
+      "name": "archivetoday",
+      "clash": "/clash/archivetoday.txt",
+      "surge": "/surge/archivetoday.txt"
+    },
+    {
+      "name": "archlinux",
+      "clash": "/clash/archlinux.txt",
+      "surge": "/surge/archlinux.txt"
+    },
+    {
+      "name": "arphic",
+      "clash": "/clash/arphic.txt",
+      "surge": "/surge/arphic.txt"
+    },
+    {
+      "name": "artstation",
+      "clash": "/clash/artstation.txt",
+      "surge": "/surge/artstation.txt"
+    },
+    {
+      "name": "asahi",
+      "clash": "/clash/asahi.txt",
+      "surge": "/surge/asahi.txt"
+    },
+    {
+      "name": "askdiandian",
+      "clash": "/clash/askdiandian.txt",
+      "surge": "/surge/askdiandian.txt"
+    },
+    {
+      "name": "asobo",
+      "clash": "/clash/asobo.txt",
+      "surge": "/surge/asobo.txt"
+    },
+    {
+      "name": "asproex",
+      "clash": "/clash/asproex.txt",
+      "surge": "/surge/asproex.txt"
+    },
+    {
+      "name": "asus",
+      "clash": "/clash/asus.txt",
+      "surge": "/surge/asus.txt"
+    },
+    {
+      "name": "atlassian",
+      "clash": "/clash/atlassian.txt",
+      "surge": "/surge/atlassian.txt"
+    },
+    {
+      "name": "att",
+      "clash": "/clash/att.txt",
+      "surge": "/surge/att.txt"
+    },
+    {
+      "name": "attwatchtv",
+      "clash": "/clash/attwatchtv.txt",
+      "surge": "/surge/attwatchtv.txt"
+    },
+    {
+      "name": "autodesk",
+      "clash": "/clash/autodesk.txt",
+      "surge": "/surge/autodesk.txt"
+    },
+    {
+      "name": "autoru",
+      "clash": "/clash/autoru.txt",
+      "surge": "/surge/autoru.txt"
+    },
+    {
+      "name": "auxgroup",
+      "clash": "/clash/auxgroup.txt",
+      "surge": "/surge/auxgroup.txt"
+    },
+    {
+      "name": "avaxhome",
+      "clash": "/clash/avaxhome.txt",
+      "surge": "/surge/avaxhome.txt"
+    },
+    {
+      "name": "aviasales",
+      "clash": "/clash/aviasales.txt",
+      "surge": "/surge/aviasales.txt"
+    },
+    {
+      "name": "avito",
+      "clash": "/clash/avito.txt",
+      "surge": "/surge/avito.txt"
+    },
+    {
+      "name": "avmoo",
+      "clash": "/clash/avmoo.txt",
+      "surge": "/surge/avmoo.txt"
+    },
+    {
+      "name": "awempire",
+      "clash": "/clash/awempire.txt",
+      "surge": "/surge/awempire.txt"
+    },
+    {
+      "name": "aws",
+      "clash": "/clash/aws.txt",
+      "surge": "/surge/aws.txt"
+    },
+    {
+      "name": "aws-cn",
+      "clash": "/clash/aws-cn.txt",
+      "surge": "/surge/aws-cn.txt"
+    },
+    {
+      "name": "azure",
+      "clash": "/clash/azure.txt",
+      "surge": "/surge/azure.txt"
+    },
+    {
+      "name": "b3log",
+      "clash": "/clash/b3log.txt",
+      "surge": "/surge/b3log.txt"
+    },
+    {
+      "name": "bahamut",
+      "clash": "/clash/bahamut.txt",
+      "surge": "/surge/bahamut.txt"
+    },
+    {
+      "name": "baidu",
+      "clash": "/clash/baidu.txt",
+      "surge": "/surge/baidu.txt"
+    },
+    {
+      "name": "baishancloud",
+      "clash": "/clash/baishancloud.txt",
+      "surge": "/surge/baishancloud.txt"
+    },
+    {
+      "name": "baltamatica",
+      "clash": "/clash/baltamatica.txt",
+      "surge": "/surge/baltamatica.txt"
+    },
+    {
+      "name": "bamtech",
+      "clash": "/clash/bamtech.txt",
+      "surge": "/surge/bamtech.txt"
+    },
+    {
+      "name": "bandcamp",
+      "clash": "/clash/bandcamp.txt",
+      "surge": "/surge/bandcamp.txt"
+    },
+    {
+      "name": "bandwagonhost",
+      "clash": "/clash/bandwagonhost.txt",
+      "surge": "/surge/bandwagonhost.txt"
+    },
+    {
+      "name": "bangumi",
+      "clash": "/clash/bangumi.txt",
+      "surge": "/surge/bangumi.txt"
+    },
+    {
+      "name": "barrons",
+      "clash": "/clash/barrons.txt",
+      "surge": "/surge/barrons.txt"
+    },
+    {
+      "name": "bbc",
+      "clash": "/clash/bbc.txt",
+      "surge": "/surge/bbc.txt"
+    },
+    {
+      "name": "bdsmhub",
+      "clash": "/clash/bdsmhub.txt",
+      "surge": "/surge/bdsmhub.txt"
+    },
+    {
+      "name": "beats",
+      "clash": "/clash/beats.txt",
+      "surge": "/surge/beats.txt"
+    },
+    {
+      "name": "beget",
+      "clash": "/clash/beget.txt",
+      "surge": "/surge/beget.txt"
+    },
+    {
+      "name": "beisen",
+      "clash": "/clash/beisen.txt",
+      "surge": "/surge/beisen.txt"
+    },
+    {
+      "name": "bestbuy",
+      "clash": "/clash/bestbuy.txt",
+      "surge": "/surge/bestbuy.txt"
+    },
+    {
+      "name": "bestchange",
+      "clash": "/clash/bestchange.txt",
+      "surge": "/surge/bestchange.txt"
+    },
+    {
+      "name": "bestore",
+      "clash": "/clash/bestore.txt",
+      "surge": "/surge/bestore.txt"
+    },
+    {
+      "name": "bestv",
+      "clash": "/clash/bestv.txt",
+      "surge": "/surge/bestv.txt"
+    },
+    {
+      "name": "betboom",
+      "clash": "/clash/betboom.txt",
+      "surge": "/surge/betboom.txt"
+    },
+    {
+      "name": "bethesda",
+      "clash": "/clash/bethesda.txt",
+      "surge": "/surge/bethesda.txt"
+    },
+    {
+      "name": "betterexplained",
+      "clash": "/clash/betterexplained.txt",
+      "surge": "/surge/betterexplained.txt"
+    },
+    {
+      "name": "bilibili",
+      "clash": "/clash/bilibili.txt",
+      "surge": "/surge/bilibili.txt"
+    },
+    {
+      "name": "bilibili-cdn",
+      "clash": "/clash/bilibili-cdn.txt",
+      "surge": "/surge/bilibili-cdn.txt"
+    },
+    {
+      "name": "bilibili-game",
+      "clash": "/clash/bilibili-game.txt",
+      "surge": "/surge/bilibili-game.txt"
+    },
+    {
+      "name": "bilibili2",
+      "clash": "/clash/bilibili2.txt",
+      "surge": "/surge/bilibili2.txt"
+    },
+    {
+      "name": "binance",
+      "clash": "/clash/binance.txt",
+      "surge": "/surge/binance.txt"
+    },
+    {
+      "name": "bing",
+      "clash": "/clash/bing.txt",
+      "surge": "/surge/bing.txt"
+    },
+    {
+      "name": "bitauto",
+      "clash": "/clash/bitauto.txt",
+      "surge": "/surge/bitauto.txt"
+    },
+    {
+      "name": "bitflyer",
+      "clash": "/clash/bitflyer.txt",
+      "surge": "/surge/bitflyer.txt"
+    },
+    {
+      "name": "bitly",
+      "clash": "/clash/bitly.txt",
+      "surge": "/surge/bitly.txt"
+    },
+    {
+      "name": "bitsquare",
+      "clash": "/clash/bitsquare.txt",
+      "surge": "/surge/bitsquare.txt"
+    },
+    {
+      "name": "bitwarden",
+      "clash": "/clash/bitwarden.txt",
+      "surge": "/surge/bitwarden.txt"
+    },
+    {
+      "name": "bjyouth",
+      "clash": "/clash/bjyouth.txt",
+      "surge": "/surge/bjyouth.txt"
+    },
+    {
+      "name": "blender",
+      "clash": "/clash/blender.txt",
+      "surge": "/surge/blender.txt"
+    },
+    {
+      "name": "blizzard",
+      "clash": "/clash/blizzard.txt",
+      "surge": "/surge/blizzard.txt"
+    },
+    {
+      "name": "blogspot",
+      "clash": "/clash/blogspot.txt",
+      "surge": "/surge/blogspot.txt"
+    },
+    {
+      "name": "bloomberg",
+      "clash": "/clash/bloomberg.txt",
+      "surge": "/surge/bloomberg.txt"
+    },
+    {
+      "name": "bluearchive",
+      "clash": "/clash/bluearchive.txt",
+      "surge": "/surge/bluearchive.txt"
+    },
+    {
+      "name": "bluepoch",
+      "clash": "/clash/bluepoch.txt",
+      "surge": "/surge/bluepoch.txt"
+    },
+    {
+      "name": "bluepoch-games",
+      "clash": "/clash/bluepoch-games.txt",
+      "surge": "/surge/bluepoch-games.txt"
+    },
+    {
+      "name": "bluesky",
+      "clash": "/clash/bluesky.txt",
+      "surge": "/surge/bluesky.txt"
+    },
+    {
+      "name": "blurams",
+      "clash": "/clash/blurams.txt",
+      "surge": "/surge/blurams.txt"
+    },
+    {
+      "name": "bmw",
+      "clash": "/clash/bmw.txt",
+      "surge": "/surge/bmw.txt"
+    },
+    {
+      "name": "boboporn",
+      "clash": "/clash/boboporn.txt",
+      "surge": "/surge/boboporn.txt"
+    },
+    {
+      "name": "boc",
+      "clash": "/clash/boc.txt",
+      "surge": "/surge/boc.txt"
+    },
+    {
+      "name": "bohemia",
+      "clash": "/clash/bohemia.txt",
+      "surge": "/surge/bohemia.txt"
+    },
+    {
+      "name": "bongacams",
+      "clash": "/clash/bongacams.txt",
+      "surge": "/surge/bongacams.txt"
+    },
+    {
+      "name": "booking",
+      "clash": "/clash/booking.txt",
+      "surge": "/surge/booking.txt"
+    },
+    {
+      "name": "books",
+      "clash": "/clash/books.txt",
+      "surge": "/surge/books.txt"
+    },
+    {
+      "name": "boomerang",
+      "clash": "/clash/boomerang.txt",
+      "surge": "/surge/boomerang.txt"
+    },
+    {
+      "name": "bootcdn",
+      "clash": "/clash/bootcdn.txt",
+      "surge": "/surge/bootcdn.txt"
+    },
+    {
+      "name": "bootstrap",
+      "clash": "/clash/bootstrap.txt",
+      "surge": "/surge/bootstrap.txt"
+    },
+    {
+      "name": "borneoschematics",
+      "clash": "/clash/borneoschematics.txt",
+      "surge": "/surge/borneoschematics.txt"
+    },
+    {
+      "name": "boslife",
+      "clash": "/clash/boslife.txt",
+      "surge": "/surge/boslife.txt"
+    },
+    {
+      "name": "boxun",
+      "clash": "/clash/boxun.txt",
+      "surge": "/surge/boxun.txt"
+    },
+    {
+      "name": "boylove",
+      "clash": "/clash/boylove.txt",
+      "surge": "/surge/boylove.txt"
+    },
+    {
+      "name": "braveux",
+      "clash": "/clash/braveux.txt",
+      "surge": "/surge/braveux.txt"
+    },
+    {
+      "name": "brazzers",
+      "clash": "/clash/brazzers.txt",
+      "surge": "/surge/brazzers.txt"
+    },
+    {
+      "name": "bridgestone",
+      "clash": "/clash/bridgestone.txt",
+      "surge": "/surge/bridgestone.txt"
+    },
+    {
+      "name": "brightcove",
+      "clash": "/clash/brightcove.txt",
+      "surge": "/surge/brightcove.txt"
+    },
+    {
+      "name": "brilliant",
+      "clash": "/clash/brilliant.txt",
+      "surge": "/surge/brilliant.txt"
+    },
+    {
+      "name": "broadcom",
+      "clash": "/clash/broadcom.txt",
+      "surge": "/surge/broadcom.txt"
+    },
+    {
+      "name": "btdig",
+      "clash": "/clash/btdig.txt",
+      "surge": "/surge/btdig.txt"
+    },
+    {
+      "name": "bttzyw",
+      "clash": "/clash/bttzyw.txt",
+      "surge": "/surge/bttzyw.txt"
+    },
+    {
+      "name": "bushiroad",
+      "clash": "/clash/bushiroad.txt",
+      "surge": "/surge/bushiroad.txt"
+    },
+    {
+      "name": "buymeacoffee",
+      "clash": "/clash/buymeacoffee.txt",
+      "surge": "/surge/buymeacoffee.txt"
+    },
+    {
+      "name": "buypass",
+      "clash": "/clash/buypass.txt",
+      "surge": "/surge/buypass.txt"
+    },
+    {
+      "name": "bybit",
+      "clash": "/clash/bybit.txt",
+      "surge": "/surge/bybit.txt"
+    },
+    {
+      "name": "bytedance",
+      "clash": "/clash/bytedance.txt",
+      "surge": "/surge/bytedance.txt"
+    },
+    {
+      "name": "bytedance-ai-non-cn",
+      "clash": "/clash/bytedance-ai-non-cn.txt",
+      "surge": "/surge/bytedance-ai-non-cn.txt"
+    },
+    {
+      "name": "c-span",
+      "clash": "/clash/c-span.txt",
+      "surge": "/surge/c-span.txt"
+    },
+    {
+      "name": "cabletv",
+      "clash": "/clash/cabletv.txt",
+      "surge": "/surge/cabletv.txt"
+    },
+    {
+      "name": "cainiao",
+      "clash": "/clash/cainiao.txt",
+      "surge": "/surge/cainiao.txt"
+    },
+    {
+      "name": "calgoncarbon",
+      "clash": "/clash/calgoncarbon.txt",
+      "surge": "/surge/calgoncarbon.txt"
+    },
+    {
+      "name": "cambridge",
+      "clash": "/clash/cambridge.txt",
+      "surge": "/surge/cambridge.txt"
+    },
+    {
+      "name": "camwhores",
+      "clash": "/clash/camwhores.txt",
+      "surge": "/surge/camwhores.txt"
+    },
+    {
+      "name": "canon",
+      "clash": "/clash/canon.txt",
+      "surge": "/surge/canon.txt"
+    },
+    {
+      "name": "canonical",
+      "clash": "/clash/canonical.txt",
+      "surge": "/surge/canonical.txt"
+    },
+    {
+      "name": "canva",
+      "clash": "/clash/canva.txt",
+      "surge": "/surge/canva.txt"
+    },
+    {
+      "name": "capitalonline",
+      "clash": "/clash/capitalonline.txt",
+      "surge": "/surge/capitalonline.txt"
+    },
+    {
+      "name": "carrotquest",
+      "clash": "/clash/carrotquest.txt",
+      "surge": "/surge/carrotquest.txt"
+    },
+    {
+      "name": "cas",
+      "clash": "/clash/cas.txt",
+      "surge": "/surge/cas.txt"
+    },
+    {
+      "name": "casimages",
+      "clash": "/clash/casimages.txt",
+      "surge": "/surge/casimages.txt"
+    },
+    {
+      "name": "catchplay",
+      "clash": "/clash/catchplay.txt",
+      "surge": "/surge/catchplay.txt"
+    },
+    {
+      "name": "category-acg",
+      "clash": "/clash/category-acg.txt",
+      "surge": "/surge/category-acg.txt"
+    },
+    {
+      "name": "category-ads",
+      "clash": "/clash/category-ads.txt",
+      "surge": "/surge/category-ads.txt"
+    },
+    {
+      "name": "category-ads-all",
+      "clash": "/clash/category-ads-all.txt",
+      "surge": "/surge/category-ads-all.txt"
+    },
+    {
+      "name": "category-ads-ir",
+      "clash": "/clash/category-ads-ir.txt",
+      "surge": "/surge/category-ads-ir.txt"
+    },
+    {
+      "name": "category-ai-chat-non-cn",
+      "clash": "/clash/category-ai-chat-non-cn.txt",
+      "surge": "/surge/category-ai-chat-non-cn.txt"
+    },
+    {
+      "name": "category-ai-cn",
+      "clash": "/clash/category-ai-cn.txt",
+      "surge": "/surge/category-ai-cn.txt"
+    },
+    {
+      "name": "category-ai-non-cn",
+      "clash": "/clash/category-ai-non-cn.txt",
+      "surge": "/surge/category-ai-non-cn.txt"
+    },
+    {
+      "name": "category-ai-ru",
+      "clash": "/clash/category-ai-ru.txt",
+      "surge": "/surge/category-ai-ru.txt"
+    },
+    {
+      "name": "category-android-app-download",
+      "clash": "/clash/category-android-app-download.txt",
+      "surge": "/surge/category-android-app-download.txt"
+    },
+    {
+      "name": "category-anticensorship",
+      "clash": "/clash/category-anticensorship.txt",
+      "surge": "/surge/category-anticensorship.txt"
+    },
+    {
+      "name": "category-antivirus",
+      "clash": "/clash/category-antivirus.txt",
+      "surge": "/surge/category-antivirus.txt"
+    },
+    {
+      "name": "category-automobile-cn",
+      "clash": "/clash/category-automobile-cn.txt",
+      "surge": "/surge/category-automobile-cn.txt"
+    },
+    {
+      "name": "category-bank-cn",
+      "clash": "/clash/category-bank-cn.txt",
+      "surge": "/surge/category-bank-cn.txt"
+    },
+    {
+      "name": "category-bank-ir",
+      "clash": "/clash/category-bank-ir.txt",
+      "surge": "/surge/category-bank-ir.txt"
+    },
+    {
+      "name": "category-bank-jp",
+      "clash": "/clash/category-bank-jp.txt",
+      "surge": "/surge/category-bank-jp.txt"
+    },
+    {
+      "name": "category-bank-mm",
+      "clash": "/clash/category-bank-mm.txt",
+      "surge": "/surge/category-bank-mm.txt"
+    },
+    {
+      "name": "category-bank-ru",
+      "clash": "/clash/category-bank-ru.txt",
+      "surge": "/surge/category-bank-ru.txt"
+    },
+    {
+      "name": "category-betting-ru",
+      "clash": "/clash/category-betting-ru.txt",
+      "surge": "/surge/category-betting-ru.txt"
+    },
+    {
+      "name": "category-blog-cn",
+      "clash": "/clash/category-blog-cn.txt",
+      "surge": "/surge/category-blog-cn.txt"
+    },
+    {
+      "name": "category-bourse-ir",
+      "clash": "/clash/category-bourse-ir.txt",
+      "surge": "/surge/category-bourse-ir.txt"
+    },
+    {
+      "name": "category-browser-non-cn",
+      "clash": "/clash/category-browser-non-cn.txt",
+      "surge": "/surge/category-browser-non-cn.txt"
+    },
+    {
+      "name": "category-cas",
+      "clash": "/clash/category-cas.txt",
+      "surge": "/surge/category-cas.txt"
+    },
+    {
+      "name": "category-cdn-cn",
+      "clash": "/clash/category-cdn-cn.txt",
+      "surge": "/surge/category-cdn-cn.txt"
+    },
+    {
+      "name": "category-cdn-non-cn",
+      "clash": "/clash/category-cdn-non-cn.txt",
+      "surge": "/surge/category-cdn-non-cn.txt"
+    },
+    {
+      "name": "category-collaborate-cn",
+      "clash": "/clash/category-collaborate-cn.txt",
+      "surge": "/surge/category-collaborate-cn.txt"
+    },
+    {
+      "name": "category-communication",
+      "clash": "/clash/category-communication.txt",
+      "surge": "/surge/category-communication.txt"
+    },
+    {
+      "name": "category-companies",
+      "clash": "/clash/category-companies.txt",
+      "surge": "/surge/category-companies.txt"
+    },
+    {
+      "name": "category-consent-management",
+      "clash": "/clash/category-consent-management.txt",
+      "surge": "/surge/category-consent-management.txt"
+    },
+    {
+      "name": "category-container",
+      "clash": "/clash/category-container.txt",
+      "surge": "/surge/category-container.txt"
+    },
+    {
+      "name": "category-cryptocurrency",
+      "clash": "/clash/category-cryptocurrency.txt",
+      "surge": "/surge/category-cryptocurrency.txt"
+    },
+    {
+      "name": "category-ddns",
+      "clash": "/clash/category-ddns.txt",
+      "surge": "/surge/category-ddns.txt"
+    },
+    {
+      "name": "category-dev",
+      "clash": "/clash/category-dev.txt",
+      "surge": "/surge/category-dev.txt"
+    },
+    {
+      "name": "category-dev-cn",
+      "clash": "/clash/category-dev-cn.txt",
+      "surge": "/surge/category-dev-cn.txt"
+    },
+    {
+      "name": "category-documents-cn",
+      "clash": "/clash/category-documents-cn.txt",
+      "surge": "/surge/category-documents-cn.txt"
+    },
+    {
+      "name": "category-doh",
+      "clash": "/clash/category-doh.txt",
+      "surge": "/surge/category-doh.txt"
+    },
+    {
+      "name": "category-ecommerce",
+      "clash": "/clash/category-ecommerce.txt",
+      "surge": "/surge/category-ecommerce.txt"
+    },
+    {
+      "name": "category-ecommerce-ru",
+      "clash": "/clash/category-ecommerce-ru.txt",
+      "surge": "/surge/category-ecommerce-ru.txt"
+    },
+    {
+      "name": "category-education-cn",
+      "clash": "/clash/category-education-cn.txt",
+      "surge": "/surge/category-education-cn.txt"
+    },
+    {
+      "name": "category-education-ir",
+      "clash": "/clash/category-education-ir.txt",
+      "surge": "/surge/category-education-ir.txt"
+    },
+    {
+      "name": "category-education-ru",
+      "clash": "/clash/category-education-ru.txt",
+      "surge": "/surge/category-education-ru.txt"
+    },
+    {
+      "name": "category-electronic-cn",
+      "clash": "/clash/category-electronic-cn.txt",
+      "surge": "/surge/category-electronic-cn.txt"
+    },
+    {
+      "name": "category-emby",
+      "clash": "/clash/category-emby.txt",
+      "surge": "/surge/category-emby.txt"
+    },
+    {
+      "name": "category-enhance-gaming",
+      "clash": "/clash/category-enhance-gaming.txt",
+      "surge": "/surge/category-enhance-gaming.txt"
+    },
+    {
+      "name": "category-enterprise-query-platform-cn",
+      "clash": "/clash/category-enterprise-query-platform-cn.txt",
+      "surge": "/surge/category-enterprise-query-platform-cn.txt"
+    },
+    {
+      "name": "category-entertainment",
+      "clash": "/clash/category-entertainment.txt",
+      "surge": "/surge/category-entertainment.txt"
+    },
+    {
+      "name": "category-entertainment-cn",
+      "clash": "/clash/category-entertainment-cn.txt",
+      "surge": "/surge/category-entertainment-cn.txt"
+    },
+    {
+      "name": "category-entertainment-ru",
+      "clash": "/clash/category-entertainment-ru.txt",
+      "surge": "/surge/category-entertainment-ru.txt"
+    },
+    {
+      "name": "category-finance",
+      "clash": "/clash/category-finance.txt",
+      "surge": "/surge/category-finance.txt"
+    },
+    {
+      "name": "category-food-cn",
+      "clash": "/clash/category-food-cn.txt",
+      "surge": "/surge/category-food-cn.txt"
+    },
+    {
+      "name": "category-forums",
+      "clash": "/clash/category-forums.txt",
+      "surge": "/surge/category-forums.txt"
+    },
+    {
+      "name": "category-forums-ir",
+      "clash": "/clash/category-forums-ir.txt",
+      "surge": "/surge/category-forums-ir.txt"
+    },
+    {
+      "name": "category-forums-ru",
+      "clash": "/clash/category-forums-ru.txt",
+      "surge": "/surge/category-forums-ru.txt"
+    },
+    {
+      "name": "category-game-accelerator-cn",
+      "clash": "/clash/category-game-accelerator-cn.txt",
+      "surge": "/surge/category-game-accelerator-cn.txt"
+    },
+    {
+      "name": "category-game-platforms-download",
+      "clash": "/clash/category-game-platforms-download.txt",
+      "surge": "/surge/category-game-platforms-download.txt"
+    },
+    {
+      "name": "category-games",
+      "clash": "/clash/category-games.txt",
+      "surge": "/surge/category-games.txt"
+    },
+    {
+      "name": "category-games-cn",
+      "clash": "/clash/category-games-cn.txt",
+      "surge": "/surge/category-games-cn.txt"
+    },
+    {
+      "name": "category-games-non-cn",
+      "clash": "/clash/category-games-non-cn.txt",
+      "surge": "/surge/category-games-non-cn.txt"
+    },
+    {
+      "name": "category-gov-ir",
+      "clash": "/clash/category-gov-ir.txt",
+      "surge": "/surge/category-gov-ir.txt"
+    },
+    {
+      "name": "category-gov-ru",
+      "clash": "/clash/category-gov-ru.txt",
+      "surge": "/surge/category-gov-ru.txt"
+    },
+    {
+      "name": "category-hospital-cn",
+      "clash": "/clash/category-hospital-cn.txt",
+      "surge": "/surge/category-hospital-cn.txt"
+    },
+    {
+      "name": "category-httpdns-cn",
+      "clash": "/clash/category-httpdns-cn.txt",
+      "surge": "/surge/category-httpdns-cn.txt"
+    },
+    {
+      "name": "category-insurance-ir",
+      "clash": "/clash/category-insurance-ir.txt",
+      "surge": "/surge/category-insurance-ir.txt"
+    },
+    {
+      "name": "category-ip-geo-detect",
+      "clash": "/clash/category-ip-geo-detect.txt",
+      "surge": "/surge/category-ip-geo-detect.txt"
+    },
+    {
+      "name": "category-ipfs",
+      "clash": "/clash/category-ipfs.txt",
+      "surge": "/surge/category-ipfs.txt"
+    },
+    {
+      "name": "category-ir",
+      "clash": "/clash/category-ir.txt",
+      "surge": "/surge/category-ir.txt"
+    },
+    {
+      "name": "category-logistics-cn",
+      "clash": "/clash/category-logistics-cn.txt",
+      "surge": "/surge/category-logistics-cn.txt"
+    },
+    {
+      "name": "category-media",
+      "clash": "/clash/category-media.txt",
+      "surge": "/surge/category-media.txt"
+    },
+    {
+      "name": "category-media-cn",
+      "clash": "/clash/category-media-cn.txt",
+      "surge": "/surge/category-media-cn.txt"
+    },
+    {
+      "name": "category-media-ir",
+      "clash": "/clash/category-media-ir.txt",
+      "surge": "/surge/category-media-ir.txt"
+    },
+    {
+      "name": "category-media-ru",
+      "clash": "/clash/category-media-ru.txt",
+      "surge": "/surge/category-media-ru.txt"
+    },
+    {
+      "name": "category-media-ru-blocked",
+      "clash": "/clash/category-media-ru-blocked.txt",
+      "surge": "/surge/category-media-ru-blocked.txt"
+    },
+    {
+      "name": "category-medicine-ru",
+      "clash": "/clash/category-medicine-ru.txt",
+      "surge": "/surge/category-medicine-ru.txt"
+    },
+    {
+      "name": "category-mobile-repair",
+      "clash": "/clash/category-mobile-repair.txt",
+      "surge": "/surge/category-mobile-repair.txt"
+    },
+    {
+      "name": "category-mooc-cn",
+      "clash": "/clash/category-mooc-cn.txt",
+      "surge": "/surge/category-mooc-cn.txt"
+    },
+    {
+      "name": "category-netdisk-cn",
+      "clash": "/clash/category-netdisk-cn.txt",
+      "surge": "/surge/category-netdisk-cn.txt"
+    },
+    {
+      "name": "category-netdisk-non-cn",
+      "clash": "/clash/category-netdisk-non-cn.txt",
+      "surge": "/surge/category-netdisk-non-cn.txt"
+    },
+    {
+      "name": "category-network-security-cn",
+      "clash": "/clash/category-network-security-cn.txt",
+      "surge": "/surge/category-network-security-cn.txt"
+    },
+    {
+      "name": "category-news-ir",
+      "clash": "/clash/category-news-ir.txt",
+      "surge": "/surge/category-news-ir.txt"
+    },
+    {
+      "name": "category-novel",
+      "clash": "/clash/category-novel.txt",
+      "surge": "/surge/category-novel.txt"
+    },
+    {
+      "name": "category-ntp",
+      "clash": "/clash/category-ntp.txt",
+      "surge": "/surge/category-ntp.txt"
+    },
+    {
+      "name": "category-ntp-cn",
+      "clash": "/clash/category-ntp-cn.txt",
+      "surge": "/surge/category-ntp-cn.txt"
+    },
+    {
+      "name": "category-ntp-jp",
+      "clash": "/clash/category-ntp-jp.txt",
+      "surge": "/surge/category-ntp-jp.txt"
+    },
+    {
+      "name": "category-number-verification-cn",
+      "clash": "/clash/category-number-verification-cn.txt",
+      "surge": "/surge/category-number-verification-cn.txt"
+    },
+    {
+      "name": "category-olympiad-in-informatics",
+      "clash": "/clash/category-olympiad-in-informatics.txt",
+      "surge": "/surge/category-olympiad-in-informatics.txt"
+    },
+    {
+      "name": "category-orgs",
+      "clash": "/clash/category-orgs.txt",
+      "surge": "/surge/category-orgs.txt"
+    },
+    {
+      "name": "category-outsource-cn",
+      "clash": "/clash/category-outsource-cn.txt",
+      "surge": "/surge/category-outsource-cn.txt"
+    },
+    {
+      "name": "category-password-management",
+      "clash": "/clash/category-password-management.txt",
+      "surge": "/surge/category-password-management.txt"
+    },
+    {
+      "name": "category-payment-ir",
+      "clash": "/clash/category-payment-ir.txt",
+      "surge": "/surge/category-payment-ir.txt"
+    },
+    {
+      "name": "category-porn",
+      "clash": "/clash/category-porn.txt",
+      "surge": "/surge/category-porn.txt"
+    },
+    {
+      "name": "category-proxy-tunnels",
+      "clash": "/clash/category-proxy-tunnels.txt",
+      "surge": "/surge/category-proxy-tunnels.txt"
+    },
+    {
+      "name": "category-pt",
+      "clash": "/clash/category-pt.txt",
+      "surge": "/surge/category-pt.txt"
+    },
+    {
+      "name": "category-public-tracker",
+      "clash": "/clash/category-public-tracker.txt",
+      "surge": "/surge/category-public-tracker.txt"
+    },
+    {
+      "name": "category-remote-control",
+      "clash": "/clash/category-remote-control.txt",
+      "surge": "/surge/category-remote-control.txt"
+    },
+    {
+      "name": "category-retail-ru",
+      "clash": "/clash/category-retail-ru.txt",
+      "surge": "/surge/category-retail-ru.txt"
+    },
+    {
+      "name": "category-ru",
+      "clash": "/clash/category-ru.txt",
+      "surge": "/surge/category-ru.txt"
+    },
+    {
+      "name": "category-scholar-cn",
+      "clash": "/clash/category-scholar-cn.txt",
+      "surge": "/surge/category-scholar-cn.txt"
+    },
+    {
+      "name": "category-scholar-hk",
+      "clash": "/clash/category-scholar-hk.txt",
+      "surge": "/surge/category-scholar-hk.txt"
+    },
+    {
+      "name": "category-scholar-ir",
+      "clash": "/clash/category-scholar-ir.txt",
+      "surge": "/surge/category-scholar-ir.txt"
+    },
+    {
+      "name": "category-scholar-non-cn",
+      "clash": "/clash/category-scholar-non-cn.txt",
+      "surge": "/surge/category-scholar-non-cn.txt"
+    },
+    {
+      "name": "category-scholar-uk",
+      "clash": "/clash/category-scholar-uk.txt",
+      "surge": "/surge/category-scholar-uk.txt"
+    },
+    {
+      "name": "category-securities-cn",
+      "clash": "/clash/category-securities-cn.txt",
+      "surge": "/surge/category-securities-cn.txt"
+    },
+    {
+      "name": "category-shopping-ir",
+      "clash": "/clash/category-shopping-ir.txt",
+      "surge": "/surge/category-shopping-ir.txt"
+    },
+    {
+      "name": "category-social-media-cn",
+      "clash": "/clash/category-social-media-cn.txt",
+      "surge": "/surge/category-social-media-cn.txt"
+    },
+    {
+      "name": "category-social-media-ir",
+      "clash": "/clash/category-social-media-ir.txt",
+      "surge": "/surge/category-social-media-ir.txt"
+    },
+    {
+      "name": "category-social-media-non-cn",
+      "clash": "/clash/category-social-media-non-cn.txt",
+      "surge": "/surge/category-social-media-non-cn.txt"
+    },
+    {
+      "name": "category-speedtest",
+      "clash": "/clash/category-speedtest.txt",
+      "surge": "/surge/category-speedtest.txt"
+    },
+    {
+      "name": "category-stun",
+      "clash": "/clash/category-stun.txt",
+      "surge": "/surge/category-stun.txt"
+    },
+    {
+      "name": "category-tech-ir",
+      "clash": "/clash/category-tech-ir.txt",
+      "surge": "/surge/category-tech-ir.txt"
+    },
+    {
+      "name": "category-tech-media",
+      "clash": "/clash/category-tech-media.txt",
+      "surge": "/surge/category-tech-media.txt"
+    },
+    {
+      "name": "category-tech-media-ru",
+      "clash": "/clash/category-tech-media-ru.txt",
+      "surge": "/surge/category-tech-media-ru.txt"
+    },
+    {
+      "name": "category-tm",
+      "clash": "/clash/category-tm.txt",
+      "surge": "/surge/category-tm.txt"
+    },
+    {
+      "name": "category-travel-ir",
+      "clash": "/clash/category-travel-ir.txt",
+      "surge": "/surge/category-travel-ir.txt"
+    },
+    {
+      "name": "category-travel-ru",
+      "clash": "/clash/category-travel-ru.txt",
+      "surge": "/surge/category-travel-ru.txt"
+    },
+    {
+      "name": "category-urlshortner",
+      "clash": "/clash/category-urlshortner.txt",
+      "surge": "/surge/category-urlshortner.txt"
+    },
+    {
+      "name": "category-voip",
+      "clash": "/clash/category-voip.txt",
+      "surge": "/surge/category-voip.txt"
+    },
+    {
+      "name": "category-vpnservices",
+      "clash": "/clash/category-vpnservices.txt",
+      "surge": "/surge/category-vpnservices.txt"
+    },
+    {
+      "name": "category-web-archive",
+      "clash": "/clash/category-web-archive.txt",
+      "surge": "/surge/category-web-archive.txt"
+    },
+    {
+      "name": "category-wiki-cn",
+      "clash": "/clash/category-wiki-cn.txt",
+      "surge": "/surge/category-wiki-cn.txt"
+    },
+    {
+      "name": "cavporn",
+      "clash": "/clash/cavporn.txt",
+      "surge": "/surge/cavporn.txt"
+    },
+    {
+      "name": "cbs",
+      "clash": "/clash/cbs.txt",
+      "surge": "/surge/cbs.txt"
+    },
+    {
+      "name": "ccb",
+      "clash": "/clash/ccb.txt",
+      "surge": "/surge/ccb.txt"
+    },
+    {
+      "name": "cctv",
+      "clash": "/clash/cctv.txt",
+      "surge": "/surge/cctv.txt"
+    },
+    {
+      "name": "cdek",
+      "clash": "/clash/cdek.txt",
+      "surge": "/surge/cdek.txt"
+    },
+    {
+      "name": "cdn77",
+      "clash": "/clash/cdn77.txt",
+      "surge": "/surge/cdn77.txt"
+    },
+    {
+      "name": "ceno",
+      "clash": "/clash/ceno.txt",
+      "surge": "/surge/ceno.txt"
+    },
+    {
+      "name": "cerebras",
+      "clash": "/clash/cerebras.txt",
+      "surge": "/surge/cerebras.txt"
+    },
+    {
+      "name": "cern",
+      "clash": "/clash/cern.txt",
+      "surge": "/surge/cern.txt"
+    },
+    {
+      "name": "certinomis",
+      "clash": "/clash/certinomis.txt",
+      "surge": "/surge/certinomis.txt"
+    },
+    {
+      "name": "certum",
+      "clash": "/clash/certum.txt",
+      "surge": "/surge/certum.txt"
+    },
+    {
+      "name": "changyou",
+      "clash": "/clash/changyou.txt",
+      "surge": "/surge/changyou.txt"
+    },
+    {
+      "name": "chaoxing",
+      "clash": "/clash/chaoxing.txt",
+      "surge": "/surge/chaoxing.txt"
+    },
+    {
+      "name": "chatango",
+      "clash": "/clash/chatango.txt",
+      "surge": "/surge/chatango.txt"
+    },
+    {
+      "name": "chatwhores",
+      "clash": "/clash/chatwhores.txt",
+      "surge": "/surge/chatwhores.txt"
+    },
+    {
+      "name": "cheetahmobile",
+      "clash": "/clash/cheetahmobile.txt",
+      "surge": "/surge/cheetahmobile.txt"
+    },
+    {
+      "name": "chegg",
+      "clash": "/clash/chegg.txt",
+      "surge": "/surge/chegg.txt"
+    },
+    {
+      "name": "chesscom",
+      "clash": "/clash/chesscom.txt",
+      "surge": "/surge/chesscom.txt"
+    },
+    {
+      "name": "chinabroadnet",
+      "clash": "/clash/chinabroadnet.txt",
+      "surge": "/surge/chinabroadnet.txt"
+    },
+    {
+      "name": "chinamobile",
+      "clash": "/clash/chinamobile.txt",
+      "surge": "/surge/chinamobile.txt"
+    },
+    {
+      "name": "chinanews",
+      "clash": "/clash/chinanews.txt",
+      "surge": "/surge/chinanews.txt"
+    },
+    {
+      "name": "chinapost",
+      "clash": "/clash/chinapost.txt",
+      "surge": "/surge/chinapost.txt"
+    },
+    {
+      "name": "chinapower",
+      "clash": "/clash/chinapower.txt",
+      "surge": "/surge/chinapower.txt"
+    },
+    {
+      "name": "chinaso",
+      "clash": "/clash/chinaso.txt",
+      "surge": "/surge/chinaso.txt"
+    },
+    {
+      "name": "chinatelecom",
+      "clash": "/clash/chinatelecom.txt",
+      "surge": "/surge/chinatelecom.txt"
+    },
+    {
+      "name": "chinatower",
+      "clash": "/clash/chinatower.txt",
+      "surge": "/surge/chinatower.txt"
+    },
+    {
+      "name": "chinaunicom",
+      "clash": "/clash/chinaunicom.txt",
+      "surge": "/surge/chinaunicom.txt"
+    },
+    {
+      "name": "chinaz",
+      "clash": "/clash/chinaz.txt",
+      "surge": "/surge/chinaz.txt"
+    },
+    {
+      "name": "cian",
+      "clash": "/clash/cian.txt",
+      "surge": "/surge/cian.txt"
+    },
+    {
+      "name": "cisco",
+      "clash": "/clash/cisco.txt",
+      "surge": "/surge/cisco.txt"
+    },
+    {
+      "name": "citic",
+      "clash": "/clash/citic.txt",
+      "surge": "/surge/citic.txt"
+    },
+    {
+      "name": "citizenlab",
+      "clash": "/clash/citizenlab.txt",
+      "surge": "/surge/citizenlab.txt"
+    },
+    {
+      "name": "cityu-hk",
+      "clash": "/clash/cityu-hk.txt",
+      "surge": "/surge/cityu-hk.txt"
+    },
+    {
+      "name": "ciweimao",
+      "clash": "/clash/ciweimao.txt",
+      "surge": "/surge/ciweimao.txt"
+    },
+    {
+      "name": "ck101",
+      "clash": "/clash/ck101.txt",
+      "surge": "/surge/ck101.txt"
+    },
+    {
+      "name": "clarivate",
+      "clash": "/clash/clarivate.txt",
+      "surge": "/surge/clarivate.txt"
+    },
+    {
+      "name": "clearasil",
+      "clash": "/clash/clearasil.txt",
+      "surge": "/surge/clearasil.txt"
+    },
+    {
+      "name": "clearbit",
+      "clash": "/clash/clearbit.txt",
+      "surge": "/surge/clearbit.txt"
+    },
+    {
+      "name": "clips4sale",
+      "clash": "/clash/clips4sale.txt",
+      "surge": "/surge/clips4sale.txt"
+    },
+    {
+      "name": "cloudcone",
+      "clash": "/clash/cloudcone.txt",
+      "surge": "/surge/cloudcone.txt"
+    },
+    {
+      "name": "cloudconvert",
+      "clash": "/clash/cloudconvert.txt",
+      "surge": "/surge/cloudconvert.txt"
+    },
+    {
+      "name": "cloudflare",
+      "clash": "/clash/cloudflare.txt",
+      "surge": "/surge/cloudflare.txt"
+    },
+    {
+      "name": "cloudflare-cn",
+      "clash": "/clash/cloudflare-cn.txt",
+      "surge": "/surge/cloudflare-cn.txt"
+    },
+    {
+      "name": "cloudflare-ipfs",
+      "clash": "/clash/cloudflare-ipfs.txt",
+      "surge": "/surge/cloudflare-ipfs.txt"
+    },
+    {
+      "name": "cloudinary",
+      "clash": "/clash/cloudinary.txt",
+      "surge": "/surge/cloudinary.txt"
+    },
+    {
+      "name": "cloudns",
+      "clash": "/clash/cloudns.txt",
+      "surge": "/surge/cloudns.txt"
+    },
+    {
+      "name": "clubhouse",
+      "clash": "/clash/clubhouse.txt",
+      "surge": "/surge/clubhouse.txt"
+    },
+    {
+      "name": "cmb",
+      "clash": "/clash/cmb.txt",
+      "surge": "/surge/cmb.txt"
+    },
+    {
+      "name": "cn",
+      "clash": "/clash/cn.txt",
+      "surge": "/surge/cn.txt"
+    },
+    {
+      "name": "cnb",
+      "clash": "/clash/cnb.txt",
+      "surge": "/surge/cnb.txt"
+    },
+    {
+      "name": "cnbc",
+      "clash": "/clash/cnbc.txt",
+      "surge": "/surge/cnbc.txt"
+    },
+    {
+      "name": "cnbeta",
+      "clash": "/clash/cnbeta.txt",
+      "surge": "/surge/cnbeta.txt"
+    },
+    {
+      "name": "cnblogs",
+      "clash": "/clash/cnblogs.txt",
+      "surge": "/surge/cnblogs.txt"
+    },
+    {
+      "name": "cnet",
+      "clash": "/clash/cnet.txt",
+      "surge": "/surge/cnet.txt"
+    },
+    {
+      "name": "cnki",
+      "clash": "/clash/cnki.txt",
+      "surge": "/surge/cnki.txt"
+    },
+    {
+      "name": "cnn",
+      "clash": "/clash/cnn.txt",
+      "surge": "/surge/cnn.txt"
+    },
+    {
+      "name": "code",
+      "clash": "/clash/code.txt",
+      "surge": "/surge/code.txt"
+    },
+    {
+      "name": "codeberg",
+      "clash": "/clash/codeberg.txt",
+      "surge": "/surge/codeberg.txt"
+    },
+    {
+      "name": "codecademy",
+      "clash": "/clash/codecademy.txt",
+      "surge": "/surge/codecademy.txt"
+    },
+    {
+      "name": "codeforces",
+      "clash": "/clash/codeforces.txt",
+      "surge": "/surge/codeforces.txt"
+    },
+    {
+      "name": "coding",
+      "clash": "/clash/coding.txt",
+      "surge": "/surge/coding.txt"
+    },
+    {
+      "name": "coinone",
+      "clash": "/clash/coinone.txt",
+      "surge": "/surge/coinone.txt"
+    },
+    {
+      "name": "collabora",
+      "clash": "/clash/collabora.txt",
+      "surge": "/surge/collabora.txt"
+    },
+    {
+      "name": "colorfulclouds",
+      "clash": "/clash/colorfulclouds.txt",
+      "surge": "/surge/colorfulclouds.txt"
+    },
+    {
+      "name": "comfy",
+      "clash": "/clash/comfy.txt",
+      "surge": "/surge/comfy.txt"
+    },
+    {
+      "name": "comfy-ui-launcher",
+      "clash": "/clash/comfy-ui-launcher.txt",
+      "surge": "/surge/comfy-ui-launcher.txt"
+    },
+    {
+      "name": "comodo",
+      "clash": "/clash/comodo.txt",
+      "surge": "/surge/comodo.txt"
+    },
+    {
+      "name": "comssone",
+      "clash": "/clash/comssone.txt",
+      "surge": "/surge/comssone.txt"
+    },
+    {
+      "name": "connectivity-check",
+      "clash": "/clash/connectivity-check.txt",
+      "surge": "/surge/connectivity-check.txt"
+    },
+    {
+      "name": "contentful",
+      "clash": "/clash/contentful.txt",
+      "surge": "/surge/contentful.txt"
+    },
+    {
+      "name": "coolapk",
+      "clash": "/clash/coolapk.txt",
+      "surge": "/surge/coolapk.txt"
+    },
+    {
+      "name": "coomer",
+      "clash": "/clash/coomer.txt",
+      "surge": "/surge/coomer.txt"
+    },
+    {
+      "name": "copymanga",
+      "clash": "/clash/copymanga.txt",
+      "surge": "/surge/copymanga.txt"
+    },
+    {
+      "name": "corel",
+      "clash": "/clash/corel.txt",
+      "surge": "/surge/corel.txt"
+    },
+    {
+      "name": "costco",
+      "clash": "/clash/costco.txt",
+      "surge": "/surge/costco.txt"
+    },
+    {
+      "name": "coupang",
+      "clash": "/clash/coupang.txt",
+      "surge": "/surge/coupang.txt"
+    },
+    {
+      "name": "coursera",
+      "clash": "/clash/coursera.txt",
+      "surge": "/surge/coursera.txt"
+    },
+    {
+      "name": "cowlevel",
+      "clash": "/clash/cowlevel.txt",
+      "surge": "/surge/cowlevel.txt"
+    },
+    {
+      "name": "cowtransfer",
+      "clash": "/clash/cowtransfer.txt",
+      "surge": "/surge/cowtransfer.txt"
+    },
+    {
+      "name": "craigslist",
+      "clash": "/clash/craigslist.txt",
+      "surge": "/surge/craigslist.txt"
+    },
+    {
+      "name": "creativecommons",
+      "clash": "/clash/creativecommons.txt",
+      "surge": "/surge/creativecommons.txt"
+    },
+    {
+      "name": "csdn",
+      "clash": "/clash/csdn.txt",
+      "surge": "/surge/csdn.txt"
+    },
+    {
+      "name": "csis",
+      "clash": "/clash/csis.txt",
+      "surge": "/surge/csis.txt"
+    },
+    {
+      "name": "ctexcel",
+      "clash": "/clash/ctexcel.txt",
+      "surge": "/surge/ctexcel.txt"
+    },
+    {
+      "name": "ctrip",
+      "clash": "/clash/ctrip.txt",
+      "surge": "/surge/ctrip.txt"
+    },
+    {
+      "name": "ctyun",
+      "clash": "/clash/ctyun.txt",
+      "surge": "/surge/ctyun.txt"
+    },
+    {
+      "name": "cuhk",
+      "clash": "/clash/cuhk.txt",
+      "surge": "/surge/cuhk.txt"
+    },
+    {
+      "name": "cuinc",
+      "clash": "/clash/cuinc.txt",
+      "surge": "/surge/cuinc.txt"
+    },
+    {
+      "name": "curseforge",
+      "clash": "/clash/curseforge.txt",
+      "surge": "/surge/curseforge.txt"
+    },
+    {
+      "name": "cursor",
+      "clash": "/clash/cursor.txt",
+      "surge": "/surge/cursor.txt"
+    },
+    {
+      "name": "cuttly",
+      "clash": "/clash/cuttly.txt",
+      "surge": "/surge/cuttly.txt"
+    },
+    {
+      "name": "cybertrust",
+      "clash": "/clash/cybertrust.txt",
+      "surge": "/surge/cybertrust.txt"
+    },
+    {
+      "name": "cygames",
+      "clash": "/clash/cygames.txt",
+      "surge": "/surge/cygames.txt"
+    },
+    {
+      "name": "cylink",
+      "clash": "/clash/cylink.txt",
+      "surge": "/surge/cylink.txt"
+    },
+    {
+      "name": "dailymail",
+      "clash": "/clash/dailymail.txt",
+      "surge": "/surge/dailymail.txt"
+    },
+    {
+      "name": "dailymotion",
+      "clash": "/clash/dailymotion.txt",
+      "surge": "/surge/dailymotion.txt"
+    },
+    {
+      "name": "dandanplay",
+      "clash": "/clash/dandanplay.txt",
+      "surge": "/surge/dandanplay.txt"
+    },
+    {
+      "name": "dandanzan",
+      "clash": "/clash/dandanzan.txt",
+      "surge": "/surge/dandanzan.txt"
+    },
+    {
+      "name": "dangdang",
+      "clash": "/clash/dangdang.txt",
+      "surge": "/surge/dangdang.txt"
+    },
+    {
+      "name": "dart",
+      "clash": "/clash/dart.txt",
+      "surge": "/surge/dart.txt"
+    },
+    {
+      "name": "dazn",
+      "clash": "/clash/dazn.txt",
+      "surge": "/surge/dazn.txt"
+    },
+    {
+      "name": "dcard",
+      "clash": "/clash/dcard.txt",
+      "surge": "/surge/dcard.txt"
+    },
+    {
+      "name": "ddmaicai",
+      "clash": "/clash/ddmaicai.txt",
+      "surge": "/surge/ddmaicai.txt"
+    },
+    {
+      "name": "debian",
+      "clash": "/clash/debian.txt",
+      "surge": "/surge/debian.txt"
+    },
+    {
+      "name": "decryptipastore",
+      "clash": "/clash/decryptipastore.txt",
+      "surge": "/surge/decryptipastore.txt"
+    },
+    {
+      "name": "dedao",
+      "clash": "/clash/dedao.txt",
+      "surge": "/surge/dedao.txt"
+    },
+    {
+      "name": "deepin",
+      "clash": "/clash/deepin.txt",
+      "surge": "/surge/deepin.txt"
+    },
+    {
+      "name": "deepseek",
+      "clash": "/clash/deepseek.txt",
+      "surge": "/surge/deepseek.txt"
+    },
+    {
+      "name": "deezer",
+      "clash": "/clash/deezer.txt",
+      "surge": "/surge/deezer.txt"
+    },
+    {
+      "name": "dell",
+      "clash": "/clash/dell.txt",
+      "surge": "/surge/dell.txt"
+    },
+    {
+      "name": "demonoid",
+      "clash": "/clash/demonoid.txt",
+      "surge": "/surge/demonoid.txt"
+    },
+    {
+      "name": "deppon",
+      "clash": "/clash/deppon.txt",
+      "surge": "/surge/deppon.txt"
+    },
+    {
+      "name": "deribit",
+      "clash": "/clash/deribit.txt",
+      "surge": "/surge/deribit.txt"
+    },
+    {
+      "name": "dettol",
+      "clash": "/clash/dettol.txt",
+      "surge": "/surge/dettol.txt"
+    },
+    {
+      "name": "deviantart",
+      "clash": "/clash/deviantart.txt",
+      "surge": "/surge/deviantart.txt"
+    },
+    {
+      "name": "dewu",
+      "clash": "/clash/dewu.txt",
+      "surge": "/surge/dewu.txt"
+    },
+    {
+      "name": "didi",
+      "clash": "/clash/didi.txt",
+      "surge": "/surge/didi.txt"
+    },
+    {
+      "name": "digicert",
+      "clash": "/clash/digicert.txt",
+      "surge": "/surge/digicert.txt"
+    },
+    {
+      "name": "digitalocean",
+      "clash": "/clash/digitalocean.txt",
+      "surge": "/surge/digitalocean.txt"
+    },
+    {
+      "name": "digitalplayground",
+      "clash": "/clash/digitalplayground.txt",
+      "surge": "/surge/digitalplayground.txt"
+    },
+    {
+      "name": "dingdatech",
+      "clash": "/clash/dingdatech.txt",
+      "surge": "/surge/dingdatech.txt"
+    },
+    {
+      "name": "dingtalk",
+      "clash": "/clash/dingtalk.txt",
+      "surge": "/surge/dingtalk.txt"
+    },
+    {
+      "name": "discord",
+      "clash": "/clash/discord.txt",
+      "surge": "/surge/discord.txt"
+    },
+    {
+      "name": "discourse",
+      "clash": "/clash/discourse.txt",
+      "surge": "/surge/discourse.txt"
+    },
+    {
+      "name": "discoveryplus",
+      "clash": "/clash/discoveryplus.txt",
+      "surge": "/surge/discoveryplus.txt"
+    },
+    {
+      "name": "discuz",
+      "clash": "/clash/discuz.txt",
+      "surge": "/surge/discuz.txt"
+    },
+    {
+      "name": "disney",
+      "clash": "/clash/disney.txt",
+      "surge": "/surge/disney.txt"
+    },
+    {
+      "name": "disqus",
+      "clash": "/clash/disqus.txt",
+      "surge": "/surge/disqus.txt"
+    },
+    {
+      "name": "divar",
+      "clash": "/clash/divar.txt",
+      "surge": "/surge/divar.txt"
+    },
+    {
+      "name": "dji",
+      "clash": "/clash/dji.txt",
+      "surge": "/surge/dji.txt"
+    },
+    {
+      "name": "dlercloud",
+      "clash": "/clash/dlercloud.txt",
+      "surge": "/surge/dlercloud.txt"
+    },
+    {
+      "name": "dlsite",
+      "clash": "/clash/dlsite.txt",
+      "surge": "/surge/dlsite.txt"
+    },
+    {
+      "name": "dmit",
+      "clash": "/clash/dmit.txt",
+      "surge": "/surge/dmit.txt"
+    },
+    {
+      "name": "dmm",
+      "clash": "/clash/dmm.txt",
+      "surge": "/surge/dmm.txt"
+    },
+    {
+      "name": "dmm-porn",
+      "clash": "/clash/dmm-porn.txt",
+      "surge": "/surge/dmm-porn.txt"
+    },
+    {
+      "name": "dnspod",
+      "clash": "/clash/dnspod.txt",
+      "surge": "/surge/dnspod.txt"
+    },
+    {
+      "name": "docker",
+      "clash": "/clash/docker.txt",
+      "surge": "/surge/docker.txt"
+    },
+    {
+      "name": "doi",
+      "clash": "/clash/doi.txt",
+      "surge": "/surge/doi.txt"
+    },
+    {
+      "name": "dola",
+      "clash": "/clash/dola.txt",
+      "surge": "/surge/dola.txt"
+    },
+    {
+      "name": "dongchedi",
+      "clash": "/clash/dongchedi.txt",
+      "surge": "/surge/dongchedi.txt"
+    },
+    {
+      "name": "dongjiao",
+      "clash": "/clash/dongjiao.txt",
+      "surge": "/surge/dongjiao.txt"
+    },
+    {
+      "name": "douban",
+      "clash": "/clash/douban.txt",
+      "surge": "/surge/douban.txt"
+    },
+    {
+      "name": "doubao",
+      "clash": "/clash/doubao.txt",
+      "surge": "/surge/doubao.txt"
+    },
+    {
+      "name": "douyin",
+      "clash": "/clash/douyin.txt",
+      "surge": "/surge/douyin.txt"
+    },
+    {
+      "name": "douyu",
+      "clash": "/clash/douyu.txt",
+      "surge": "/surge/douyu.txt"
+    },
+    {
+      "name": "dowjones",
+      "clash": "/clash/dowjones.txt",
+      "surge": "/surge/dowjones.txt"
+    },
+    {
+      "name": "dribbble",
+      "clash": "/clash/dribbble.txt",
+      "surge": "/surge/dribbble.txt"
+    },
+    {
+      "name": "dropbox",
+      "clash": "/clash/dropbox.txt",
+      "surge": "/surge/dropbox.txt"
+    },
+    {
+      "name": "drweb",
+      "clash": "/clash/drweb.txt",
+      "surge": "/surge/drweb.txt"
+    },
+    {
+      "name": "dslreports",
+      "clash": "/clash/dslreports.txt",
+      "surge": "/surge/dslreports.txt"
+    },
+    {
+      "name": "duckduckgo",
+      "clash": "/clash/duckduckgo.txt",
+      "surge": "/surge/duckduckgo.txt"
+    },
+    {
+      "name": "duitang",
+      "clash": "/clash/duitang.txt",
+      "surge": "/surge/duitang.txt"
+    },
+    {
+      "name": "duolingo",
+      "clash": "/clash/duolingo.txt",
+      "surge": "/surge/duolingo.txt"
+    },
+    {
+      "name": "duowan",
+      "clash": "/clash/duowan.txt",
+      "surge": "/surge/duowan.txt"
+    },
+    {
+      "name": "durex",
+      "clash": "/clash/durex.txt",
+      "surge": "/surge/durex.txt"
+    },
+    {
+      "name": "duyaoss",
+      "clash": "/clash/duyaoss.txt",
+      "surge": "/surge/duyaoss.txt"
+    },
+    {
+      "name": "dw",
+      "clash": "/clash/dw.txt",
+      "surge": "/surge/dw.txt"
+    },
+    {
+      "name": "dwion",
+      "clash": "/clash/dwion.txt",
+      "surge": "/surge/dwion.txt"
+    },
+    {
+      "name": "dyna",
+      "clash": "/clash/dyna.txt",
+      "surge": "/surge/dyna.txt"
+    },
+    {
+      "name": "dynu",
+      "clash": "/clash/dynu.txt",
+      "surge": "/surge/dynu.txt"
+    },
+    {
+      "name": "dzen",
+      "clash": "/clash/dzen.txt",
+      "surge": "/surge/dzen.txt"
+    },
+    {
+      "name": "ea",
+      "clash": "/clash/ea.txt",
+      "surge": "/surge/ea.txt"
+    },
+    {
+      "name": "eastmoney",
+      "clash": "/clash/eastmoney.txt",
+      "surge": "/surge/eastmoney.txt"
+    },
+    {
+      "name": "easylist",
+      "clash": "/clash/easylist.txt",
+      "surge": "/surge/easylist.txt"
+    },
+    {
+      "name": "ebay",
+      "clash": "/clash/ebay.txt",
+      "surge": "/surge/ebay.txt"
+    },
+    {
+      "name": "ebuyer",
+      "clash": "/clash/ebuyer.txt",
+      "surge": "/surge/ebuyer.txt"
+    },
+    {
+      "name": "economist",
+      "clash": "/clash/economist.txt",
+      "surge": "/surge/economist.txt"
+    },
+    {
+      "name": "eduhk",
+      "clash": "/clash/eduhk.txt",
+      "surge": "/surge/eduhk.txt"
+    },
+    {
+      "name": "edx",
+      "clash": "/clash/edx.txt",
+      "surge": "/surge/edx.txt"
+    },
+    {
+      "name": "egghead",
+      "clash": "/clash/egghead.txt",
+      "surge": "/surge/egghead.txt"
+    },
+    {
+      "name": "ehentai",
+      "clash": "/clash/ehentai.txt",
+      "surge": "/surge/ehentai.txt"
+    },
+    {
+      "name": "electron",
+      "clash": "/clash/electron.txt",
+      "surge": "/surge/electron.txt"
+    },
+    {
+      "name": "eleme",
+      "clash": "/clash/eleme.txt",
+      "surge": "/surge/eleme.txt"
+    },
+    {
+      "name": "elevenlabs",
+      "clash": "/clash/elevenlabs.txt",
+      "surge": "/surge/elevenlabs.txt"
+    },
+    {
+      "name": "elsevier",
+      "clash": "/clash/elsevier.txt",
+      "surge": "/surge/elsevier.txt"
+    },
+    {
+      "name": "embark",
+      "clash": "/clash/embark.txt",
+      "surge": "/surge/embark.txt"
+    },
+    {
+      "name": "embedly",
+      "clash": "/clash/embedly.txt",
+      "surge": "/surge/embedly.txt"
+    },
+    {
+      "name": "embl",
+      "clash": "/clash/embl.txt",
+      "surge": "/surge/embl.txt"
+    },
+    {
+      "name": "emojipedia",
+      "clash": "/clash/emojipedia.txt",
+      "surge": "/surge/emojipedia.txt"
+    },
+    {
+      "name": "eneba",
+      "clash": "/clash/eneba.txt",
+      "surge": "/surge/eneba.txt"
+    },
+    {
+      "name": "enfa",
+      "clash": "/clash/enfa.txt",
+      "surge": "/surge/enfa.txt"
+    },
+    {
+      "name": "entermediadb",
+      "clash": "/clash/entermediadb.txt",
+      "surge": "/surge/entermediadb.txt"
+    },
+    {
+      "name": "entrust",
+      "clash": "/clash/entrust.txt",
+      "surge": "/surge/entrust.txt"
+    },
+    {
+      "name": "envato",
+      "clash": "/clash/envato.txt",
+      "surge": "/surge/envato.txt"
+    },
+    {
+      "name": "envybox",
+      "clash": "/clash/envybox.txt",
+      "surge": "/surge/envybox.txt"
+    },
+    {
+      "name": "epicbrowser",
+      "clash": "/clash/epicbrowser.txt",
+      "surge": "/surge/epicbrowser.txt"
+    },
+    {
+      "name": "epicgames",
+      "clash": "/clash/epicgames.txt",
+      "surge": "/surge/epicgames.txt"
+    },
+    {
+      "name": "epochmediagroup",
+      "clash": "/clash/epochmediagroup.txt",
+      "surge": "/surge/epochmediagroup.txt"
+    },
+    {
+      "name": "erolabs",
+      "clash": "/clash/erolabs.txt",
+      "surge": "/surge/erolabs.txt"
+    },
+    {
+      "name": "escapefromtarkov",
+      "clash": "/clash/escapefromtarkov.txt",
+      "surge": "/surge/escapefromtarkov.txt"
+    },
+    {
+      "name": "eset",
+      "clash": "/clash/eset.txt",
+      "surge": "/surge/eset.txt"
+    },
+    {
+      "name": "espn",
+      "clash": "/clash/espn.txt",
+      "surge": "/surge/espn.txt"
+    },
+    {
+      "name": "espressif",
+      "clash": "/clash/espressif.txt",
+      "surge": "/surge/espressif.txt"
+    },
+    {
+      "name": "esri",
+      "clash": "/clash/esri.txt",
+      "surge": "/surge/esri.txt"
+    },
+    {
+      "name": "ethereum",
+      "clash": "/clash/ethereum.txt",
+      "surge": "/surge/ethereum.txt"
+    },
+    {
+      "name": "everbright",
+      "clash": "/clash/everbright.txt",
+      "surge": "/surge/everbright.txt"
+    },
+    {
+      "name": "evernote",
+      "clash": "/clash/evernote.txt",
+      "surge": "/surge/evernote.txt"
+    },
+    {
+      "name": "f-droid",
+      "clash": "/clash/f-droid.txt",
+      "surge": "/surge/f-droid.txt"
+    },
+    {
+      "name": "facebook",
+      "clash": "/clash/facebook.txt",
+      "surge": "/surge/facebook.txt"
+    },
+    {
+      "name": "facebook-dev",
+      "clash": "/clash/facebook-dev.txt",
+      "surge": "/surge/facebook-dev.txt"
+    },
+    {
+      "name": "faceit",
+      "clash": "/clash/faceit.txt",
+      "surge": "/surge/faceit.txt"
+    },
+    {
+      "name": "falungong",
+      "clash": "/clash/falungong.txt",
+      "surge": "/surge/falungong.txt"
+    },
+    {
+      "name": "familymart",
+      "clash": "/clash/familymart.txt",
+      "surge": "/surge/familymart.txt"
+    },
+    {
+      "name": "fandom",
+      "clash": "/clash/fandom.txt",
+      "surge": "/surge/fandom.txt"
+    },
+    {
+      "name": "fans66",
+      "clash": "/clash/fans66.txt",
+      "surge": "/surge/fans66.txt"
+    },
+    {
+      "name": "fansta",
+      "clash": "/clash/fansta.txt",
+      "surge": "/surge/fansta.txt"
+    },
+    {
+      "name": "farfetch",
+      "clash": "/clash/farfetch.txt",
+      "surge": "/surge/farfetch.txt"
+    },
+    {
+      "name": "faronics",
+      "clash": "/clash/faronics.txt",
+      "surge": "/surge/faronics.txt"
+    },
+    {
+      "name": "fastlane",
+      "clash": "/clash/fastlane.txt",
+      "surge": "/surge/fastlane.txt"
+    },
+    {
+      "name": "fastly",
+      "clash": "/clash/fastly.txt",
+      "surge": "/surge/fastly.txt"
+    },
+    {
+      "name": "faststone",
+      "clash": "/clash/faststone.txt",
+      "surge": "/surge/faststone.txt"
+    },
+    {
+      "name": "fcbox",
+      "clash": "/clash/fcbox.txt",
+      "surge": "/surge/fcbox.txt"
+    },
+    {
+      "name": "fedora",
+      "clash": "/clash/fedora.txt",
+      "surge": "/surge/fedora.txt"
+    },
+    {
+      "name": "feedly",
+      "clash": "/clash/feedly.txt",
+      "surge": "/surge/feedly.txt"
+    },
+    {
+      "name": "feishu",
+      "clash": "/clash/feishu.txt",
+      "surge": "/surge/feishu.txt"
+    },
+    {
+      "name": "fengxing",
+      "clash": "/clash/fengxing.txt",
+      "surge": "/surge/fengxing.txt"
+    },
+    {
+      "name": "fflogs",
+      "clash": "/clash/fflogs.txt",
+      "surge": "/surge/fflogs.txt"
+    },
+    {
+      "name": "fibank",
+      "clash": "/clash/fibank.txt",
+      "surge": "/surge/fibank.txt"
+    },
+    {
+      "name": "ficbook",
+      "clash": "/clash/ficbook.txt",
+      "surge": "/surge/ficbook.txt"
+    },
+    {
+      "name": "figma",
+      "clash": "/clash/figma.txt",
+      "surge": "/surge/figma.txt"
+    },
+    {
+      "name": "filimo",
+      "clash": "/clash/filimo.txt",
+      "surge": "/surge/filimo.txt"
+    },
+    {
+      "name": "finish",
+      "clash": "/clash/finish.txt",
+      "surge": "/surge/finish.txt"
+    },
+    {
+      "name": "firebase",
+      "clash": "/clash/firebase.txt",
+      "surge": "/surge/firebase.txt"
+    },
+    {
+      "name": "firefox",
+      "clash": "/clash/firefox.txt",
+      "surge": "/surge/firefox.txt"
+    },
+    {
+      "name": "flatpak",
+      "clash": "/clash/flatpak.txt",
+      "surge": "/surge/flatpak.txt"
+    },
+    {
+      "name": "flibusta",
+      "clash": "/clash/flibusta.txt",
+      "surge": "/surge/flibusta.txt"
+    },
+    {
+      "name": "flickr",
+      "clash": "/clash/flickr.txt",
+      "surge": "/surge/flickr.txt"
+    },
+    {
+      "name": "flowus",
+      "clash": "/clash/flowus.txt",
+      "surge": "/surge/flowus.txt"
+    },
+    {
+      "name": "flowwow",
+      "clash": "/clash/flowwow.txt",
+      "surge": "/surge/flowwow.txt"
+    },
+    {
+      "name": "flutter",
+      "clash": "/clash/flutter.txt",
+      "surge": "/surge/flutter.txt"
+    },
+    {
+      "name": "flyio",
+      "clash": "/clash/flyio.txt",
+      "surge": "/surge/flyio.txt"
+    },
+    {
+      "name": "focuschina",
+      "clash": "/clash/focuschina.txt",
+      "surge": "/surge/focuschina.txt"
+    },
+    {
+      "name": "fonbet",
+      "clash": "/clash/fonbet.txt",
+      "surge": "/surge/fonbet.txt"
+    },
+    {
+      "name": "fontawesome",
+      "clash": "/clash/fontawesome.txt",
+      "surge": "/surge/fontawesome.txt"
+    },
+    {
+      "name": "fontexplorer",
+      "clash": "/clash/fontexplorer.txt",
+      "surge": "/surge/fontexplorer.txt"
+    },
+    {
+      "name": "fonts",
+      "clash": "/clash/fonts.txt",
+      "surge": "/surge/fonts.txt"
+    },
+    {
+      "name": "fontshop",
+      "clash": "/clash/fontshop.txt",
+      "surge": "/surge/fontshop.txt"
+    },
+    {
+      "name": "fontsinuse",
+      "clash": "/clash/fontsinuse.txt",
+      "surge": "/surge/fontsinuse.txt"
+    },
+    {
+      "name": "forbes",
+      "clash": "/clash/forbes.txt",
+      "surge": "/surge/forbes.txt"
+    },
+    {
+      "name": "formula1",
+      "clash": "/clash/formula1.txt",
+      "surge": "/surge/formula1.txt"
+    },
+    {
+      "name": "forza",
+      "clash": "/clash/forza.txt",
+      "surge": "/surge/forza.txt"
+    },
+    {
+      "name": "fox",
+      "clash": "/clash/fox.txt",
+      "surge": "/surge/fox.txt"
+    },
+    {
+      "name": "fqnovel",
+      "clash": "/clash/fqnovel.txt",
+      "surge": "/surge/fqnovel.txt"
+    },
+    {
+      "name": "framer",
+      "clash": "/clash/framer.txt",
+      "surge": "/surge/framer.txt"
+    },
+    {
+      "name": "freecodecamp",
+      "clash": "/clash/freecodecamp.txt",
+      "surge": "/surge/freecodecamp.txt"
+    },
+    {
+      "name": "freenode",
+      "clash": "/clash/freenode.txt",
+      "surge": "/surge/freenode.txt"
+    },
+    {
+      "name": "ft",
+      "clash": "/clash/ft.txt",
+      "surge": "/surge/ft.txt"
+    },
+    {
+      "name": "ftv",
+      "clash": "/clash/ftv.txt",
+      "surge": "/surge/ftv.txt"
+    },
+    {
+      "name": "funpay",
+      "clash": "/clash/funpay.txt",
+      "surge": "/surge/funpay.txt"
+    },
+    {
+      "name": "futu",
+      "clash": "/clash/futu.txt",
+      "surge": "/surge/futu.txt"
+    },
+    {
+      "name": "fzdm",
+      "clash": "/clash/fzdm.txt",
+      "surge": "/surge/fzdm.txt"
+    },
+    {
+      "name": "gaijin",
+      "clash": "/clash/gaijin.txt",
+      "surge": "/surge/gaijin.txt"
+    },
+    {
+      "name": "gamersky",
+      "clash": "/clash/gamersky.txt",
+      "surge": "/surge/gamersky.txt"
+    },
+    {
+      "name": "gamesplanet",
+      "clash": "/clash/gamesplanet.txt",
+      "surge": "/surge/gamesplanet.txt"
+    },
+    {
+      "name": "gandi",
+      "clash": "/clash/gandi.txt",
+      "surge": "/surge/gandi.txt"
+    },
+    {
+      "name": "ganji",
+      "clash": "/clash/ganji.txt",
+      "surge": "/surge/ganji.txt"
+    },
+    {
+      "name": "gannett",
+      "clash": "/clash/gannett.txt",
+      "surge": "/surge/gannett.txt"
+    },
+    {
+      "name": "garena",
+      "clash": "/clash/garena.txt",
+      "surge": "/surge/garena.txt"
+    },
+    {
+      "name": "gateio",
+      "clash": "/clash/gateio.txt",
+      "surge": "/surge/gateio.txt"
+    },
+    {
+      "name": "geetest",
+      "clash": "/clash/geetest.txt",
+      "surge": "/surge/geetest.txt"
+    },
+    {
+      "name": "gemfury",
+      "clash": "/clash/gemfury.txt",
+      "surge": "/surge/gemfury.txt"
+    },
+    {
+      "name": "genotek-ru",
+      "clash": "/clash/genotek-ru.txt",
+      "surge": "/surge/genotek-ru.txt"
+    },
+    {
+      "name": "geolocation-cn",
+      "clash": "/clash/geolocation-cn.txt",
+      "surge": "/surge/geolocation-cn.txt"
+    },
+    {
+      "name": "geolocation-non-cn",
+      "clash": "/clash/geolocation-non-cn.txt",
+      "surge": "/surge/geolocation-non-cn.txt"
+    },
+    {
+      "name": "gettyimages",
+      "clash": "/clash/gettyimages.txt",
+      "surge": "/surge/gettyimages.txt"
+    },
+    {
+      "name": "getui",
+      "clash": "/clash/getui.txt",
+      "surge": "/surge/getui.txt"
+    },
+    {
+      "name": "gfycat",
+      "clash": "/clash/gfycat.txt",
+      "surge": "/surge/gfycat.txt"
+    },
+    {
+      "name": "ggsel",
+      "clash": "/clash/ggsel.txt",
+      "surge": "/surge/ggsel.txt"
+    },
+    {
+      "name": "giffgaff",
+      "clash": "/clash/giffgaff.txt",
+      "surge": "/surge/giffgaff.txt"
+    },
+    {
+      "name": "gigabyte",
+      "clash": "/clash/gigabyte.txt",
+      "surge": "/surge/gigabyte.txt"
+    },
+    {
+      "name": "gimy",
+      "clash": "/clash/gimy.txt",
+      "surge": "/surge/gimy.txt"
+    },
+    {
+      "name": "gismeteo",
+      "clash": "/clash/gismeteo.txt",
+      "surge": "/surge/gismeteo.txt"
+    },
+    {
+      "name": "gitbook",
+      "clash": "/clash/gitbook.txt",
+      "surge": "/surge/gitbook.txt"
+    },
+    {
+      "name": "gitee",
+      "clash": "/clash/gitee.txt",
+      "surge": "/surge/gitee.txt"
+    },
+    {
+      "name": "github",
+      "clash": "/clash/github.txt",
+      "surge": "/surge/github.txt"
+    },
+    {
+      "name": "github-copilot",
+      "clash": "/clash/github-copilot.txt",
+      "surge": "/surge/github-copilot.txt"
+    },
+    {
+      "name": "github1s",
+      "clash": "/clash/github1s.txt",
+      "surge": "/surge/github1s.txt"
+    },
+    {
+      "name": "gitlab",
+      "clash": "/clash/gitlab.txt",
+      "surge": "/surge/gitlab.txt"
+    },
+    {
+      "name": "gitv",
+      "clash": "/clash/gitv.txt",
+      "surge": "/surge/gitv.txt"
+    },
+    {
+      "name": "globalsign",
+      "clash": "/clash/globalsign.txt",
+      "surge": "/surge/globalsign.txt"
+    },
+    {
+      "name": "globalvoices",
+      "clash": "/clash/globalvoices.txt",
+      "surge": "/surge/globalvoices.txt"
+    },
+    {
+      "name": "globo",
+      "clash": "/clash/globo.txt",
+      "surge": "/surge/globo.txt"
+    },
+    {
+      "name": "glyphs",
+      "clash": "/clash/glyphs.txt",
+      "surge": "/surge/glyphs.txt"
+    },
+    {
+      "name": "gmo-internet",
+      "clash": "/clash/gmo-internet.txt",
+      "surge": "/surge/gmo-internet.txt"
+    },
+    {
+      "name": "godaddy",
+      "clash": "/clash/godaddy.txt",
+      "surge": "/surge/godaddy.txt"
+    },
+    {
+      "name": "gofundme",
+      "clash": "/clash/gofundme.txt",
+      "surge": "/surge/gofundme.txt"
+    },
+    {
+      "name": "gog",
+      "clash": "/clash/gog.txt",
+      "surge": "/surge/gog.txt"
+    },
+    {
+      "name": "golang",
+      "clash": "/clash/golang.txt",
+      "surge": "/surge/golang.txt"
+    },
+    {
+      "name": "goodreads",
+      "clash": "/clash/goodreads.txt",
+      "surge": "/surge/goodreads.txt"
+    },
+    {
+      "name": "google",
+      "clash": "/clash/google.txt",
+      "surge": "/surge/google.txt"
+    },
+    {
+      "name": "google-deepmind",
+      "clash": "/clash/google-deepmind.txt",
+      "surge": "/surge/google-deepmind.txt"
+    },
+    {
+      "name": "google-gemini",
+      "clash": "/clash/google-gemini.txt",
+      "surge": "/surge/google-gemini.txt"
+    },
+    {
+      "name": "google-play",
+      "clash": "/clash/google-play.txt",
+      "surge": "/surge/google-play.txt"
+    },
+    {
+      "name": "google-registry",
+      "clash": "/clash/google-registry.txt",
+      "surge": "/surge/google-registry.txt"
+    },
+    {
+      "name": "google-registry-tld",
+      "clash": "/clash/google-registry-tld.txt",
+      "surge": "/surge/google-registry-tld.txt"
+    },
+    {
+      "name": "google-scholar",
+      "clash": "/clash/google-scholar.txt",
+      "surge": "/surge/google-scholar.txt"
+    },
+    {
+      "name": "google-trust-services",
+      "clash": "/clash/google-trust-services.txt",
+      "surge": "/surge/google-trust-services.txt"
+    },
+    {
+      "name": "googlefcm",
+      "clash": "/clash/googlefcm.txt",
+      "surge": "/surge/googlefcm.txt"
+    },
+    {
+      "name": "goproxy",
+      "clash": "/clash/goproxy.txt",
+      "surge": "/surge/goproxy.txt"
+    },
+    {
+      "name": "gracg",
+      "clash": "/clash/gracg.txt",
+      "surge": "/surge/gracg.txt"
+    },
+    {
+      "name": "grapheneos",
+      "clash": "/clash/grapheneos.txt",
+      "surge": "/surge/grapheneos.txt"
+    },
+    {
+      "name": "gravatar",
+      "clash": "/clash/gravatar.txt",
+      "surge": "/surge/gravatar.txt"
+    },
+    {
+      "name": "greatfire",
+      "clash": "/clash/greatfire.txt",
+      "surge": "/surge/greatfire.txt"
+    },
+    {
+      "name": "gree",
+      "clash": "/clash/gree.txt",
+      "surge": "/surge/gree.txt"
+    },
+    {
+      "name": "groq",
+      "clash": "/clash/groq.txt",
+      "surge": "/surge/groq.txt"
+    },
+    {
+      "name": "group-ib",
+      "clash": "/clash/group-ib.txt",
+      "surge": "/surge/group-ib.txt"
+    },
+    {
+      "name": "growingio",
+      "clash": "/clash/growingio.txt",
+      "surge": "/surge/growingio.txt"
+    },
+    {
+      "name": "gucci",
+      "clash": "/clash/gucci.txt",
+      "surge": "/surge/gucci.txt"
+    },
+    {
+      "name": "guo",
+      "clash": "/clash/guo.txt",
+      "surge": "/surge/guo.txt"
+    },
+    {
+      "name": "guokr",
+      "clash": "/clash/guokr.txt",
+      "surge": "/surge/guokr.txt"
+    },
+    {
+      "name": "habr",
+      "clash": "/clash/habr.txt",
+      "surge": "/surge/habr.txt"
+    },
+    {
+      "name": "haier",
+      "clash": "/clash/haier.txt",
+      "surge": "/surge/haier.txt"
+    },
+    {
+      "name": "hainanairlines",
+      "clash": "/clash/hainanairlines.txt",
+      "surge": "/surge/hainanairlines.txt"
+    },
+    {
+      "name": "haitang",
+      "clash": "/clash/haitang.txt",
+      "surge": "/surge/haitang.txt"
+    },
+    {
+      "name": "hamivideo",
+      "clash": "/clash/hamivideo.txt",
+      "surge": "/surge/hamivideo.txt"
+    },
+    {
+      "name": "hanyi",
+      "clash": "/clash/hanyi.txt",
+      "surge": "/surge/hanyi.txt"
+    },
+    {
+      "name": "harpercollins",
+      "clash": "/clash/harpercollins.txt",
+      "surge": "/surge/harpercollins.txt"
+    },
+    {
+      "name": "hashicorp",
+      "clash": "/clash/hashicorp.txt",
+      "surge": "/surge/hashicorp.txt"
+    },
+    {
+      "name": "haskell",
+      "clash": "/clash/haskell.txt",
+      "surge": "/surge/haskell.txt"
+    },
+    {
+      "name": "haveibeenpwned",
+      "clash": "/clash/haveibeenpwned.txt",
+      "surge": "/surge/haveibeenpwned.txt"
+    },
+    {
+      "name": "hbo",
+      "clash": "/clash/hbo.txt",
+      "surge": "/surge/hbo.txt"
+    },
+    {
+      "name": "hcaptcha",
+      "clash": "/clash/hcaptcha.txt",
+      "surge": "/surge/hcaptcha.txt"
+    },
+    {
+      "name": "hdrezka",
+      "clash": "/clash/hdrezka.txt",
+      "surge": "/surge/hdrezka.txt"
+    },
+    {
+      "name": "headhunter",
+      "clash": "/clash/headhunter.txt",
+      "surge": "/surge/headhunter.txt"
+    },
+    {
+      "name": "hentaichen",
+      "clash": "/clash/hentaichen.txt",
+      "surge": "/surge/hentaichen.txt"
+    },
+    {
+      "name": "hentaivn",
+      "clash": "/clash/hentaivn.txt",
+      "surge": "/surge/hentaivn.txt"
+    },
+    {
+      "name": "herogame",
+      "clash": "/clash/herogame.txt",
+      "surge": "/surge/herogame.txt"
+    },
+    {
+      "name": "heroku",
+      "clash": "/clash/heroku.txt",
+      "surge": "/surge/heroku.txt"
+    },
+    {
+      "name": "hetzner",
+      "clash": "/clash/hetzner.txt",
+      "surge": "/surge/hetzner.txt"
+    },
+    {
+      "name": "heyzo",
+      "clash": "/clash/heyzo.txt",
+      "surge": "/surge/heyzo.txt"
+    },
+    {
+      "name": "hikvision",
+      "clash": "/clash/hikvision.txt",
+      "surge": "/surge/hikvision.txt"
+    },
+    {
+      "name": "hinet",
+      "clash": "/clash/hinet.txt",
+      "surge": "/surge/hinet.txt"
+    },
+    {
+      "name": "hinet-eca",
+      "clash": "/clash/hinet-eca.txt",
+      "surge": "/surge/hinet-eca.txt"
+    },
+    {
+      "name": "hisense",
+      "clash": "/clash/hisense.txt",
+      "surge": "/surge/hisense.txt"
+    },
+    {
+      "name": "hitun",
+      "clash": "/clash/hitun.txt",
+      "surge": "/surge/hitun.txt"
+    },
+    {
+      "name": "hkbn",
+      "clash": "/clash/hkbn.txt",
+      "surge": "/surge/hkbn.txt"
+    },
+    {
+      "name": "hkbu",
+      "clash": "/clash/hkbu.txt",
+      "surge": "/surge/hkbu.txt"
+    },
+    {
+      "name": "hkedcity",
+      "clash": "/clash/hkedcity.txt",
+      "surge": "/surge/hkedcity.txt"
+    },
+    {
+      "name": "hketgroup",
+      "clash": "/clash/hketgroup.txt",
+      "surge": "/surge/hketgroup.txt"
+    },
+    {
+      "name": "hkgolden",
+      "clash": "/clash/hkgolden.txt",
+      "surge": "/surge/hkgolden.txt"
+    },
+    {
+      "name": "hkt",
+      "clash": "/clash/hkt.txt",
+      "surge": "/surge/hkt.txt"
+    },
+    {
+      "name": "hku",
+      "clash": "/clash/hku.txt",
+      "surge": "/surge/hku.txt"
+    },
+    {
+      "name": "hkust",
+      "clash": "/clash/hkust.txt",
+      "surge": "/surge/hkust.txt"
+    },
+    {
+      "name": "hm",
+      "clash": "/clash/hm.txt",
+      "surge": "/surge/hm.txt"
+    },
+    {
+      "name": "homebrew",
+      "clash": "/clash/homebrew.txt",
+      "surge": "/surge/homebrew.txt"
+    },
+    {
+      "name": "homedepot",
+      "clash": "/clash/homedepot.txt",
+      "surge": "/surge/homedepot.txt"
+    },
+    {
+      "name": "hongkongpost",
+      "clash": "/clash/hongkongpost.txt",
+      "surge": "/surge/hongkongpost.txt"
+    },
+    {
+      "name": "honor",
+      "clash": "/clash/honor.txt",
+      "surge": "/surge/honor.txt"
+    },
+    {
+      "name": "hooligapps",
+      "clash": "/clash/hooligapps.txt",
+      "surge": "/surge/hooligapps.txt"
+    },
+    {
+      "name": "hotstar",
+      "clash": "/clash/hotstar.txt",
+      "surge": "/surge/hotstar.txt"
+    },
+    {
+      "name": "hoyoverse",
+      "clash": "/clash/hoyoverse.txt",
+      "surge": "/surge/hoyoverse.txt"
+    },
+    {
+      "name": "hp",
+      "clash": "/clash/hp.txt",
+      "surge": "/surge/hp.txt"
+    },
+    {
+      "name": "hpe",
+      "clash": "/clash/hpe.txt",
+      "surge": "/surge/hpe.txt"
+    },
+    {
+      "name": "hsbc",
+      "clash": "/clash/hsbc.txt",
+      "surge": "/surge/hsbc.txt"
+    },
+    {
+      "name": "hsbc-cn",
+      "clash": "/clash/hsbc-cn.txt",
+      "surge": "/surge/hsbc-cn.txt"
+    },
+    {
+      "name": "huanghuagang",
+      "clash": "/clash/huanghuagang.txt",
+      "surge": "/surge/huanghuagang.txt"
+    },
+    {
+      "name": "huawei",
+      "clash": "/clash/huawei.txt",
+      "surge": "/surge/huawei.txt"
+    },
+    {
+      "name": "huawei-dev",
+      "clash": "/clash/huawei-dev.txt",
+      "surge": "/surge/huawei-dev.txt"
+    },
+    {
+      "name": "huaweicloud",
+      "clash": "/clash/huaweicloud.txt",
+      "surge": "/surge/huaweicloud.txt"
+    },
+    {
+      "name": "hubblephone",
+      "clash": "/clash/hubblephone.txt",
+      "surge": "/surge/hubblephone.txt"
+    },
+    {
+      "name": "huffpost",
+      "clash": "/clash/huffpost.txt",
+      "surge": "/surge/huffpost.txt"
+    },
+    {
+      "name": "hugecore",
+      "clash": "/clash/hugecore.txt",
+      "surge": "/surge/hugecore.txt"
+    },
+    {
+      "name": "huggingface",
+      "clash": "/clash/huggingface.txt",
+      "surge": "/surge/huggingface.txt"
+    },
+    {
+      "name": "hujiang",
+      "clash": "/clash/hujiang.txt",
+      "surge": "/surge/hujiang.txt"
+    },
+    {
+      "name": "hulu",
+      "clash": "/clash/hulu.txt",
+      "surge": "/surge/hulu.txt"
+    },
+    {
+      "name": "humblebundle",
+      "clash": "/clash/humblebundle.txt",
+      "surge": "/surge/humblebundle.txt"
+    },
+    {
+      "name": "hunantv",
+      "clash": "/clash/hunantv.txt",
+      "surge": "/surge/hunantv.txt"
+    },
+    {
+      "name": "huobi",
+      "clash": "/clash/huobi.txt",
+      "surge": "/surge/huobi.txt"
+    },
+    {
+      "name": "hupu",
+      "clash": "/clash/hupu.txt",
+      "surge": "/surge/hupu.txt"
+    },
+    {
+      "name": "hupun",
+      "clash": "/clash/hupun.txt",
+      "surge": "/surge/hupun.txt"
+    },
+    {
+      "name": "hurricaneelectric",
+      "clash": "/clash/hurricaneelectric.txt",
+      "surge": "/surge/hurricaneelectric.txt"
+    },
+    {
+      "name": "huya",
+      "clash": "/clash/huya.txt",
+      "surge": "/surge/huya.txt"
+    },
+    {
+      "name": "ibkr",
+      "clash": "/clash/ibkr.txt",
+      "surge": "/surge/ibkr.txt"
+    },
+    {
+      "name": "ibm",
+      "clash": "/clash/ibm.txt",
+      "surge": "/surge/ibm.txt"
+    },
+    {
+      "name": "icable",
+      "clash": "/clash/icable.txt",
+      "surge": "/surge/icable.txt"
+    },
+    {
+      "name": "icbc",
+      "clash": "/clash/icbc.txt",
+      "surge": "/surge/icbc.txt"
+    },
+    {
+      "name": "icloud",
+      "clash": "/clash/icloud.txt",
+      "surge": "/surge/icloud.txt"
+    },
+    {
+      "name": "icloudprivaterelay",
+      "clash": "/clash/icloudprivaterelay.txt",
+      "surge": "/surge/icloudprivaterelay.txt"
+    },
+    {
+      "name": "ideco-ru",
+      "clash": "/clash/ideco-ru.txt",
+      "surge": "/surge/ideco-ru.txt"
+    },
+    {
+      "name": "identrust",
+      "clash": "/clash/identrust.txt",
+      "surge": "/surge/identrust.txt"
+    },
+    {
+      "name": "idg",
+      "clash": "/clash/idg.txt",
+      "surge": "/surge/idg.txt"
+    },
+    {
+      "name": "ieee",
+      "clash": "/clash/ieee.txt",
+      "surge": "/surge/ieee.txt"
+    },
+    {
+      "name": "ifanr",
+      "clash": "/clash/ifanr.txt",
+      "surge": "/surge/ifanr.txt"
+    },
+    {
+      "name": "ifast",
+      "clash": "/clash/ifast.txt",
+      "surge": "/surge/ifast.txt"
+    },
+    {
+      "name": "iflytek",
+      "clash": "/clash/iflytek.txt",
+      "surge": "/surge/iflytek.txt"
+    },
+    {
+      "name": "ihuman",
+      "clash": "/clash/ihuman.txt",
+      "surge": "/surge/ihuman.txt"
+    },
+    {
+      "name": "iina",
+      "clash": "/clash/iina.txt",
+      "surge": "/surge/iina.txt"
+    },
+    {
+      "name": "ikea",
+      "clash": "/clash/ikea.txt",
+      "surge": "/surge/ikea.txt"
+    },
+    {
+      "name": "illgames",
+      "clash": "/clash/illgames.txt",
+      "surge": "/surge/illgames.txt"
+    },
+    {
+      "name": "illusion",
+      "clash": "/clash/illusion.txt",
+      "surge": "/surge/illusion.txt"
+    },
+    {
+      "name": "illusion-nonofficial",
+      "clash": "/clash/illusion-nonofficial.txt",
+      "surge": "/surge/illusion-nonofficial.txt"
+    },
+    {
+      "name": "imagebam",
+      "clash": "/clash/imagebam.txt",
+      "surge": "/surge/imagebam.txt"
+    },
+    {
+      "name": "imagecurl",
+      "clash": "/clash/imagecurl.txt",
+      "surge": "/surge/imagecurl.txt"
+    },
+    {
+      "name": "imageshack",
+      "clash": "/clash/imageshack.txt",
+      "surge": "/surge/imageshack.txt"
+    },
+    {
+      "name": "imagetwist",
+      "clash": "/clash/imagetwist.txt",
+      "surge": "/surge/imagetwist.txt"
+    },
+    {
+      "name": "imdb",
+      "clash": "/clash/imdb.txt",
+      "surge": "/surge/imdb.txt"
+    },
+    {
+      "name": "imgbb",
+      "clash": "/clash/imgbb.txt",
+      "surge": "/surge/imgbb.txt"
+    },
+    {
+      "name": "imgix",
+      "clash": "/clash/imgix.txt",
+      "surge": "/surge/imgix.txt"
+    },
+    {
+      "name": "imgur",
+      "clash": "/clash/imgur.txt",
+      "surge": "/surge/imgur.txt"
+    },
+    {
+      "name": "imperialcollege",
+      "clash": "/clash/imperialcollege.txt",
+      "surge": "/surge/imperialcollege.txt"
+    },
+    {
+      "name": "infowars",
+      "clash": "/clash/infowars.txt",
+      "surge": "/surge/infowars.txt"
+    },
+    {
+      "name": "infrapedia",
+      "clash": "/clash/infrapedia.txt",
+      "surge": "/surge/infrapedia.txt"
+    },
+    {
+      "name": "inoreader",
+      "clash": "/clash/inoreader.txt",
+      "surge": "/surge/inoreader.txt"
+    },
+    {
+      "name": "inshot",
+      "clash": "/clash/inshot.txt",
+      "surge": "/surge/inshot.txt"
+    },
+    {
+      "name": "insider",
+      "clash": "/clash/insider.txt",
+      "surge": "/surge/insider.txt"
+    },
+    {
+      "name": "instagram",
+      "clash": "/clash/instagram.txt",
+      "surge": "/surge/instagram.txt"
+    },
+    {
+      "name": "intel",
+      "clash": "/clash/intel.txt",
+      "surge": "/surge/intel.txt"
+    },
+    {
+      "name": "intel-dev",
+      "clash": "/clash/intel-dev.txt",
+      "surge": "/surge/intel-dev.txt"
+    },
+    {
+      "name": "intercom",
+      "clash": "/clash/intercom.txt",
+      "surge": "/surge/intercom.txt"
+    },
+    {
+      "name": "internet-archive",
+      "clash": "/clash/internet-archive.txt",
+      "surge": "/surge/internet-archive.txt"
+    },
+    {
+      "name": "intsig",
+      "clash": "/clash/intsig.txt",
+      "surge": "/surge/intsig.txt"
+    },
+    {
+      "name": "intuit",
+      "clash": "/clash/intuit.txt",
+      "surge": "/surge/intuit.txt"
+    },
+    {
+      "name": "ipip",
+      "clash": "/clash/ipip.txt",
+      "surge": "/surge/ipip.txt"
+    },
+    {
+      "name": "iqiyi",
+      "clash": "/clash/iqiyi.txt",
+      "surge": "/surge/iqiyi.txt"
+    },
+    {
+      "name": "isgd",
+      "clash": "/clash/isgd.txt",
+      "surge": "/surge/isgd.txt"
+    },
+    {
+      "name": "ishumei",
+      "clash": "/clash/ishumei.txt",
+      "surge": "/surge/ishumei.txt"
+    },
+    {
+      "name": "itchio",
+      "clash": "/clash/itchio.txt",
+      "surge": "/surge/itchio.txt"
+    },
+    {
+      "name": "itiger",
+      "clash": "/clash/itiger.txt",
+      "surge": "/surge/itiger.txt"
+    },
+    {
+      "name": "itunes",
+      "clash": "/clash/itunes.txt",
+      "surge": "/surge/itunes.txt"
+    },
+    {
+      "name": "ixbt",
+      "clash": "/clash/ixbt.txt",
+      "surge": "/surge/ixbt.txt"
+    },
+    {
+      "name": "ixsystems",
+      "clash": "/clash/ixsystems.txt",
+      "surge": "/surge/ixsystems.txt"
+    },
+    {
+      "name": "iyf",
+      "clash": "/clash/iyf.txt",
+      "surge": "/surge/iyf.txt"
+    },
+    {
+      "name": "jable",
+      "clash": "/clash/jable.txt",
+      "surge": "/surge/jable.txt"
+    },
+    {
+      "name": "japonx",
+      "clash": "/clash/japonx.txt",
+      "surge": "/surge/japonx.txt"
+    },
+    {
+      "name": "java",
+      "clash": "/clash/java.txt",
+      "surge": "/surge/java.txt"
+    },
+    {
+      "name": "javbus",
+      "clash": "/clash/javbus.txt",
+      "surge": "/surge/javbus.txt"
+    },
+    {
+      "name": "javcc",
+      "clash": "/clash/javcc.txt",
+      "surge": "/surge/javcc.txt"
+    },
+    {
+      "name": "javdb",
+      "clash": "/clash/javdb.txt",
+      "surge": "/surge/javdb.txt"
+    },
+    {
+      "name": "javwide",
+      "clash": "/clash/javwide.txt",
+      "surge": "/surge/javwide.txt"
+    },
+    {
+      "name": "jd",
+      "clash": "/clash/jd.txt",
+      "surge": "/surge/jd.txt"
+    },
+    {
+      "name": "jetbrains",
+      "clash": "/clash/jetbrains.txt",
+      "surge": "/surge/jetbrains.txt"
+    },
+    {
+      "name": "jetbrains-ai",
+      "clash": "/clash/jetbrains-ai.txt",
+      "surge": "/surge/jetbrains-ai.txt"
+    },
+    {
+      "name": "jfrog",
+      "clash": "/clash/jfrog.txt",
+      "surge": "/surge/jfrog.txt"
+    },
+    {
+      "name": "jianshu",
+      "clash": "/clash/jianshu.txt",
+      "surge": "/surge/jianshu.txt"
+    },
+    {
+      "name": "jibencaozuo",
+      "clash": "/clash/jibencaozuo.txt",
+      "surge": "/surge/jibencaozuo.txt"
+    },
+    {
+      "name": "jiemian",
+      "clash": "/clash/jiemian.txt",
+      "surge": "/surge/jiemian.txt"
+    },
+    {
+      "name": "jiguang",
+      "clash": "/clash/jiguang.txt",
+      "surge": "/surge/jiguang.txt"
+    },
+    {
+      "name": "jinshuju",
+      "clash": "/clash/jinshuju.txt",
+      "surge": "/surge/jinshuju.txt"
+    },
+    {
+      "name": "jiyukobo",
+      "clash": "/clash/jiyukobo.txt",
+      "surge": "/surge/jiyukobo.txt"
+    },
+    {
+      "name": "jkf",
+      "clash": "/clash/jkf.txt",
+      "surge": "/surge/jkf.txt"
+    },
+    {
+      "name": "jlc",
+      "clash": "/clash/jlc.txt",
+      "surge": "/surge/jlc.txt"
+    },
+    {
+      "name": "johren",
+      "clash": "/clash/johren.txt",
+      "surge": "/surge/johren.txt"
+    },
+    {
+      "name": "jquery",
+      "clash": "/clash/jquery.txt",
+      "surge": "/surge/jquery.txt"
+    },
+    {
+      "name": "jsdelivr",
+      "clash": "/clash/jsdelivr.txt",
+      "surge": "/surge/jsdelivr.txt"
+    },
+    {
+      "name": "jtexpress",
+      "clash": "/clash/jtexpress.txt",
+      "surge": "/surge/jtexpress.txt"
+    },
+    {
+      "name": "juejin",
+      "clash": "/clash/juejin.txt",
+      "surge": "/surge/juejin.txt"
+    },
+    {
+      "name": "jushuitan",
+      "clash": "/clash/jushuitan.txt",
+      "surge": "/surge/jushuitan.txt"
+    },
+    {
+      "name": "justav",
+      "clash": "/clash/justav.txt",
+      "surge": "/surge/justav.txt"
+    },
+    {
+      "name": "justmysocks",
+      "clash": "/clash/justmysocks.txt",
+      "surge": "/surge/justmysocks.txt"
+    },
+    {
+      "name": "jutongbao",
+      "clash": "/clash/jutongbao.txt",
+      "surge": "/surge/jutongbao.txt"
+    },
+    {
+      "name": "jwplayer",
+      "clash": "/clash/jwplayer.txt",
+      "surge": "/surge/jwplayer.txt"
+    },
+    {
+      "name": "kaggle",
+      "clash": "/clash/kaggle.txt",
+      "surge": "/surge/kaggle.txt"
+    },
+    {
+      "name": "kakao",
+      "clash": "/clash/kakao.txt",
+      "surge": "/surge/kakao.txt"
+    },
+    {
+      "name": "kanzhongguo",
+      "clash": "/clash/kanzhongguo.txt",
+      "surge": "/surge/kanzhongguo.txt"
+    },
+    {
+      "name": "kaspersky",
+      "clash": "/clash/kaspersky.txt",
+      "surge": "/surge/kaspersky.txt"
+    },
+    {
+      "name": "kechuang",
+      "clash": "/clash/kechuang.txt",
+      "surge": "/surge/kechuang.txt"
+    },
+    {
+      "name": "keep",
+      "clash": "/clash/keep.txt",
+      "surge": "/surge/keep.txt"
+    },
+    {
+      "name": "kemono",
+      "clash": "/clash/kemono.txt",
+      "surge": "/surge/kemono.txt"
+    },
+    {
+      "name": "kernel",
+      "clash": "/clash/kernel.txt",
+      "surge": "/surge/kernel.txt"
+    },
+    {
+      "name": "keybase",
+      "clash": "/clash/keybase.txt",
+      "surge": "/surge/keybase.txt"
+    },
+    {
+      "name": "khanacademy",
+      "clash": "/clash/khanacademy.txt",
+      "surge": "/surge/khanacademy.txt"
+    },
+    {
+      "name": "kick",
+      "clash": "/clash/kick.txt",
+      "surge": "/surge/kick.txt"
+    },
+    {
+      "name": "kindle",
+      "clash": "/clash/kindle.txt",
+      "surge": "/surge/kindle.txt"
+    },
+    {
+      "name": "kindle4rss",
+      "clash": "/clash/kindle4rss.txt",
+      "surge": "/surge/kindle4rss.txt"
+    },
+    {
+      "name": "kingkonglive",
+      "clash": "/clash/kingkonglive.txt",
+      "surge": "/surge/kingkonglive.txt"
+    },
+    {
+      "name": "kingsoft",
+      "clash": "/clash/kingsoft.txt",
+      "surge": "/surge/kingsoft.txt"
+    },
+    {
+      "name": "kinopoisk",
+      "clash": "/clash/kinopoisk.txt",
+      "surge": "/surge/kinopoisk.txt"
+    },
+    {
+      "name": "kinopub",
+      "clash": "/clash/kinopub.txt",
+      "surge": "/surge/kinopub.txt"
+    },
+    {
+      "name": "kkbox",
+      "clash": "/clash/kkbox.txt",
+      "surge": "/surge/kkbox.txt"
+    },
+    {
+      "name": "kktv",
+      "clash": "/clash/kktv.txt",
+      "surge": "/surge/kktv.txt"
+    },
+    {
+      "name": "kodi",
+      "clash": "/clash/kodi.txt",
+      "surge": "/surge/kodi.txt"
+    },
+    {
+      "name": "kodik",
+      "clash": "/clash/kodik.txt",
+      "surge": "/surge/kodik.txt"
+    },
+    {
+      "name": "konachan",
+      "clash": "/clash/konachan.txt",
+      "surge": "/surge/konachan.txt"
+    },
+    {
+      "name": "konami",
+      "clash": "/clash/konami.txt",
+      "surge": "/surge/konami.txt"
+    },
+    {
+      "name": "kontur",
+      "clash": "/clash/kontur.txt",
+      "surge": "/surge/kontur.txt"
+    },
+    {
+      "name": "koolearn",
+      "clash": "/clash/koolearn.txt",
+      "surge": "/surge/koolearn.txt"
+    },
+    {
+      "name": "kraken",
+      "clash": "/clash/kraken.txt",
+      "surge": "/surge/kraken.txt"
+    },
+    {
+      "name": "ku6",
+      "clash": "/clash/ku6.txt",
+      "surge": "/surge/ku6.txt"
+    },
+    {
+      "name": "kuaidi100",
+      "clash": "/clash/kuaidi100.txt",
+      "surge": "/surge/kuaidi100.txt"
+    },
+    {
+      "name": "kuaikan",
+      "clash": "/clash/kuaikan.txt",
+      "surge": "/surge/kuaikan.txt"
+    },
+    {
+      "name": "kuaishou",
+      "clash": "/clash/kuaishou.txt",
+      "surge": "/surge/kuaishou.txt"
+    },
+    {
+      "name": "kuaiyikeji",
+      "clash": "/clash/kuaiyikeji.txt",
+      "surge": "/surge/kuaiyikeji.txt"
+    },
+    {
+      "name": "kubakuba",
+      "clash": "/clash/kubakuba.txt",
+      "surge": "/surge/kubakuba.txt"
+    },
+    {
+      "name": "kubernetes",
+      "clash": "/clash/kubernetes.txt",
+      "surge": "/surge/kubernetes.txt"
+    },
+    {
+      "name": "kucoin",
+      "clash": "/clash/kucoin.txt",
+      "surge": "/surge/kucoin.txt"
+    },
+    {
+      "name": "kugou",
+      "clash": "/clash/kugou.txt",
+      "surge": "/surge/kugou.txt"
+    },
+    {
+      "name": "kurogames",
+      "clash": "/clash/kurogames.txt",
+      "surge": "/surge/kurogames.txt"
+    },
+    {
+      "name": "kuwo",
+      "clash": "/clash/kuwo.txt",
+      "surge": "/surge/kuwo.txt"
+    },
+    {
+      "name": "kyodonews",
+      "clash": "/clash/kyodonews.txt",
+      "surge": "/surge/kyodonews.txt"
+    },
+    {
+      "name": "lagou",
+      "clash": "/clash/lagou.txt",
+      "surge": "/surge/lagou.txt"
+    },
+    {
+      "name": "landian",
+      "clash": "/clash/landian.txt",
+      "surge": "/surge/landian.txt"
+    },
+    {
+      "name": "lantern",
+      "clash": "/clash/lantern.txt",
+      "surge": "/surge/lantern.txt"
+    },
+    {
+      "name": "lanzou",
+      "clash": "/clash/lanzou.txt",
+      "surge": "/surge/lanzou.txt"
+    },
+    {
+      "name": "laracasts",
+      "clash": "/clash/laracasts.txt",
+      "surge": "/surge/laracasts.txt"
+    },
+    {
+      "name": "lark",
+      "clash": "/clash/lark.txt",
+      "surge": "/surge/lark.txt"
+    },
+    {
+      "name": "lark-global",
+      "clash": "/clash/lark-global.txt",
+      "surge": "/surge/lark-global.txt"
+    },
+    {
+      "name": "lastfm",
+      "clash": "/clash/lastfm.txt",
+      "surge": "/surge/lastfm.txt"
+    },
+    {
+      "name": "lastpass",
+      "clash": "/clash/lastpass.txt",
+      "surge": "/surge/lastpass.txt"
+    },
+    {
+      "name": "launchpad",
+      "clash": "/clash/launchpad.txt",
+      "surge": "/surge/launchpad.txt"
+    },
+    {
+      "name": "lavteam",
+      "clash": "/clash/lavteam.txt",
+      "surge": "/surge/lavteam.txt"
+    },
+    {
+      "name": "le",
+      "clash": "/clash/le.txt",
+      "surge": "/surge/le.txt"
+    },
+    {
+      "name": "lenovo",
+      "clash": "/clash/lenovo.txt",
+      "surge": "/surge/lenovo.txt"
+    },
+    {
+      "name": "lethalhardcore",
+      "clash": "/clash/lethalhardcore.txt",
+      "surge": "/surge/lethalhardcore.txt"
+    },
+    {
+      "name": "letsencrypt",
+      "clash": "/clash/letsencrypt.txt",
+      "surge": "/surge/letsencrypt.txt"
+    },
+    {
+      "name": "lg",
+      "clash": "/clash/lg.txt",
+      "surge": "/surge/lg.txt"
+    },
+    {
+      "name": "lianjia",
+      "clash": "/clash/lianjia.txt",
+      "surge": "/surge/lianjia.txt"
+    },
+    {
+      "name": "liberapay",
+      "clash": "/clash/liberapay.txt",
+      "surge": "/surge/liberapay.txt"
+    },
+    {
+      "name": "libgen",
+      "clash": "/clash/libgen.txt",
+      "surge": "/surge/libgen.txt"
+    },
+    {
+      "name": "liepin",
+      "clash": "/clash/liepin.txt",
+      "surge": "/surge/liepin.txt"
+    },
+    {
+      "name": "lifewire",
+      "clash": "/clash/lifewire.txt",
+      "surge": "/surge/lifewire.txt"
+    },
+    {
+      "name": "ligastavok",
+      "clash": "/clash/ligastavok.txt",
+      "surge": "/surge/ligastavok.txt"
+    },
+    {
+      "name": "lighter",
+      "clash": "/clash/lighter.txt",
+      "surge": "/surge/lighter.txt"
+    },
+    {
+      "name": "lihkg",
+      "clash": "/clash/lihkg.txt",
+      "surge": "/surge/lihkg.txt"
+    },
+    {
+      "name": "likee",
+      "clash": "/clash/likee.txt",
+      "surge": "/surge/likee.txt"
+    },
+    {
+      "name": "limelight",
+      "clash": "/clash/limelight.txt",
+      "surge": "/surge/limelight.txt"
+    },
+    {
+      "name": "linakesi",
+      "clash": "/clash/linakesi.txt",
+      "surge": "/surge/linakesi.txt"
+    },
+    {
+      "name": "line",
+      "clash": "/clash/line.txt",
+      "surge": "/surge/line.txt"
+    },
+    {
+      "name": "linguee",
+      "clash": "/clash/linguee.txt",
+      "surge": "/surge/linguee.txt"
+    },
+    {
+      "name": "linkedin",
+      "clash": "/clash/linkedin.txt",
+      "surge": "/surge/linkedin.txt"
+    },
+    {
+      "name": "linotype",
+      "clash": "/clash/linotype.txt",
+      "surge": "/surge/linotype.txt"
+    },
+    {
+      "name": "linux",
+      "clash": "/clash/linux.txt",
+      "surge": "/surge/linux.txt"
+    },
+    {
+      "name": "linuxdo",
+      "clash": "/clash/linuxdo.txt",
+      "surge": "/surge/linuxdo.txt"
+    },
+    {
+      "name": "lisiku",
+      "clash": "/clash/lisiku.txt",
+      "surge": "/surge/lisiku.txt"
+    },
+    {
+      "name": "litv",
+      "clash": "/clash/litv.txt",
+      "surge": "/surge/litv.txt"
+    },
+    {
+      "name": "livejournal",
+      "clash": "/clash/livejournal.txt",
+      "surge": "/surge/livejournal.txt"
+    },
+    {
+      "name": "liveperson",
+      "clash": "/clash/liveperson.txt",
+      "surge": "/surge/liveperson.txt"
+    },
+    {
+      "name": "lizhi",
+      "clash": "/clash/lizhi.txt",
+      "surge": "/surge/lizhi.txt"
+    },
+    {
+      "name": "lkcoffee",
+      "clash": "/clash/lkcoffee.txt",
+      "surge": "/surge/lkcoffee.txt"
+    },
+    {
+      "name": "localbitcoins",
+      "clash": "/clash/localbitcoins.txt",
+      "surge": "/surge/localbitcoins.txt"
+    },
+    {
+      "name": "localizejs",
+      "clash": "/clash/localizejs.txt",
+      "surge": "/surge/localizejs.txt"
+    },
+    {
+      "name": "logitech",
+      "clash": "/clash/logitech.txt",
+      "surge": "/surge/logitech.txt"
+    },
+    {
+      "name": "londonreal",
+      "clash": "/clash/londonreal.txt",
+      "surge": "/surge/londonreal.txt"
+    },
+    {
+      "name": "longbridge",
+      "clash": "/clash/longbridge.txt",
+      "surge": "/surge/longbridge.txt"
+    },
+    {
+      "name": "louisvuitton",
+      "clash": "/clash/louisvuitton.txt",
+      "surge": "/surge/louisvuitton.txt"
+    },
+    {
+      "name": "lowiro",
+      "clash": "/clash/lowiro.txt",
+      "surge": "/surge/lowiro.txt"
+    },
+    {
+      "name": "ltn",
+      "clash": "/clash/ltn.txt",
+      "surge": "/surge/ltn.txt"
+    },
+    {
+      "name": "lumion",
+      "clash": "/clash/lumion.txt",
+      "surge": "/surge/lumion.txt"
+    },
+    {
+      "name": "lysol",
+      "clash": "/clash/lysol.txt",
+      "surge": "/surge/lysol.txt"
+    },
+    {
+      "name": "madshi",
+      "clash": "/clash/madshi.txt",
+      "surge": "/surge/madshi.txt"
+    },
+    {
+      "name": "mafengwo",
+      "clash": "/clash/mafengwo.txt",
+      "surge": "/surge/mafengwo.txt"
+    },
+    {
+      "name": "magnit",
+      "clash": "/clash/magnit.txt",
+      "surge": "/surge/magnit.txt"
+    },
+    {
+      "name": "mailcom",
+      "clash": "/clash/mailcom.txt",
+      "surge": "/surge/mailcom.txt"
+    },
+    {
+      "name": "mailru",
+      "clash": "/clash/mailru.txt",
+      "surge": "/surge/mailru.txt"
+    },
+    {
+      "name": "mailru-group",
+      "clash": "/clash/mailru-group.txt",
+      "surge": "/surge/mailru-group.txt"
+    },
+    {
+      "name": "mainichi",
+      "clash": "/clash/mainichi.txt",
+      "surge": "/surge/mainichi.txt"
+    },
+    {
+      "name": "manhuagui",
+      "clash": "/clash/manhuagui.txt",
+      "surge": "/surge/manhuagui.txt"
+    },
+    {
+      "name": "manhuaren",
+      "clash": "/clash/manhuaren.txt",
+      "surge": "/surge/manhuaren.txt"
+    },
+    {
+      "name": "manorama",
+      "clash": "/clash/manorama.txt",
+      "surge": "/surge/manorama.txt"
+    },
+    {
+      "name": "manoto",
+      "clash": "/clash/manoto.txt",
+      "surge": "/surge/manoto.txt"
+    },
+    {
+      "name": "manus",
+      "clash": "/clash/manus.txt",
+      "surge": "/surge/manus.txt"
+    },
+    {
+      "name": "maocloud",
+      "clash": "/clash/maocloud.txt",
+      "surge": "/surge/maocloud.txt"
+    },
+    {
+      "name": "mapbox",
+      "clash": "/clash/mapbox.txt",
+      "surge": "/surge/mapbox.txt"
+    },
+    {
+      "name": "marvel",
+      "clash": "/clash/marvel.txt",
+      "surge": "/surge/marvel.txt"
+    },
+    {
+      "name": "mastercard",
+      "clash": "/clash/mastercard.txt",
+      "surge": "/surge/mastercard.txt"
+    },
+    {
+      "name": "masterclass",
+      "clash": "/clash/masterclass.txt",
+      "surge": "/surge/masterclass.txt"
+    },
+    {
+      "name": "matrix",
+      "clash": "/clash/matrix.txt",
+      "surge": "/surge/matrix.txt"
+    },
+    {
+      "name": "matters",
+      "clash": "/clash/matters.txt",
+      "surge": "/surge/matters.txt"
+    },
+    {
+      "name": "mcdonalds",
+      "clash": "/clash/mcdonalds.txt",
+      "surge": "/surge/mcdonalds.txt"
+    },
+    {
+      "name": "mdn",
+      "clash": "/clash/mdn.txt",
+      "surge": "/surge/mdn.txt"
+    },
+    {
+      "name": "meadjohnson",
+      "clash": "/clash/meadjohnson.txt",
+      "surge": "/surge/meadjohnson.txt"
+    },
+    {
+      "name": "mediachinesegroup",
+      "clash": "/clash/mediachinesegroup.txt",
+      "surge": "/surge/mediachinesegroup.txt"
+    },
+    {
+      "name": "medium",
+      "clash": "/clash/medium.txt",
+      "surge": "/surge/medium.txt"
+    },
+    {
+      "name": "meduza",
+      "clash": "/clash/meduza.txt",
+      "surge": "/surge/meduza.txt"
+    },
+    {
+      "name": "mega",
+      "clash": "/clash/mega.txt",
+      "surge": "/surge/mega.txt"
+    },
+    {
+      "name": "megafon",
+      "clash": "/clash/megafon.txt",
+      "surge": "/surge/megafon.txt"
+    },
+    {
+      "name": "meipian",
+      "clash": "/clash/meipian.txt",
+      "surge": "/surge/meipian.txt"
+    },
+    {
+      "name": "meitu",
+      "clash": "/clash/meitu.txt",
+      "surge": "/surge/meitu.txt"
+    },
+    {
+      "name": "meituan",
+      "clash": "/clash/meituan.txt",
+      "surge": "/surge/meituan.txt"
+    },
+    {
+      "name": "meizu",
+      "clash": "/clash/meizu.txt",
+      "surge": "/surge/meizu.txt"
+    },
+    {
+      "name": "messenger",
+      "clash": "/clash/messenger.txt",
+      "surge": "/surge/messenger.txt"
+    },
+    {
+      "name": "meta",
+      "clash": "/clash/meta.txt",
+      "surge": "/surge/meta.txt"
+    },
+    {
+      "name": "metabrainz",
+      "clash": "/clash/metabrainz.txt",
+      "surge": "/surge/metabrainz.txt"
+    },
+    {
+      "name": "metacritic",
+      "clash": "/clash/metacritic.txt",
+      "surge": "/surge/metacritic.txt"
+    },
+    {
+      "name": "metart",
+      "clash": "/clash/metart.txt",
+      "surge": "/surge/metart.txt"
+    },
+    {
+      "name": "miaomiaozhe",
+      "clash": "/clash/miaomiaozhe.txt",
+      "surge": "/surge/miaomiaozhe.txt"
+    },
+    {
+      "name": "microsoft",
+      "clash": "/clash/microsoft.txt",
+      "surge": "/surge/microsoft.txt"
+    },
+    {
+      "name": "microsoft-dev",
+      "clash": "/clash/microsoft-dev.txt",
+      "surge": "/surge/microsoft-dev.txt"
+    },
+    {
+      "name": "microsoft-pki",
+      "clash": "/clash/microsoft-pki.txt",
+      "surge": "/surge/microsoft-pki.txt"
+    },
+    {
+      "name": "midea",
+      "clash": "/clash/midea.txt",
+      "surge": "/surge/midea.txt"
+    },
+    {
+      "name": "mihoyo",
+      "clash": "/clash/mihoyo.txt",
+      "surge": "/surge/mihoyo.txt"
+    },
+    {
+      "name": "mihoyo-cn",
+      "clash": "/clash/mihoyo-cn.txt",
+      "surge": "/surge/mihoyo-cn.txt"
+    },
+    {
+      "name": "mikrotik",
+      "clash": "/clash/mikrotik.txt",
+      "surge": "/surge/mikrotik.txt"
+    },
+    {
+      "name": "mindbox",
+      "clash": "/clash/mindbox.txt",
+      "surge": "/surge/mindbox.txt"
+    },
+    {
+      "name": "mindgeek",
+      "clash": "/clash/mindgeek.txt",
+      "surge": "/surge/mindgeek.txt"
+    },
+    {
+      "name": "mindgeek-porn",
+      "clash": "/clash/mindgeek-porn.txt",
+      "surge": "/surge/mindgeek-porn.txt"
+    },
+    {
+      "name": "mini",
+      "clash": "/clash/mini.txt",
+      "surge": "/surge/mini.txt"
+    },
+    {
+      "name": "miniso",
+      "clash": "/clash/miniso.txt",
+      "surge": "/surge/miniso.txt"
+    },
+    {
+      "name": "miraheze",
+      "clash": "/clash/miraheze.txt",
+      "surge": "/surge/miraheze.txt"
+    },
+    {
+      "name": "missav",
+      "clash": "/clash/missav.txt",
+      "surge": "/surge/missav.txt"
+    },
+    {
+      "name": "misskey",
+      "clash": "/clash/misskey.txt",
+      "surge": "/surge/misskey.txt"
+    },
+    {
+      "name": "misskey-universe",
+      "clash": "/clash/misskey-universe.txt",
+      "surge": "/surge/misskey-universe.txt"
+    },
+    {
+      "name": "mit",
+      "clash": "/clash/mit.txt",
+      "surge": "/surge/mit.txt"
+    },
+    {
+      "name": "mixi",
+      "clash": "/clash/mixi.txt",
+      "surge": "/surge/mixi.txt"
+    },
+    {
+      "name": "mobile01",
+      "clash": "/clash/mobile01.txt",
+      "surge": "/surge/mobile01.txt"
+    },
+    {
+      "name": "mocha",
+      "clash": "/clash/mocha.txt",
+      "surge": "/surge/mocha.txt"
+    },
+    {
+      "name": "modrinth",
+      "clash": "/clash/modrinth.txt",
+      "surge": "/surge/modrinth.txt"
+    },
+    {
+      "name": "mogujie",
+      "clash": "/clash/mogujie.txt",
+      "surge": "/surge/mogujie.txt"
+    },
+    {
+      "name": "mojang",
+      "clash": "/clash/mojang.txt",
+      "surge": "/surge/mojang.txt"
+    },
+    {
+      "name": "moji",
+      "clash": "/clash/moji.txt",
+      "surge": "/surge/moji.txt"
+    },
+    {
+      "name": "momo",
+      "clash": "/clash/momo.txt",
+      "surge": "/surge/momo.txt"
+    },
+    {
+      "name": "mongodb",
+      "clash": "/clash/mongodb.txt",
+      "surge": "/surge/mongodb.txt"
+    },
+    {
+      "name": "monotype",
+      "clash": "/clash/monotype.txt",
+      "surge": "/surge/monotype.txt"
+    },
+    {
+      "name": "moonvy",
+      "clash": "/clash/moonvy.txt",
+      "surge": "/surge/moonvy.txt"
+    },
+    {
+      "name": "morisawa",
+      "clash": "/clash/morisawa.txt",
+      "surge": "/surge/morisawa.txt"
+    },
+    {
+      "name": "mortein",
+      "clash": "/clash/mortein.txt",
+      "surge": "/surge/mortein.txt"
+    },
+    {
+      "name": "mosmetro",
+      "clash": "/clash/mosmetro.txt",
+      "surge": "/surge/mosmetro.txt"
+    },
+    {
+      "name": "motorola",
+      "clash": "/clash/motorola.txt",
+      "surge": "/surge/motorola.txt"
+    },
+    {
+      "name": "movefree",
+      "clash": "/clash/movefree.txt",
+      "surge": "/surge/movefree.txt"
+    },
+    {
+      "name": "moxing",
+      "clash": "/clash/moxing.txt",
+      "surge": "/surge/moxing.txt"
+    },
+    {
+      "name": "mozilla",
+      "clash": "/clash/mozilla.txt",
+      "surge": "/surge/mozilla.txt"
+    },
+    {
+      "name": "msi",
+      "clash": "/clash/msi.txt",
+      "surge": "/surge/msi.txt"
+    },
+    {
+      "name": "msn",
+      "clash": "/clash/msn.txt",
+      "surge": "/surge/msn.txt"
+    },
+    {
+      "name": "mts-ru",
+      "clash": "/clash/mts-ru.txt",
+      "surge": "/surge/mts-ru.txt"
+    },
+    {
+      "name": "mubi",
+      "clash": "/clash/mubi.txt",
+      "surge": "/surge/mubi.txt"
+    },
+    {
+      "name": "mucinex",
+      "clash": "/clash/mucinex.txt",
+      "surge": "/surge/mucinex.txt"
+    },
+    {
+      "name": "mudvod",
+      "clash": "/clash/mudvod.txt",
+      "surge": "/surge/mudvod.txt"
+    },
+    {
+      "name": "muji",
+      "clash": "/clash/muji.txt",
+      "surge": "/surge/muji.txt"
+    },
+    {
+      "name": "musixmatch",
+      "clash": "/clash/musixmatch.txt",
+      "surge": "/surge/musixmatch.txt"
+    },
+    {
+      "name": "mvideo",
+      "clash": "/clash/mvideo.txt",
+      "surge": "/surge/mvideo.txt"
+    },
+    {
+      "name": "mxroute",
+      "clash": "/clash/mxroute.txt",
+      "surge": "/surge/mxroute.txt"
+    },
+    {
+      "name": "mydirtyhobby",
+      "clash": "/clash/mydirtyhobby.txt",
+      "surge": "/surge/mydirtyhobby.txt"
+    },
+    {
+      "name": "myfonts",
+      "clash": "/clash/myfonts.txt",
+      "surge": "/surge/myfonts.txt"
+    },
+    {
+      "name": "myoffice-ru",
+      "clash": "/clash/myoffice-ru.txt",
+      "surge": "/surge/myoffice-ru.txt"
+    },
+    {
+      "name": "myradio",
+      "clash": "/clash/myradio.txt",
+      "surge": "/surge/myradio.txt"
+    },
+    {
+      "name": "mytvsuper",
+      "clash": "/clash/mytvsuper.txt",
+      "surge": "/surge/mytvsuper.txt"
+    },
+    {
+      "name": "mzed",
+      "clash": "/clash/mzed.txt",
+      "surge": "/surge/mzed.txt"
+    },
+    {
+      "name": "n26",
+      "clash": "/clash/n26.txt",
+      "surge": "/surge/n26.txt"
+    },
+    {
+      "name": "n3ro",
+      "clash": "/clash/n3ro.txt",
+      "surge": "/surge/n3ro.txt"
+    },
+    {
+      "name": "narwal",
+      "clash": "/clash/narwal.txt",
+      "surge": "/surge/narwal.txt"
+    },
+    {
+      "name": "nationalgeographic",
+      "clash": "/clash/nationalgeographic.txt",
+      "surge": "/surge/nationalgeographic.txt"
+    },
+    {
+      "name": "naver",
+      "clash": "/clash/naver.txt",
+      "surge": "/surge/naver.txt"
+    },
+    {
+      "name": "nbcuniversal",
+      "clash": "/clash/nbcuniversal.txt",
+      "surge": "/surge/nbcuniversal.txt"
+    },
+    {
+      "name": "neowin",
+      "clash": "/clash/neowin.txt",
+      "surge": "/surge/neowin.txt"
+    },
+    {
+      "name": "netcraze",
+      "clash": "/clash/netcraze.txt",
+      "surge": "/surge/netcraze.txt"
+    },
+    {
+      "name": "netcup",
+      "clash": "/clash/netcup.txt",
+      "surge": "/surge/netcup.txt"
+    },
+    {
+      "name": "netease",
+      "clash": "/clash/netease.txt",
+      "surge": "/surge/netease.txt"
+    },
+    {
+      "name": "netflav",
+      "clash": "/clash/netflav.txt",
+      "surge": "/surge/netflav.txt"
+    },
+    {
+      "name": "netflix",
+      "clash": "/clash/netflix.txt",
+      "surge": "/surge/netflix.txt"
+    },
+    {
+      "name": "netlify",
+      "clash": "/clash/netlify.txt",
+      "surge": "/surge/netlify.txt"
+    },
+    {
+      "name": "neuralink",
+      "clash": "/clash/neuralink.txt",
+      "surge": "/surge/neuralink.txt"
+    },
+    {
+      "name": "newegg",
+      "clash": "/clash/newegg.txt",
+      "surge": "/surge/newegg.txt"
+    },
+    {
+      "name": "newscorp",
+      "clash": "/clash/newscorp.txt",
+      "surge": "/surge/newscorp.txt"
+    },
+    {
+      "name": "newsmax",
+      "clash": "/clash/newsmax.txt",
+      "surge": "/surge/newsmax.txt"
+    },
+    {
+      "name": "nexitally",
+      "clash": "/clash/nexitally.txt",
+      "surge": "/surge/nexitally.txt"
+    },
+    {
+      "name": "nexo",
+      "clash": "/clash/nexo.txt",
+      "surge": "/surge/nexo.txt"
+    },
+    {
+      "name": "nexon",
+      "clash": "/clash/nexon.txt",
+      "surge": "/surge/nexon.txt"
+    },
+    {
+      "name": "nga",
+      "clash": "/clash/nga.txt",
+      "surge": "/surge/nga.txt"
+    },
+    {
+      "name": "nginx",
+      "clash": "/clash/nginx.txt",
+      "surge": "/surge/nginx.txt"
+    },
+    {
+      "name": "ngrok",
+      "clash": "/clash/ngrok.txt",
+      "surge": "/surge/ngrok.txt"
+    },
+    {
+      "name": "nhk",
+      "clash": "/clash/nhk.txt",
+      "surge": "/surge/nhk.txt"
+    },
+    {
+      "name": "nic-ru",
+      "clash": "/clash/nic-ru.txt",
+      "surge": "/surge/nic-ru.txt"
+    },
+    {
+      "name": "nicegram",
+      "clash": "/clash/nicegram.txt",
+      "surge": "/surge/nicegram.txt"
+    },
+    {
+      "name": "niconico",
+      "clash": "/clash/niconico.txt",
+      "surge": "/surge/niconico.txt"
+    },
+    {
+      "name": "nike",
+      "clash": "/clash/nike.txt",
+      "surge": "/surge/nike.txt"
+    },
+    {
+      "name": "nikkan-gendai",
+      "clash": "/clash/nikkan-gendai.txt",
+      "surge": "/surge/nikkan-gendai.txt"
+    },
+    {
+      "name": "nikke",
+      "clash": "/clash/nikke.txt",
+      "surge": "/surge/nikke.txt"
+    },
+    {
+      "name": "nikkei",
+      "clash": "/clash/nikkei.txt",
+      "surge": "/surge/nikkei.txt"
+    },
+    {
+      "name": "nintendo",
+      "clash": "/clash/nintendo.txt",
+      "surge": "/surge/nintendo.txt"
+    },
+    {
+      "name": "nist",
+      "clash": "/clash/nist.txt",
+      "surge": "/surge/nist.txt"
+    },
+    {
+      "name": "nodejs",
+      "clash": "/clash/nodejs.txt",
+      "surge": "/surge/nodejs.txt"
+    },
+    {
+      "name": "nodeseek",
+      "clash": "/clash/nodeseek.txt",
+      "surge": "/surge/nodeseek.txt"
+    },
+    {
+      "name": "noip",
+      "clash": "/clash/noip.txt",
+      "surge": "/surge/noip.txt"
+    },
+    {
+      "name": "nordstrom",
+      "clash": "/clash/nordstrom.txt",
+      "surge": "/surge/nordstrom.txt"
+    },
+    {
+      "name": "notion",
+      "clash": "/clash/notion.txt",
+      "surge": "/surge/notion.txt"
+    },
+    {
+      "name": "now",
+      "clash": "/clash/now.txt",
+      "surge": "/surge/now.txt"
+    },
+    {
+      "name": "nowcoder",
+      "clash": "/clash/nowcoder.txt",
+      "surge": "/surge/nowcoder.txt"
+    },
+    {
+      "name": "npmjs",
+      "clash": "/clash/npmjs.txt",
+      "surge": "/surge/npmjs.txt"
+    },
+    {
+      "name": "nudevista",
+      "clash": "/clash/nudevista.txt",
+      "surge": "/surge/nudevista.txt"
+    },
+    {
+      "name": "nurofen",
+      "clash": "/clash/nurofen.txt",
+      "surge": "/surge/nurofen.txt"
+    },
+    {
+      "name": "nutaku",
+      "clash": "/clash/nutaku.txt",
+      "surge": "/surge/nutaku.txt"
+    },
+    {
+      "name": "nvidia",
+      "clash": "/clash/nvidia.txt",
+      "surge": "/surge/nvidia.txt"
+    },
+    {
+      "name": "nyaa",
+      "clash": "/clash/nyaa.txt",
+      "surge": "/surge/nyaa.txt"
+    },
+    {
+      "name": "nypost",
+      "clash": "/clash/nypost.txt",
+      "surge": "/surge/nypost.txt"
+    },
+    {
+      "name": "nytimes",
+      "clash": "/clash/nytimes.txt",
+      "surge": "/surge/nytimes.txt"
+    },
+    {
+      "name": "oan",
+      "clash": "/clash/oan.txt",
+      "surge": "/surge/oan.txt"
+    },
+    {
+      "name": "oculus",
+      "clash": "/clash/oculus.txt",
+      "surge": "/surge/oculus.txt"
+    },
+    {
+      "name": "ogury",
+      "clash": "/clash/ogury.txt",
+      "surge": "/surge/ogury.txt"
+    },
+    {
+      "name": "ok",
+      "clash": "/clash/ok.txt",
+      "surge": "/surge/ok.txt"
+    },
+    {
+      "name": "okaapps",
+      "clash": "/clash/okaapps.txt",
+      "surge": "/surge/okaapps.txt"
+    },
+    {
+      "name": "okjike",
+      "clash": "/clash/okjike.txt",
+      "surge": "/surge/okjike.txt"
+    },
+    {
+      "name": "okko",
+      "clash": "/clash/okko.txt",
+      "surge": "/surge/okko.txt"
+    },
+    {
+      "name": "okx",
+      "clash": "/clash/okx.txt",
+      "surge": "/surge/okx.txt"
+    },
+    {
+      "name": "olevod",
+      "clash": "/clash/olevod.txt",
+      "surge": "/surge/olevod.txt"
+    },
+    {
+      "name": "onedrive",
+      "clash": "/clash/onedrive.txt",
+      "surge": "/surge/onedrive.txt"
+    },
+    {
+      "name": "onekey",
+      "clash": "/clash/onekey.txt",
+      "surge": "/surge/onekey.txt"
+    },
+    {
+      "name": "oneplus",
+      "clash": "/clash/oneplus.txt",
+      "surge": "/surge/oneplus.txt"
+    },
+    {
+      "name": "ookla-speedtest",
+      "clash": "/clash/ookla-speedtest.txt",
+      "surge": "/surge/ookla-speedtest.txt"
+    },
+    {
+      "name": "op",
+      "clash": "/clash/op.txt",
+      "surge": "/surge/op.txt"
+    },
+    {
+      "name": "openai",
+      "clash": "/clash/openai.txt",
+      "surge": "/surge/openai.txt"
+    },
+    {
+      "name": "opencollective",
+      "clash": "/clash/opencollective.txt",
+      "surge": "/surge/opencollective.txt"
+    },
+    {
+      "name": "openjsfoundation",
+      "clash": "/clash/openjsfoundation.txt",
+      "surge": "/surge/openjsfoundation.txt"
+    },
+    {
+      "name": "openrec",
+      "clash": "/clash/openrec.txt",
+      "surge": "/surge/openrec.txt"
+    },
+    {
+      "name": "opensourceinsights",
+      "clash": "/clash/opensourceinsights.txt",
+      "surge": "/surge/opensourceinsights.txt"
+    },
+    {
+      "name": "openspeedtest",
+      "clash": "/clash/openspeedtest.txt",
+      "surge": "/surge/openspeedtest.txt"
+    },
+    {
+      "name": "openstreetmap",
+      "clash": "/clash/openstreetmap.txt",
+      "surge": "/surge/openstreetmap.txt"
+    },
+    {
+      "name": "openweather",
+      "clash": "/clash/openweather.txt",
+      "surge": "/surge/openweather.txt"
+    },
+    {
+      "name": "openwrt",
+      "clash": "/clash/openwrt.txt",
+      "surge": "/surge/openwrt.txt"
+    },
+    {
+      "name": "openx",
+      "clash": "/clash/openx.txt",
+      "surge": "/surge/openx.txt"
+    },
+    {
+      "name": "oppo",
+      "clash": "/clash/oppo.txt",
+      "surge": "/surge/oppo.txt"
+    },
+    {
+      "name": "oracle",
+      "clash": "/clash/oracle.txt",
+      "surge": "/surge/oracle.txt"
+    },
+    {
+      "name": "oreilly",
+      "clash": "/clash/oreilly.txt",
+      "surge": "/surge/oreilly.txt"
+    },
+    {
+      "name": "organicmaps",
+      "clash": "/clash/organicmaps.txt",
+      "surge": "/surge/organicmaps.txt"
+    },
+    {
+      "name": "origin",
+      "clash": "/clash/origin.txt",
+      "surge": "/surge/origin.txt"
+    },
+    {
+      "name": "oschina",
+      "clash": "/clash/oschina.txt",
+      "surge": "/surge/oschina.txt"
+    },
+    {
+      "name": "oskelly",
+      "clash": "/clash/oskelly.txt",
+      "surge": "/surge/oskelly.txt"
+    },
+    {
+      "name": "osu",
+      "clash": "/clash/osu.txt",
+      "surge": "/surge/osu.txt"
+    },
+    {
+      "name": "otpbank",
+      "clash": "/clash/otpbank.txt",
+      "surge": "/surge/otpbank.txt"
+    },
+    {
+      "name": "oup",
+      "clash": "/clash/oup.txt",
+      "surge": "/surge/oup.txt"
+    },
+    {
+      "name": "overclockers-ru",
+      "clash": "/clash/overclockers-ru.txt",
+      "surge": "/surge/overclockers-ru.txt"
+    },
+    {
+      "name": "ozon",
+      "clash": "/clash/ozon.txt",
+      "surge": "/surge/ozon.txt"
+    },
+    {
+      "name": "pagecdn",
+      "clash": "/clash/pagecdn.txt",
+      "surge": "/surge/pagecdn.txt"
+    },
+    {
+      "name": "panasonic",
+      "clash": "/clash/panasonic.txt",
+      "surge": "/surge/panasonic.txt"
+    },
+    {
+      "name": "pandanet",
+      "clash": "/clash/pandanet.txt",
+      "surge": "/surge/pandanet.txt"
+    },
+    {
+      "name": "paofuyun",
+      "clash": "/clash/paofuyun.txt",
+      "surge": "/surge/paofuyun.txt"
+    },
+    {
+      "name": "paskoocheh",
+      "clash": "/clash/paskoocheh.txt",
+      "surge": "/surge/paskoocheh.txt"
+    },
+    {
+      "name": "pastebin",
+      "clash": "/clash/pastebin.txt",
+      "surge": "/surge/pastebin.txt"
+    },
+    {
+      "name": "patreon",
+      "clash": "/clash/patreon.txt",
+      "surge": "/surge/patreon.txt"
+    },
+    {
+      "name": "pawchive",
+      "clash": "/clash/pawchive.txt",
+      "surge": "/surge/pawchive.txt"
+    },
+    {
+      "name": "paypal",
+      "clash": "/clash/paypal.txt",
+      "surge": "/surge/paypal.txt"
+    },
+    {
+      "name": "pbs",
+      "clash": "/clash/pbs.txt",
+      "surge": "/surge/pbs.txt"
+    },
+    {
+      "name": "pccw",
+      "clash": "/clash/pccw.txt",
+      "surge": "/surge/pccw.txt"
+    },
+    {
+      "name": "pchome",
+      "clash": "/clash/pchome.txt",
+      "surge": "/surge/pchome.txt"
+    },
+    {
+      "name": "pearson",
+      "clash": "/clash/pearson.txt",
+      "surge": "/surge/pearson.txt"
+    },
+    {
+      "name": "peppy",
+      "clash": "/clash/peppy.txt",
+      "surge": "/surge/peppy.txt"
+    },
+    {
+      "name": "perl",
+      "clash": "/clash/perl.txt",
+      "surge": "/surge/perl.txt"
+    },
+    {
+      "name": "perplexity",
+      "clash": "/clash/perplexity.txt",
+      "surge": "/surge/perplexity.txt"
+    },
+    {
+      "name": "petrochina",
+      "clash": "/clash/petrochina.txt",
+      "surge": "/surge/petrochina.txt"
+    },
+    {
+      "name": "pgyer",
+      "clash": "/clash/pgyer.txt",
+      "surge": "/surge/pgyer.txt"
+    },
+    {
+      "name": "phoenix",
+      "clash": "/clash/phoenix.txt",
+      "surge": "/surge/phoenix.txt"
+    },
+    {
+      "name": "picacg",
+      "clash": "/clash/picacg.txt",
+      "surge": "/surge/picacg.txt"
+    },
+    {
+      "name": "picsee",
+      "clash": "/clash/picsee.txt",
+      "surge": "/surge/picsee.txt"
+    },
+    {
+      "name": "pikpak",
+      "clash": "/clash/pikpak.txt",
+      "surge": "/surge/pikpak.txt"
+    },
+    {
+      "name": "pinduoduo",
+      "clash": "/clash/pinduoduo.txt",
+      "surge": "/surge/pinduoduo.txt"
+    },
+    {
+      "name": "pingan",
+      "clash": "/clash/pingan.txt",
+      "surge": "/surge/pingan.txt"
+    },
+    {
+      "name": "pingcap",
+      "clash": "/clash/pingcap.txt",
+      "surge": "/surge/pingcap.txt"
+    },
+    {
+      "name": "pinggy",
+      "clash": "/clash/pinggy.txt",
+      "surge": "/surge/pinggy.txt"
+    },
+    {
+      "name": "pingpe",
+      "clash": "/clash/pingpe.txt",
+      "surge": "/surge/pingpe.txt"
+    },
+    {
+      "name": "pingsx",
+      "clash": "/clash/pingsx.txt",
+      "surge": "/surge/pingsx.txt"
+    },
+    {
+      "name": "pinkcore",
+      "clash": "/clash/pinkcore.txt",
+      "surge": "/surge/pinkcore.txt"
+    },
+    {
+      "name": "pinterest",
+      "clash": "/clash/pinterest.txt",
+      "surge": "/surge/pinterest.txt"
+    },
+    {
+      "name": "piratebay",
+      "clash": "/clash/piratebay.txt",
+      "surge": "/surge/piratebay.txt"
+    },
+    {
+      "name": "pixhost",
+      "clash": "/clash/pixhost.txt",
+      "surge": "/surge/pixhost.txt"
+    },
+    {
+      "name": "pixiv",
+      "clash": "/clash/pixiv.txt",
+      "surge": "/surge/pixiv.txt"
+    },
+    {
+      "name": "pixnet",
+      "clash": "/clash/pixnet.txt",
+      "surge": "/surge/pixnet.txt"
+    },
+    {
+      "name": "playboy",
+      "clash": "/clash/playboy.txt",
+      "surge": "/surge/playboy.txt"
+    },
+    {
+      "name": "playcover",
+      "clash": "/clash/playcover.txt",
+      "surge": "/surge/playcover.txt"
+    },
+    {
+      "name": "playstation",
+      "clash": "/clash/playstation.txt",
+      "surge": "/surge/playstation.txt"
+    },
+    {
+      "name": "plex",
+      "clash": "/clash/plex.txt",
+      "surge": "/surge/plex.txt"
+    },
+    {
+      "name": "plutotv",
+      "clash": "/clash/plutotv.txt",
+      "surge": "/surge/plutotv.txt"
+    },
+    {
+      "name": "pocketcasts",
+      "clash": "/clash/pocketcasts.txt",
+      "surge": "/surge/pocketcasts.txt"
+    },
+    {
+      "name": "poe",
+      "clash": "/clash/poe.txt",
+      "surge": "/surge/poe.txt"
+    },
+    {
+      "name": "polocloud",
+      "clash": "/clash/polocloud.txt",
+      "surge": "/surge/polocloud.txt"
+    },
+    {
+      "name": "polymer",
+      "clash": "/clash/polymer.txt",
+      "surge": "/surge/polymer.txt"
+    },
+    {
+      "name": "polyu",
+      "clash": "/clash/polyu.txt",
+      "surge": "/surge/polyu.txt"
+    },
+    {
+      "name": "polyv",
+      "clash": "/clash/polyv.txt",
+      "surge": "/surge/polyv.txt"
+    },
+    {
+      "name": "pornhub",
+      "clash": "/clash/pornhub.txt",
+      "surge": "/surge/pornhub.txt"
+    },
+    {
+      "name": "pornpros",
+      "clash": "/clash/pornpros.txt",
+      "surge": "/surge/pornpros.txt"
+    },
+    {
+      "name": "positive-technologies",
+      "clash": "/clash/positive-technologies.txt",
+      "surge": "/surge/positive-technologies.txt"
+    },
+    {
+      "name": "postimages",
+      "clash": "/clash/postimages.txt",
+      "surge": "/surge/postimages.txt"
+    },
+    {
+      "name": "pptv",
+      "clash": "/clash/pptv.txt",
+      "surge": "/surge/pptv.txt"
+    },
+    {
+      "name": "primevideo",
+      "clash": "/clash/primevideo.txt",
+      "surge": "/surge/primevideo.txt"
+    },
+    {
+      "name": "private",
+      "clash": "/clash/private.txt",
+      "surge": "/surge/private.txt"
+    },
+    {
+      "name": "progress",
+      "clash": "/clash/progress.txt",
+      "surge": "/surge/progress.txt"
+    },
+    {
+      "name": "projectpoi",
+      "clash": "/clash/projectpoi.txt",
+      "surge": "/surge/projectpoi.txt"
+    },
+    {
+      "name": "projectsekai",
+      "clash": "/clash/projectsekai.txt",
+      "surge": "/surge/projectsekai.txt"
+    },
+    {
+      "name": "proquest",
+      "clash": "/clash/proquest.txt",
+      "surge": "/surge/proquest.txt"
+    },
+    {
+      "name": "protonmail",
+      "clash": "/clash/protonmail.txt",
+      "surge": "/surge/protonmail.txt"
+    },
+    {
+      "name": "pstorage",
+      "clash": "/clash/pstorage.txt",
+      "surge": "/surge/pstorage.txt"
+    },
+    {
+      "name": "ptt",
+      "clash": "/clash/ptt.txt",
+      "surge": "/surge/ptt.txt"
+    },
+    {
+      "name": "pubg",
+      "clash": "/clash/pubg.txt",
+      "surge": "/surge/pubg.txt"
+    },
+    {
+      "name": "pubmatic",
+      "clash": "/clash/pubmatic.txt",
+      "surge": "/surge/pubmatic.txt"
+    },
+    {
+      "name": "pugpig",
+      "clash": "/clash/pugpig.txt",
+      "surge": "/surge/pugpig.txt"
+    },
+    {
+      "name": "purikonejp",
+      "clash": "/clash/purikonejp.txt",
+      "surge": "/surge/purikonejp.txt"
+    },
+    {
+      "name": "python",
+      "clash": "/clash/python.txt",
+      "surge": "/surge/python.txt"
+    },
+    {
+      "name": "qcc",
+      "clash": "/clash/qcc.txt",
+      "surge": "/surge/qcc.txt"
+    },
+    {
+      "name": "qcloud",
+      "clash": "/clash/qcloud.txt",
+      "surge": "/surge/qcloud.txt"
+    },
+    {
+      "name": "qianxin",
+      "clash": "/clash/qianxin.txt",
+      "surge": "/surge/qianxin.txt"
+    },
+    {
+      "name": "qihoo360",
+      "clash": "/clash/qihoo360.txt",
+      "surge": "/surge/qihoo360.txt"
+    },
+    {
+      "name": "qimao",
+      "clash": "/clash/qimao.txt",
+      "surge": "/surge/qimao.txt"
+    },
+    {
+      "name": "qingcloud",
+      "clash": "/clash/qingcloud.txt",
+      "surge": "/surge/qingcloud.txt"
+    },
+    {
+      "name": "qingtingfm",
+      "clash": "/clash/qingtingfm.txt",
+      "surge": "/surge/qingtingfm.txt"
+    },
+    {
+      "name": "qiniu",
+      "clash": "/clash/qiniu.txt",
+      "surge": "/surge/qiniu.txt"
+    },
+    {
+      "name": "qixin",
+      "clash": "/clash/qixin.txt",
+      "surge": "/surge/qixin.txt"
+    },
+    {
+      "name": "qnap",
+      "clash": "/clash/qnap.txt",
+      "surge": "/surge/qnap.txt"
+    },
+    {
+      "name": "qt",
+      "clash": "/clash/qt.txt",
+      "surge": "/surge/qt.txt"
+    },
+    {
+      "name": "qualcomm",
+      "clash": "/clash/qualcomm.txt",
+      "surge": "/surge/qualcomm.txt"
+    },
+    {
+      "name": "quantil",
+      "clash": "/clash/quantil.txt",
+      "surge": "/surge/quantil.txt"
+    },
+    {
+      "name": "quip",
+      "clash": "/clash/quip.txt",
+      "surge": "/surge/quip.txt"
+    },
+    {
+      "name": "quora",
+      "clash": "/clash/quora.txt",
+      "surge": "/surge/quora.txt"
+    },
+    {
+      "name": "qwant",
+      "clash": "/clash/qwant.txt",
+      "surge": "/surge/qwant.txt"
+    },
+    {
+      "name": "qweather",
+      "clash": "/clash/qweather.txt",
+      "surge": "/surge/qweather.txt"
+    },
+    {
+      "name": "radiko",
+      "clash": "/clash/radiko.txt",
+      "surge": "/surge/radiko.txt"
+    },
+    {
+      "name": "raiffeisenbank",
+      "clash": "/clash/raiffeisenbank.txt",
+      "surge": "/surge/raiffeisenbank.txt"
+    },
+    {
+      "name": "rakuten",
+      "clash": "/clash/rakuten.txt",
+      "surge": "/surge/rakuten.txt"
+    },
+    {
+      "name": "rarbg",
+      "clash": "/clash/rarbg.txt",
+      "surge": "/surge/rarbg.txt"
+    },
+    {
+      "name": "razer",
+      "clash": "/clash/razer.txt",
+      "surge": "/surge/razer.txt"
+    },
+    {
+      "name": "rb",
+      "clash": "/clash/rb.txt",
+      "surge": "/surge/rb.txt"
+    },
+    {
+      "name": "reabble",
+      "clash": "/clash/reabble.txt",
+      "surge": "/surge/reabble.txt"
+    },
+    {
+      "name": "readthedocs",
+      "clash": "/clash/readthedocs.txt",
+      "surge": "/surge/readthedocs.txt"
+    },
+    {
+      "name": "reagroup",
+      "clash": "/clash/reagroup.txt",
+      "surge": "/surge/reagroup.txt"
+    },
+    {
+      "name": "realclear",
+      "clash": "/clash/realclear.txt",
+      "surge": "/surge/realclear.txt"
+    },
+    {
+      "name": "realitykings",
+      "clash": "/clash/realitykings.txt",
+      "surge": "/surge/realitykings.txt"
+    },
+    {
+      "name": "realtype",
+      "clash": "/clash/realtype.txt",
+      "surge": "/surge/realtype.txt"
+    },
+    {
+      "name": "rebrandly",
+      "clash": "/clash/rebrandly.txt",
+      "surge": "/surge/rebrandly.txt"
+    },
+    {
+      "name": "reddit",
+      "clash": "/clash/reddit.txt",
+      "surge": "/surge/reddit.txt"
+    },
+    {
+      "name": "redhat",
+      "clash": "/clash/redhat.txt",
+      "surge": "/surge/redhat.txt"
+    },
+    {
+      "name": "redis",
+      "clash": "/clash/redis.txt",
+      "surge": "/surge/redis.txt"
+    },
+    {
+      "name": "redotpay",
+      "clash": "/clash/redotpay.txt",
+      "surge": "/surge/redotpay.txt"
+    },
+    {
+      "name": "redtube",
+      "clash": "/clash/redtube.txt",
+      "surge": "/surge/redtube.txt"
+    },
+    {
+      "name": "regru",
+      "clash": "/clash/regru.txt",
+      "surge": "/surge/regru.txt"
+    },
+    {
+      "name": "remnawave",
+      "clash": "/clash/remnawave.txt",
+      "surge": "/surge/remnawave.txt"
+    },
+    {
+      "name": "renren",
+      "clash": "/clash/renren.txt",
+      "surge": "/surge/renren.txt"
+    },
+    {
+      "name": "reurl",
+      "clash": "/clash/reurl.txt",
+      "surge": "/surge/reurl.txt"
+    },
+    {
+      "name": "reuters",
+      "clash": "/clash/reuters.txt",
+      "surge": "/surge/reuters.txt"
+    },
+    {
+      "name": "rferl",
+      "clash": "/clash/rferl.txt",
+      "surge": "/surge/rferl.txt"
+    },
+    {
+      "name": "riot",
+      "clash": "/clash/riot.txt",
+      "surge": "/surge/riot.txt"
+    },
+    {
+      "name": "roblox",
+      "clash": "/clash/roblox.txt",
+      "surge": "/surge/roblox.txt"
+    },
+    {
+      "name": "rockstar",
+      "clash": "/clash/rockstar.txt",
+      "surge": "/surge/rockstar.txt"
+    },
+    {
+      "name": "roku",
+      "clash": "/clash/roku.txt",
+      "surge": "/surge/roku.txt"
+    },
+    {
+      "name": "rossiyasegodnya",
+      "clash": "/clash/rossiyasegodnya.txt",
+      "surge": "/surge/rossiyasegodnya.txt"
+    },
+    {
+      "name": "rostelecom",
+      "clash": "/clash/rostelecom.txt",
+      "surge": "/surge/rostelecom.txt"
+    },
+    {
+      "name": "rsshub",
+      "clash": "/clash/rsshub.txt",
+      "surge": "/surge/rsshub.txt"
+    },
+    {
+      "name": "rsshub-3rd",
+      "clash": "/clash/rsshub-3rd.txt",
+      "surge": "/surge/rsshub-3rd.txt"
+    },
+    {
+      "name": "rt",
+      "clash": "/clash/rt.txt",
+      "surge": "/surge/rt.txt"
+    },
+    {
+      "name": "rthk",
+      "clash": "/clash/rthk.txt",
+      "surge": "/surge/rthk.txt"
+    },
+    {
+      "name": "ruanmei",
+      "clash": "/clash/ruanmei.txt",
+      "surge": "/surge/ruanmei.txt"
+    },
+    {
+      "name": "ruby",
+      "clash": "/clash/ruby.txt",
+      "surge": "/surge/ruby.txt"
+    },
+    {
+      "name": "rubychina",
+      "clash": "/clash/rubychina.txt",
+      "surge": "/surge/rubychina.txt"
+    },
+    {
+      "name": "ruleoflaw",
+      "clash": "/clash/ruleoflaw.txt",
+      "surge": "/surge/ruleoflaw.txt"
+    },
+    {
+      "name": "rumble",
+      "clash": "/clash/rumble.txt",
+      "surge": "/surge/rumble.txt"
+    },
+    {
+      "name": "rust",
+      "clash": "/clash/rust.txt",
+      "surge": "/surge/rust.txt"
+    },
+    {
+      "name": "ruten",
+      "clash": "/clash/ruten.txt",
+      "surge": "/surge/ruten.txt"
+    },
+    {
+      "name": "rutracker",
+      "clash": "/clash/rutracker.txt",
+      "surge": "/surge/rutracker.txt"
+    },
+    {
+      "name": "rutube",
+      "clash": "/clash/rutube.txt",
+      "surge": "/surge/rutube.txt"
+    },
+    {
+      "name": "safepal",
+      "clash": "/clash/safepal.txt",
+      "surge": "/surge/safepal.txt"
+    },
+    {
+      "name": "sakurafrp",
+      "clash": "/clash/sakurafrp.txt",
+      "surge": "/surge/sakurafrp.txt"
+    },
+    {
+      "name": "salesforce",
+      "clash": "/clash/salesforce.txt",
+      "surge": "/surge/salesforce.txt"
+    },
+    {
+      "name": "samsung",
+      "clash": "/clash/samsung.txt",
+      "surge": "/surge/samsung.txt"
+    },
+    {
+      "name": "sankei",
+      "clash": "/clash/sankei.txt",
+      "surge": "/surge/sankei.txt"
+    },
+    {
+      "name": "sb",
+      "clash": "/clash/sb.txt",
+      "surge": "/surge/sb.txt"
+    },
+    {
+      "name": "sber",
+      "clash": "/clash/sber.txt",
+      "surge": "/surge/sber.txt"
+    },
+    {
+      "name": "scala",
+      "clash": "/clash/scala.txt",
+      "surge": "/surge/scala.txt"
+    },
+    {
+      "name": "scaleflex",
+      "clash": "/clash/scaleflex.txt",
+      "surge": "/surge/scaleflex.txt"
+    },
+    {
+      "name": "scenesource",
+      "clash": "/clash/scenesource.txt",
+      "surge": "/surge/scenesource.txt"
+    },
+    {
+      "name": "schoopia",
+      "clash": "/clash/schoopia.txt",
+      "surge": "/surge/schoopia.txt"
+    },
+    {
+      "name": "schwab",
+      "clash": "/clash/schwab.txt",
+      "surge": "/surge/schwab.txt"
+    },
+    {
+      "name": "sci",
+      "clash": "/clash/sci.txt",
+      "surge": "/surge/sci.txt"
+    },
+    {
+      "name": "sci-hub",
+      "clash": "/clash/sci-hub.txt",
+      "surge": "/surge/sci-hub.txt"
+    },
+    {
+      "name": "sciencedirect",
+      "clash": "/clash/sciencedirect.txt",
+      "surge": "/surge/sciencedirect.txt"
+    },
+    {
+      "name": "scmp",
+      "clash": "/clash/scmp.txt",
+      "surge": "/surge/scmp.txt"
+    },
+    {
+      "name": "scp",
+      "clash": "/clash/scp.txt",
+      "surge": "/surge/scp.txt"
+    },
+    {
+      "name": "seasun",
+      "clash": "/clash/seasun.txt",
+      "surge": "/surge/seasun.txt"
+    },
+    {
+      "name": "secom",
+      "clash": "/clash/secom.txt",
+      "surge": "/surge/secom.txt"
+    },
+    {
+      "name": "sectigo",
+      "clash": "/clash/sectigo.txt",
+      "surge": "/surge/sectigo.txt"
+    },
+    {
+      "name": "segment",
+      "clash": "/clash/segment.txt",
+      "surge": "/surge/segment.txt"
+    },
+    {
+      "name": "segmentfault",
+      "clash": "/clash/segmentfault.txt",
+      "surge": "/surge/segmentfault.txt"
+    },
+    {
+      "name": "sehuatang",
+      "clash": "/clash/sehuatang.txt",
+      "surge": "/surge/sehuatang.txt"
+    },
+    {
+      "name": "selectel",
+      "clash": "/clash/selectel.txt",
+      "surge": "/surge/selectel.txt"
+    },
+    {
+      "name": "sentry",
+      "clash": "/clash/sentry.txt",
+      "surge": "/surge/sentry.txt"
+    },
+    {
+      "name": "servicepipe",
+      "clash": "/clash/servicepipe.txt",
+      "surge": "/surge/servicepipe.txt"
+    },
+    {
+      "name": "setapp",
+      "clash": "/clash/setapp.txt",
+      "surge": "/surge/setapp.txt"
+    },
+    {
+      "name": "setn",
+      "clash": "/clash/setn.txt",
+      "surge": "/surge/setn.txt"
+    },
+    {
+      "name": "sf-express",
+      "clash": "/clash/sf-express.txt",
+      "surge": "/surge/sf-express.txt"
+    },
+    {
+      "name": "shadowsockscom",
+      "clash": "/clash/shadowsockscom.txt",
+      "surge": "/surge/shadowsockscom.txt"
+    },
+    {
+      "name": "shanbay",
+      "clash": "/clash/shanbay.txt",
+      "surge": "/surge/shanbay.txt"
+    },
+    {
+      "name": "sharethis",
+      "clash": "/clash/sharethis.txt",
+      "surge": "/surge/sharethis.txt"
+    },
+    {
+      "name": "shireyishunjian",
+      "clash": "/clash/shireyishunjian.txt",
+      "surge": "/surge/shireyishunjian.txt"
+    },
+    {
+      "name": "shopee",
+      "clash": "/clash/shopee.txt",
+      "surge": "/surge/shopee.txt"
+    },
+    {
+      "name": "shopify",
+      "clash": "/clash/shopify.txt",
+      "surge": "/surge/shopify.txt"
+    },
+    {
+      "name": "shorturl",
+      "clash": "/clash/shorturl.txt",
+      "surge": "/surge/shorturl.txt"
+    },
+    {
+      "name": "showtimeanytime",
+      "clash": "/clash/showtimeanytime.txt",
+      "surge": "/surge/showtimeanytime.txt"
+    },
+    {
+      "name": "shuqi",
+      "clash": "/clash/shuqi.txt",
+      "surge": "/surge/shuqi.txt"
+    },
+    {
+      "name": "signal",
+      "clash": "/clash/signal.txt",
+      "surge": "/surge/signal.txt"
+    },
+    {
+      "name": "sina",
+      "clash": "/clash/sina.txt",
+      "surge": "/surge/sina.txt"
+    },
+    {
+      "name": "singtaonewscorp",
+      "clash": "/clash/singtaonewscorp.txt",
+      "surge": "/surge/singtaonewscorp.txt"
+    },
+    {
+      "name": "sinopec",
+      "clash": "/clash/sinopec.txt",
+      "surge": "/surge/sinopec.txt"
+    },
+    {
+      "name": "sitepoint",
+      "clash": "/clash/sitepoint.txt",
+      "surge": "/surge/sitepoint.txt"
+    },
+    {
+      "name": "skillshare",
+      "clash": "/clash/skillshare.txt",
+      "surge": "/surge/skillshare.txt"
+    },
+    {
+      "name": "sky",
+      "clash": "/clash/sky.txt",
+      "surge": "/surge/sky.txt"
+    },
+    {
+      "name": "skyeng",
+      "clash": "/clash/skyeng.txt",
+      "surge": "/surge/skyeng.txt"
+    },
+    {
+      "name": "skyperfect",
+      "clash": "/clash/skyperfect.txt",
+      "surge": "/surge/skyperfect.txt"
+    },
+    {
+      "name": "slack",
+      "clash": "/clash/slack.txt",
+      "surge": "/surge/slack.txt"
+    },
+    {
+      "name": "slideshare",
+      "clash": "/clash/slideshare.txt",
+      "surge": "/surge/slideshare.txt"
+    },
+    {
+      "name": "sling",
+      "clash": "/clash/sling.txt",
+      "surge": "/surge/sling.txt"
+    },
+    {
+      "name": "smartone",
+      "clash": "/clash/smartone.txt",
+      "surge": "/surge/smartone.txt"
+    },
+    {
+      "name": "smtiaojiaoshi",
+      "clash": "/clash/smtiaojiaoshi.txt",
+      "surge": "/surge/smtiaojiaoshi.txt"
+    },
+    {
+      "name": "smzdm",
+      "clash": "/clash/smzdm.txt",
+      "surge": "/surge/smzdm.txt"
+    },
+    {
+      "name": "snap",
+      "clash": "/clash/snap.txt",
+      "surge": "/surge/snap.txt"
+    },
+    {
+      "name": "snapcraft",
+      "clash": "/clash/snapcraft.txt",
+      "surge": "/surge/snapcraft.txt"
+    },
+    {
+      "name": "snapp",
+      "clash": "/clash/snapp.txt",
+      "surge": "/surge/snapp.txt"
+    },
+    {
+      "name": "snk",
+      "clash": "/clash/snk.txt",
+      "surge": "/surge/snk.txt"
+    },
+    {
+      "name": "snodehome",
+      "clash": "/clash/snodehome.txt",
+      "surge": "/surge/snodehome.txt"
+    },
+    {
+      "name": "softbank",
+      "clash": "/clash/softbank.txt",
+      "surge": "/surge/softbank.txt"
+    },
+    {
+      "name": "softether",
+      "clash": "/clash/softether.txt",
+      "surge": "/surge/softether.txt"
+    },
+    {
+      "name": "sogou",
+      "clash": "/clash/sogou.txt",
+      "surge": "/surge/sogou.txt"
+    },
+    {
+      "name": "sohu",
+      "clash": "/clash/sohu.txt",
+      "surge": "/surge/sohu.txt"
+    },
+    {
+      "name": "sokolov",
+      "clash": "/clash/sokolov.txt",
+      "surge": "/surge/sokolov.txt"
+    },
+    {
+      "name": "sonemic",
+      "clash": "/clash/sonemic.txt",
+      "surge": "/surge/sonemic.txt"
+    },
+    {
+      "name": "sony",
+      "clash": "/clash/sony.txt",
+      "surge": "/surge/sony.txt"
+    },
+    {
+      "name": "sonypictures",
+      "clash": "/clash/sonypictures.txt",
+      "surge": "/surge/sonypictures.txt"
+    },
+    {
+      "name": "soundcloud",
+      "clash": "/clash/soundcloud.txt",
+      "surge": "/surge/soundcloud.txt"
+    },
+    {
+      "name": "soundofhope",
+      "clash": "/clash/soundofhope.txt",
+      "surge": "/surge/soundofhope.txt"
+    },
+    {
+      "name": "sourceforge",
+      "clash": "/clash/sourceforge.txt",
+      "surge": "/surge/sourceforge.txt"
+    },
+    {
+      "name": "sourcehut",
+      "clash": "/clash/sourcehut.txt",
+      "surge": "/surge/sourcehut.txt"
+    },
+    {
+      "name": "soyjakparty",
+      "clash": "/clash/soyjakparty.txt",
+      "surge": "/surge/soyjakparty.txt"
+    },
+    {
+      "name": "spacemail",
+      "clash": "/clash/spacemail.txt",
+      "surge": "/surge/spacemail.txt"
+    },
+    {
+      "name": "spaceship",
+      "clash": "/clash/spaceship.txt",
+      "surge": "/surge/spaceship.txt"
+    },
+    {
+      "name": "spacex",
+      "clash": "/clash/spacex.txt",
+      "surge": "/surge/spacex.txt"
+    },
+    {
+      "name": "spankbang",
+      "clash": "/clash/spankbang.txt",
+      "surge": "/surge/spankbang.txt"
+    },
+    {
+      "name": "speedtest",
+      "clash": "/clash/speedtest.txt",
+      "surge": "/surge/speedtest.txt"
+    },
+    {
+      "name": "spiceworks",
+      "clash": "/clash/spiceworks.txt",
+      "surge": "/surge/spiceworks.txt"
+    },
+    {
+      "name": "spotify",
+      "clash": "/clash/spotify.txt",
+      "surge": "/surge/spotify.txt"
+    },
+    {
+      "name": "springer",
+      "clash": "/clash/springer.txt",
+      "surge": "/surge/springer.txt"
+    },
+    {
+      "name": "squareup",
+      "clash": "/clash/squareup.txt",
+      "surge": "/surge/squareup.txt"
+    },
+    {
+      "name": "squirrelvpn",
+      "clash": "/clash/squirrelvpn.txt",
+      "surge": "/surge/squirrelvpn.txt"
+    },
+    {
+      "name": "sslcom",
+      "clash": "/clash/sslcom.txt",
+      "surge": "/surge/sslcom.txt"
+    },
+    {
+      "name": "ssrcloud",
+      "clash": "/clash/ssrcloud.txt",
+      "surge": "/surge/ssrcloud.txt"
+    },
+    {
+      "name": "st",
+      "clash": "/clash/st.txt",
+      "surge": "/surge/st.txt"
+    },
+    {
+      "name": "stackexchange",
+      "clash": "/clash/stackexchange.txt",
+      "surge": "/surge/stackexchange.txt"
+    },
+    {
+      "name": "stackpath",
+      "clash": "/clash/stackpath.txt",
+      "surge": "/surge/stackpath.txt"
+    },
+    {
+      "name": "stage1st",
+      "clash": "/clash/stage1st.txt",
+      "surge": "/surge/stage1st.txt"
+    },
+    {
+      "name": "standardchartered",
+      "clash": "/clash/standardchartered.txt",
+      "surge": "/surge/standardchartered.txt"
+    },
+    {
+      "name": "starbucks",
+      "clash": "/clash/starbucks.txt",
+      "surge": "/surge/starbucks.txt"
+    },
+    {
+      "name": "starfieldtech",
+      "clash": "/clash/starfieldtech.txt",
+      "surge": "/surge/starfieldtech.txt"
+    },
+    {
+      "name": "starplus",
+      "clash": "/clash/starplus.txt",
+      "surge": "/surge/starplus.txt"
+    },
+    {
+      "name": "startpage",
+      "clash": "/clash/startpage.txt",
+      "surge": "/surge/startpage.txt"
+    },
+    {
+      "name": "starworld",
+      "clash": "/clash/starworld.txt",
+      "surge": "/surge/starworld.txt"
+    },
+    {
+      "name": "staticfile",
+      "clash": "/clash/staticfile.txt",
+      "surge": "/surge/staticfile.txt"
+    },
+    {
+      "name": "steam",
+      "clash": "/clash/steam.txt",
+      "surge": "/surge/steam.txt"
+    },
+    {
+      "name": "steaminventoryhelper",
+      "clash": "/clash/steaminventoryhelper.txt",
+      "surge": "/surge/steaminventoryhelper.txt"
+    },
+    {
+      "name": "steamunlocked",
+      "clash": "/clash/steamunlocked.txt",
+      "surge": "/surge/steamunlocked.txt"
+    },
+    {
+      "name": "steemit",
+      "clash": "/clash/steemit.txt",
+      "surge": "/surge/steemit.txt"
+    },
+    {
+      "name": "sto-express",
+      "clash": "/clash/sto-express.txt",
+      "surge": "/surge/sto-express.txt"
+    },
+    {
+      "name": "straitsx",
+      "clash": "/clash/straitsx.txt",
+      "surge": "/surge/straitsx.txt"
+    },
+    {
+      "name": "streamable",
+      "clash": "/clash/streamable.txt",
+      "surge": "/surge/streamable.txt"
+    },
+    {
+      "name": "strepsils",
+      "clash": "/clash/strepsils.txt",
+      "surge": "/surge/strepsils.txt"
+    },
+    {
+      "name": "strikingly",
+      "clash": "/clash/strikingly.txt",
+      "surge": "/surge/strikingly.txt"
+    },
+    {
+      "name": "stripe",
+      "clash": "/clash/stripe.txt",
+      "surge": "/surge/stripe.txt"
+    },
+    {
+      "name": "subscene",
+      "clash": "/clash/subscene.txt",
+      "surge": "/surge/subscene.txt"
+    },
+    {
+      "name": "suishouji",
+      "clash": "/clash/suishouji.txt",
+      "surge": "/surge/suishouji.txt"
+    },
+    {
+      "name": "sumkoo",
+      "clash": "/clash/sumkoo.txt",
+      "surge": "/surge/sumkoo.txt"
+    },
+    {
+      "name": "suning",
+      "clash": "/clash/suning.txt",
+      "surge": "/surge/suning.txt"
+    },
+    {
+      "name": "supercell",
+      "clash": "/clash/supercell.txt",
+      "surge": "/surge/supercell.txt"
+    },
+    {
+      "name": "supersonic",
+      "clash": "/clash/supersonic.txt",
+      "surge": "/surge/supersonic.txt"
+    },
+    {
+      "name": "surflite",
+      "clash": "/clash/surflite.txt",
+      "surge": "/surge/surflite.txt"
+    },
+    {
+      "name": "suruga-ya",
+      "clash": "/clash/suruga-ya.txt",
+      "surge": "/surge/suruga-ya.txt"
+    },
+    {
+      "name": "svp",
+      "clash": "/clash/svp.txt",
+      "surge": "/surge/svp.txt"
+    },
+    {
+      "name": "swag",
+      "clash": "/clash/swag.txt",
+      "surge": "/surge/swag.txt"
+    },
+    {
+      "name": "swift",
+      "clash": "/clash/swift.txt",
+      "surge": "/surge/swift.txt"
+    },
+    {
+      "name": "swisssign",
+      "clash": "/clash/swisssign.txt",
+      "surge": "/surge/swisssign.txt"
+    },
+    {
+      "name": "sxl",
+      "clash": "/clash/sxl.txt",
+      "surge": "/surge/sxl.txt"
+    },
+    {
+      "name": "symantec",
+      "clash": "/clash/symantec.txt",
+      "surge": "/surge/symantec.txt"
+    },
+    {
+      "name": "symantec-pki",
+      "clash": "/clash/symantec-pki.txt",
+      "surge": "/surge/symantec-pki.txt"
+    },
+    {
+      "name": "synology",
+      "clash": "/clash/synology.txt",
+      "surge": "/surge/synology.txt"
+    },
+    {
+      "name": "t2-ru",
+      "clash": "/clash/t2-ru.txt",
+      "surge": "/surge/t2-ru.txt"
+    },
+    {
+      "name": "taboola",
+      "clash": "/clash/taboola.txt",
+      "surge": "/surge/taboola.txt"
+    },
+    {
+      "name": "taihe",
+      "clash": "/clash/taihe.txt",
+      "surge": "/surge/taihe.txt"
+    },
+    {
+      "name": "taikang",
+      "clash": "/clash/taikang.txt",
+      "surge": "/surge/taikang.txt"
+    },
+    {
+      "name": "tailscale",
+      "clash": "/clash/tailscale.txt",
+      "surge": "/surge/tailscale.txt"
+    },
+    {
+      "name": "take-two",
+      "clash": "/clash/take-two.txt",
+      "surge": "/surge/take-two.txt"
+    },
+    {
+      "name": "talkatone",
+      "clash": "/clash/talkatone.txt",
+      "surge": "/surge/talkatone.txt"
+    },
+    {
+      "name": "taomee",
+      "clash": "/clash/taomee.txt",
+      "surge": "/surge/taomee.txt"
+    },
+    {
+      "name": "taptap",
+      "clash": "/clash/taptap.txt",
+      "surge": "/surge/taptap.txt"
+    },
+    {
+      "name": "target",
+      "clash": "/clash/target.txt",
+      "surge": "/surge/target.txt"
+    },
+    {
+      "name": "taylorfrancis",
+      "clash": "/clash/taylorfrancis.txt",
+      "surge": "/surge/taylorfrancis.txt"
+    },
+    {
+      "name": "tbank-ru",
+      "clash": "/clash/tbank-ru.txt",
+      "surge": "/surge/tbank-ru.txt"
+    },
+    {
+      "name": "tcl",
+      "clash": "/clash/tcl.txt",
+      "surge": "/surge/tcl.txt"
+    },
+    {
+      "name": "teambition",
+      "clash": "/clash/teambition.txt",
+      "surge": "/surge/teambition.txt"
+    },
+    {
+      "name": "teamspeak",
+      "clash": "/clash/teamspeak.txt",
+      "surge": "/surge/teamspeak.txt"
+    },
+    {
+      "name": "teamviewer",
+      "clash": "/clash/teamviewer.txt",
+      "surge": "/surge/teamviewer.txt"
+    },
+    {
+      "name": "technogym",
+      "clash": "/clash/technogym.txt",
+      "surge": "/surge/technogym.txt"
+    },
+    {
+      "name": "techpowerup",
+      "clash": "/clash/techpowerup.txt",
+      "surge": "/surge/techpowerup.txt"
+    },
+    {
+      "name": "techtimes",
+      "clash": "/clash/techtimes.txt",
+      "surge": "/surge/techtimes.txt"
+    },
+    {
+      "name": "ted",
+      "clash": "/clash/ted.txt",
+      "surge": "/surge/ted.txt"
+    },
+    {
+      "name": "telegram",
+      "clash": "/clash/telegram.txt",
+      "surge": "/surge/telegram.txt"
+    },
+    {
+      "name": "telekom",
+      "clash": "/clash/telekom.txt",
+      "surge": "/surge/telekom.txt"
+    },
+    {
+      "name": "temp-mail",
+      "clash": "/clash/temp-mail.txt",
+      "surge": "/surge/temp-mail.txt"
+    },
+    {
+      "name": "tencent",
+      "clash": "/clash/tencent.txt",
+      "surge": "/surge/tencent.txt"
+    },
+    {
+      "name": "tencent-dev",
+      "clash": "/clash/tencent-dev.txt",
+      "surge": "/surge/tencent-dev.txt"
+    },
+    {
+      "name": "tencent-games",
+      "clash": "/clash/tencent-games.txt",
+      "surge": "/surge/tencent-games.txt"
+    },
+    {
+      "name": "tencent-tme",
+      "clash": "/clash/tencent-tme.txt",
+      "surge": "/surge/tencent-tme.txt"
+    },
+    {
+      "name": "tendcloud",
+      "clash": "/clash/tendcloud.txt",
+      "surge": "/surge/tendcloud.txt"
+    },
+    {
+      "name": "terabox",
+      "clash": "/clash/terabox.txt",
+      "surge": "/surge/terabox.txt"
+    },
+    {
+      "name": "termux",
+      "clash": "/clash/termux.txt",
+      "surge": "/surge/termux.txt"
+    },
+    {
+      "name": "tesla",
+      "clash": "/clash/tesla.txt",
+      "surge": "/surge/tesla.txt"
+    },
+    {
+      "name": "test",
+      "clash": "/clash/test.txt",
+      "surge": "/surge/test.txt"
+    },
+    {
+      "name": "test-ipv6",
+      "clash": "/clash/test-ipv6.txt",
+      "surge": "/surge/test-ipv6.txt"
+    },
+    {
+      "name": "tex",
+      "clash": "/clash/tex.txt",
+      "surge": "/surge/tex.txt"
+    },
+    {
+      "name": "tgbus",
+      "clash": "/clash/tgbus.txt",
+      "surge": "/surge/tgbus.txt"
+    },
+    {
+      "name": "theboringcompany",
+      "clash": "/clash/theboringcompany.txt",
+      "surge": "/surge/theboringcompany.txt"
+    },
+    {
+      "name": "theguardian",
+      "clash": "/clash/theguardian.txt",
+      "surge": "/surge/theguardian.txt"
+    },
+    {
+      "name": "theinitium",
+      "clash": "/clash/theinitium.txt",
+      "surge": "/surge/theinitium.txt"
+    },
+    {
+      "name": "thelinuxfoundation",
+      "clash": "/clash/thelinuxfoundation.txt",
+      "surge": "/surge/thelinuxfoundation.txt"
+    },
+    {
+      "name": "theporndude",
+      "clash": "/clash/theporndude.txt",
+      "surge": "/surge/theporndude.txt"
+    },
+    {
+      "name": "thescoregroup",
+      "clash": "/clash/thescoregroup.txt",
+      "surge": "/surge/thescoregroup.txt"
+    },
+    {
+      "name": "thesun",
+      "clash": "/clash/thesun.txt",
+      "surge": "/surge/thesun.txt"
+    },
+    {
+      "name": "thetimes",
+      "clash": "/clash/thetimes.txt",
+      "surge": "/surge/thetimes.txt"
+    },
+    {
+      "name": "thetype",
+      "clash": "/clash/thetype.txt",
+      "surge": "/surge/thetype.txt"
+    },
+    {
+      "name": "thomsonreuters",
+      "clash": "/clash/thomsonreuters.txt",
+      "surge": "/surge/thomsonreuters.txt"
+    },
+    {
+      "name": "threads",
+      "clash": "/clash/threads.txt",
+      "surge": "/surge/threads.txt"
+    },
+    {
+      "name": "tiancity",
+      "clash": "/clash/tiancity.txt",
+      "surge": "/surge/tiancity.txt"
+    },
+    {
+      "name": "tianyancha",
+      "clash": "/clash/tianyancha.txt",
+      "surge": "/surge/tianyancha.txt"
+    },
+    {
+      "name": "tidal",
+      "clash": "/clash/tidal.txt",
+      "surge": "/surge/tidal.txt"
+    },
+    {
+      "name": "tidelift",
+      "clash": "/clash/tidelift.txt",
+      "surge": "/surge/tidelift.txt"
+    },
+    {
+      "name": "tiktok",
+      "clash": "/clash/tiktok.txt",
+      "surge": "/surge/tiktok.txt"
+    },
+    {
+      "name": "tilda",
+      "clash": "/clash/tilda.txt",
+      "surge": "/surge/tilda.txt"
+    },
+    {
+      "name": "timeweb",
+      "clash": "/clash/timeweb.txt",
+      "surge": "/surge/timeweb.txt"
+    },
+    {
+      "name": "tinyurl",
+      "clash": "/clash/tinyurl.txt",
+      "surge": "/surge/tinyurl.txt"
+    },
+    {
+      "name": "tld-cn",
+      "clash": "/clash/tld-cn.txt",
+      "surge": "/surge/tld-cn.txt"
+    },
+    {
+      "name": "tld-non-cn",
+      "clash": "/clash/tld-non-cn.txt",
+      "surge": "/surge/tld-non-cn.txt"
+    },
+    {
+      "name": "tld-opennic",
+      "clash": "/clash/tld-opennic.txt",
+      "surge": "/surge/tld-opennic.txt"
+    },
+    {
+      "name": "tld-ru",
+      "clash": "/clash/tld-ru.txt",
+      "surge": "/surge/tld-ru.txt"
+    },
+    {
+      "name": "tmdb",
+      "clash": "/clash/tmdb.txt",
+      "surge": "/surge/tmdb.txt"
+    },
+    {
+      "name": "tmtpost",
+      "clash": "/clash/tmtpost.txt",
+      "surge": "/surge/tmtpost.txt"
+    },
+    {
+      "name": "tokyo-sports",
+      "clash": "/clash/tokyo-sports.txt",
+      "surge": "/surge/tokyo-sports.txt"
+    },
+    {
+      "name": "tokyo-toshokan",
+      "clash": "/clash/tokyo-toshokan.txt",
+      "surge": "/surge/tokyo-toshokan.txt"
+    },
+    {
+      "name": "tonec",
+      "clash": "/clash/tonec.txt",
+      "surge": "/surge/tonec.txt"
+    },
+    {
+      "name": "tongcheng",
+      "clash": "/clash/tongcheng.txt",
+      "surge": "/surge/tongcheng.txt"
+    },
+    {
+      "name": "tongfang",
+      "clash": "/clash/tongfang.txt",
+      "surge": "/surge/tongfang.txt"
+    },
+    {
+      "name": "tor",
+      "clash": "/clash/tor.txt",
+      "surge": "/surge/tor.txt"
+    },
+    {
+      "name": "torproject",
+      "clash": "/clash/torproject.txt",
+      "surge": "/surge/torproject.txt"
+    },
+    {
+      "name": "trackernetwork",
+      "clash": "/clash/trackernetwork.txt",
+      "surge": "/surge/trackernetwork.txt"
+    },
+    {
+      "name": "trae",
+      "clash": "/clash/trae.txt",
+      "surge": "/surge/trae.txt"
+    },
+    {
+      "name": "translatewiki",
+      "clash": "/clash/translatewiki.txt",
+      "surge": "/surge/translatewiki.txt"
+    },
+    {
+      "name": "trello",
+      "clash": "/clash/trello.txt",
+      "surge": "/surge/trello.txt"
+    },
+    {
+      "name": "trustasia",
+      "clash": "/clash/trustasia.txt",
+      "surge": "/surge/trustasia.txt"
+    },
+    {
+      "name": "trustwallet",
+      "clash": "/clash/trustwallet.txt",
+      "surge": "/surge/trustwallet.txt"
+    },
+    {
+      "name": "trustwave",
+      "clash": "/clash/trustwave.txt",
+      "surge": "/surge/trustwave.txt"
+    },
+    {
+      "name": "truyen-hentai",
+      "clash": "/clash/truyen-hentai.txt",
+      "surge": "/surge/truyen-hentai.txt"
+    },
+    {
+      "name": "tsquare",
+      "clash": "/clash/tsquare.txt",
+      "surge": "/surge/tsquare.txt"
+    },
+    {
+      "name": "tube8",
+      "clash": "/clash/tube8.txt",
+      "surge": "/surge/tube8.txt"
+    },
+    {
+      "name": "tubi",
+      "clash": "/clash/tubi.txt",
+      "surge": "/surge/tubi.txt"
+    },
+    {
+      "name": "tumblr",
+      "clash": "/clash/tumblr.txt",
+      "surge": "/surge/tumblr.txt"
+    },
+    {
+      "name": "tutanota",
+      "clash": "/clash/tutanota.txt",
+      "surge": "/surge/tutanota.txt"
+    },
+    {
+      "name": "tvb",
+      "clash": "/clash/tvb.txt",
+      "surge": "/surge/tvb.txt"
+    },
+    {
+      "name": "tvdb",
+      "clash": "/clash/tvdb.txt",
+      "surge": "/surge/tvdb.txt"
+    },
+    {
+      "name": "tver",
+      "clash": "/clash/tver.txt",
+      "surge": "/surge/tver.txt"
+    },
+    {
+      "name": "twca",
+      "clash": "/clash/twca.txt",
+      "surge": "/surge/twca.txt"
+    },
+    {
+      "name": "twilio",
+      "clash": "/clash/twilio.txt",
+      "surge": "/surge/twilio.txt"
+    },
+    {
+      "name": "twitch",
+      "clash": "/clash/twitch.txt",
+      "surge": "/surge/twitch.txt"
+    },
+    {
+      "name": "twitter",
+      "clash": "/clash/twitter.txt",
+      "surge": "/surge/twitter.txt"
+    },
+    {
+      "name": "typekit",
+      "clash": "/clash/typekit.txt",
+      "surge": "/surge/typekit.txt"
+    },
+    {
+      "name": "typenetwork",
+      "clash": "/clash/typenetwork.txt",
+      "surge": "/surge/typenetwork.txt"
+    },
+    {
+      "name": "typography",
+      "clash": "/clash/typography.txt",
+      "surge": "/surge/typography.txt"
+    },
+    {
+      "name": "u17",
+      "clash": "/clash/u17.txt",
+      "surge": "/surge/u17.txt"
+    },
+    {
+      "name": "uber",
+      "clash": "/clash/uber.txt",
+      "surge": "/surge/uber.txt"
+    },
+    {
+      "name": "ubiquiti",
+      "clash": "/clash/ubiquiti.txt",
+      "surge": "/surge/ubiquiti.txt"
+    },
+    {
+      "name": "ubisoft",
+      "clash": "/clash/ubisoft.txt",
+      "surge": "/surge/ubisoft.txt"
+    },
+    {
+      "name": "ubuntu",
+      "clash": "/clash/ubuntu.txt",
+      "surge": "/surge/ubuntu.txt"
+    },
+    {
+      "name": "ubuntukylin",
+      "clash": "/clash/ubuntukylin.txt",
+      "surge": "/surge/ubuntukylin.txt"
+    },
+    {
+      "name": "uc",
+      "clash": "/clash/uc.txt",
+      "surge": "/surge/uc.txt"
+    },
+    {
+      "name": "ucloud",
+      "clash": "/clash/ucloud.txt",
+      "surge": "/surge/ucloud.txt"
+    },
+    {
+      "name": "ucoz",
+      "clash": "/clash/ucoz.txt",
+      "surge": "/surge/ucoz.txt"
+    },
+    {
+      "name": "udacity",
+      "clash": "/clash/udacity.txt",
+      "surge": "/surge/udacity.txt"
+    },
+    {
+      "name": "udemy",
+      "clash": "/clash/udemy.txt",
+      "surge": "/surge/udemy.txt"
+    },
+    {
+      "name": "udn",
+      "clash": "/clash/udn.txt",
+      "surge": "/surge/udn.txt"
+    },
+    {
+      "name": "umeng",
+      "clash": "/clash/umeng.txt",
+      "surge": "/surge/umeng.txt"
+    },
+    {
+      "name": "unext",
+      "clash": "/clash/unext.txt",
+      "surge": "/surge/unext.txt"
+    },
+    {
+      "name": "unionpay",
+      "clash": "/clash/unionpay.txt",
+      "surge": "/surge/unionpay.txt"
+    },
+    {
+      "name": "unity",
+      "clash": "/clash/unity.txt",
+      "surge": "/surge/unity.txt"
+    },
+    {
+      "name": "unitychina",
+      "clash": "/clash/unitychina.txt",
+      "surge": "/surge/unitychina.txt"
+    },
+    {
+      "name": "uoliv",
+      "clash": "/clash/uoliv.txt",
+      "surge": "/surge/uoliv.txt"
+    },
+    {
+      "name": "upai",
+      "clash": "/clash/upai.txt",
+      "surge": "/surge/upai.txt"
+    },
+    {
+      "name": "usersdrive",
+      "clash": "/clash/usersdrive.txt",
+      "surge": "/surge/usersdrive.txt"
+    },
+    {
+      "name": "uu-chat",
+      "clash": "/clash/uu-chat.txt",
+      "surge": "/surge/uu-chat.txt"
+    },
+    {
+      "name": "v2ray",
+      "clash": "/clash/v2ray.txt",
+      "surge": "/surge/v2ray.txt"
+    },
+    {
+      "name": "v8",
+      "clash": "/clash/v8.txt",
+      "surge": "/surge/v8.txt"
+    },
+    {
+      "name": "vancl",
+      "clash": "/clash/vancl.txt",
+      "surge": "/surge/vancl.txt"
+    },
+    {
+      "name": "vanish",
+      "clash": "/clash/vanish.txt",
+      "surge": "/surge/vanish.txt"
+    },
+    {
+      "name": "vaptcha",
+      "clash": "/clash/vaptcha.txt",
+      "surge": "/surge/vaptcha.txt"
+    },
+    {
+      "name": "veet",
+      "clash": "/clash/veet.txt",
+      "surge": "/surge/veet.txt"
+    },
+    {
+      "name": "vercel",
+      "clash": "/clash/vercel.txt",
+      "surge": "/surge/vercel.txt"
+    },
+    {
+      "name": "verisign",
+      "clash": "/clash/verisign.txt",
+      "surge": "/surge/verisign.txt"
+    },
+    {
+      "name": "verisign-pki",
+      "clash": "/clash/verisign-pki.txt",
+      "surge": "/surge/verisign-pki.txt"
+    },
+    {
+      "name": "verizon",
+      "clash": "/clash/verizon.txt",
+      "surge": "/surge/verizon.txt"
+    },
+    {
+      "name": "vgtime",
+      "clash": "/clash/vgtime.txt",
+      "surge": "/surge/vgtime.txt"
+    },
+    {
+      "name": "viber",
+      "clash": "/clash/viber.txt",
+      "surge": "/surge/viber.txt"
+    },
+    {
+      "name": "vilavpn",
+      "clash": "/clash/vilavpn.txt",
+      "surge": "/surge/vilavpn.txt"
+    },
+    {
+      "name": "vimeo",
+      "clash": "/clash/vimeo.txt",
+      "surge": "/surge/vimeo.txt"
+    },
+    {
+      "name": "visa",
+      "clash": "/clash/visa.txt",
+      "surge": "/surge/visa.txt"
+    },
+    {
+      "name": "visualarts",
+      "clash": "/clash/visualarts.txt",
+      "surge": "/surge/visualarts.txt"
+    },
+    {
+      "name": "viu",
+      "clash": "/clash/viu.txt",
+      "surge": "/surge/viu.txt"
+    },
+    {
+      "name": "vivo",
+      "clash": "/clash/vivo.txt",
+      "surge": "/surge/vivo.txt"
+    },
+    {
+      "name": "vk",
+      "clash": "/clash/vk.txt",
+      "surge": "/surge/vk.txt"
+    },
+    {
+      "name": "vmware",
+      "clash": "/clash/vmware.txt",
+      "surge": "/surge/vmware.txt"
+    },
+    {
+      "name": "voanews",
+      "clash": "/clash/voanews.txt",
+      "surge": "/surge/voanews.txt"
+    },
+    {
+      "name": "vodafone",
+      "clash": "/clash/vodafone.txt",
+      "surge": "/surge/vodafone.txt"
+    },
+    {
+      "name": "vokino",
+      "clash": "/clash/vokino.txt",
+      "surge": "/surge/vokino.txt"
+    },
+    {
+      "name": "volcengine",
+      "clash": "/clash/volcengine.txt",
+      "surge": "/surge/volcengine.txt"
+    },
+    {
+      "name": "volmoe",
+      "clash": "/clash/volmoe.txt",
+      "surge": "/surge/volmoe.txt"
+    },
+    {
+      "name": "volvo",
+      "clash": "/clash/volvo.txt",
+      "surge": "/surge/volvo.txt"
+    },
+    {
+      "name": "voxmedia",
+      "clash": "/clash/voxmedia.txt",
+      "surge": "/surge/voxmedia.txt"
+    },
+    {
+      "name": "vpngate",
+      "clash": "/clash/vpngate.txt",
+      "surge": "/surge/vpngate.txt"
+    },
+    {
+      "name": "vrcdn",
+      "clash": "/clash/vrcdn.txt",
+      "surge": "/surge/vrcdn.txt"
+    },
+    {
+      "name": "vrchat",
+      "clash": "/clash/vrchat.txt",
+      "surge": "/surge/vrchat.txt"
+    },
+    {
+      "name": "vrzwk",
+      "clash": "/clash/vrzwk.txt",
+      "surge": "/surge/vrzwk.txt"
+    },
+    {
+      "name": "vultr",
+      "clash": "/clash/vultr.txt",
+      "surge": "/surge/vultr.txt"
+    },
+    {
+      "name": "w3schools",
+      "clash": "/clash/w3schools.txt",
+      "surge": "/surge/w3schools.txt"
+    },
+    {
+      "name": "wallhaven",
+      "clash": "/clash/wallhaven.txt",
+      "surge": "/surge/wallhaven.txt"
+    },
+    {
+      "name": "walmart",
+      "clash": "/clash/walmart.txt",
+      "surge": "/surge/walmart.txt"
+    },
+    {
+      "name": "wanfang",
+      "clash": "/clash/wanfang.txt",
+      "surge": "/surge/wanfang.txt"
+    },
+    {
+      "name": "wangsu",
+      "clash": "/clash/wangsu.txt",
+      "surge": "/surge/wangsu.txt"
+    },
+    {
+      "name": "wanmei",
+      "clash": "/clash/wanmei.txt",
+      "surge": "/surge/wanmei.txt"
+    },
+    {
+      "name": "wantmedia",
+      "clash": "/clash/wantmedia.txt",
+      "surge": "/surge/wantmedia.txt"
+    },
+    {
+      "name": "wargaming",
+      "clash": "/clash/wargaming.txt",
+      "surge": "/surge/wargaming.txt"
+    },
+    {
+      "name": "wasu",
+      "clash": "/clash/wasu.txt",
+      "surge": "/surge/wasu.txt"
+    },
+    {
+      "name": "watchout",
+      "clash": "/clash/watchout.txt",
+      "surge": "/surge/watchout.txt"
+    },
+    {
+      "name": "wbgames",
+      "clash": "/clash/wbgames.txt",
+      "surge": "/surge/wbgames.txt"
+    },
+    {
+      "name": "weathercn",
+      "clash": "/clash/weathercn.txt",
+      "surge": "/surge/weathercn.txt"
+    },
+    {
+      "name": "webex",
+      "clash": "/clash/webex.txt",
+      "surge": "/surge/webex.txt"
+    },
+    {
+      "name": "webnovel",
+      "clash": "/clash/webnovel.txt",
+      "surge": "/surge/webnovel.txt"
+    },
+    {
+      "name": "webtype",
+      "clash": "/clash/webtype.txt",
+      "surge": "/surge/webtype.txt"
+    },
+    {
+      "name": "weiphone",
+      "clash": "/clash/weiphone.txt",
+      "surge": "/surge/weiphone.txt"
+    },
+    {
+      "name": "wenshushu",
+      "clash": "/clash/wenshushu.txt",
+      "surge": "/surge/wenshushu.txt"
+    },
+    {
+      "name": "westerndigital",
+      "clash": "/clash/westerndigital.txt",
+      "surge": "/surge/westerndigital.txt"
+    },
+    {
+      "name": "whatsapp",
+      "clash": "/clash/whatsapp.txt",
+      "surge": "/surge/whatsapp.txt"
+    },
+    {
+      "name": "wholefoodsmarket",
+      "clash": "/clash/wholefoodsmarket.txt",
+      "surge": "/surge/wholefoodsmarket.txt"
+    },
+    {
+      "name": "whoosh",
+      "clash": "/clash/whoosh.txt",
+      "surge": "/surge/whoosh.txt"
+    },
+    {
+      "name": "wikidot",
+      "clash": "/clash/wikidot.txt",
+      "surge": "/surge/wikidot.txt"
+    },
+    {
+      "name": "wikihow",
+      "clash": "/clash/wikihow.txt",
+      "surge": "/surge/wikihow.txt"
+    },
+    {
+      "name": "wikimedia",
+      "clash": "/clash/wikimedia.txt",
+      "surge": "/surge/wikimedia.txt"
+    },
+    {
+      "name": "wildberries",
+      "clash": "/clash/wildberries.txt",
+      "surge": "/surge/wildberries.txt"
+    },
+    {
+      "name": "windsurf",
+      "clash": "/clash/windsurf.txt",
+      "surge": "/surge/windsurf.txt"
+    },
+    {
+      "name": "windy",
+      "clash": "/clash/windy.txt",
+      "surge": "/surge/windy.txt"
+    },
+    {
+      "name": "wink",
+      "clash": "/clash/wink.txt",
+      "surge": "/surge/wink.txt"
+    },
+    {
+      "name": "winline",
+      "clash": "/clash/winline.txt",
+      "surge": "/surge/winline.txt"
+    },
+    {
+      "name": "wise",
+      "clash": "/clash/wise.txt",
+      "surge": "/surge/wise.txt"
+    },
+    {
+      "name": "wisekey",
+      "clash": "/clash/wisekey.txt",
+      "surge": "/surge/wisekey.txt"
+    },
+    {
+      "name": "wish",
+      "clash": "/clash/wish.txt",
+      "surge": "/surge/wish.txt"
+    },
+    {
+      "name": "wistia",
+      "clash": "/clash/wistia.txt",
+      "surge": "/surge/wistia.txt"
+    },
+    {
+      "name": "wiwide",
+      "clash": "/clash/wiwide.txt",
+      "surge": "/surge/wiwide.txt"
+    },
+    {
+      "name": "wix",
+      "clash": "/clash/wix.txt",
+      "surge": "/surge/wix.txt"
+    },
+    {
+      "name": "wjx",
+      "clash": "/clash/wjx.txt",
+      "surge": "/surge/wjx.txt"
+    },
+    {
+      "name": "wolai",
+      "clash": "/clash/wolai.txt",
+      "surge": "/surge/wolai.txt"
+    },
+    {
+      "name": "woolite",
+      "clash": "/clash/woolite.txt",
+      "surge": "/surge/woolite.txt"
+    },
+    {
+      "name": "wordpress",
+      "clash": "/clash/wordpress.txt",
+      "surge": "/surge/wordpress.txt"
+    },
+    {
+      "name": "wps",
+      "clash": "/clash/wps.txt",
+      "surge": "/surge/wps.txt"
+    },
+    {
+      "name": "wsj",
+      "clash": "/clash/wsj.txt",
+      "surge": "/surge/wsj.txt"
+    },
+    {
+      "name": "wwe",
+      "clash": "/clash/wwe.txt",
+      "surge": "/surge/wwe.txt"
+    },
+    {
+      "name": "wynd",
+      "clash": "/clash/wynd.txt",
+      "surge": "/surge/wynd.txt"
+    },
+    {
+      "name": "x",
+      "clash": "/clash/x.txt",
+      "surge": "/surge/x.txt"
+    },
+    {
+      "name": "x5",
+      "clash": "/clash/x5.txt",
+      "surge": "/surge/x5.txt"
+    },
+    {
+      "name": "xai",
+      "clash": "/clash/xai.txt",
+      "surge": "/surge/xai.txt"
+    },
+    {
+      "name": "xbox",
+      "clash": "/clash/xbox.txt",
+      "surge": "/surge/xbox.txt"
+    },
+    {
+      "name": "xd",
+      "clash": "/clash/xd.txt",
+      "surge": "/surge/xd.txt"
+    },
+    {
+      "name": "xda",
+      "clash": "/clash/xda.txt",
+      "surge": "/surge/xda.txt"
+    },
+    {
+      "name": "xdty",
+      "clash": "/clash/xdty.txt",
+      "surge": "/surge/xdty.txt"
+    },
+    {
+      "name": "xedge",
+      "clash": "/clash/xedge.txt",
+      "surge": "/surge/xedge.txt"
+    },
+    {
+      "name": "xhamster",
+      "clash": "/clash/xhamster.txt",
+      "surge": "/surge/xhamster.txt"
+    },
+    {
+      "name": "xiaoheihe",
+      "clash": "/clash/xiaoheihe.txt",
+      "surge": "/surge/xiaoheihe.txt"
+    },
+    {
+      "name": "xiaohongshu",
+      "clash": "/clash/xiaohongshu.txt",
+      "surge": "/surge/xiaohongshu.txt"
+    },
+    {
+      "name": "xiaomi",
+      "clash": "/clash/xiaomi.txt",
+      "surge": "/surge/xiaomi.txt"
+    },
+    {
+      "name": "xiaomi-ai",
+      "clash": "/clash/xiaomi-ai.txt",
+      "surge": "/surge/xiaomi-ai.txt"
+    },
+    {
+      "name": "xiaomi-iot",
+      "clash": "/clash/xiaomi-iot.txt",
+      "surge": "/surge/xiaomi-iot.txt"
+    },
+    {
+      "name": "xiaoyuzhou",
+      "clash": "/clash/xiaoyuzhou.txt",
+      "surge": "/surge/xiaoyuzhou.txt"
+    },
+    {
+      "name": "ximalaya",
+      "clash": "/clash/ximalaya.txt",
+      "surge": "/surge/ximalaya.txt"
+    },
+    {
+      "name": "xingkongwuxianmedia",
+      "clash": "/clash/xingkongwuxianmedia.txt",
+      "surge": "/surge/xingkongwuxianmedia.txt"
+    },
+    {
+      "name": "xingrz",
+      "clash": "/clash/xingrz.txt",
+      "surge": "/surge/xingrz.txt"
+    },
+    {
+      "name": "xnxx",
+      "clash": "/clash/xnxx.txt",
+      "surge": "/surge/xnxx.txt"
+    },
+    {
+      "name": "xtom",
+      "clash": "/clash/xtom.txt",
+      "surge": "/surge/xtom.txt"
+    },
+    {
+      "name": "xueersi",
+      "clash": "/clash/xueersi.txt",
+      "surge": "/surge/xueersi.txt"
+    },
+    {
+      "name": "xueqiu",
+      "clash": "/clash/xueqiu.txt",
+      "surge": "/surge/xueqiu.txt"
+    },
+    {
+      "name": "xunlei",
+      "clash": "/clash/xunlei.txt",
+      "surge": "/surge/xunlei.txt"
+    },
+    {
+      "name": "xvideos",
+      "clash": "/clash/xvideos.txt",
+      "surge": "/surge/xvideos.txt"
+    },
+    {
+      "name": "yahoo",
+      "clash": "/clash/yahoo.txt",
+      "surge": "/surge/yahoo.txt"
+    },
+    {
+      "name": "yandex",
+      "clash": "/clash/yandex.txt",
+      "surge": "/surge/yandex.txt"
+    },
+    {
+      "name": "ycombinator",
+      "clash": "/clash/ycombinator.txt",
+      "surge": "/surge/ycombinator.txt"
+    },
+    {
+      "name": "ymtc",
+      "clash": "/clash/ymtc.txt",
+      "surge": "/surge/ymtc.txt"
+    },
+    {
+      "name": "ynet",
+      "clash": "/clash/ynet.txt",
+      "surge": "/surge/ynet.txt"
+    },
+    {
+      "name": "ynoproject",
+      "clash": "/clash/ynoproject.txt",
+      "surge": "/surge/ynoproject.txt"
+    },
+    {
+      "name": "yokaverse",
+      "clash": "/clash/yokaverse.txt",
+      "surge": "/surge/yokaverse.txt"
+    },
+    {
+      "name": "yomiuri",
+      "clash": "/clash/yomiuri.txt",
+      "surge": "/surge/yomiuri.txt"
+    },
+    {
+      "name": "yostar",
+      "clash": "/clash/yostar.txt",
+      "surge": "/surge/yostar.txt"
+    },
+    {
+      "name": "youjizz",
+      "clash": "/clash/youjizz.txt",
+      "surge": "/surge/youjizz.txt"
+    },
+    {
+      "name": "youku",
+      "clash": "/clash/youku.txt",
+      "surge": "/surge/youku.txt"
+    },
+    {
+      "name": "youmind",
+      "clash": "/clash/youmind.txt",
+      "surge": "/surge/youmind.txt"
+    },
+    {
+      "name": "youporn",
+      "clash": "/clash/youporn.txt",
+      "surge": "/surge/youporn.txt"
+    },
+    {
+      "name": "youquan",
+      "clash": "/clash/youquan.txt",
+      "surge": "/surge/youquan.txt"
+    },
+    {
+      "name": "youtube",
+      "clash": "/clash/youtube.txt",
+      "surge": "/surge/youtube.txt"
+    },
+    {
+      "name": "youzan",
+      "clash": "/clash/youzan.txt",
+      "surge": "/surge/youzan.txt"
+    },
+    {
+      "name": "yto-express",
+      "clash": "/clash/yto-express.txt",
+      "surge": "/surge/yto-express.txt"
+    },
+    {
+      "name": "yuanbei",
+      "clash": "/clash/yuanbei.txt",
+      "surge": "/surge/yuanbei.txt"
+    },
+    {
+      "name": "yuanfudao",
+      "clash": "/clash/yuanfudao.txt",
+      "surge": "/surge/yuanfudao.txt"
+    },
+    {
+      "name": "yuewen",
+      "clash": "/clash/yuewen.txt",
+      "surge": "/surge/yuewen.txt"
+    },
+    {
+      "name": "yuketang",
+      "clash": "/clash/yuketang.txt",
+      "surge": "/surge/yuketang.txt"
+    },
+    {
+      "name": "yundaex",
+      "clash": "/clash/yundaex.txt",
+      "surge": "/surge/yundaex.txt"
+    },
+    {
+      "name": "yunfanjiasu",
+      "clash": "/clash/yunfanjiasu.txt",
+      "surge": "/surge/yunfanjiasu.txt"
+    },
+    {
+      "name": "yunlaopo",
+      "clash": "/clash/yunlaopo.txt",
+      "surge": "/surge/yunlaopo.txt"
+    },
+    {
+      "name": "yy",
+      "clash": "/clash/yy.txt",
+      "surge": "/surge/yy.txt"
+    },
+    {
+      "name": "z-library",
+      "clash": "/clash/z-library.txt",
+      "surge": "/surge/z-library.txt"
+    },
+    {
+      "name": "z3x-team",
+      "clash": "/clash/z3x-team.txt",
+      "surge": "/surge/z3x-team.txt"
+    },
+    {
+      "name": "zaobao",
+      "clash": "/clash/zaobao.txt",
+      "surge": "/surge/zaobao.txt"
+    },
+    {
+      "name": "zb",
+      "clash": "/clash/zb.txt",
+      "surge": "/surge/zb.txt"
+    },
+    {
+      "name": "zdns",
+      "clash": "/clash/zdns.txt",
+      "surge": "/surge/zdns.txt"
+    },
+    {
+      "name": "zee",
+      "clash": "/clash/zee.txt",
+      "surge": "/surge/zee.txt"
+    },
+    {
+      "name": "zeetv",
+      "clash": "/clash/zeetv.txt",
+      "surge": "/surge/zeetv.txt"
+    },
+    {
+      "name": "zendesk",
+      "clash": "/clash/zendesk.txt",
+      "surge": "/surge/zendesk.txt"
+    },
+    {
+      "name": "zeplin",
+      "clash": "/clash/zeplin.txt",
+      "surge": "/surge/zeplin.txt"
+    },
+    {
+      "name": "zhangtao",
+      "clash": "/clash/zhangtao.txt",
+      "surge": "/surge/zhangtao.txt"
+    },
+    {
+      "name": "zhihu",
+      "clash": "/clash/zhihu.txt",
+      "surge": "/surge/zhihu.txt"
+    },
+    {
+      "name": "zhimeishe",
+      "clash": "/clash/zhimeishe.txt",
+      "surge": "/surge/zhimeishe.txt"
+    },
+    {
+      "name": "zhubajie",
+      "clash": "/clash/zhubajie.txt",
+      "surge": "/surge/zhubajie.txt"
+    },
+    {
+      "name": "ziroom",
+      "clash": "/clash/ziroom.txt",
+      "surge": "/surge/ziroom.txt"
+    },
+    {
+      "name": "zoho",
+      "clash": "/clash/zoho.txt",
+      "surge": "/surge/zoho.txt"
+    },
+    {
+      "name": "zoom",
+      "clash": "/clash/zoom.txt",
+      "surge": "/surge/zoom.txt"
+    },
+    {
+      "name": "zotero",
+      "clash": "/clash/zotero.txt",
+      "surge": "/surge/zotero.txt"
+    },
+    {
+      "name": "zscaler",
+      "clash": "/clash/zscaler.txt",
+      "surge": "/surge/zscaler.txt"
+    },
+    {
+      "name": "zte",
+      "clash": "/clash/zte.txt",
+      "surge": "/surge/zte.txt"
+    },
+    {
+      "name": "zto-express",
+      "clash": "/clash/zto-express.txt",
+      "surge": "/surge/zto-express.txt"
+    },
+    {
+      "name": "zuoyebang",
+      "clash": "/clash/zuoyebang.txt",
+      "surge": "/surge/zuoyebang.txt"
+    },
+    {
+      "name": "zynga",
+      "clash": "/clash/zynga.txt",
+      "surge": "/surge/zynga.txt"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/pinterest.txt
 # Name: pinterest
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 52
 
 DOMAIN-SUFFIX,pin.it

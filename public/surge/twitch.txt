@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/twitch.txt
 # Name: twitch
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 34
 
 DOMAIN,d1g1f25tn8m2e6.cloudfront.net

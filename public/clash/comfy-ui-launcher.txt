@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/comfy-ui-launcher.txt
 # Name: comfy-ui-launcher
-# Updated: Sun, 09 Aug 2026 00:16:15 GMT
+# Updated: Sun, 09 Aug 2026 21:38:01 GMT
 # Total: 1
 
 payload:
