@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/razer.txt
 # Name: razer
-# Updated: Sat, 08 Aug 2026 00:16:05 GMT
+# Updated: Sun, 09 Aug 2026 00:16:15 GMT
 # Total: 9
 
 payload:

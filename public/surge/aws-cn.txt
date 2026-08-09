@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/aws-cn.txt
 # Name: aws-cn
-# Updated: Sat, 08 Aug 2026 00:16:05 GMT
+# Updated: Sun, 09 Aug 2026 00:16:15 GMT
 # Total: 28
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
