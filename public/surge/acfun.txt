@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/acfun.txt
 # Name: acfun
-# Updated: Sun, 09 Aug 2026 21:38:01 GMT
+# Updated: Mon, 10 Aug 2026 00:17:04 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,ac.fun

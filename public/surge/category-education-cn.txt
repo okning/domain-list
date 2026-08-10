@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-education-cn.txt
 # Name: category-education-cn
-# Updated: Sun, 09 Aug 2026 21:38:01 GMT
+# Updated: Mon, 10 Aug 2026 00:17:04 GMT
 # Total: 181
 
 DOMAIN-SUFFIX,100tal.com
