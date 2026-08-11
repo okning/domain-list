@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/zto-express.txt
 # Name: zto-express
-# Updated: Mon, 10 Aug 2026 00:17:04 GMT
+# Updated: Tue, 11 Aug 2026 00:16:24 GMT
 # Total: 13
 
 DOMAIN-SUFFIX,95311.com
