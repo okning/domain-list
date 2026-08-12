@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/bytedance.txt
 # Name: bytedance
-# Updated: Tue, 11 Aug 2026 00:16:24 GMT
+# Updated: Wed, 12 Aug 2026 00:21:03 GMT
 # Total: 911
 
 payload:

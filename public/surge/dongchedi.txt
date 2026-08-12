@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/dongchedi.txt
 # Name: dongchedi
-# Updated: Tue, 11 Aug 2026 00:16:24 GMT
+# Updated: Wed, 12 Aug 2026 00:21:03 GMT
 # Total: 8
 
 DOMAIN-SUFFIX,dcarapi.com

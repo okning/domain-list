@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/akamai.txt
 # Name: akamai
-# Updated: Tue, 11 Aug 2026 00:16:24 GMT
+# Updated: Wed, 12 Aug 2026 00:21:03 GMT
 # Total: 81
 
 payload:

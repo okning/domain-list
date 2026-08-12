@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/blizzard.txt
 # Name: blizzard
-# Updated: Tue, 11 Aug 2026 00:16:24 GMT
-# Total: 23
+# Updated: Wed, 12 Aug 2026 00:21:03 GMT
+# Total: 25
 
 payload:
   - DOMAIN-SUFFIX,battle.net
@@ -17,7 +17,9 @@ payload:
   - DOMAIN,bnetcmsus-a.akamaihd.net
   - DOMAIN,bnetproduct-a.akamaihd.net
   - DOMAIN,bnetshopus.akamaized.net
+  - DOMAIN-SUFFIX,diablo.com
   - DOMAIN-SUFFIX,diablo3.com
+  - DOMAIN-SUFFIX,diablo4.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,firesidegatherings.com
   - DOMAIN-SUFFIX,heroesofthestorm.com

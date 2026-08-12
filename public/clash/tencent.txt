@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/tencent.txt
 # Name: tencent
-# Updated: Tue, 11 Aug 2026 00:16:24 GMT
-# Total: 546
+# Updated: Wed, 12 Aug 2026 00:21:03 GMT
+# Total: 548
 
 payload:
   - DOMAIN-SUFFIX,17roco.com
@@ -214,6 +214,7 @@ payload:
   - DOMAIN-SUFFIX,mahjongcup.net
   - DOMAIN-SUFFIX,metalrevolution.com
   - DOMAIN-SUFFIX,midasbuy.com
+  - DOMAIN-SUFFIX,mmbizurl.cn
   - DOMAIN-SUFFIX,mszdld.cn
   - DOMAIN-SUFFIX,mszdld.com
   - DOMAIN-SUFFIX,mszdld.net
@@ -491,6 +492,7 @@ payload:
   - DOMAIN-SUFFIX,ultimatemusic.cn
   - DOMAIN-SUFFIX,um.run
   - DOMAIN-SUFFIX,uncnn.cn
+  - DOMAIN-SUFFIX,url.cn
   - DOMAIN-SUFFIX,vcloudstc.com
   - DOMAIN-SUFFIX,vcloudstc.net
   - DOMAIN-SUFFIX,vcloudvod.com
