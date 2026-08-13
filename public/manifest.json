@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T00:21:03.058Z",
+  "generatedAt": "2026-08-13T00:21:36.399Z",
   "baseUrl": "https://domain-list.nosec.me",
   "rules": [
     {
@@ -4917,6 +4917,11 @@
       "name": "nist",
       "clash": "/clash/nist.txt",
       "surge": "/surge/nist.txt"
+    },
+    {
+      "name": "nixos",
+      "clash": "/clash/nixos.txt",
+      "surge": "/surge/nixos.txt"
     },
     {
       "name": "nodejs",

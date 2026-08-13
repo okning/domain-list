@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-scholar-uk.txt
 # Name: category-scholar-uk
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
 # Total: 38
 
 DOMAIN-SUFFIX,ac.uk

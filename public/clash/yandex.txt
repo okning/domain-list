@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/yandex.txt
 # Name: yandex
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 98
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 99
 
 payload:
   - DOMAIN-SUFFIX,adfox.ru
@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,yandex.eu
   - DOMAIN-SUFFIX,yandex.fi
   - DOMAIN-SUFFIX,yandex.fr
+  - DOMAIN-SUFFIX,yandex.it
   - DOMAIN-SUFFIX,yandex.jobs
   - DOMAIN-SUFFIX,yandex.kg
   - DOMAIN-SUFFIX,yandex.kz

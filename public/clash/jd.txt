@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/jd.txt
 # Name: jd
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
 # Total: 235
 
 payload:

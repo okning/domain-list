@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-entertainment-cn.txt
 # Name: category-entertainment-cn
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 847
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 850
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,17roco.com
   - DOMAIN-SUFFIX,18183.com
   - DOMAIN-SUFFIX,1905.com
+  - DOMAIN-SUFFIX,1958xy.com
   - DOMAIN-SUFFIX,1kkk.com
   - DOMAIN-SUFFIX,1xhh.cn
   - DOMAIN-SUFFIX,3304399.com
@@ -650,6 +651,7 @@ payload:
   - DOMAIN-SUFFIX,qq163.net
   - DOMAIN-SUFFIX,qqgameapp.com
   - DOMAIN-SUFFIX,qqmusic.com
+  - DOMAIN-SUFFIX,qqtf.com
   - DOMAIN-SUFFIX,qtfm.cn
   - DOMAIN-SUFFIX,quehu.com
   - DOMAIN-SUFFIX,qwapp.top
@@ -748,6 +750,7 @@ payload:
   - DOMAIN-SUFFIX,ultimatemusic.cn
   - DOMAIN-SUFFIX,ultracachenode.com
   - DOMAIN-SUFFIX,updream.cn
+  - DOMAIN-SUFFIX,v3mh.com
   - DOMAIN-SUFFIX,vgtime.com
   - DOMAIN-SUFFIX,videoxiaoyouxi.com
   - DOMAIN-SUFFIX,vistopia.com.cn

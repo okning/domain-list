@@ -1,8 +1,9 @@
 # URL: https://domain-list.nosec.me/clash/kuaikan.txt
 # Name: kuaikan
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 2
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 3
 
 payload:
   - DOMAIN-SUFFIX,kkmh.com
   - DOMAIN-SUFFIX,kuaikanmanhua.com
+  - DOMAIN-SUFFIX,v3mh.com

@@ -1,0 +1,17 @@
+# URL: https://domain-list.nosec.me/surge/nixos.txt
+# Name: nixos
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 12
+
+DOMAIN-SUFFIX,builtwithnix.org
+DOMAIN-SUFFIX,mynixos.com
+DOMAIN,nix-community.github.io
+DOMAIN-SUFFIX,nix-community.org
+DOMAIN-SUFFIX,nix.dev
+DOMAIN-SUFFIX,nix.store
+DOMAIN-SUFFIX,nixcon.org
+DOMAIN-SUFFIX,nixcon2017.org
+DOMAIN-SUFFIX,nixlang.com
+DOMAIN-SUFFIX,nixos.org
+DOMAIN-SUFFIX,nixos.wiki
+DOMAIN-SUFFIX,nixpkgs.org

@@ -1,10 +1,11 @@
 # URL: https://domain-list.nosec.me/clash/36kr.txt
 # Name: 36kr
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 4
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 5
 
 payload:
   - DOMAIN-SUFFIX,36dianping.com
   - DOMAIN-SUFFIX,36kr.com
   - DOMAIN-SUFFIX,36krcdn.com
   - DOMAIN-SUFFIX,36krcnd.com
+  - DOMAIN-SUFFIX,36linkr.com

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-dev-cn.txt
 # Name: category-dev-cn
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 139
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 140
 
 DOMAIN-SUFFIX,51changxie.com
 DOMAIN-SUFFIX,51jianxie.cn
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,apifox.com
 DOMAIN-SUFFIX,apipost.cn
 DOMAIN-SUFFIX,apipost.net
 DOMAIN-SUFFIX,asktug.com
+DOMAIN-SUFFIX,atomgit.com
 DOMAIN-SUFFIX,baltamatica.cn
 DOMAIN-SUFFIX,baltamatica.com
 DOMAIN-SUFFIX,baltamatica.net

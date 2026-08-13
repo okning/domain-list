@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/private.txt
 # Name: private
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
 # Total: 128
 
 # REGEXP,^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$

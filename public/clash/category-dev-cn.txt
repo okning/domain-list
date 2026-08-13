@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-dev-cn.txt
 # Name: category-dev-cn
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 139
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 140
 
 payload:
   - DOMAIN-SUFFIX,51changxie.com
@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,apipost.cn
   - DOMAIN-SUFFIX,apipost.net
   - DOMAIN-SUFFIX,asktug.com
+  - DOMAIN-SUFFIX,atomgit.com
   - DOMAIN-SUFFIX,baltamatica.cn
   - DOMAIN-SUFFIX,baltamatica.com
   - DOMAIN-SUFFIX,baltamatica.net

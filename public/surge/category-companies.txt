@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-companies.txt
 # Name: category-companies
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 7822
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 7823
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -7558,6 +7558,7 @@ DOMAIN-SUFFIX,yandex.ee
 DOMAIN-SUFFIX,yandex.eu
 DOMAIN-SUFFIX,yandex.fi
 DOMAIN-SUFFIX,yandex.fr
+DOMAIN-SUFFIX,yandex.it
 DOMAIN-SUFFIX,yandex.jobs
 DOMAIN-SUFFIX,yandex.kg
 DOMAIN-SUFFIX,yandex.kz

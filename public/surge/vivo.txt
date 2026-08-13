@@ -1,8 +1,10 @@
 # URL: https://domain-list.nosec.me/surge/vivo.txt
 # Name: vivo
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 6
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 8
 
+DOMAIN-SUFFIX,blueos.com.cn
+DOMAIN-SUFFIX,budingscan.com
 DOMAIN-SUFFIX,iqoo.com
 DOMAIN-SUFFIX,vivo.cn
 DOMAIN-SUFFIX,vivo.com

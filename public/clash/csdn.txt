@@ -1,9 +1,10 @@
 # URL: https://domain-list.nosec.me/clash/csdn.txt
 # Name: csdn
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 15
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 16
 
 payload:
+  - DOMAIN-SUFFIX,atomgit.com
   - DOMAIN-SUFFIX,codechina.net
   - DOMAIN-SUFFIX,csdn.com
   - DOMAIN-SUFFIX,csdn.net

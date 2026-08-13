@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/58tongcheng.txt
 # Name: 58tongcheng
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 43
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 42
 
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,58.com.cn
@@ -27,15 +27,14 @@ DOMAIN-SUFFIX,chinahr.com
 DOMAIN-SUFFIX,chrstatic.com
 DOMAIN-SUFFIX,daojia.com
 DOMAIN-SUFFIX,diandao.org
-DOMAIN-SUFFIX,fang.com
 DOMAIN-SUFFIX,ganji.com
 DOMAIN-SUFFIX,ganjistatic1.com
 DOMAIN-SUFFIX,jxedt.com
 DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,kaoshibao.com
+DOMAIN-SUFFIX,kgdc.cn
+DOMAIN-SUFFIX,kgtest.cn
 DOMAIN-SUFFIX,roomeet.cn
-DOMAIN-SUFFIX,sofun.com
-DOMAIN-SUFFIX,soufunimg.com
 DOMAIN-SUFFIX,xgo-img.com.cn
 DOMAIN-SUFFIX,xinchong.com
 DOMAIN-SUFFIX,xueche.com

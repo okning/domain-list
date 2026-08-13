@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-ru.txt
 # Name: category-ru
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 827
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 828
 
 payload:
   - DOMAIN-SUFFIX,1917live.red
@@ -784,6 +784,7 @@ payload:
   - DOMAIN-SUFFIX,yandex.eu
   - DOMAIN-SUFFIX,yandex.fi
   - DOMAIN-SUFFIX,yandex.fr
+  - DOMAIN-SUFFIX,yandex.it
   - DOMAIN-SUFFIX,yandex.jobs
   - DOMAIN-SUFFIX,yandex.kg
   - DOMAIN-SUFFIX,yandex.kz

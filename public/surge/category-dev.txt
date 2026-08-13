@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-dev.txt
 # Name: category-dev
-# Updated: Wed, 12 Aug 2026 00:21:03 GMT
-# Total: 625
+# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Total: 635
 
 # REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,buck.build
 DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,builtwithnix.org
 DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
@@ -362,6 +363,7 @@ DOMAIN-SUFFIX,mspairlift.com
 DOMAIN-SUFFIX,msropendata.com
 DOMAIN-SUFFIX,msys2.org
 DOMAIN-SUFFIX,myjetbrains.com
+DOMAIN-SUFFIX,mynixos.com
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,mystrikingly.com
@@ -371,7 +373,15 @@ DOMAIN-SUFFIX,newpipe.net
 DOMAIN-SUFFIX,nftables.org
 DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
+DOMAIN-SUFFIX,nix-community.org
+DOMAIN-SUFFIX,nix.dev
+DOMAIN-SUFFIX,nix.store
+DOMAIN-SUFFIX,nixcon.org
+DOMAIN-SUFFIX,nixcon2017.org
+DOMAIN-SUFFIX,nixlang.com
 DOMAIN-SUFFIX,nixos.org
+DOMAIN-SUFFIX,nixos.wiki
+DOMAIN-SUFFIX,nixpkgs.org
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,nodesource.com
 DOMAIN-SUFFIX,nomadproject.io
