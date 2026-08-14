@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-dev.txt
 # Name: category-dev
-# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Updated: Fri, 14 Aug 2026 00:22:25 GMT
 # Total: 635
 
 # REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$

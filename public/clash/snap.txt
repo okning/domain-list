@@ -1,11 +1,13 @@
 # URL: https://domain-list.nosec.me/clash/snap.txt
 # Name: snap
-# Updated: Thu, 13 Aug 2026 00:21:36 GMT
-# Total: 7
+# Updated: Fri, 14 Aug 2026 00:22:25 GMT
+# Total: 9
 
 payload:
   - DOMAIN,impala-media-production.s3.amazonaws.com
   - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,sc-gw.com
+  - DOMAIN-SUFFIX,sc-static.net
   - DOMAIN-SUFFIX,snap-dev.net
   - DOMAIN-SUFFIX,snap.com
   - DOMAIN-SUFFIX,snapads.com

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/razer.txt
 # Name: razer
-# Updated: Thu, 13 Aug 2026 00:21:36 GMT
+# Updated: Fri, 14 Aug 2026 00:22:25 GMT
 # Total: 9
 
 DOMAIN-SUFFIX,razer.com

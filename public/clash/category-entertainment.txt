@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Thu, 13 Aug 2026 00:21:36 GMT
-# Total: 2066
+# Updated: Fri, 14 Aug 2026 00:22:25 GMT
+# Total: 2067
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -1439,6 +1439,7 @@ payload:
   - DOMAIN,roovza.skadsdk.appsflyersdk.com
   - DOMAIN-SUFFIX,rowblocks.com
   - DOMAIN-SUFFIX,rowblox.com
+  - DOMAIN-SUFFIX,rsg.ms
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,rstatic.net
   - DOMAIN-SUFFIX,rtbcdn.ru

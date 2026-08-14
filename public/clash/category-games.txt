@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-games.txt
 # Name: category-games
-# Updated: Thu, 13 Aug 2026 00:21:36 GMT
-# Total: 1137
+# Updated: Fri, 14 Aug 2026 00:22:25 GMT
+# Total: 1138
 
 payload:
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
@@ -792,6 +792,7 @@ payload:
   - DOMAIN-SUFFIX,roco.qq.com
   - DOMAIN-SUFFIX,rowblocks.com
   - DOMAIN-SUFFIX,rowblox.com
+  - DOMAIN-SUFFIX,rsg.ms
   - DOMAIN-SUFFIX,rsg.sc
   - DOMAIN-SUFFIX,rstatic.net
   - DOMAIN-SUFFIX,ruinedking.com

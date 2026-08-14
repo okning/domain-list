@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Thu, 13 Aug 2026 00:21:36 GMT
-# Total: 7823
+# Updated: Fri, 14 Aug 2026 00:22:25 GMT
+# Total: 7825
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -6138,6 +6138,8 @@ payload:
   - DOMAIN-SUFFIX,sayeasy.eu
   - DOMAIN-SUFFIX,saynow.com
   - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,sc-gw.com
+  - DOMAIN-SUFFIX,sc-static.net
   - DOMAIN-SUFFIX,scaleform.com
   - DOMAIN-SUFFIX,scartel.ru
   - DOMAIN-SUFFIX,scene7.com
