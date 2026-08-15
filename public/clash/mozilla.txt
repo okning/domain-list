@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/mozilla.txt
 # Name: mozilla
-# Updated: Fri, 14 Aug 2026 00:22:25 GMT
+# Updated: Sat, 15 Aug 2026 00:11:32 GMT
 # Total: 66
 
 payload:
