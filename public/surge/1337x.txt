@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/1337x.txt
 # Name: 1337x
-# Updated: Sat, 15 Aug 2026 00:11:32 GMT
+# Updated: Sun, 16 Aug 2026 00:11:11 GMT
 # Total: 10
 
 DOMAIN-SUFFIX,1337x.gd

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/microsoft-dev.txt
 # Name: microsoft-dev
-# Updated: Sat, 15 Aug 2026 00:11:32 GMT
+# Updated: Sun, 16 Aug 2026 00:11:11 GMT
 # Total: 74
 
 payload:

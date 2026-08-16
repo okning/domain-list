@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Sat, 15 Aug 2026 00:11:32 GMT
-# Total: 25878
+# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Total: 25880
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -6812,6 +6812,7 @@ payload:
   - DOMAIN-SUFFIX,disquscdn.com
   - DOMAIN-SUFFIX,disqusservice.com
   - DOMAIN-SUFFIX,divas.com.uy
+  - DOMAIN-SUFFIX,divdyn.com
   - DOMAIN-SUFFIX,diwodiwo.xyz
   - DOMAIN-SUFFIX,diyarbakirescort.com
   - DOMAIN-SUFFIX,diyuser.buzz
@@ -19589,6 +19590,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.net
   - DOMAIN-SUFFIX,rutracker.nl
   - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutracker.wiki
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,rutube.ru
   - DOMAIN-SUFFIX,rutube.sport

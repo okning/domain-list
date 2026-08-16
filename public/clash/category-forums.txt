@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-forums.txt
 # Name: category-forums
-# Updated: Sat, 15 Aug 2026 00:11:32 GMT
-# Total: 105
+# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Total: 106
 
 payload:
   - DOMAIN-SUFFIX,18p2p.com
@@ -97,6 +97,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.net
   - DOMAIN-SUFFIX,rutracker.nl
   - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutracker.wiki
   - DOMAIN-SUFFIX,rutrk.org
   - DOMAIN-SUFFIX,safechat.com
   - DOMAIN-SUFFIX,sis001.com

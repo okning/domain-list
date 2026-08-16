@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/rutracker.txt
 # Name: rutracker
-# Updated: Sat, 15 Aug 2026 00:11:32 GMT
-# Total: 8
+# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Total: 9
 
 DOMAIN-SUFFIX,maintracker.org
 DOMAIN-SUFFIX,rutracker.cc
@@ -10,4 +10,5 @@ DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.net
 DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.wiki
 DOMAIN-SUFFIX,rutrk.org
