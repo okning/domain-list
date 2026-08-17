@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T00:11:11.670Z",
+  "generatedAt": "2026-08-17T00:10:34.356Z",
   "baseUrl": "https://domain-list.nosec.me",
   "rules": [
     {
@@ -6847,11 +6847,6 @@
       "name": "typography",
       "clash": "/clash/typography.txt",
       "surge": "/surge/typography.txt"
-    },
-    {
-      "name": "u17",
-      "clash": "/clash/u17.txt",
-      "surge": "/surge/u17.txt"
     },
     {
       "name": "uber",

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/netlify.txt
 # Name: netlify
-# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Updated: Mon, 17 Aug 2026 00:10:34 GMT
 # Total: 10
 
 DOMAIN,acd89244c803f7181.awsglobalaccelerator.com

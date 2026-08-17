@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/zoho.txt
 # Name: zoho
-# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Updated: Mon, 17 Aug 2026 00:10:34 GMT
 # Total: 13
 
 DOMAIN-SUFFIX,zoho.com

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Updated: Mon, 17 Aug 2026 00:10:34 GMT
 # Total: 2067
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$

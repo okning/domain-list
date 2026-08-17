@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/dingdatech.txt
 # Name: dingdatech
-# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Updated: Mon, 17 Aug 2026 00:10:34 GMT
 # Total: 5
 
 DOMAIN-SUFFIX,diiing.cn

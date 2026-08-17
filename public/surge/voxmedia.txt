@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/voxmedia.txt
 # Name: voxmedia
-# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Updated: Mon, 17 Aug 2026 00:10:34 GMT
 # Total: 16
 
 DOMAIN-SUFFIX,cstatic.net

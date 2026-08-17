@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/douyin.txt
 # Name: douyin
-# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Updated: Mon, 17 Aug 2026 00:10:34 GMT
 # Total: 71
 
 payload:
@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,douyinec.com
   - DOMAIN-SUFFIX,douyinfe.com
   - DOMAIN-SUFFIX,douyinliving.com
+  - DOMAIN-SUFFIX,douyinmusicpromotion.com
   - DOMAIN-SUFFIX,douyinpay.com
   - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,douyinstatic.com
@@ -58,7 +59,6 @@ payload:
   - DOMAIN-SUFFIX,ihuoshanlive.com
   - DOMAIN-SUFFIX,ihuoshanstatic.com
   - DOMAIN-SUFFIX,ihuoshanvod.com
-  - DOMAIN-SUFFIX,kesong.co
   - DOMAIN-SUFFIX,kolbuyer.cn
   - DOMAIN-SUFFIX,lifexue.com
   - DOMAIN-SUFFIX,nextvid.net

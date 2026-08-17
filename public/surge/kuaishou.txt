@@ -1,11 +1,19 @@
 # URL: https://domain-list.nosec.me/surge/kuaishou.txt
 # Name: kuaishou
-# Updated: Sun, 16 Aug 2026 00:11:11 GMT
-# Total: 22
+# Updated: Mon, 17 Aug 2026 00:10:34 GMT
+# Total: 35
 
+DOMAIN-SUFFIX,ac.fun
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.net
+DOMAIN-SUFFIX,acfunchina.cn
+DOMAIN-SUFFIX,acfunchina.com
+DOMAIN-SUFFIX,acfunchina.net
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adkwai.com
 DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,aixifan.com
+DOMAIN-SUFFIX,eckwai.com
 DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,inkuai.com
@@ -19,9 +27,14 @@ DOMAIN-SUFFIX,kuaishouapps.com
 DOMAIN-SUFFIX,kuaishoupay.com
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kwaicdn.com
+DOMAIN-SUFFIX,kwaishop.com
+DOMAIN-SUFFIX,kwaixiaodian.com
+DOMAIN-SUFFIX,kwaiying.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,mojidoc.com
 DOMAIN-SUFFIX,qingque.cn
 DOMAIN-SUFFIX,viviv.com
+DOMAIN-SUFFIX,wskwai.com
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,yximgs.com

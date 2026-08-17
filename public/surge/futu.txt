@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/futu.txt
 # Name: futu
-# Updated: Sun, 16 Aug 2026 00:11:11 GMT
+# Updated: Mon, 17 Aug 2026 00:10:34 GMT
 # Total: 21
 
 DOMAIN-SUFFIX,futu.cn

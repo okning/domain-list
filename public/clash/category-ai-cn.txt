@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-ai-cn.txt
 # Name: category-ai-cn
-# Updated: Sun, 16 Aug 2026 00:11:11 GMT
-# Total: 113
+# Updated: Mon, 17 Aug 2026 00:10:34 GMT
+# Total: 114
 
 payload:
   - DOMAIN,ai.zhaomi.cn
@@ -87,6 +87,7 @@ payload:
   - DOMAIN-SUFFIX,pixeldance.com
   - DOMAIN-SUFFIX,qianwen.aliyun.com
   - DOMAIN-SUFFIX,qianwen.com
+  - DOMAIN-SUFFIX,qianwenai.com
   - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,qwenlm.ai
   - DOMAIN-SUFFIX,rwkv.cn
