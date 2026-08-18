@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/category-cdn-non-cn.txt
 # Name: category-cdn-non-cn
-# Updated: Mon, 17 Aug 2026 00:10:34 GMT
+# Updated: Tue, 18 Aug 2026 00:10:36 GMT
 # Total: 195
 
 payload:

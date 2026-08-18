@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/tld-opennic.txt
 # Name: tld-opennic
-# Updated: Mon, 17 Aug 2026 00:10:34 GMT
+# Updated: Tue, 18 Aug 2026 00:10:36 GMT
 # Total: 28
 
 DOMAIN-SUFFIX,bazar

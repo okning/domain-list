@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/category-gov-ir.txt
 # Name: category-gov-ir
-# Updated: Mon, 17 Aug 2026 00:10:34 GMT
+# Updated: Tue, 18 Aug 2026 00:10:36 GMT
 # Total: 29
 
 payload:

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/vimeo.txt
 # Name: vimeo
-# Updated: Mon, 17 Aug 2026 00:10:34 GMT
+# Updated: Tue, 18 Aug 2026 00:10:36 GMT
 # Total: 17
 
 # REGEXP,^[0-9]+vod-adaptive\.akamaized\.net$

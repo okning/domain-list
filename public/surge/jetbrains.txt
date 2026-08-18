@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/jetbrains.txt
 # Name: jetbrains
-# Updated: Mon, 17 Aug 2026 00:10:34 GMT
+# Updated: Tue, 18 Aug 2026 00:10:36 GMT
 # Total: 23
 
 DOMAIN-SUFFIX,datalore.io

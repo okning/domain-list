@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-bank-mm.txt
 # Name: category-bank-mm
-# Updated: Mon, 17 Aug 2026 00:10:34 GMT
+# Updated: Tue, 18 Aug 2026 00:10:36 GMT
 # Total: 30
 
 DOMAIN-SUFFIX,abank.com.mm

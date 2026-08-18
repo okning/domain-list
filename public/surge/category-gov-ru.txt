@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-gov-ru.txt
 # Name: category-gov-ru
-# Updated: Mon, 17 Aug 2026 00:10:34 GMT
+# Updated: Tue, 18 Aug 2026 00:10:36 GMT
 # Total: 142
 
 DOMAIN-SUFFIX,adygeya.ru
