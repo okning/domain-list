@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/bmw.txt
 # Name: bmw
-# Updated: Tue, 18 Aug 2026 00:10:36 GMT
+# Updated: Wed, 19 Aug 2026 00:10:20 GMT
 # Total: 729
 
 DOMAIN-SUFFIX,4myminicard.com

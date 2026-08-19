@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/pstorage.txt
 # Name: pstorage
-# Updated: Tue, 18 Aug 2026 00:10:36 GMT
+# Updated: Wed, 19 Aug 2026 00:10:20 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,pstorage.space

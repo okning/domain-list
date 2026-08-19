@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T00:10:36.813Z",
+  "generatedAt": "2026-08-19T00:10:20.033Z",
   "baseUrl": "https://domain-list.nosec.me",
   "rules": [
     {
@@ -4942,6 +4942,11 @@
       "name": "nordstrom",
       "clash": "/clash/nordstrom.txt",
       "surge": "/surge/nordstrom.txt"
+    },
+    {
+      "name": "nordvpn",
+      "clash": "/clash/nordvpn.txt",
+      "surge": "/surge/nordvpn.txt"
     },
     {
       "name": "notion",

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-vpnservices.txt
 # Name: category-vpnservices
-# Updated: Tue, 18 Aug 2026 00:10:36 GMT
-# Total: 67
+# Updated: Wed, 19 Aug 2026 00:10:20 GMT
+# Total: 69
 
 payload:
   - DOMAIN-SUFFIX,928.plus
@@ -47,6 +47,8 @@ payload:
   - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,nexitallysafe.com
   - DOMAIN-SUFFIX,nexitcore.com
+  - DOMAIN-SUFFIX,nordcdn.com
+  - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,paofu.cloud
   - DOMAIN-SUFFIX,paofuyun.me
   - DOMAIN-SUFFIX,renzhe.cloud

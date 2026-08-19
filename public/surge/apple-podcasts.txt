@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/apple-podcasts.txt
 # Name: apple-podcasts
-# Updated: Tue, 18 Aug 2026 00:10:36 GMT
+# Updated: Wed, 19 Aug 2026 00:10:20 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,applepodcasts.com

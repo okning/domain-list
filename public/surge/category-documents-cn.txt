@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-documents-cn.txt
 # Name: category-documents-cn
-# Updated: Tue, 18 Aug 2026 00:10:36 GMT
+# Updated: Wed, 19 Aug 2026 00:10:20 GMT
 # Total: 23
 
 DOMAIN-SUFFIX,1ppt.com

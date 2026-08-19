@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-vpnservices.txt
 # Name: category-vpnservices
-# Updated: Tue, 18 Aug 2026 00:10:36 GMT
-# Total: 67
+# Updated: Wed, 19 Aug 2026 00:10:20 GMT
+# Total: 69
 
 DOMAIN-SUFFIX,928.plus
 DOMAIN-SUFFIX,aaex.uk
@@ -46,6 +46,8 @@ DOMAIN-SUFFIX,n3ro.wtf
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nexitallysafe.com
 DOMAIN-SUFFIX,nexitcore.com
+DOMAIN-SUFFIX,nordcdn.com
+DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,paofu.cloud
 DOMAIN-SUFFIX,paofuyun.me
 DOMAIN-SUFFIX,renzhe.cloud

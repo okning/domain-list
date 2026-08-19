@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/rakuten.txt
 # Name: rakuten
-# Updated: Tue, 18 Aug 2026 00:10:36 GMT
+# Updated: Wed, 19 Aug 2026 00:10:20 GMT
 # Total: 30
 
 DOMAIN-SUFFIX,bfads.net
