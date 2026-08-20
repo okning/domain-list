@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
-# Total: 25882
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Total: 25893
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -582,6 +582,7 @@ payload:
   - DOMAIN-SUFFIX,59mvmv.com
   - DOMAIN-SUFFIX,5axis-machining.com
   - DOMAIN-SUFFIX,5beatsbydre.com
+  - DOMAIN-SUFFIX,5ch.io
   - DOMAIN-SUFFIX,5ch.net
   - DOMAIN-SUFFIX,5fang.cc
   - DOMAIN-SUFFIX,5i01.com
@@ -1770,6 +1771,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
   - DOMAIN-SUFFIX,amazonwebservices.cn
+  - DOMAIN-SUFFIX,amazonwebservices.com
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
@@ -7015,6 +7017,7 @@ payload:
   - DOMAIN-SUFFIX,dreamamateurs.com
   - DOMAIN-SUFFIX,dreambmw.ca
   - DOMAIN-SUFFIX,dreamforce.com
+  - DOMAIN-SUFFIX,dreamgen.com
   - DOMAIN-SUFFIX,dreammovies.com
   - DOMAIN-SUFFIX,dreamorder.com
   - DOMAIN-SUFFIX,dreamteamfc.com
@@ -8598,6 +8601,7 @@ payload:
   - DOMAIN-SUFFIX,fans17.com
   - DOMAIN-SUFFIX,fans66.tw
   - DOMAIN-SUFFIX,fansking.tw
+  - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,fansnudes.com
   - DOMAIN-SUFFIX,fansone.co
   - DOMAIN-SUFFIX,fanspot.jp
@@ -13592,6 +13596,7 @@ payload:
   - DOMAIN-SUFFIX,killercb.ru
   - DOMAIN-SUFFIX,kilmeadeandfriends.com
   - DOMAIN-SUFFIX,kimchi.tv
+  - DOMAIN-SUFFIX,kimi.ai
   - DOMAIN-SUFFIX,kimogirl.cc
   - DOMAIN-SUFFIX,kimosex.com
   - DOMAIN-SUFFIX,kindgirls.com
@@ -15588,6 +15593,7 @@ payload:
   - DOMAIN-SUFFIX,moomoo.com
   - DOMAIN-SUFFIX,moomooequity.com
   - DOMAIN-SUFFIX,moomootrustee.com
+  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,moov.hk
   - DOMAIN-SUFFIX,moov.hk
   - DOMAIN-SUFFIX,moozporn.com
@@ -16411,6 +16417,8 @@ payload:
   - DOMAIN-SUFFIX,nickscipio.com
   - DOMAIN-SUFFIX,nicky.xxx
   - DOMAIN-SUFFIX,nico
+  - DOMAIN-SUFFIX,nico.ms
+  - DOMAIN-SUFFIX,nicochannel.jp
   - DOMAIN-SUFFIX,nicodic.jp
   - DOMAIN-SUFFIX,nicolepeters.com
   - DOMAIN-SUFFIX,nicomanga.jp
@@ -16706,6 +16714,7 @@ payload:
   - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,norsk.mobi
   - DOMAIN-SUFFIX,norton.com
+  - DOMAIN-SUFFIX,notegpt.io
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,noticias-rt.com
   - DOMAIN-SUFFIX,notimundo.press
@@ -16716,6 +16725,7 @@ payload:
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,notionusercontent.com
+  - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,noveltrove.com
   - DOMAIN-SUFFIX,novids.com
   - DOMAIN-SUFFIX,novinhabucetuda.com
@@ -21407,6 +21417,7 @@ payload:
   - DOMAIN-SUFFIX,talantix.ru
   - DOMAIN-SUFFIX,talentlens.com
   - DOMAIN-SUFFIX,taleofthenight.com
+  - DOMAIN-SUFFIX,talkai.info
   - DOMAIN-SUFFIX,talkingkotlin.com
   - DOMAIN-SUFFIX,talksport.com
   - DOMAIN-SUFFIX,tamilsexvideos.cc

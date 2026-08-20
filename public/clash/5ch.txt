@@ -1,8 +1,9 @@
 # URL: https://domain-list.nosec.me/clash/5ch.txt
 # Name: 5ch
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
-# Total: 2
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Total: 3
 
 payload:
   - DOMAIN-SUFFIX,2ch.net
+  - DOMAIN-SUFFIX,5ch.io
   - DOMAIN-SUFFIX,5ch.net

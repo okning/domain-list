@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/amazon.txt
 # Name: amazon
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
-# Total: 236
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Total: 237
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -116,6 +116,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
   - DOMAIN-SUFFIX,amazonwebservices.cn
+  - DOMAIN-SUFFIX,amazonwebservices.com
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com

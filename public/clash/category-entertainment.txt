@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
-# Total: 2067
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Total: 2069
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -1139,6 +1139,8 @@ payload:
   - DOMAIN-SUFFIX,nfsworld.com
   - DOMAIN-SUFFIX,ngeo.com
   - DOMAIN-SUFFIX,nico
+  - DOMAIN-SUFFIX,nico.ms
+  - DOMAIN-SUFFIX,nicochannel.jp
   - DOMAIN-SUFFIX,nicodic.jp
   - DOMAIN-SUFFIX,nicomanga.jp
   - DOMAIN-SUFFIX,niconico.com

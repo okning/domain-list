@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-social-media-non-cn.txt
 # Name: category-social-media-non-cn
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
-# Total: 605
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Total: 606
 
 payload:
   - DOMAIN-SUFFIX,9ineverse.com
@@ -285,6 +285,7 @@ payload:
   - DOMAIN-SUFFIX,faesebook.com
   - DOMAIN-SUFFIX,fafacebook.com
   - DOMAIN-SUFFIX,faicbooc.com
+  - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,fasebokk.com
   - DOMAIN-SUFFIX,fasebook.com
   - DOMAIN-SUFFIX,faseboox.com

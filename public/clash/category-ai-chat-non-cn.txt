@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-ai-chat-non-cn.txt
 # Name: category-ai-chat-non-cn
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
-# Total: 174
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Total: 180
 
 payload:
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
@@ -77,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,dola.com
+  - DOMAIN-SUFFIX,dreamgen.com
   - DOMAIN-SUFFIX,duck.ai
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
@@ -107,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jules.google
   - DOMAIN-SUFFIX,jules.google.com
+  - DOMAIN-SUFFIX,kimi.ai
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
@@ -123,12 +125,15 @@ payload:
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN,notebooklm.googleapis.com
+  - DOMAIN-SUFFIX,notegpt.io
+  - DOMAIN-SUFFIX,novelai.net
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaistatsig.com
@@ -166,6 +171,7 @@ payload:
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,talkai.info
   - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,themeforest.net
   - DOMAIN-SUFFIX,trae.ai

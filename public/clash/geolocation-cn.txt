@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
-# Total: 8084
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Total: 8083
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -5003,7 +5003,6 @@ payload:
   - DOMAIN-SUFFIX,monika.love
   - DOMAIN-SUFFIX,mooc.cn
   - DOMAIN-SUFFIX,moocollege.com
-  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN-SUFFIX,moonvy.com
   - DOMAIN-SUFFIX,moonvy.cool

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
-# Total: 2067
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Total: 2069
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -1138,6 +1138,8 @@ DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,nfsworld.com
 DOMAIN-SUFFIX,ngeo.com
 DOMAIN-SUFFIX,nico
+DOMAIN-SUFFIX,nico.ms
+DOMAIN-SUFFIX,nicochannel.jp
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicomanga.jp
 DOMAIN-SUFFIX,niconico.com

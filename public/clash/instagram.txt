@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/instagram.txt
 # Name: instagram
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
 # Total: 72
 
 payload:

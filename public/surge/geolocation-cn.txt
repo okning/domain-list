@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Wed, 19 Aug 2026 00:10:20 GMT
-# Total: 8084
+# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Total: 8083
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -5002,7 +5002,6 @@ DOMAIN-SUFFIX,moliranran.com
 DOMAIN-SUFFIX,monika.love
 DOMAIN-SUFFIX,mooc.cn
 DOMAIN-SUFFIX,moocollege.com
-DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,moonshot.cn
 DOMAIN-SUFFIX,moonvy.com
 DOMAIN-SUFFIX,moonvy.cool
