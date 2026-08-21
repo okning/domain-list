@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/hkedcity.txt
 # Name: hkedcity
-# Updated: Thu, 20 Aug 2026 00:11:13 GMT
+# Updated: Fri, 21 Aug 2026 00:12:13 GMT
 # Total: 3
 
 payload:
