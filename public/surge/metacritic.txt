@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/metacritic.txt
 # Name: metacritic
-# Updated: Fri, 21 Aug 2026 00:12:13 GMT
+# Updated: Sat, 22 Aug 2026 00:10:57 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,metacritic.com

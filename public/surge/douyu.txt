@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/douyu.txt
 # Name: douyu
-# Updated: Fri, 21 Aug 2026 00:12:13 GMT
+# Updated: Sat, 22 Aug 2026 00:10:57 GMT
 # Total: 7
 
 DOMAIN-SUFFIX,douyu.com

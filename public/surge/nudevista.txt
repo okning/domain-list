@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/nudevista.txt
 # Name: nudevista
-# Updated: Fri, 21 Aug 2026 00:12:13 GMT
+# Updated: Sat, 22 Aug 2026 00:10:57 GMT
 # Total: 4
 
 DOMAIN-SUFFIX,nudevista.com

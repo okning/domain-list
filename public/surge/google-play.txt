@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/google-play.txt
 # Name: google-play
-# Updated: Fri, 21 Aug 2026 00:12:13 GMT
+# Updated: Sat, 22 Aug 2026 00:10:57 GMT
 # Total: 9
 
 # REGEXP,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$

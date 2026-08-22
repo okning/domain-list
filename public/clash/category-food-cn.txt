@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/category-food-cn.txt
 # Name: category-food-cn
-# Updated: Fri, 21 Aug 2026 00:12:13 GMT
+# Updated: Sat, 22 Aug 2026 00:10:57 GMT
 # Total: 58
 
 payload:
