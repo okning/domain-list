@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/jiguang.txt
 # Name: jiguang
-# Updated: Sat, 22 Aug 2026 00:10:57 GMT
+# Updated: Sun, 23 Aug 2026 00:11:15 GMT
 # Total: 18
 
 DOMAIN-SUFFIX,42r.cn
