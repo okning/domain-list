@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/synology.txt
 # Name: synology
-# Updated: Sun, 23 Aug 2026 00:11:15 GMT
+# Updated: Mon, 24 Aug 2026 00:11:02 GMT
 # Total: 20
 
 DOMAIN-SUFFIX,diskstation.me

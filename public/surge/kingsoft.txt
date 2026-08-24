@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/kingsoft.txt
 # Name: kingsoft
-# Updated: Sun, 23 Aug 2026 00:11:15 GMT
+# Updated: Mon, 24 Aug 2026 00:11:02 GMT
 # Total: 43
 
 DOMAIN-SUFFIX,51dzt.com

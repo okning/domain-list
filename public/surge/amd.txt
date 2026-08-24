@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/amd.txt
 # Name: amd
-# Updated: Sun, 23 Aug 2026 00:11:15 GMT
+# Updated: Mon, 24 Aug 2026 00:11:02 GMT
 # Total: 5
 
 DOMAIN-SUFFIX,amd.com
