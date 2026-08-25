@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/ea.txt
 # Name: ea
-# Updated: Mon, 24 Aug 2026 00:11:02 GMT
+# Updated: Tue, 25 Aug 2026 00:11:04 GMT
 # Total: 163
 
 DOMAIN-SUFFIX,anthemgame.com

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/alibaba.txt
 # Name: alibaba
-# Updated: Mon, 24 Aug 2026 00:11:02 GMT
+# Updated: Tue, 25 Aug 2026 00:11:04 GMT
 # Total: 372
 
 DOMAIN-SUFFIX,11222.cn
