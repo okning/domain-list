@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-tech-media-ru.txt
 # Name: category-tech-media-ru
-# Updated: Tue, 25 Aug 2026 00:11:04 GMT
+# Updated: Wed, 26 Aug 2026 00:11:41 GMT
 # Total: 34
 
 DOMAIN-SUFFIX,3dnews.ru

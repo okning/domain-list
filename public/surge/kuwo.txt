@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/kuwo.txt
 # Name: kuwo
-# Updated: Tue, 25 Aug 2026 00:11:04 GMT
+# Updated: Wed, 26 Aug 2026 00:11:41 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,koowo.cn

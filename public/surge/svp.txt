@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/svp.txt
 # Name: svp
-# Updated: Tue, 25 Aug 2026 00:11:04 GMT
+# Updated: Wed, 26 Aug 2026 00:11:41 GMT
 # Total: 1
 
 DOMAIN-SUFFIX,svp-team.com
