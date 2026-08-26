@@ -154,14 +154,23 @@
                 place-items: center;
                 padding: 0;
                 border: 0;
-                border-radius: var(--radius-sm);
+                border-radius: var(--radius-md);
                 background: transparent;
                 color: var(--gray-7);
                 cursor: pointer;
+                transition:
+                    color 100ms ease,
+                    background-color 100ms ease,
+                    transform 80ms ease;
             }
 
             .icon-button:hover {
                 background: var(--gray-0);
+            }
+
+            .icon-button:active {
+                background: var(--gray-1);
+                transform: translateY(1px);
             }
 
             .icon-button svg {
@@ -324,7 +333,7 @@
                 gap: 7px;
                 padding: 6px 12px;
                 border: 1px solid var(--border);
-                border-radius: var(--radius-sm);
+                border-radius: var(--radius-md);
                 background: var(--body);
                 color: var(--gray-8);
                 cursor: pointer;
@@ -332,10 +341,23 @@
                 font-weight: 600;
                 line-height: 1;
                 text-decoration: none;
+                transition:
+                    color 100ms ease,
+                    border-color 100ms ease,
+                    background-color 100ms ease,
+                    box-shadow 100ms ease,
+                    transform 80ms ease;
             }
 
             .button:hover:not(:disabled) {
                 background: var(--gray-0);
+                box-shadow: 0 1px 2px rgba(18, 52, 42, 0.08);
+            }
+
+            .button:active:not(:disabled) {
+                background: var(--gray-1);
+                box-shadow: inset 0 1px 2px rgba(18, 52, 42, 0.12);
+                transform: translateY(1px);
             }
 
             .button-primary {
@@ -347,6 +369,11 @@
             .button-primary:hover:not(:disabled) {
                 border-color: var(--pine-7);
                 background: var(--pine-7);
+            }
+
+            .button-primary:active:not(:disabled) {
+                border-color: var(--pine-8);
+                background: var(--pine-8);
             }
 
             .button:disabled {
@@ -766,6 +793,11 @@
             @media (prefers-reduced-motion: reduce) {
                 html {
                     scroll-behavior: auto;
+                }
+
+                .button,
+                .icon-button {
+                    transition: none;
                 }
             }
 
@@ -1300,7 +1332,7 @@
             </main>
 
             <footer>
-                &copy; 2025–<span id="current-year"></span> nosec.me
+                &copy; <span id="copyright-years"></span> nosec.me
             </footer>
         </div>
 
@@ -1518,8 +1550,9 @@
             });
             updateActiveSection();
 
-            document.querySelector("#current-year").textContent =
-                new Date().getFullYear();
+            const currentYear = new Date().getFullYear();
+            document.querySelector("#copyright-years").textContent =
+                currentYear > 2026 ? `2026–${currentYear}` : "2026";
             loadManifest();
         </script>
     </body>
