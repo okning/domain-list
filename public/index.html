@@ -1,1013 +1,1217 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta
-      name="description"
-      content="Surge and Clash domain rule sets generated from v2fly/domain-list-community."
-    >
-    <link rel="canonical" href="https://domain-list.nosec.me/">
-    <title>Domain List · Rules for Surge and Clash</title>
-    <style>
-      :root {
-        color-scheme: light;
-        --pine-0: #effdf8;
-        --pine-1: #d9f8ed;
-        --pine-2: #b5f0dc;
-        --pine-5: #35c99d;
-        --pine-6: #19b78a;
-        --pine-7: #0f916e;
-        --pine-8: #0c7359;
-        --gray-0: #f8f9fa;
-        --gray-1: #f1f3f5;
-        --gray-2: #e9ecef;
-        --gray-3: #dee2e6;
-        --gray-4: #ced4da;
-        --gray-6: #868e96;
-        --gray-7: #495057;
-        --gray-8: #343a40;
-        --gray-9: #212529;
-        --body: #ffffff;
-        --text: var(--gray-9);
-        --dimmed: var(--gray-6);
-        --border: var(--gray-4);
-        --radius-sm: 4px;
-        --radius-md: 8px;
-        --font-xs: 11px;
-        --font-sm: 13px;
-        --font-md: 14px;
-        --font-lg: 16px;
-        --font-xl: 18px;
-        --font-monospace: Monaco, "Cascadia Code", "Cascadia Mono", Consolas,
-          "Liberation Mono", monospace;
-        --sidebar-width: 224px;
-        font-synthesis: none;
-        text-rendering: optimizeLegibility;
-      }
-
-      * {
-        box-sizing: border-box;
-      }
-
-      html {
-        scroll-behavior: smooth;
-      }
-
-      body {
-        min-width: 320px;
-        min-height: 100vh;
-        margin: 0;
-        background: var(--body);
-        color: var(--text);
-        font-family:
-          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          sans-serif;
-        font-size: var(--font-md);
-        line-height: 1.55;
-      }
-
-      button,
-      input {
-        font: inherit;
-      }
-
-      button,
-      a {
-        -webkit-tap-highlight-color: transparent;
-      }
-
-      a {
-        color: inherit;
-      }
-
-      code {
-        font-family: var(--font-monospace);
-      }
-
-      button:focus-visible,
-      a:focus-visible,
-      input:focus-visible {
-        outline: 2px solid var(--pine-6);
-        outline-offset: 2px;
-      }
-
-      .brand {
-        display: flex;
-        min-width: 0;
-        align-items: center;
-        gap: 12px;
-      }
-
-      .brand-mark {
-        display: grid;
-        width: 36px;
-        height: 36px;
-        flex: 0 0 36px;
-        place-items: center;
-        border: 1px solid var(--pine-2);
-        border-radius: 11px;
-        background: var(--pine-0);
-        color: var(--pine-8);
-        font-size: 13px;
-        font-weight: 800;
-        letter-spacing: -0.04em;
-      }
-
-      .brand-copy {
-        min-width: 0;
-      }
-
-      .brand-name,
-      .brand-subtitle {
-        overflow: hidden;
-        margin: 0;
-        text-overflow: ellipsis;
-        white-space: nowrap;
-      }
-
-      .brand-name {
-        font-size: var(--font-md);
-        font-weight: 700;
-      }
-
-      .brand-subtitle {
-        color: var(--dimmed);
-        font-size: var(--font-xs);
-      }
-
-      .mobile-header {
-        display: none;
-      }
-
-      .icon-button {
-        display: inline-grid;
-        width: 32px;
-        height: 32px;
-        flex: 0 0 32px;
-        place-items: center;
-        padding: 0;
-        border: 0;
-        border-radius: var(--radius-sm);
-        background: transparent;
-        color: var(--gray-7);
-        cursor: pointer;
-      }
-
-      .icon-button:hover {
-        background: var(--gray-0);
-      }
-
-      .icon-button svg {
-        width: 18px;
-        height: 18px;
-      }
-
-      .drawer-overlay,
-      .mobile-drawer {
-        display: none;
-      }
-
-      .sidebar {
-        position: fixed;
-        z-index: 10;
-        inset: 0 auto 0 0;
-        display: flex;
-        width: var(--sidebar-width);
-        padding: 16px;
-        border-right: 1px solid var(--gray-3);
-        background: var(--body);
-      }
-
-      .sidebar-inner {
-        display: flex;
-        width: 100%;
-        min-height: 0;
-        flex-direction: column;
-      }
-
-      .sidebar-divider {
-        height: 1px;
-        margin: 20px 0;
-        border: 0;
-        background: var(--gray-3);
-      }
-
-      .nav {
-        display: grid;
-        gap: 4px;
-      }
-
-      .nav-link {
-        display: flex;
-        min-height: 38px;
-        align-items: center;
-        gap: 10px;
-        padding: 8px 12px;
-        border-radius: var(--radius-md);
-        color: #525b57;
-        font-size: var(--font-sm);
-        font-weight: 600;
-        text-decoration: none;
-      }
-
-      .nav-link:hover {
-        color: #39433f;
-        background: #f6f8f7;
-      }
-
-      .nav-link[data-active="true"] {
-        color: #087455;
-        background: #e9faf4;
-      }
-
-      .nav-icon {
-        width: 18px;
-        height: 18px;
-        flex: 0 0 18px;
-      }
-
-      .sidebar-resources {
-        margin-top: auto;
-      }
-
-      .resource-label {
-        margin: 0 0 8px 12px;
-        color: var(--dimmed);
-        font-size: var(--font-xs);
-        font-weight: 600;
-        text-transform: uppercase;
-      }
-
-      .app-main {
-        display: flex;
-        min-height: 100vh;
-        margin-left: 0;
-        flex-direction: column;
-      }
-
-      .content {
-        width: 100%;
-        max-width: 1438px;
-        margin: 0 auto;
-        padding: 28px 32px;
-        flex: 1;
-      }
-
-      .page-stack {
-        display: grid;
-        gap: 20px;
-      }
-
-      .overview-stack {
-        display: grid;
-        gap: 20px;
-        scroll-margin-top: 24px;
-      }
-
-      .page-header {
-        display: flex;
-        align-items: flex-end;
-        justify-content: space-between;
-        gap: 16px;
-        flex-wrap: wrap;
-      }
-
-      h1,
-      h2,
-      p {
-        margin-top: 0;
-      }
-
-      h1 {
-        margin-bottom: 2px;
-        font-size: 24px;
-        font-weight: 700;
-        letter-spacing: -0.02em;
-        line-height: 1.3;
-      }
-
-      h2 {
-        margin-bottom: 2px;
-        font-size: var(--font-lg);
-        font-weight: 700;
-        line-height: 1.35;
-      }
-
-      .description,
-      .section-description {
-        margin-bottom: 0;
-        color: var(--dimmed);
-        font-size: var(--font-sm);
-      }
-
-      .description {
-        max-width: 670px;
-      }
-
-      .header-actions {
-        display: flex;
-        gap: 8px;
-      }
-
-      .button {
-        display: inline-flex;
-        min-height: 32px;
-        align-items: center;
-        justify-content: center;
-        gap: 7px;
-        padding: 6px 12px;
-        border: 1px solid var(--border);
-        border-radius: var(--radius-sm);
-        background: var(--body);
-        color: var(--gray-8);
-        cursor: pointer;
-        font-size: var(--font-sm);
-        font-weight: 600;
-        line-height: 1;
-        text-decoration: none;
-      }
-
-      .button:hover:not(:disabled) {
-        background: var(--gray-0);
-      }
-
-      .button-primary {
-        border-color: var(--pine-6);
-        background: var(--pine-6);
-        color: #ffffff;
-      }
-
-      .button-primary:hover:not(:disabled) {
-        border-color: var(--pine-7);
-        background: var(--pine-7);
-      }
-
-      .button:disabled {
-        cursor: not-allowed;
-        opacity: 0.45;
-      }
-
-      .summary-card,
-      .card,
-      .list-card {
-        overflow: hidden;
-        border: 1px solid var(--gray-2);
-        border-radius: var(--radius-md);
-        background: var(--body);
-        box-shadow: 0 1px 2px rgba(18, 52, 42, 0.025);
-      }
-
-      .summary-grid {
-        display: grid;
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-      }
-
-      .metric {
-        min-width: 0;
-        padding: 16px 20px;
-      }
-
-      .metric + .metric {
-        border-left: 1px solid var(--gray-2);
-      }
-
-      .metric-label {
-        margin-bottom: 4px;
-        color: var(--dimmed);
-        font-size: var(--font-xs);
-        font-weight: 600;
-        text-transform: uppercase;
-      }
-
-      .metric-value {
-        overflow: hidden;
-        margin: 0;
-        font-size: var(--font-lg);
-        font-weight: 700;
-        text-overflow: ellipsis;
-        white-space: nowrap;
-      }
-
-      .section-stack {
-        display: grid;
-        gap: 12px;
-        scroll-margin-top: 24px;
-      }
-
-      .section-header {
-        display: flex;
-        align-items: flex-end;
-        justify-content: space-between;
-        gap: 12px;
-        flex-wrap: wrap;
-      }
-
-      .example-toolbar {
-        display: flex;
-        min-height: 48px;
-        align-items: center;
-        justify-content: space-between;
-        gap: 16px;
-        padding: 0 16px;
-        border-bottom: 1px solid var(--gray-3);
-      }
-
-      .tabs {
-        display: flex;
-        align-self: stretch;
-        gap: 18px;
-      }
-
-      .tab {
-        position: relative;
-        padding: 0 2px;
-        border: 0;
-        background: transparent;
-        color: var(--dimmed);
-        cursor: pointer;
-        font-size: var(--font-sm);
-        font-weight: 600;
-      }
-
-      .tab::after {
-        position: absolute;
-        right: 0;
-        bottom: -1px;
-        left: 0;
-        height: 2px;
-        background: transparent;
-        content: "";
-      }
-
-      .tab:hover {
-        color: var(--text);
-      }
-
-      .tab[aria-selected="true"] {
-        color: var(--pine-8);
-      }
-
-      .tab[aria-selected="true"]::after {
-        background: var(--pine-6);
-      }
-
-      .tab:focus-visible {
-        outline: none;
-      }
-
-      .example-panel[hidden] {
-        display: none;
-      }
-
-      pre {
-        margin: 0;
-        padding: 20px;
-        overflow: auto;
-        background: #f6f8fa;
-        color: #1f2328;
-        font: 12px/1.7 var(--font-monospace);
-      }
-
-      .token-section {
-        color: #8250df;
-        font-weight: 700;
-      }
-
-      .token-keyword {
-        color: #cf222e;
-        font-weight: 700;
-      }
-
-      .token-key {
-        color: #0550ae;
-      }
-
-      .token-value {
-        color: #0a3069;
-      }
-
-      .token-url {
-        color: #0969da;
-      }
-
-      .token-number {
-        color: #0550ae;
-      }
-
-      .token-punctuation {
-        color: #57606a;
-      }
-
-      .example-note {
-        margin: 0;
-        padding: 10px 20px;
-        border-top: 1px solid var(--gray-2);
-        color: var(--dimmed);
-        font-size: var(--font-xs);
-      }
-
-      .example-note code {
-        color: var(--gray-8);
-      }
-
-      .list-toolbar {
-        display: flex;
-        align-items: flex-end;
-        justify-content: space-between;
-        gap: 12px;
-        padding: 16px 20px;
-        border-bottom: 1px solid var(--gray-3);
-      }
-
-      .search-wrap {
-        position: relative;
-        min-width: 220px;
-        flex: 1 1 320px;
-      }
-
-      .search-icon {
-        position: absolute;
-        top: 50%;
-        left: 11px;
-        width: 15px;
-        height: 15px;
-        color: var(--dimmed);
-        pointer-events: none;
-        transform: translateY(-50%);
-      }
-
-      .search {
-        width: 100%;
-        height: 36px;
-        padding: 0 12px 0 34px;
-        border: 1px solid var(--border);
-        border-radius: var(--radius-sm);
-        outline: none;
-        background: var(--body);
-        color: var(--text);
-        font-size: var(--font-sm);
-      }
-
-      .search::placeholder {
-        color: var(--dimmed);
-      }
-
-      .search:focus {
-        border-color: var(--pine-6);
-      }
-
-      .result-count {
-        min-width: 104px;
-        padding-bottom: 7px;
-        color: var(--dimmed);
-        font-size: var(--font-sm);
-        text-align: right;
-        white-space: nowrap;
-      }
-
-      .table-scroll {
-        max-height: 680px;
-        overflow: auto;
-      }
-
-      table {
-        width: 100%;
-        min-width: 560px;
-        border-collapse: collapse;
-        font-size: var(--font-sm);
-      }
-
-      th,
-      td {
-        padding: 10px 20px;
-        border-bottom: 1px solid var(--gray-2);
-        text-align: left;
-      }
-
-      th {
-        position: sticky;
-        z-index: 1;
-        top: 0;
-        background: var(--body);
-        color: var(--gray-7);
-        font-size: var(--font-xs);
-        font-weight: 600;
-      }
-
-      tbody tr:hover {
-        background: var(--gray-0);
-      }
-
-      tbody tr:last-child td {
-        border-bottom: 0;
-      }
-
-      .rule-name {
-        font: 12px/1.5 var(--font-monospace);
-        font-weight: 600;
-      }
-
-      .rule-link {
-        color: var(--pine-8);
-        font-weight: 600;
-        text-decoration: none;
-      }
-
-      .rule-link:hover {
-        text-decoration: underline;
-        text-underline-offset: 3px;
-      }
-
-      .empty-row {
-        padding: 40px 20px;
-        color: var(--dimmed);
-        text-align: center;
-      }
-
-      footer {
-        padding: 16px;
-        color: var(--dimmed);
-        font-size: var(--font-xs);
-        text-align: center;
-      }
-
-      @media (max-width: 61.99em) {
-        .mobile-header {
-          position: sticky;
-          z-index: 20;
-          top: 0;
-          display: flex;
-          height: 64px;
-          align-items: center;
-          justify-content: space-between;
-          gap: 16px;
-          padding: 0 16px;
-          border-bottom: 1px solid var(--gray-3);
-          background: var(--body);
-        }
-
-        .mobile-page-label {
-          margin-left: auto;
-          color: var(--dimmed);
-          font-size: var(--font-xs);
-          font-weight: 600;
-        }
-
-        .drawer-overlay:not([hidden]) {
-          position: fixed;
-          z-index: 30;
-          inset: 0;
-          display: block;
-          background: rgba(0, 0, 0, 0.36);
-        }
-
-        .mobile-drawer:not([hidden]) {
-          position: fixed;
-          z-index: 40;
-          inset: 0 auto 0 0;
-          display: flex;
-          width: min(320px, 86vw);
-          padding: 16px;
-          background: var(--body);
-        }
-
-        .mobile-drawer-inner {
-          display: flex;
-          width: 100%;
-          min-height: 0;
-          flex-direction: column;
-        }
-
-        .drawer-header {
-          display: flex;
-          align-items: center;
-          justify-content: space-between;
-          gap: 12px;
-        }
-
-        .mobile-drawer-resources {
-          margin-top: auto;
-        }
-
-        .sidebar {
-          display: none;
-        }
-
-        .app-main {
-          margin-left: 0;
-        }
-
-        .content {
-          padding: 24px 32px;
-        }
-      }
-
-      @media (max-width: 47.99em) {
-        .content {
-          padding: 20px 16px;
-        }
-
-        .page-stack {
-          gap: 16px;
-        }
-
-        .header-actions {
-          width: 100%;
-        }
-
-        .header-actions .button {
-          flex: 1;
-        }
-
-        .summary-grid {
-          grid-template-columns: 1fr;
-        }
-
-        .metric + .metric {
-          border-top: 1px solid var(--gray-2);
-          border-left: 0;
-        }
-
-        .list-toolbar {
-          align-items: stretch;
-          flex-direction: column;
-          gap: 6px;
-          padding: 16px;
-        }
-
-        .search-wrap {
-          min-width: 0;
-          flex-basis: auto;
-        }
-
-        .result-count {
-          min-width: 0;
-          padding: 0;
-          text-align: left;
-        }
-
-        th,
-        td {
-          padding-inline: 16px;
-        }
-
-        .mobile-page-label {
-          display: none;
-        }
-      }
-
-      @media (prefers-reduced-motion: reduce) {
-        html {
-          scroll-behavior: auto;
-        }
-      }
-
-      .sidebar,
-      .mobile-header,
-      .drawer-overlay,
-      .mobile-drawer {
-        display: none !important;
-      }
-    </style>
-  </head>
-  <body>
-    <header class="mobile-header">
-      <button id="open-navigation" class="icon-button" type="button" aria-label="Open navigation">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true">
-          <path d="M4 7h16"></path>
-          <path d="M4 12h16"></path>
-          <path d="M4 17h16"></path>
-        </svg>
-      </button>
-      <div class="brand">
-        <span class="brand-mark" aria-hidden="true">DL</span>
-        <div class="brand-copy">
-          <p class="brand-name">Domain List</p>
-          <p class="brand-subtitle">Surge &amp; Clash rules</p>
-        </div>
-      </div>
-      <span class="mobile-page-label">Overview</span>
-    </header>
-
-    <div id="drawer-overlay" class="drawer-overlay" hidden></div>
-    <aside id="mobile-drawer" class="mobile-drawer" aria-label="Mobile navigation" aria-hidden="true" hidden>
-      <div class="mobile-drawer-inner">
-        <div class="drawer-header">
-          <div class="brand">
-            <span class="brand-mark" aria-hidden="true">DL</span>
-            <div class="brand-copy">
-              <p class="brand-name">Domain List</p>
-              <p class="brand-subtitle">Surge &amp; Clash rules</p>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+            name="description"
+            content="Surge and Clash domain rule sets generated from v2fly/domain-list-community."
+        />
+        <link rel="canonical" href="https://domain-list.nosec.me/" />
+        <title>Domain List · Rules for Surge and Clash</title>
+        <style>
+            :root {
+                color-scheme: light;
+                --pine-0: #effdf8;
+                --pine-1: #d9f8ed;
+                --pine-2: #b5f0dc;
+                --pine-5: #35c99d;
+                --pine-6: #19b78a;
+                --pine-7: #0f916e;
+                --pine-8: #0c7359;
+                --gray-0: #f8f9fa;
+                --gray-1: #f1f3f5;
+                --gray-2: #e9ecef;
+                --gray-3: #dee2e6;
+                --gray-4: #ced4da;
+                --gray-6: #868e96;
+                --gray-7: #495057;
+                --gray-8: #343a40;
+                --gray-9: #212529;
+                --body: #ffffff;
+                --text: var(--gray-9);
+                --dimmed: var(--gray-6);
+                --border: var(--gray-4);
+                --radius-sm: 4px;
+                --radius-md: 8px;
+                --font-xs: 11px;
+                --font-sm: 13px;
+                --font-md: 14px;
+                --font-lg: 16px;
+                --font-xl: 18px;
+                --font-monospace:
+                    Monaco, "Cascadia Code", "Cascadia Mono", Consolas,
+                    "Liberation Mono", monospace;
+                --sidebar-width: 224px;
+                font-synthesis: none;
+                text-rendering: optimizeLegibility;
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+
+            html {
+                scroll-behavior: smooth;
+            }
+
+            body {
+                min-width: 320px;
+                min-height: 100vh;
+                margin: 0;
+                background: var(--body);
+                color: var(--text);
+                font-family:
+                    Inter,
+                    ui-sans-serif,
+                    system-ui,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    "Segoe UI",
+                    sans-serif;
+                font-size: var(--font-md);
+                line-height: 1.55;
+            }
+
+            button,
+            input {
+                font: inherit;
+            }
+
+            button,
+            a {
+                -webkit-tap-highlight-color: transparent;
+            }
+
+            a {
+                color: inherit;
+            }
+
+            code {
+                font-family: var(--font-monospace);
+            }
+
+            button:focus-visible,
+            a:focus-visible,
+            input:focus-visible {
+                outline: 2px solid var(--pine-6);
+                outline-offset: 2px;
+            }
+
+            .brand {
+                display: flex;
+                min-width: 0;
+                align-items: center;
+                gap: 12px;
+            }
+
+            .brand-mark {
+                display: grid;
+                width: 36px;
+                height: 36px;
+                flex: 0 0 36px;
+                place-items: center;
+                border: 1px solid var(--pine-2);
+                border-radius: 11px;
+                background: var(--pine-0);
+                color: var(--pine-8);
+                font-size: 13px;
+                font-weight: 800;
+                letter-spacing: -0.04em;
+            }
+
+            .brand-copy {
+                min-width: 0;
+            }
+
+            .brand-name,
+            .brand-subtitle {
+                overflow: hidden;
+                margin: 0;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+
+            .brand-name {
+                font-size: var(--font-md);
+                font-weight: 700;
+            }
+
+            .brand-subtitle {
+                color: var(--dimmed);
+                font-size: var(--font-xs);
+            }
+
+            .mobile-header {
+                display: none;
+            }
+
+            .icon-button {
+                display: inline-grid;
+                width: 32px;
+                height: 32px;
+                flex: 0 0 32px;
+                place-items: center;
+                padding: 0;
+                border: 0;
+                border-radius: var(--radius-sm);
+                background: transparent;
+                color: var(--gray-7);
+                cursor: pointer;
+            }
+
+            .icon-button:hover {
+                background: var(--gray-0);
+            }
+
+            .icon-button svg {
+                width: 18px;
+                height: 18px;
+            }
+
+            .drawer-overlay,
+            .mobile-drawer {
+                display: none;
+            }
+
+            .sidebar {
+                position: fixed;
+                z-index: 10;
+                inset: 0 auto 0 0;
+                display: flex;
+                width: var(--sidebar-width);
+                padding: 16px;
+                border-right: 1px solid var(--gray-3);
+                background: var(--body);
+            }
+
+            .sidebar-inner {
+                display: flex;
+                width: 100%;
+                min-height: 0;
+                flex-direction: column;
+            }
+
+            .sidebar-divider {
+                height: 1px;
+                margin: 20px 0;
+                border: 0;
+                background: var(--gray-3);
+            }
+
+            .nav {
+                display: grid;
+                gap: 4px;
+            }
+
+            .nav-link {
+                display: flex;
+                min-height: 38px;
+                align-items: center;
+                gap: 10px;
+                padding: 8px 12px;
+                border-radius: var(--radius-md);
+                color: #525b57;
+                font-size: var(--font-sm);
+                font-weight: 600;
+                text-decoration: none;
+            }
+
+            .nav-link:hover {
+                color: #39433f;
+                background: #f6f8f7;
+            }
+
+            .nav-link[data-active="true"] {
+                color: #087455;
+                background: #e9faf4;
+            }
+
+            .nav-icon {
+                width: 18px;
+                height: 18px;
+                flex: 0 0 18px;
+            }
+
+            .sidebar-resources {
+                margin-top: auto;
+            }
+
+            .resource-label {
+                margin: 0 0 8px 12px;
+                color: var(--dimmed);
+                font-size: var(--font-xs);
+                font-weight: 600;
+                text-transform: uppercase;
+            }
+
+            .app-main {
+                display: flex;
+                min-height: 100vh;
+                margin-left: 0;
+                flex-direction: column;
+            }
+
+            .content {
+                width: 100%;
+                max-width: 1438px;
+                margin: 0 auto;
+                padding: 28px 32px;
+                flex: 1;
+            }
+
+            .page-stack {
+                display: grid;
+                gap: 20px;
+            }
+
+            .overview-stack {
+                display: grid;
+                gap: 20px;
+                scroll-margin-top: 24px;
+            }
+
+            .page-header {
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between;
+                gap: 16px;
+                flex-wrap: wrap;
+            }
+
+            h1,
+            h2,
+            p {
+                margin-top: 0;
+            }
+
+            h1 {
+                margin-bottom: 2px;
+                font-size: 24px;
+                font-weight: 700;
+                letter-spacing: -0.02em;
+                line-height: 1.3;
+            }
+
+            h2 {
+                margin-bottom: 2px;
+                font-size: var(--font-lg);
+                font-weight: 700;
+                line-height: 1.35;
+            }
+
+            .description,
+            .section-description {
+                margin-bottom: 0;
+                color: var(--dimmed);
+                font-size: var(--font-sm);
+            }
+
+            .description {
+                max-width: 670px;
+            }
+
+            .header-actions {
+                display: flex;
+                gap: 8px;
+            }
+
+            .button {
+                display: inline-flex;
+                min-height: 32px;
+                align-items: center;
+                justify-content: center;
+                gap: 7px;
+                padding: 6px 12px;
+                border: 1px solid var(--border);
+                border-radius: var(--radius-sm);
+                background: var(--body);
+                color: var(--gray-8);
+                cursor: pointer;
+                font-size: var(--font-sm);
+                font-weight: 600;
+                line-height: 1;
+                text-decoration: none;
+            }
+
+            .button:hover:not(:disabled) {
+                background: var(--gray-0);
+            }
+
+            .button-primary {
+                border-color: var(--pine-6);
+                background: var(--pine-6);
+                color: #ffffff;
+            }
+
+            .button-primary:hover:not(:disabled) {
+                border-color: var(--pine-7);
+                background: var(--pine-7);
+            }
+
+            .button:disabled {
+                cursor: not-allowed;
+                opacity: 0.45;
+            }
+
+            .summary-card,
+            .card,
+            .list-card {
+                overflow: hidden;
+                border: 1px solid var(--gray-2);
+                border-radius: var(--radius-md);
+                background: var(--body);
+                box-shadow: 0 1px 2px rgba(18, 52, 42, 0.025);
+            }
+
+            .summary-grid {
+                display: grid;
+                grid-template-columns: repeat(3, minmax(0, 1fr));
+            }
+
+            .metric {
+                min-width: 0;
+                padding: 16px 20px;
+            }
+
+            .metric + .metric {
+                border-left: 1px solid var(--gray-2);
+            }
+
+            .metric-label {
+                margin-bottom: 4px;
+                color: var(--dimmed);
+                font-size: var(--font-xs);
+                font-weight: 600;
+                text-transform: uppercase;
+            }
+
+            .metric-value {
+                overflow: hidden;
+                margin: 0;
+                font-size: var(--font-lg);
+                font-weight: 700;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+
+            .section-stack {
+                display: grid;
+                gap: 12px;
+                scroll-margin-top: 24px;
+            }
+
+            .section-header {
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between;
+                gap: 12px;
+                flex-wrap: wrap;
+            }
+
+            .example-toolbar {
+                display: flex;
+                min-height: 48px;
+                align-items: center;
+                justify-content: space-between;
+                gap: 16px;
+                padding: 0 16px;
+                border-bottom: 1px solid var(--gray-3);
+            }
+
+            .tabs {
+                display: flex;
+                align-self: stretch;
+                gap: 18px;
+            }
+
+            .tab {
+                position: relative;
+                padding: 0 2px;
+                border: 0;
+                background: transparent;
+                color: var(--dimmed);
+                cursor: pointer;
+                font-size: var(--font-sm);
+                font-weight: 600;
+            }
+
+            .tab::after {
+                position: absolute;
+                right: 0;
+                bottom: -1px;
+                left: 0;
+                height: 2px;
+                background: transparent;
+                content: "";
+            }
+
+            .tab:hover {
+                color: var(--text);
+            }
+
+            .tab[aria-selected="true"] {
+                color: var(--pine-8);
+            }
+
+            .tab[aria-selected="true"]::after {
+                background: var(--pine-6);
+            }
+
+            .tab:focus-visible {
+                outline: none;
+            }
+
+            .example-panel[hidden] {
+                display: none;
+            }
+
+            pre {
+                margin: 0;
+                padding: 20px;
+                overflow: auto;
+                background: #f6f8fa;
+                color: #1f2328;
+                font: 12px/1.7 var(--font-monospace);
+            }
+
+            .token-section {
+                color: #8250df;
+                font-weight: 700;
+            }
+
+            .token-keyword {
+                color: #cf222e;
+                font-weight: 700;
+            }
+
+            .token-key {
+                color: #0550ae;
+            }
+
+            .token-value {
+                color: #0a3069;
+            }
+
+            .token-url {
+                color: #0969da;
+            }
+
+            .token-number {
+                color: #0550ae;
+            }
+
+            .token-punctuation {
+                color: #57606a;
+            }
+
+            .example-note {
+                margin: 0;
+                padding: 10px 20px;
+                border-top: 1px solid var(--gray-2);
+                color: var(--dimmed);
+                font-size: var(--font-xs);
+            }
+
+            .example-note code {
+                color: var(--gray-8);
+            }
+
+            .list-toolbar {
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between;
+                gap: 12px;
+                padding: 16px 20px;
+                border-bottom: 1px solid var(--gray-3);
+            }
+
+            .search-wrap {
+                position: relative;
+                min-width: 220px;
+                flex: 1 1 320px;
+            }
+
+            .search-icon {
+                position: absolute;
+                top: 50%;
+                left: 11px;
+                width: 15px;
+                height: 15px;
+                color: var(--dimmed);
+                pointer-events: none;
+                transform: translateY(-50%);
+            }
+
+            .search {
+                width: 100%;
+                height: 36px;
+                padding: 0 12px 0 34px;
+                border: 1px solid var(--border);
+                border-radius: var(--radius-sm);
+                outline: none;
+                background: var(--body);
+                color: var(--text);
+                font-size: var(--font-sm);
+            }
+
+            .search::placeholder {
+                color: var(--dimmed);
+            }
+
+            .search:focus {
+                border-color: var(--pine-6);
+            }
+
+            .result-count {
+                min-width: 104px;
+                padding-bottom: 7px;
+                color: var(--dimmed);
+                font-size: var(--font-sm);
+                text-align: right;
+                white-space: nowrap;
+            }
+
+            .table-scroll {
+                max-height: 680px;
+                overflow: auto;
+            }
+
+            table {
+                width: 100%;
+                min-width: 560px;
+                border-collapse: collapse;
+                font-size: var(--font-sm);
+            }
+
+            th,
+            td {
+                padding: 10px 20px;
+                border-bottom: 1px solid var(--gray-2);
+                text-align: left;
+            }
+
+            th {
+                position: sticky;
+                z-index: 1;
+                top: 0;
+                background: var(--body);
+                color: var(--gray-7);
+                font-size: var(--font-xs);
+                font-weight: 600;
+            }
+
+            tbody tr:hover {
+                background: var(--gray-0);
+            }
+
+            tbody tr:last-child td {
+                border-bottom: 0;
+            }
+
+            .rule-name {
+                font: 12px/1.5 var(--font-monospace);
+                font-weight: 600;
+            }
+
+            .rule-link {
+                color: var(--pine-8);
+                font-weight: 600;
+                text-decoration: none;
+            }
+
+            .rule-link:hover {
+                text-decoration: underline;
+                text-underline-offset: 3px;
+            }
+
+            .empty-row {
+                padding: 40px 20px;
+                color: var(--dimmed);
+                text-align: center;
+            }
+
+            footer {
+                padding: 16px;
+                color: var(--dimmed);
+                font-size: var(--font-xs);
+                text-align: center;
+            }
+
+            @media (max-width: 61.99em) {
+                .mobile-header {
+                    position: sticky;
+                    z-index: 20;
+                    top: 0;
+                    display: flex;
+                    height: 64px;
+                    align-items: center;
+                    justify-content: space-between;
+                    gap: 16px;
+                    padding: 0 16px;
+                    border-bottom: 1px solid var(--gray-3);
+                    background: var(--body);
+                }
+
+                .mobile-page-label {
+                    margin-left: auto;
+                    color: var(--dimmed);
+                    font-size: var(--font-xs);
+                    font-weight: 600;
+                }
+
+                .drawer-overlay:not([hidden]) {
+                    position: fixed;
+                    z-index: 30;
+                    inset: 0;
+                    display: block;
+                    background: rgba(0, 0, 0, 0.36);
+                }
+
+                .mobile-drawer:not([hidden]) {
+                    position: fixed;
+                    z-index: 40;
+                    inset: 0 auto 0 0;
+                    display: flex;
+                    width: min(320px, 86vw);
+                    padding: 16px;
+                    background: var(--body);
+                }
+
+                .mobile-drawer-inner {
+                    display: flex;
+                    width: 100%;
+                    min-height: 0;
+                    flex-direction: column;
+                }
+
+                .drawer-header {
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    gap: 12px;
+                }
+
+                .mobile-drawer-resources {
+                    margin-top: auto;
+                }
+
+                .sidebar {
+                    display: none;
+                }
+
+                .app-main {
+                    margin-left: 0;
+                }
+
+                .content {
+                    padding: 24px 32px;
+                }
+            }
+
+            @media (max-width: 47.99em) {
+                .content {
+                    padding: 20px 16px;
+                }
+
+                .page-stack {
+                    gap: 16px;
+                }
+
+                .header-actions {
+                    width: 100%;
+                }
+
+                .header-actions .button {
+                    flex: 1;
+                }
+
+                .summary-grid {
+                    grid-template-columns: 1fr;
+                }
+
+                .metric + .metric {
+                    border-top: 1px solid var(--gray-2);
+                    border-left: 0;
+                }
+
+                .list-toolbar {
+                    align-items: stretch;
+                    flex-direction: column;
+                    gap: 6px;
+                    padding: 16px;
+                }
+
+                .search-wrap {
+                    min-width: 0;
+                    flex-basis: auto;
+                }
+
+                .result-count {
+                    min-width: 0;
+                    padding: 0;
+                    text-align: left;
+                }
+
+                th,
+                td {
+                    padding-inline: 16px;
+                }
+
+                .mobile-page-label {
+                    display: none;
+                }
+            }
+
+            @media (prefers-reduced-motion: reduce) {
+                html {
+                    scroll-behavior: auto;
+                }
+            }
+
+            .sidebar,
+            .mobile-header,
+            .drawer-overlay,
+            .mobile-drawer {
+                display: none !important;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="mobile-header">
+            <button
+                id="open-navigation"
+                class="icon-button"
+                type="button"
+                aria-label="Open navigation"
+            >
+                <svg
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.8"
+                    stroke-linecap="round"
+                    aria-hidden="true"
+                >
+                    <path d="M4 7h16"></path>
+                    <path d="M4 12h16"></path>
+                    <path d="M4 17h16"></path>
+                </svg>
+            </button>
+            <div class="brand">
+                <span class="brand-mark" aria-hidden="true">DL</span>
+                <div class="brand-copy">
+                    <p class="brand-name">Domain List</p>
+                    <p class="brand-subtitle">Surge &amp; Clash rules</p>
+                </div>
             </div>
-          </div>
-          <button id="close-navigation" class="icon-button" type="button" aria-label="Close navigation">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true">
-              <path d="m6 6 12 12"></path>
-              <path d="m18 6-12 12"></path>
-            </svg>
-          </button>
-        </div>
+            <span class="mobile-page-label">Overview</span>
+        </header>
 
-        <hr class="sidebar-divider">
-
-        <nav class="nav">
-          <a class="nav-link mobile-nav-link" href="#overview">
-            <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
-              <rect x="4" y="4" width="6" height="6" rx="1"></rect>
-              <rect x="14" y="4" width="6" height="6" rx="1"></rect>
-              <rect x="4" y="14" width="6" height="6" rx="1"></rect>
-              <rect x="14" y="14" width="6" height="6" rx="1"></rect>
-            </svg>
-            Overview
-          </a>
-          <a class="nav-link mobile-nav-link" href="#usage">
-            <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-              <path d="m8 9-3 3 3 3"></path>
-              <path d="m16 9 3 3-3 3"></path>
-              <path d="m14 5-4 14"></path>
-            </svg>
-            Usage examples
-          </a>
-          <a class="nav-link mobile-nav-link" href="#rules">
-            <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true">
-              <path d="M8 6h11"></path>
-              <path d="M8 12h11"></path>
-              <path d="M8 18h11"></path>
-              <path d="M4 6h.01"></path>
-              <path d="M4 12h.01"></path>
-              <path d="M4 18h.01"></path>
-            </svg>
-            Available rules
-          </a>
-        </nav>
-
-        <div class="mobile-drawer-resources">
-          <hr class="sidebar-divider">
-          <p class="resource-label">Resources</p>
-          <nav class="nav">
-            <a class="nav-link" href="/manifest.json">Manifest</a>
-            <a class="nav-link" href="https://github.com/okning/domain-list">GitHub</a>
-          </nav>
-        </div>
-      </div>
-    </aside>
-
-    <aside class="sidebar" aria-label="Primary navigation">
-      <div class="sidebar-inner">
-        <div class="brand">
-          <span class="brand-mark" aria-hidden="true">DL</span>
-          <div class="brand-copy">
-            <p class="brand-name">Domain List</p>
-            <p class="brand-subtitle">Surge &amp; Clash rules</p>
-          </div>
-        </div>
-
-        <hr class="sidebar-divider">
-
-        <nav class="nav">
-          <a class="nav-link" href="#overview" data-section="overview" data-active="true">
-            <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
-              <rect x="4" y="4" width="6" height="6" rx="1"></rect>
-              <rect x="14" y="4" width="6" height="6" rx="1"></rect>
-              <rect x="4" y="14" width="6" height="6" rx="1"></rect>
-              <rect x="14" y="14" width="6" height="6" rx="1"></rect>
-            </svg>
-            Overview
-          </a>
-          <a class="nav-link" href="#usage" data-section="usage">
-            <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-              <path d="m8 9-3 3 3 3"></path>
-              <path d="m16 9 3 3-3 3"></path>
-              <path d="m14 5-4 14"></path>
-            </svg>
-            Usage examples
-          </a>
-          <a class="nav-link" href="#rules" data-section="rules">
-            <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true">
-              <path d="M8 6h11"></path>
-              <path d="M8 12h11"></path>
-              <path d="M8 18h11"></path>
-              <path d="M4 6h.01"></path>
-              <path d="M4 12h.01"></path>
-              <path d="M4 18h.01"></path>
-            </svg>
-            Available rules
-          </a>
-        </nav>
-
-        <div class="sidebar-resources">
-          <hr class="sidebar-divider">
-          <p class="resource-label">Resources</p>
-          <nav class="nav">
-            <a class="nav-link" href="/manifest.json">
-              <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <path d="M6 3h9l3 3v15H6z"></path>
-                <path d="M14 3v4h4"></path>
-              </svg>
-              Manifest
-            </a>
-            <a class="nav-link" href="https://github.com/okning/domain-list">
-              <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3.3-.4 6.8-1.6 6.8-7A5.4 5.4 0 0 0 19.4 4 5 5 0 0 0 19.3.5S18.2.1 15 1.8a13.4 13.4 0 0 0-7 0C4.8.1 3.7.5 3.7.5A5 5 0 0 0 3.6 4a5.4 5.4 0 0 0-1.4 3.5c0 5.4 3.5 6.6 6.8 7A4.8 4.8 0 0 0 8 18v4"></path>
-              </svg>
-              GitHub
-            </a>
-          </nav>
-        </div>
-      </div>
-    </aside>
-
-    <div class="app-main">
-      <main class="content">
-        <div class="page-stack">
-          <div id="overview" class="overview-stack">
-            <header class="page-header">
-              <div>
-                <h1>Domain List</h1>
-                <p class="description">
-                  Domain rule sets for Surge and Clash, generated from v2fly/domain-list-community.
-                </p>
-              </div>
-              <div class="header-actions">
-                <a class="button" href="/manifest.json">Manifest</a>
-                <a class="button button-primary" href="https://github.com/okning/domain-list">GitHub</a>
-              </div>
-            </header>
-
-            <section class="summary-card" aria-label="Rule set summary">
-              <div class="summary-grid">
-                <div class="metric">
-                  <div class="metric-label">Rules</div>
-                  <p id="total-meta" class="metric-value">Loading…</p>
+        <div id="drawer-overlay" class="drawer-overlay" hidden></div>
+        <aside
+            id="mobile-drawer"
+            class="mobile-drawer"
+            aria-label="Mobile navigation"
+            aria-hidden="true"
+            hidden
+        >
+            <div class="mobile-drawer-inner">
+                <div class="drawer-header">
+                    <div class="brand">
+                        <span class="brand-mark" aria-hidden="true">DL</span>
+                        <div class="brand-copy">
+                            <p class="brand-name">Domain List</p>
+                            <p class="brand-subtitle">
+                                Surge &amp; Clash rules
+                            </p>
+                        </div>
+                    </div>
+                    <button
+                        id="close-navigation"
+                        class="icon-button"
+                        type="button"
+                        aria-label="Close navigation"
+                    >
+                        <svg
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.8"
+                            stroke-linecap="round"
+                            aria-hidden="true"
+                        >
+                            <path d="m6 6 12 12"></path>
+                            <path d="m18 6-12 12"></path>
+                        </svg>
+                    </button>
                 </div>
-                <div class="metric">
-                  <div class="metric-label">Last generated</div>
-                  <p id="updated-meta" class="metric-value">—</p>
+
+                <hr class="sidebar-divider" />
+
+                <nav class="nav">
+                    <a class="nav-link mobile-nav-link" href="#overview">
+                        <svg
+                            class="nav-icon"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.7"
+                            aria-hidden="true"
+                        >
+                            <rect
+                                x="4"
+                                y="4"
+                                width="6"
+                                height="6"
+                                rx="1"
+                            ></rect>
+                            <rect
+                                x="14"
+                                y="4"
+                                width="6"
+                                height="6"
+                                rx="1"
+                            ></rect>
+                            <rect
+                                x="4"
+                                y="14"
+                                width="6"
+                                height="6"
+                                rx="1"
+                            ></rect>
+                            <rect
+                                x="14"
+                                y="14"
+                                width="6"
+                                height="6"
+                                rx="1"
+                            ></rect>
+                        </svg>
+                        Overview
+                    </a>
+                    <a class="nav-link mobile-nav-link" href="#usage">
+                        <svg
+                            class="nav-icon"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.7"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            aria-hidden="true"
+                        >
+                            <path d="m8 9-3 3 3 3"></path>
+                            <path d="m16 9 3 3-3 3"></path>
+                            <path d="m14 5-4 14"></path>
+                        </svg>
+                        Usage examples
+                    </a>
+                    <a class="nav-link mobile-nav-link" href="#rules">
+                        <svg
+                            class="nav-icon"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.7"
+                            stroke-linecap="round"
+                            aria-hidden="true"
+                        >
+                            <path d="M8 6h11"></path>
+                            <path d="M8 12h11"></path>
+                            <path d="M8 18h11"></path>
+                            <path d="M4 6h.01"></path>
+                            <path d="M4 12h.01"></path>
+                            <path d="M4 18h.01"></path>
+                        </svg>
+                        Available rules
+                    </a>
+                </nav>
+
+                <div class="mobile-drawer-resources">
+                    <hr class="sidebar-divider" />
+                    <p class="resource-label">Resources</p>
+                    <nav class="nav">
+                        <a class="nav-link" href="/manifest.json">Manifest</a>
+                        <a
+                            class="nav-link"
+                            href="https://github.com/okning/domain-list"
+                            >GitHub</a
+                        >
+                    </nav>
                 </div>
-                <div class="metric">
-                  <div class="metric-label">Formats</div>
-                  <p class="metric-value">Surge · Clash</p>
+            </div>
+        </aside>
+
+        <aside class="sidebar" aria-label="Primary navigation">
+            <div class="sidebar-inner">
+                <div class="brand">
+                    <span class="brand-mark" aria-hidden="true">DL</span>
+                    <div class="brand-copy">
+                        <p class="brand-name">Domain List</p>
+                        <p class="brand-subtitle">Surge &amp; Clash rules</p>
+                    </div>
                 </div>
-              </div>
-            </section>
-          </div>
 
-          <section id="usage" class="section-stack" aria-labelledby="usage-title">
-            <header class="section-header">
-              <div>
-                <h2 id="usage-title">Usage examples</h2>
-                <p class="section-description">
-                  Examples use the <code>github</code> rule set and the <code>PROXY</code> policy.
-                </p>
-              </div>
-            </header>
+                <hr class="sidebar-divider" />
 
-            <div class="card">
-              <div class="example-toolbar">
-                <div class="tabs" role="tablist" aria-label="Client format">
-                  <button
-                    id="surge-tab"
-                    class="tab"
-                    type="button"
-                    role="tab"
-                    aria-selected="true"
-                    aria-controls="surge-panel"
-                    data-example-tab="surge"
-                  >
-                    Surge
-                  </button>
-                  <button
-                    id="clash-tab"
-                    class="tab"
-                    type="button"
-                    role="tab"
-                    aria-selected="false"
-                    aria-controls="clash-panel"
-                    data-example-tab="clash"
-                  >
-                    Clash
-                  </button>
+                <nav class="nav">
+                    <a
+                        class="nav-link"
+                        href="#overview"
+                        data-section="overview"
+                        data-active="true"
+                    >
+                        <svg
+                            class="nav-icon"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.7"
+                            aria-hidden="true"
+                        >
+                            <rect
+                                x="4"
+                                y="4"
+                                width="6"
+                                height="6"
+                                rx="1"
+                            ></rect>
+                            <rect
+                                x="14"
+                                y="4"
+                                width="6"
+                                height="6"
+                                rx="1"
+                            ></rect>
+                            <rect
+                                x="4"
+                                y="14"
+                                width="6"
+                                height="6"
+                                rx="1"
+                            ></rect>
+                            <rect
+                                x="14"
+                                y="14"
+                                width="6"
+                                height="6"
+                                rx="1"
+                            ></rect>
+                        </svg>
+                        Overview
+                    </a>
+                    <a class="nav-link" href="#usage" data-section="usage">
+                        <svg
+                            class="nav-icon"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.7"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            aria-hidden="true"
+                        >
+                            <path d="m8 9-3 3 3 3"></path>
+                            <path d="m16 9 3 3-3 3"></path>
+                            <path d="m14 5-4 14"></path>
+                        </svg>
+                        Usage examples
+                    </a>
+                    <a class="nav-link" href="#rules" data-section="rules">
+                        <svg
+                            class="nav-icon"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.7"
+                            stroke-linecap="round"
+                            aria-hidden="true"
+                        >
+                            <path d="M8 6h11"></path>
+                            <path d="M8 12h11"></path>
+                            <path d="M8 18h11"></path>
+                            <path d="M4 6h.01"></path>
+                            <path d="M4 12h.01"></path>
+                            <path d="M4 18h.01"></path>
+                        </svg>
+                        Available rules
+                    </a>
+                </nav>
+
+                <div class="sidebar-resources">
+                    <hr class="sidebar-divider" />
+                    <p class="resource-label">Resources</p>
+                    <nav class="nav">
+                        <a class="nav-link" href="/manifest.json">
+                            <svg
+                                class="nav-icon"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="1.7"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                                aria-hidden="true"
+                            >
+                                <path d="M6 3h9l3 3v15H6z"></path>
+                                <path d="M14 3v4h4"></path>
+                            </svg>
+                            Manifest
+                        </a>
+                        <a
+                            class="nav-link"
+                            href="https://github.com/okning/domain-list"
+                        >
+                            <svg
+                                class="nav-icon"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="1.7"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                                aria-hidden="true"
+                            >
+                                <path
+                                    d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3.3-.4 6.8-1.6 6.8-7A5.4 5.4 0 0 0 19.4 4 5 5 0 0 0 19.3.5S18.2.1 15 1.8a13.4 13.4 0 0 0-7 0C4.8.1 3.7.5 3.7.5A5 5 0 0 0 3.6 4a5.4 5.4 0 0 0-1.4 3.5c0 5.4 3.5 6.6 6.8 7A4.8 4.8 0 0 0 8 18v4"
+                                ></path>
+                            </svg>
+                            GitHub
+                        </a>
+                    </nav>
                 </div>
-                <button id="copy-example" class="button" type="button">Copy</button>
-              </div>
+            </div>
+        </aside>
 
-              <div id="surge-panel" class="example-panel" role="tabpanel" aria-labelledby="surge-tab">
-                <pre><code id="surge-code"><span class="token-section">[Rule]</span>
-<span class="token-keyword">RULE-SET</span><span class="token-punctuation">,</span><span class="token-url">https://domain-list.nosec.me/surge/github.txt</span><span class="token-punctuation">,</span><span class="token-value">PROXY</span><span class="token-punctuation">,</span><span class="token-value">"update-interval=86400"</span></code></pre>
-                <p class="example-note">
-                  Add this line to the <code>[Rule]</code> section of your Surge configuration.
-                </p>
-              </div>
+        <div class="app-main">
+            <main class="content">
+                <div class="page-stack">
+                    <div id="overview" class="overview-stack">
+                        <header class="page-header">
+                            <div>
+                                <h1>Domain List</h1>
+                                <p class="description">
+                                    Domain rule sets for Surge and Clash,
+                                    generated from v2fly/domain-list-community.
+                                </p>
+                            </div>
+                            <div class="header-actions">
+                                <a class="button" href="/manifest.json"
+                                    >Manifest</a
+                                >
+                                <a
+                                    class="button button-primary"
+                                    href="https://github.com/okning/domain-list"
+                                    >GitHub</a
+                                >
+                            </div>
+                        </header>
 
-              <div
-                id="clash-panel"
-                class="example-panel"
-                role="tabpanel"
-                aria-labelledby="clash-tab"
-                hidden
-              >
-                <pre><code id="clash-code"><span class="token-key">rule-providers</span><span class="token-punctuation">:</span>
+                        <section
+                            class="summary-card"
+                            aria-label="Rule set summary"
+                        >
+                            <div class="summary-grid">
+                                <div class="metric">
+                                    <div class="metric-label">Rules</div>
+                                    <p id="total-meta" class="metric-value">
+                                        Loading…
+                                    </p>
+                                </div>
+                                <div class="metric">
+                                    <div class="metric-label">
+                                        Last generated
+                                    </div>
+                                    <p id="updated-meta" class="metric-value">
+                                        —
+                                    </p>
+                                </div>
+                                <div class="metric">
+                                    <div class="metric-label">Formats</div>
+                                    <p class="metric-value">Surge · Clash</p>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+
+                    <section
+                        id="usage"
+                        class="section-stack"
+                        aria-labelledby="usage-title"
+                    >
+                        <header class="section-header">
+                            <div>
+                                <h2 id="usage-title">Usage examples</h2>
+                                <p class="section-description">
+                                    Examples use the <code>github</code> rule
+                                    set and the <code>Proxy</code> policy.
+                                </p>
+                            </div>
+                        </header>
+
+                        <div class="card">
+                            <div class="example-toolbar">
+                                <div
+                                    class="tabs"
+                                    role="tablist"
+                                    aria-label="Client format"
+                                >
+                                    <button
+                                        id="surge-tab"
+                                        class="tab"
+                                        type="button"
+                                        role="tab"
+                                        aria-selected="true"
+                                        aria-controls="surge-panel"
+                                        data-example-tab="surge"
+                                    >
+                                        Surge
+                                    </button>
+                                    <button
+                                        id="clash-tab"
+                                        class="tab"
+                                        type="button"
+                                        role="tab"
+                                        aria-selected="false"
+                                        aria-controls="clash-panel"
+                                        data-example-tab="clash"
+                                    >
+                                        Clash
+                                    </button>
+                                </div>
+                                <button
+                                    id="copy-example"
+                                    class="button"
+                                    type="button"
+                                >
+                                    Copy
+                                </button>
+                            </div>
+
+                            <div
+                                id="surge-panel"
+                                class="example-panel"
+                                role="tabpanel"
+                                aria-labelledby="surge-tab"
+                            >
+                                <pre><code id="surge-code"><span class="token-section">[Rule]</span>
+<span class="token-keyword">RULE-SET</span><span class="token-punctuation">,</span><span class="token-url">https://domain-list.nosec.me/surge/github.txt</span><span class="token-punctuation">,</span><span class="token-value">Proxy</span><span class="token-punctuation">,</span><span class="token-value">"update-interval=86400"</span></code></pre>
+                                <p class="example-note">
+                                    Add this line to the
+                                    <code>[Rule]</code> section of your Surge
+                                    configuration.
+                                </p>
+                            </div>
+
+                            <div
+                                id="clash-panel"
+                                class="example-panel"
+                                role="tabpanel"
+                                aria-labelledby="clash-tab"
+                                hidden
+                            >
+                                <pre><code id="clash-code"><span class="token-key">rule-providers</span><span class="token-punctuation">:</span>
   <span class="token-key">github</span><span class="token-punctuation">:</span>
     <span class="token-key">type</span><span class="token-punctuation">:</span> <span class="token-value">http</span>
     <span class="token-key">behavior</span><span class="token-punctuation">:</span> <span class="token-value">classical</span>
@@ -1017,249 +1221,306 @@
     <span class="token-key">interval</span><span class="token-punctuation">:</span> <span class="token-number">86400</span>
 
 <span class="token-key">rules</span><span class="token-punctuation">:</span>
-  <span class="token-punctuation">-</span> <span class="token-keyword">RULE-SET</span><span class="token-punctuation">,</span><span class="token-value">github</span><span class="token-punctuation">,</span><span class="token-value">PROXY</span></code></pre>
-                <p class="example-note">
-                  For Clash/Mihomo cores that support <code>rule-providers</code>.
-                </p>
-              </div>
-            </div>
-          </section>
+  <span class="token-punctuation">-</span> <span class="token-keyword">RULE-SET</span><span class="token-punctuation">,</span><span class="token-value">github</span><span class="token-punctuation">,</span><span class="token-value">Proxy</span></code></pre>
+                                <p class="example-note">
+                                    For Clash/Mihomo cores that support
+                                    <code>rule-providers</code>.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
 
-          <section id="rules" class="section-stack" aria-labelledby="rules-title">
-            <header class="section-header">
-              <div>
-                <h2 id="rules-title">Available rules</h2>
-                <p class="section-description">Open a rule file in the format required by your client.</p>
-              </div>
-            </header>
+                    <section
+                        id="rules"
+                        class="section-stack"
+                        aria-labelledby="rules-title"
+                    >
+                        <header class="section-header">
+                            <div>
+                                <h2 id="rules-title">Available rules</h2>
+                                <p class="section-description">
+                                    Open a rule file in the format required by
+                                    your client.
+                                </p>
+                            </div>
+                        </header>
 
-            <div class="list-card">
-              <div class="list-toolbar">
-                <div class="search-wrap">
-                  <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
-                    <circle cx="11" cy="11" r="7"></circle>
-                    <path d="m20 20-4-4"></path>
-                  </svg>
-                  <input
-                    id="rule-search"
-                    class="search"
-                    type="search"
-                    placeholder="Search rules"
-                    aria-label="Search rules"
-                    autocomplete="off"
-                  >
+                        <div class="list-card">
+                            <div class="list-toolbar">
+                                <div class="search-wrap">
+                                    <svg
+                                        class="search-icon"
+                                        viewBox="0 0 24 24"
+                                        fill="none"
+                                        stroke="currentColor"
+                                        stroke-width="1.8"
+                                        aria-hidden="true"
+                                    >
+                                        <circle cx="11" cy="11" r="7"></circle>
+                                        <path d="m20 20-4-4"></path>
+                                    </svg>
+                                    <input
+                                        id="rule-search"
+                                        class="search"
+                                        type="search"
+                                        placeholder="Search rules"
+                                        aria-label="Search rules"
+                                        autocomplete="off"
+                                    />
+                                </div>
+                                <span
+                                    id="result-count"
+                                    class="result-count"
+                                    aria-live="polite"
+                                    >Loading…</span
+                                >
+                            </div>
+
+                            <div class="table-scroll">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">Name</th>
+                                            <th scope="col">Surge</th>
+                                            <th scope="col">Clash</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="rules-list">
+                                        <tr>
+                                            <td class="empty-row" colspan="3">
+                                                Loading available rules…
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </section>
                 </div>
-                <span id="result-count" class="result-count" aria-live="polite">Loading…</span>
-              </div>
+            </main>
 
-              <div class="table-scroll">
-                <table>
-                  <thead>
-                    <tr>
-                      <th scope="col">Name</th>
-                      <th scope="col">Surge</th>
-                      <th scope="col">Clash</th>
-                    </tr>
-                  </thead>
-                  <tbody id="rules-list">
-                    <tr><td class="empty-row" colspan="3">Loading available rules…</td></tr>
-                  </tbody>
-                </table>
-              </div>
-
-            </div>
-          </section>
+            <footer>
+                &copy; 2025–<span id="current-year"></span> nosec.me
+            </footer>
         </div>
-      </main>
 
-      <footer>&copy; 2025–<span id="current-year"></span> nosec.me</footer>
-    </div>
+        <script>
+            const state = {
+                rules: [],
+                filteredRules: [],
+                baseUrl: window.location.origin,
+                activeExample: "surge",
+            };
 
-    <script>
-      const state = {
-        rules: [],
-        filteredRules: [],
-        baseUrl: window.location.origin,
-        activeExample: "surge",
-      };
+            const listElement = document.querySelector("#rules-list");
+            const searchElement = document.querySelector("#rule-search");
+            const resultCountElement = document.querySelector("#result-count");
+            const totalMetaElement = document.querySelector("#total-meta");
+            const updatedMetaElement = document.querySelector("#updated-meta");
+            const copyExampleButton = document.querySelector("#copy-example");
+            const mobileDrawer = document.querySelector("#mobile-drawer");
+            const drawerOverlay = document.querySelector("#drawer-overlay");
 
-      const listElement = document.querySelector("#rules-list");
-      const searchElement = document.querySelector("#rule-search");
-      const resultCountElement = document.querySelector("#result-count");
-      const totalMetaElement = document.querySelector("#total-meta");
-      const updatedMetaElement = document.querySelector("#updated-meta");
-      const copyExampleButton = document.querySelector("#copy-example");
-      const mobileDrawer = document.querySelector("#mobile-drawer");
-      const drawerOverlay = document.querySelector("#drawer-overlay");
+            function ruleUrl(path) {
+                return new URL(path, `${state.baseUrl}/`).toString();
+            }
 
-      function ruleUrl(path) {
-        return new URL(path, `${state.baseUrl}/`).toString();
-      }
+            function createRuleLink(label, path) {
+                const link = document.createElement("a");
+                link.className = "rule-link";
+                link.href = ruleUrl(path);
+                link.textContent = label;
+                link.target = "_blank";
+                link.rel = "noopener";
+                link.title = `Open ${label} rule file`;
+                return link;
+            }
 
-      function createRuleLink(label, path) {
-        const link = document.createElement("a");
-        link.className = "rule-link";
-        link.href = ruleUrl(path);
-        link.textContent = label;
-        link.target = "_blank";
-        link.rel = "noopener";
-        link.title = `Open ${label} rule file`;
-        return link;
-      }
+            function renderRules() {
+                const fragment = document.createDocumentFragment();
 
-      function renderRules() {
-        const fragment = document.createDocumentFragment();
+                listElement.replaceChildren();
 
-        listElement.replaceChildren();
+                if (state.filteredRules.length === 0) {
+                    const row = document.createElement("tr");
+                    const cell = document.createElement("td");
+                    cell.className = "empty-row";
+                    cell.colSpan = 3;
+                    cell.textContent = `No rules match “${searchElement.value.trim()}”`;
+                    row.append(cell);
+                    fragment.append(row);
+                } else {
+                    for (const rule of state.filteredRules) {
+                        const row = document.createElement("tr");
+                        const nameCell = document.createElement("td");
+                        const surgeCell = document.createElement("td");
+                        const clashCell = document.createElement("td");
+                        const name = document.createElement("span");
 
-        if (state.filteredRules.length === 0) {
-          const row = document.createElement("tr");
-          const cell = document.createElement("td");
-          cell.className = "empty-row";
-          cell.colSpan = 3;
-          cell.textContent = `No rules match “${searchElement.value.trim()}”`;
-          row.append(cell);
-          fragment.append(row);
-        } else {
-          for (const rule of state.filteredRules) {
-            const row = document.createElement("tr");
-            const nameCell = document.createElement("td");
-            const surgeCell = document.createElement("td");
-            const clashCell = document.createElement("td");
-            const name = document.createElement("span");
+                        name.className = "rule-name";
+                        name.textContent = rule.name;
+                        nameCell.append(name);
+                        surgeCell.append(createRuleLink("Open", rule.surge));
+                        clashCell.append(createRuleLink("Open", rule.clash));
+                        row.append(nameCell, surgeCell, clashCell);
+                        fragment.append(row);
+                    }
+                }
 
-            name.className = "rule-name";
-            name.textContent = rule.name;
-            nameCell.append(name);
-            surgeCell.append(createRuleLink("Open", rule.surge));
-            clashCell.append(createRuleLink("Open", rule.clash));
-            row.append(nameCell, surgeCell, clashCell);
-            fragment.append(row);
-          }
-        }
+                listElement.append(fragment);
+                resultCountElement.textContent = `${state.filteredRules.length} rules`;
+            }
 
-        listElement.append(fragment);
-        resultCountElement.textContent = `${state.filteredRules.length} rules`;
-      }
+            function filterRules(query) {
+                const normalizedQuery = query.trim().toLowerCase();
+                state.filteredRules = normalizedQuery
+                    ? state.rules.filter((rule) =>
+                          rule.name.toLowerCase().includes(normalizedQuery),
+                      )
+                    : state.rules;
+                renderRules();
+            }
 
-      function filterRules(query) {
-        const normalizedQuery = query.trim().toLowerCase();
-        state.filteredRules = normalizedQuery
-          ? state.rules.filter((rule) => rule.name.toLowerCase().includes(normalizedQuery))
-          : state.rules;
-        renderRules();
-      }
+            function showExample(name) {
+                state.activeExample = name;
+                document
+                    .querySelectorAll("[data-example-tab]")
+                    .forEach((tab) => {
+                        tab.setAttribute(
+                            "aria-selected",
+                            String(tab.dataset.exampleTab === name),
+                        );
+                    });
+                document.querySelectorAll(".example-panel").forEach((panel) => {
+                    panel.hidden = panel.id !== `${name}-panel`;
+                });
+            }
 
-      function showExample(name) {
-        state.activeExample = name;
-        document.querySelectorAll("[data-example-tab]").forEach((tab) => {
-          tab.setAttribute("aria-selected", String(tab.dataset.exampleTab === name));
-        });
-        document.querySelectorAll(".example-panel").forEach((panel) => {
-          panel.hidden = panel.id !== `${name}-panel`;
-        });
-      }
+            async function loadManifest() {
+                try {
+                    const response = await fetch("/manifest.json");
+                    if (!response.ok)
+                        throw new Error(`HTTP ${response.status}`);
 
-      async function loadManifest() {
-        try {
-          const response = await fetch("/manifest.json");
-          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                    const manifest = await response.json();
+                    state.rules = Array.isArray(manifest.rules)
+                        ? manifest.rules
+                        : [];
+                    state.filteredRules = state.rules;
+                    state.baseUrl = manifest.baseUrl || state.baseUrl;
 
-          const manifest = await response.json();
-          state.rules = Array.isArray(manifest.rules) ? manifest.rules : [];
-          state.filteredRules = state.rules;
-          state.baseUrl = manifest.baseUrl || state.baseUrl;
+                    const generatedAt = new Date(manifest.generatedAt);
+                    const updatedAt = Number.isNaN(generatedAt.getTime())
+                        ? "Unknown"
+                        : new Intl.DateTimeFormat("en-US", {
+                              dateStyle: "medium",
+                              timeStyle: "short",
+                              timeZone: "UTC",
+                          }).format(generatedAt);
 
-          const generatedAt = new Date(manifest.generatedAt);
-          const updatedAt = Number.isNaN(generatedAt.getTime())
-            ? "Unknown"
-            : new Intl.DateTimeFormat("en-US", {
-                dateStyle: "medium",
-                timeStyle: "short",
-                timeZone: "UTC",
-              }).format(generatedAt);
+                    totalMetaElement.textContent =
+                        state.rules.length.toLocaleString("en-US");
+                    updatedMetaElement.textContent = `${updatedAt} UTC`;
+                    renderRules();
+                } catch (error) {
+                    totalMetaElement.textContent = "Unavailable";
+                    updatedMetaElement.textContent = "—";
+                    resultCountElement.textContent = "Failed to load";
+                    listElement.innerHTML =
+                        '<tr><td class="empty-row" colspan="3">The rule list could not be loaded. Please refresh the page.</td></tr>';
+                    console.error("Failed to load rule manifest", error);
+                }
+            }
 
-          totalMetaElement.textContent = state.rules.length.toLocaleString("en-US");
-          updatedMetaElement.textContent = `${updatedAt} UTC`;
-          renderRules();
-        } catch (error) {
-          totalMetaElement.textContent = "Unavailable";
-          updatedMetaElement.textContent = "—";
-          resultCountElement.textContent = "Failed to load";
-          listElement.innerHTML =
-            '<tr><td class="empty-row" colspan="3">The rule list could not be loaded. Please refresh the page.</td></tr>';
-          console.error("Failed to load rule manifest", error);
-        }
-      }
+            searchElement.addEventListener("input", (event) => {
+                filterRules(event.currentTarget.value);
+            });
 
-      searchElement.addEventListener("input", (event) => {
-        filterRules(event.currentTarget.value);
-      });
+            document.querySelectorAll("[data-example-tab]").forEach((tab) => {
+                tab.addEventListener("click", () =>
+                    showExample(tab.dataset.exampleTab),
+                );
+            });
 
-      document.querySelectorAll("[data-example-tab]").forEach((tab) => {
-        tab.addEventListener("click", () => showExample(tab.dataset.exampleTab));
-      });
+            copyExampleButton.addEventListener("click", async () => {
+                const code = document.querySelector(
+                    `#${state.activeExample}-code`,
+                );
+                if (!code) return;
 
-      copyExampleButton.addEventListener("click", async () => {
-        const code = document.querySelector(`#${state.activeExample}-code`);
-        if (!code) return;
+                try {
+                    await navigator.clipboard.writeText(code.textContent);
+                    copyExampleButton.textContent = "Copied";
+                    window.setTimeout(() => {
+                        copyExampleButton.textContent = "Copy";
+                    }, 1600);
+                } catch {
+                    copyExampleButton.textContent = "Copy failed";
+                }
+            });
 
-        try {
-          await navigator.clipboard.writeText(code.textContent);
-          copyExampleButton.textContent = "Copied";
-          window.setTimeout(() => {
-            copyExampleButton.textContent = "Copy";
-          }, 1600);
-        } catch {
-          copyExampleButton.textContent = "Copy failed";
-        }
-      });
+            function setMobileNavigation(open) {
+                mobileDrawer.hidden = !open;
+                drawerOverlay.hidden = !open;
+                mobileDrawer.setAttribute("aria-hidden", String(!open));
+                document.body.style.overflow = open ? "hidden" : "";
+                if (open) document.querySelector("#close-navigation").focus();
+            }
 
-      function setMobileNavigation(open) {
-        mobileDrawer.hidden = !open;
-        drawerOverlay.hidden = !open;
-        mobileDrawer.setAttribute("aria-hidden", String(!open));
-        document.body.style.overflow = open ? "hidden" : "";
-        if (open) document.querySelector("#close-navigation").focus();
-      }
+            document
+                .querySelector("#open-navigation")
+                .addEventListener("click", () => {
+                    setMobileNavigation(true);
+                });
+            document
+                .querySelector("#close-navigation")
+                .addEventListener("click", () => {
+                    setMobileNavigation(false);
+                });
+            drawerOverlay.addEventListener("click", () =>
+                setMobileNavigation(false),
+            );
+            document.querySelectorAll(".mobile-nav-link").forEach((link) => {
+                link.addEventListener("click", () =>
+                    setMobileNavigation(false),
+                );
+            });
 
-      document.querySelector("#open-navigation").addEventListener("click", () => {
-        setMobileNavigation(true);
-      });
-      document.querySelector("#close-navigation").addEventListener("click", () => {
-        setMobileNavigation(false);
-      });
-      drawerOverlay.addEventListener("click", () => setMobileNavigation(false));
-      document.querySelectorAll(".mobile-nav-link").forEach((link) => {
-        link.addEventListener("click", () => setMobileNavigation(false));
-      });
+            const pageSections = ["overview", "usage", "rules"].map((id) =>
+                document.getElementById(id),
+            );
 
-      const pageSections = ["overview", "usage", "rules"].map((id) =>
-        document.getElementById(id)
-      );
+            function updateActiveSection() {
+                const activeSection = pageSections.reduce((active, section) => {
+                    return section && section.offsetTop <= window.scrollY + 120
+                        ? section
+                        : active;
+                }, pageSections[0]);
+                if (!activeSection) return;
 
-      function updateActiveSection() {
-        const activeSection = pageSections.reduce((active, section) => {
-          return section && section.offsetTop <= window.scrollY + 120 ? section : active;
-        }, pageSections[0]);
-        if (!activeSection) return;
+                document
+                    .querySelectorAll(".nav-link[data-section]")
+                    .forEach((link) => {
+                        link.dataset.active = String(
+                            link.dataset.section === activeSection.id,
+                        );
+                    });
+                document.querySelector(".mobile-page-label").textContent =
+                    activeSection.id === "usage"
+                        ? "Usage examples"
+                        : activeSection.id === "rules"
+                          ? "Available rules"
+                          : "Overview";
+            }
 
-        document.querySelectorAll(".nav-link[data-section]").forEach((link) => {
-          link.dataset.active = String(link.dataset.section === activeSection.id);
-        });
-        document.querySelector(".mobile-page-label").textContent =
-          activeSection.id === "usage"
-            ? "Usage examples"
-            : activeSection.id === "rules"
-              ? "Available rules"
-              : "Overview";
-      }
+            window.addEventListener("scroll", updateActiveSection, {
+                passive: true,
+            });
+            updateActiveSection();
 
-      window.addEventListener("scroll", updateActiveSection, { passive: true });
-      updateActiveSection();
-
-      document.querySelector("#current-year").textContent = new Date().getFullYear();
-      loadManifest();
-    </script>
-  </body>
+            document.querySelector("#current-year").textContent =
+                new Date().getFullYear();
+            loadManifest();
+        </script>
+    </body>
 </html>
