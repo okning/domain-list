@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-porn.txt
 # Name: category-porn
-# Updated: Wed, 26 Aug 2026 00:11:41 GMT
-# Total: 6667
+# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Total: 6668
 
 payload:
   - DOMAIN-REGEX,(^|\.)[1-5]gaoap\.com$
@@ -4021,6 +4021,7 @@ payload:
   - DOMAIN-SUFFIX,newsexwap.com
   - DOMAIN-SUFFIX,newsexxxx.com
   - DOMAIN-SUFFIX,newxxx24.cc
+  - DOMAIN-SUFFIX,ngfiles.com
   - DOMAIN-SUFFIX,nhentai.com
   - DOMAIN-SUFFIX,nhentai.io
   - DOMAIN-SUFFIX,nhentai.net

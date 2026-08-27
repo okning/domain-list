@@ -1,0 +1,8 @@
+# URL: https://domain-list.nosec.me/clash/newgrounds.txt
+# Name: newgrounds
+# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Total: 2
+
+payload:
+  - DOMAIN-SUFFIX,newgrounds.com
+  - DOMAIN-SUFFIX,ngfiles.com

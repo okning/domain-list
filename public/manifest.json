@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T00:11:41.522Z",
+  "generatedAt": "2026-08-27T01:27:45.912Z",
   "baseUrl": "https://domain-list.nosec.me",
   "rules": [
     {
@@ -4827,6 +4827,11 @@
       "name": "newegg",
       "clash": "/clash/newegg.txt",
       "surge": "/surge/newegg.txt"
+    },
+    {
+      "name": "newgrounds",
+      "clash": "/clash/newgrounds.txt",
+      "surge": "/surge/newgrounds.txt"
     },
     {
       "name": "newscorp",
