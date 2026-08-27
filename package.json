@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "tsx scripts/build-domain-list.mts",
+    "build": "node scripts/verify-static-output.mjs",
+    "generate": "tsx scripts/build-domain-list.mts",
     "deploy": "wrangler deploy",
     "dev": "wrangler dev",
     "start": "wrangler dev"

@@ -34,6 +34,7 @@ jobs:
 
       - run: rm -rf public/surge public/clash
       - run: npm ci
+      - run: npm run generate
       - run: npm run build
 
       - name: Push changes
