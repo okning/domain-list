@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Wed, 26 Aug 2026 00:11:41 GMT
-# Total: 2069
+# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Total: 2070
 
 payload:
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
@@ -692,6 +692,7 @@ payload:
   - DOMAIN-SUFFIX,gr-assets.com
   - DOMAIN-SUFFIX,greatgame.asia
   - DOMAIN-SUFFIX,gstore.val.manlaxy.com
+  - DOMAIN-SUFFIX,h264.io
   - DOMAIN-SUFFIX,hackyourconsole.com
   - DOMAIN-SUFFIX,haiwaikan.com
   - DOMAIN,hamivideo.hinet.net

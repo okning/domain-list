@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/hbo.txt
 # Name: hbo
-# Updated: Wed, 26 Aug 2026 00:11:41 GMT
-# Total: 64
+# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Total: 65
 
 DOMAIN-SUFFIX,beforeigners.com
 DOMAIN-SUFFIX,brightline.tv
@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,elpionero.es
 DOMAIN-SUFFIX,forthethrone.com
+DOMAIN-SUFFIX,h264.io
 DOMAIN-SUFFIX,hbo
 DOMAIN-SUFFIX,hbo-europe.com
 DOMAIN-SUFFIX,hbo.ba

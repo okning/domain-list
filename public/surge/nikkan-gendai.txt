@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/nikkan-gendai.txt
 # Name: nikkan-gendai
-# Updated: Wed, 26 Aug 2026 00:11:41 GMT
+# Updated: Thu, 27 Aug 2026 01:27:45 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,gendai.net

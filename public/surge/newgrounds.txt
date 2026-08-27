@@ -1,0 +1,7 @@
+# URL: https://domain-list.nosec.me/surge/newgrounds.txt
+# Name: newgrounds
+# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Total: 2
+
+DOMAIN-SUFFIX,newgrounds.com
+DOMAIN-SUFFIX,ngfiles.com

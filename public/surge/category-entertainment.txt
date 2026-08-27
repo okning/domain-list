@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-entertainment.txt
 # Name: category-entertainment
-# Updated: Wed, 26 Aug 2026 00:11:41 GMT
-# Total: 2069
+# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Total: 2070
 
 # REGEXP,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 # REGEXP,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
@@ -691,6 +691,7 @@ DOMAIN-SUFFIX,gpstatic.com
 DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,greatgame.asia
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
+DOMAIN-SUFFIX,h264.io
 DOMAIN-SUFFIX,hackyourconsole.com
 DOMAIN-SUFFIX,haiwaikan.com
 DOMAIN,hamivideo.hinet.net
