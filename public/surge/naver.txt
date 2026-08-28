@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/naver.txt
 # Name: naver
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
 # Total: 49
 
 DOMAIN-SUFFIX,band.us

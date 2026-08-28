@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-games.txt
 # Name: category-games
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
 # Total: 1138
 
 # REGEXP,^.+-mihayo\.akamaized\.net$

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/mubi.txt
 # Name: mubi
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,mubi.com

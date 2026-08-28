@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
-# Total: 25727
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
+# Total: 25728
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -19244,6 +19244,7 @@ DOMAIN-SUFFIX,registeridm.com
 DOMAIN-SUFFIX,reiporno.com
 DOMAIN-SUFFIX,relateiq.com
 DOMAIN-SUFFIX,remirepo.net
+DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,renchead.com
 DOMAIN-SUFFIX,rencredit.ru

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
-# Total: 8084
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
+# Total: 8088
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -137,6 +137,7 @@ payload:
   - DOMAIN-SUFFIX,1tyy.cn
   - DOMAIN-SUFFIX,1xhh.cn
   - DOMAIN-SUFFIX,1zhe.com
+  - DOMAIN-SUFFIX,20130123.com
   - DOMAIN-SUFFIX,21cn.com
   - DOMAIN-SUFFIX,21cnjy.com
   - DOMAIN-SUFFIX,21jingji.com
@@ -556,6 +557,7 @@ payload:
   - DOMAIN-SUFFIX,aiemy.com
   - DOMAIN-SUFFIX,aiganggu.com
   - DOMAIN-SUFFIX,aigc-cloud.com
+  - DOMAIN-SUFFIX,aigefurniture.com
   - DOMAIN-SUFFIX,aigodlike.com
   - DOMAIN-SUFFIX,aihst8.com
   - DOMAIN-SUFFIX,aihst8.com
@@ -4639,6 +4641,7 @@ payload:
   - DOMAIN-SUFFIX,lingshoujia.com
   - DOMAIN-SUFFIX,lingxigames.com
   - DOMAIN-SUFFIX,lingxigames.com
+  - DOMAIN-SUFFIX,lingxing.com
   - DOMAIN-SUFFIX,linka2a.net
   - DOMAIN-SUFFIX,linkflowtech.com
   - DOMAIN-SUFFIX,linkheer.com
@@ -7999,6 +8002,7 @@ payload:
   - DOMAIN-SUFFIX,zijiewap.net
   - DOMAIN-SUFFIX,zilrms.com
   - DOMAIN-SUFFIX,zimgs.cn
+  - DOMAIN-SUFFIX,ziniao.com
   - DOMAIN-SUFFIX,ziroom.com
   - DOMAIN-SUFFIX,ziroomapartment.com
   - DOMAIN-SUFFIX,zixiaomao.com

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-anticensorship.txt
 # Name: category-anticensorship
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
-# Total: 123
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
+# Total: 124
 
 payload:
   - DOMAIN-SUFFIX,2dust.link
@@ -91,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,psiphon3.com
   - DOMAIN-SUFFIX,pwnedpasswords.com
   - DOMAIN,rabbit-hole-1.gitbook.io
+  - DOMAIN-SUFFIX,remna.st
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,shadowlaunch.com
   - DOMAIN-SUFFIX,shadowsocks.org

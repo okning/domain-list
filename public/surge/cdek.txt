@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/cdek.txt
 # Name: cdek
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,ad-cdek.ru

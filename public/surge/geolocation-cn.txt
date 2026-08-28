@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/geolocation-cn.txt
 # Name: geolocation-cn
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
-# Total: 8084
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
+# Total: 8088
 
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 # REGEXP,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
@@ -136,6 +136,7 @@ DOMAIN-SUFFIX,1ting.com
 DOMAIN-SUFFIX,1tyy.cn
 DOMAIN-SUFFIX,1xhh.cn
 DOMAIN-SUFFIX,1zhe.com
+DOMAIN-SUFFIX,20130123.com
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,21cnjy.com
 DOMAIN-SUFFIX,21jingji.com
@@ -555,6 +556,7 @@ DOMAIN-SUFFIX,aidream.website
 DOMAIN-SUFFIX,aiemy.com
 DOMAIN-SUFFIX,aiganggu.com
 DOMAIN-SUFFIX,aigc-cloud.com
+DOMAIN-SUFFIX,aigefurniture.com
 DOMAIN-SUFFIX,aigodlike.com
 DOMAIN-SUFFIX,aihst8.com
 DOMAIN-SUFFIX,aihst8.com
@@ -4638,6 +4640,7 @@ DOMAIN-SUFFIX,linglonglife.com
 DOMAIN-SUFFIX,lingshoujia.com
 DOMAIN-SUFFIX,lingxigames.com
 DOMAIN-SUFFIX,lingxigames.com
+DOMAIN-SUFFIX,lingxing.com
 DOMAIN-SUFFIX,linka2a.net
 DOMAIN-SUFFIX,linkflowtech.com
 DOMAIN-SUFFIX,linkheer.com
@@ -7998,6 +8001,7 @@ DOMAIN-SUFFIX,zijiewap.com
 DOMAIN-SUFFIX,zijiewap.net
 DOMAIN-SUFFIX,zilrms.com
 DOMAIN-SUFFIX,zimgs.cn
+DOMAIN-SUFFIX,ziniao.com
 DOMAIN-SUFFIX,ziroom.com
 DOMAIN-SUFFIX,ziroomapartment.com
 DOMAIN-SUFFIX,zixiaomao.com

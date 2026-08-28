@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/clips4sale.txt
 # Name: clips4sale
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,c4slive.com

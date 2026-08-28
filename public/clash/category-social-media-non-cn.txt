@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/category-social-media-non-cn.txt
 # Name: category-social-media-non-cn
-# Updated: Thu, 27 Aug 2026 01:27:45 GMT
+# Updated: Fri, 28 Aug 2026 02:49:38 GMT
 # Total: 606
 
 payload:
