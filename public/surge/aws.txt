@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/aws.txt
 # Name: aws
-# Updated: Fri, 28 Aug 2026 02:49:38 GMT
+# Updated: Sat, 29 Aug 2026 00:20:38 GMT
 # Total: 80
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$

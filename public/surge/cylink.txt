@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/cylink.txt
 # Name: cylink
-# Updated: Fri, 28 Aug 2026 02:49:38 GMT
+# Updated: Sat, 29 Aug 2026 00:20:38 GMT
 # Total: 2
 
 DOMAIN-SUFFIX,cylink.pro

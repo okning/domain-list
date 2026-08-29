@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/v2ray.txt
 # Name: v2ray
-# Updated: Fri, 28 Aug 2026 02:49:38 GMT
+# Updated: Sat, 29 Aug 2026 00:20:38 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,v2fly.org

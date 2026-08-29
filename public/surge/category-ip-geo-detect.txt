@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-ip-geo-detect.txt
 # Name: category-ip-geo-detect
-# Updated: Fri, 28 Aug 2026 02:49:38 GMT
+# Updated: Sat, 29 Aug 2026 00:20:38 GMT
 # Total: 232
 
 DOMAIN-SUFFIX,2ip.io

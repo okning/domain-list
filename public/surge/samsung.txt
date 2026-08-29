@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/samsung.txt
 # Name: samsung
-# Updated: Fri, 28 Aug 2026 02:49:38 GMT
+# Updated: Sat, 29 Aug 2026 00:20:38 GMT
 # Total: 27
 
 DOMAIN-SUFFIX,galaxyappstore.com
