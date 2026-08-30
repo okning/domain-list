@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/tidelift.txt
 # Name: tidelift
-# Updated: Sat, 29 Aug 2026 00:20:38 GMT
+# Updated: Sun, 30 Aug 2026 00:25:33 GMT
 # Total: 1
 
 payload:
