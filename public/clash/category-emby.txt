@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-emby.txt
 # Name: category-emby
-# Updated: Sun, 30 Aug 2026 00:25:33 GMT
-# Total: 72
+# Updated: Mon, 31 Aug 2026 00:26:04 GMT
+# Total: 73
 
 payload:
   - DOMAIN-SUFFIX,123456.al
@@ -75,4 +75,5 @@ payload:
   - DOMAIN-SUFFIX,stream.ntrrr.top
   - DOMAIN-SUFFIX,stream.synn.cc
   - DOMAIN-SUFFIX,texon.fans
+  - DOMAIN-SUFFIX,uhdnow.com
   - DOMAIN-SUFFIX,yunti.online

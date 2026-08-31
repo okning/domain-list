@@ -1,9 +1,8 @@
 # URL: https://domain-list.nosec.me/clash/unity.txt
 # Name: unity
-# Updated: Sun, 30 Aug 2026 00:25:33 GMT
-# Total: 3
+# Updated: Mon, 31 Aug 2026 00:26:04 GMT
+# Total: 2
 
 payload:
-  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,unity3d.com

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-dev.txt
 # Name: category-dev
-# Updated: Sun, 30 Aug 2026 00:25:33 GMT
-# Total: 635
+# Updated: Mon, 31 Aug 2026 00:26:04 GMT
+# Total: 634
 
 # REGEXP,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 DOMAIN-SUFFIX,01.org
@@ -25,7 +25,6 @@ DOMAIN,android.googlesource.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,api-extractor.com
-DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,apisof.net
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,apple-cloudkit.com

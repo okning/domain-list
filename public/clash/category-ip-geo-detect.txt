@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-ip-geo-detect.txt
 # Name: category-ip-geo-detect
-# Updated: Sun, 30 Aug 2026 00:25:33 GMT
-# Total: 232
+# Updated: Mon, 31 Aug 2026 00:26:04 GMT
+# Total: 234
 
 payload:
   - DOMAIN-SUFFIX,2ip.io
@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,addr.tools
   - DOMAIN-SUFFIX,apiip.net
   - DOMAIN-SUFFIX,apivoid.com
+  - DOMAIN-SUFFIX,bgp.he.net
+  - DOMAIN-SUFFIX,bgp.tools
   - DOMAIN-SUFFIX,bigdatacloud.net
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,check-host.net

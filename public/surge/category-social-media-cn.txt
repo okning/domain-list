@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/category-social-media-cn.txt
 # Name: category-social-media-cn
-# Updated: Sun, 30 Aug 2026 00:25:33 GMT
-# Total: 70
+# Updated: Mon, 31 Aug 2026 00:26:04 GMT
+# Total: 72
 
 DOMAIN-SUFFIX,97973.com
 DOMAIN-SUFFIX,askdiandian.com
@@ -51,6 +51,8 @@ DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,taou.com
 DOMAIN-SUFFIX,tieba.baidu.com
 DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,uneed.com
+DOMAIN-SUFFIX,uneedx.com
 DOMAIN-SUFFIX,videoself.cn
 DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,wbimg.cn

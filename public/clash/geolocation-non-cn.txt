@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Sun, 30 Aug 2026 00:25:33 GMT
-# Total: 25728
+# Updated: Mon, 31 Aug 2026 00:26:04 GMT
+# Total: 25727
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -1961,7 +1961,6 @@ payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,api.news
-  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN-SUFFIX,apiauto.ru
   - DOMAIN-SUFFIX,apibay.org
   - DOMAIN-SUFFIX,apigee.com

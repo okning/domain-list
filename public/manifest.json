@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T00:25:33.352Z",
+  "generatedAt": "2026-08-31T00:26:04.443Z",
   "baseUrl": "https://domain-list.nosec.me",
   "rules": [
     {
@@ -342,6 +342,11 @@
       "name": "amp",
       "clash": "/clash/amp.txt",
       "surge": "/surge/amp.txt"
+    },
+    {
+      "name": "amplitude",
+      "clash": "/clash/amplitude.txt",
+      "surge": "/surge/amplitude.txt"
     },
     {
       "name": "anaconda",

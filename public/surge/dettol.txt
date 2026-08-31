@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/dettol.txt
 # Name: dettol
-# Updated: Sun, 30 Aug 2026 00:25:33 GMT
+# Updated: Mon, 31 Aug 2026 00:26:04 GMT
 # Total: 35
 
 DOMAIN-SUFFIX,dettol-prize.com
