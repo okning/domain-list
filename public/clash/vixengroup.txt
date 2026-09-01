@@ -1,0 +1,15 @@
+# URL: https://domain-list.nosec.me/clash/vixengroup.txt
+# Name: vixengroup
+# Updated: Tue, 01 Sep 2026 00:27:33 GMT
+# Total: 9
+
+payload:
+  - DOMAIN-SUFFIX,blacked.com
+  - DOMAIN-SUFFIX,blackedraw.com
+  - DOMAIN-SUFFIX,deeper.com
+  - DOMAIN-SUFFIX,milfy.com
+  - DOMAIN-SUFFIX,slayed.com
+  - DOMAIN-SUFFIX,tushy.com
+  - DOMAIN-SUFFIX,tushyraw.com
+  - DOMAIN-SUFFIX,vixen.com
+  - DOMAIN-SUFFIX,vixengroup.com

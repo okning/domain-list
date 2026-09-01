@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/tencent.txt
 # Name: tencent
-# Updated: Mon, 31 Aug 2026 00:26:04 GMT
-# Total: 548
+# Updated: Tue, 01 Sep 2026 00:27:33 GMT
+# Total: 552
 
 payload:
   - DOMAIN-SUFFIX,17roco.com
@@ -424,7 +424,9 @@ payload:
   - DOMAIN-SUFFIX,tencentcdb.cn
   - DOMAIN-SUFFIX,tencentcdb.com
   - DOMAIN-SUFFIX,tencentcdb.com.cn
+  - DOMAIN-SUFFIX,tencentclb.cn
   - DOMAIN-SUFFIX,tencentclb.com
+  - DOMAIN-SUFFIX,tencentclb.com.cn
   - DOMAIN-SUFFIX,tencentcloud-aiot.com
   - DOMAIN-SUFFIX,tencentcloud.com
   - DOMAIN-SUFFIX,tencentcloudapi.com
@@ -448,6 +450,7 @@ payload:
   - DOMAIN-SUFFIX,tencentelasticsearch.com
   - DOMAIN-SUFFIX,tencentid.com
   - DOMAIN-SUFFIX,tencentidentity.com
+  - DOMAIN-SUFFIX,tencentmiying.com
   - DOMAIN-SUFFIX,tencentmusic.com
   - DOMAIN-SUFFIX,tencentproxy.com
   - DOMAIN-SUFFIX,tencentrio.com
@@ -458,6 +461,7 @@ payload:
   - DOMAIN-SUFFIX,tencentyun.com
   - DOMAIN-SUFFIX,tendbcluster.com
   - DOMAIN-SUFFIX,tendis.net
+  - DOMAIN-SUFFIX,tengmed.com
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,testjrzk.net.cn
   - DOMAIN-SUFFIX,testmeet.cn

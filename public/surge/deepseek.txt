@@ -1,6 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/deepseek.txt
 # Name: deepseek
-# Updated: Mon, 31 Aug 2026 00:26:04 GMT
-# Total: 1
+# Updated: Tue, 01 Sep 2026 00:27:33 GMT
+# Total: 2
 
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com

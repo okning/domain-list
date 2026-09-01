@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/qihoo360.txt
 # Name: qihoo360
-# Updated: Mon, 31 Aug 2026 00:26:04 GMT
-# Total: 105
+# Updated: Tue, 01 Sep 2026 00:27:33 GMT
+# Total: 106
 
 payload:
   - DOMAIN-SUFFIX,360-api.cn
@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,360pay.cn
   - DOMAIN-SUFFIX,360qhcdn.com
   - DOMAIN-SUFFIX,360safe.com
+  - DOMAIN-SUFFIX,360scdn.com
   - DOMAIN-SUFFIX,360shouji.com
   - DOMAIN-SUFFIX,360sjyh.cn
   - DOMAIN-SUFFIX,360so.com

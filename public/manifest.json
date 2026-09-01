@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T00:26:04.443Z",
+  "generatedAt": "2026-09-01T00:27:33.917Z",
   "baseUrl": "https://domain-list.nosec.me",
   "rules": [
     {
@@ -7052,6 +7052,11 @@
       "name": "vivo",
       "clash": "/clash/vivo.txt",
       "surge": "/surge/vivo.txt"
+    },
+    {
+      "name": "vixengroup",
+      "clash": "/clash/vixengroup.txt",
+      "surge": "/surge/vixengroup.txt"
     },
     {
       "name": "vk",
