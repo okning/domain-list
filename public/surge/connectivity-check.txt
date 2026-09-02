@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/connectivity-check.txt
 # Name: connectivity-check
-# Updated: Tue, 01 Sep 2026 00:27:33 GMT
+# Updated: Wed, 02 Sep 2026 00:23:49 GMT
 # Total: 27
 
 DOMAIN-SUFFIX,captive.apple.com

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/wildberries.txt
 # Name: wildberries
-# Updated: Tue, 01 Sep 2026 00:27:33 GMT
+# Updated: Wed, 02 Sep 2026 00:23:49 GMT
 # Total: 99
 
 DOMAIN-SUFFIX,digital-wb.ru

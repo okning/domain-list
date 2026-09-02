@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/hotstar.txt
 # Name: hotstar
-# Updated: Tue, 01 Sep 2026 00:27:33 GMT
+# Updated: Wed, 02 Sep 2026 00:23:49 GMT
 # Total: 6
 
 # REGEXP,^hses[1-7]?\.akamaized\.net$

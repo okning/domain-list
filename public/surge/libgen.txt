@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/libgen.txt
 # Name: libgen
-# Updated: Tue, 01 Sep 2026 00:27:33 GMT
+# Updated: Wed, 02 Sep 2026 00:23:49 GMT
 # Total: 8
 
 DOMAIN-SUFFIX,gen.lib.rus.ec

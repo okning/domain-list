@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/auxgroup.txt
 # Name: auxgroup
-# Updated: Tue, 01 Sep 2026 00:27:33 GMT
+# Updated: Wed, 02 Sep 2026 00:23:49 GMT
 # Total: 31
 
 DOMAIN-SUFFIX,aufit-air.com
