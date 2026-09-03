@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/rsshub-3rd.txt
 # Name: rsshub-3rd
-# Updated: Wed, 02 Sep 2026 00:23:49 GMT
+# Updated: Thu, 03 Sep 2026 00:24:07 GMT
 # Total: 19
 
 DOMAIN,holoxx.f5.si

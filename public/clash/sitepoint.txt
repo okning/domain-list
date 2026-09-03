@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/sitepoint.txt
 # Name: sitepoint
-# Updated: Wed, 02 Sep 2026 00:23:49 GMT
+# Updated: Thu, 03 Sep 2026 00:24:07 GMT
 # Total: 1
 
 payload:
