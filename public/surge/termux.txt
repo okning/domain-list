@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/termux.txt
 # Name: termux
-# Updated: Thu, 03 Sep 2026 00:24:07 GMT
+# Updated: Fri, 04 Sep 2026 00:26:31 GMT
 # Total: 3
 
 DOMAIN-SUFFIX,termux.com

@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/chinamobile.txt
 # Name: chinamobile
-# Updated: Thu, 03 Sep 2026 00:24:07 GMT
+# Updated: Fri, 04 Sep 2026 00:26:31 GMT
 # Total: 33
 
 DOMAIN-SUFFIX,10086.cn
