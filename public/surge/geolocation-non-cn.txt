@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/surge/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Fri, 04 Sep 2026 00:26:31 GMT
-# Total: 25735
+# Updated: Sat, 05 Sep 2026 00:22:10 GMT
+# Total: 25738
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 # REGEXP,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
@@ -11118,6 +11118,8 @@ DOMAIN-SUFFIX,heywire.com
 DOMAIN-SUFFIX,heyzo.com
 DOMAIN-SUFFIX,hf-iphone.com
 DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,hg.cool
 DOMAIN-SUFFIX,hgamer.pro
@@ -11628,6 +11630,7 @@ DOMAIN-SUFFIX,huffpostbrasil.com
 DOMAIN-SUFFIX,huffpostmaghreb.com
 DOMAIN-SUFFIX,hugedildo.com
 DOMAIN-SUFFIX,hugesex.tv
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,huiav.com
 DOMAIN-SUFFIX,huj-pizda.com

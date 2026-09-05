@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/amazon.txt
 # Name: amazon
-# Updated: Fri, 04 Sep 2026 00:26:31 GMT
+# Updated: Sat, 05 Sep 2026 00:22:10 GMT
 # Total: 237
 
 # REGEXP,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$

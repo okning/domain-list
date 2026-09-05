@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/kaspersky.txt
 # Name: kaspersky
-# Updated: Fri, 04 Sep 2026 00:26:31 GMT
+# Updated: Sat, 05 Sep 2026 00:22:10 GMT
 # Total: 36
 
 payload:

@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/nvidia.txt
 # Name: nvidia
-# Updated: Fri, 04 Sep 2026 00:26:31 GMT
-# Total: 62
+# Updated: Sat, 05 Sep 2026 00:22:10 GMT
+# Total: 65
 
 payload:
   - DOMAIN-SUFFIX,geforce.cn
@@ -17,6 +17,9 @@ payload:
   - DOMAIN-SUFFIX,gputechconf.eu
   - DOMAIN-SUFFIX,gputechconf.in
   - DOMAIN-SUFFIX,gputechconf.jp
+  - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,hf.space
+  - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,nvidia.asia
   - DOMAIN-SUFFIX,nvidia.at
   - DOMAIN-SUFFIX,nvidia.be

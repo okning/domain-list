@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/geolocation-non-cn.txt
 # Name: geolocation-non-cn
-# Updated: Fri, 04 Sep 2026 00:26:31 GMT
-# Total: 25735
+# Updated: Sat, 05 Sep 2026 00:22:10 GMT
+# Total: 25738
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -11119,6 +11119,8 @@ payload:
   - DOMAIN-SUFFIX,heyzo.com
   - DOMAIN-SUFFIX,hf-iphone.com
   - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,hf.space
   - DOMAIN-SUFFIX,hf.space
   - DOMAIN-SUFFIX,hg.cool
   - DOMAIN-SUFFIX,hgamer.pro
@@ -11629,6 +11631,7 @@ payload:
   - DOMAIN-SUFFIX,huffpostmaghreb.com
   - DOMAIN-SUFFIX,hugedildo.com
   - DOMAIN-SUFFIX,hugesex.tv
+  - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,huiav.com
   - DOMAIN-SUFFIX,huj-pizda.com

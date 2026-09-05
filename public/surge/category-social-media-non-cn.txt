@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/category-social-media-non-cn.txt
 # Name: category-social-media-non-cn
-# Updated: Fri, 04 Sep 2026 00:26:31 GMT
+# Updated: Sat, 05 Sep 2026 00:22:10 GMT
 # Total: 606
 
 DOMAIN-SUFFIX,9ineverse.com

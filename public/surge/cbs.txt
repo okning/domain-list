@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/surge/cbs.txt
 # Name: cbs
-# Updated: Fri, 04 Sep 2026 00:26:31 GMT
+# Updated: Sat, 05 Sep 2026 00:22:10 GMT
 # Total: 29
 
 DOMAIN-SUFFIX,amlg.io

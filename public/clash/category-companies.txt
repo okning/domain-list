@@ -1,7 +1,7 @@
 # URL: https://domain-list.nosec.me/clash/category-companies.txt
 # Name: category-companies
-# Updated: Fri, 04 Sep 2026 00:26:31 GMT
-# Total: 7657
+# Updated: Sat, 05 Sep 2026 00:22:10 GMT
+# Total: 7660
 
 payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
@@ -3771,6 +3771,8 @@ payload:
   - DOMAIN-SUFFIX,hey.boo
   - DOMAIN-SUFFIX,heywire.com
   - DOMAIN-SUFFIX,hf-iphone.com
+  - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,hf.space
   - DOMAIN-SUFFIX,hh.by
   - DOMAIN-SUFFIX,hh.kz
   - DOMAIN-SUFFIX,hh.ru
@@ -3961,6 +3963,7 @@ payload:
   - DOMAIN-SUFFIX,httpwwwfacebook.com
   - DOMAIN-SUFFIX,htznr.li
   - DOMAIN-SUFFIX,hubblephone.com
+  - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,hummingbird.ms
   - DOMAIN-SUFFIX,hwgo.com
   - DOMAIN-SUFFIX,hwslabs.com
