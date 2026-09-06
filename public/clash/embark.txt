@@ -1,6 +1,6 @@
 # URL: https://domain-list.nosec.me/clash/embark.txt
 # Name: embark
-# Updated: Sat, 05 Sep 2026 00:22:10 GMT
+# Updated: Sun, 06 Sep 2026 00:25:34 GMT
 # Total: 4
 
 payload:
